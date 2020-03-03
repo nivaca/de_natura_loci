@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="la"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="la">
+        <seg>[B527a] [C1a] INCIPIT LIBER DE NATURA LOCI EX LATITUDINE ET LONGITUDINE EIUSDEM PROVENIENTE LIBER DE NATURA LOCORUM.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200303T181659Z" creationid="nivaca" creationdate="20200303T181659Z">
+        <seg>Empieza</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

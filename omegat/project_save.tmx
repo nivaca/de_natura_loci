@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="la"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="la"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="la">
+        <seg>CAPUT I.</seg>
+      </tuv>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200303T182805Z" creationid="andrealozanov" creationdate="20200303T182805Z">
+        <seg>Capítulo 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>TRACTATUS I: DE LONGITUDINE ET LATITUDINE LOCI PER DISTANTIAM AB ORBE.</seg>
+      </tuv>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200303T182726Z" creationid="andrealozanov" creationdate="20200303T182726Z">
+        <seg>TRACTATUS I: DE LONGITUDINE ET LATITUDINE LOCI PER DISTANTIAM AB ORBE. 		</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="la">
         <seg>[B527a] [C1a] INCIPIT LIBER DE NATURA LOCI EX LATITUDINE ET LONGITUDINE EIUSDEM PROVENIENTE LIBER DE NATURA LOCORUM.</seg>

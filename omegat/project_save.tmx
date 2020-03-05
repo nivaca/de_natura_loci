@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="la">
+        <seg>Adhuc autem inducunt et tertiam, ibi mare dicentes, cui cum radii solis incidunt et stellarum, divaricantur et ex politione et tersione aquae et a frigiditate aquae calor excitatus a radiis solis expellitur ad littora, et comburit, et reddit locum inhabitabilem.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca@fastmail.com" changedate="20200305T170701Z" creationid="nivaca@fastmail.com" creationdate="20200305T170701Z">
+        <seg>Sin embargo, aún inducen también una tercera razón los que dicen ahí que el mar, al cual, cuando los rayos del sol y las estrellas lo cortan, estos se estiran *desde el pulimento y el brillo del agua. Y desde la frialdad del agua, el calor exitado por los rayos es expelido hacia las costas y las quema y las torna un lugar inhabitable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>CAPUT I.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200303T182805Z" creationid="andrealozanov" creationdate="20200303T182805Z">
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="es" changeid="nivaca@fastmail.com" changedate="20200305T164311Z" creationid="nivaca@fastmail.com" creationdate="20200305T164311Z">
         <seg>Por lo tanto, allí también incendia su habitabilidad y la lo torna inhabitable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Istae autem duae rationes sunt fortiores inter rationes Antiquorum torridam esse supponentium.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca@fastmail.com" changedate="20200305T165214Z" creationid="nivaca@fastmail.com" creationdate="20200305T165214Z">
+        <seg>Sin embargo, estas dos razones son más fuertes entre las razones de los antiguos que suponían que es tórrida.</seg>
       </tuv>
     </tu>
     <tu>

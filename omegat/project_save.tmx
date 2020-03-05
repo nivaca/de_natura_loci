@@ -28,6 +28,14 @@
         <seg>Empieza el libro sobre la naturaleza del lugar proveniente de la latitud y longitud. Libro sobre la naturaleza de los lugares.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>[C10b] Secunda ratio quae fortior est inter omnes, est quod circulus signorum arcus est, et chordae ejus parvae juxta puncta quae attingunt duos tropicos.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca@fastmail.com" changedate="20200305T161838Z" creationid="nivaca@fastmail.com" creationdate="20200305T161838Z">
+        <seg>La segunda razón, que es más fuerte entre todas, es que un círculo de signos es un arco, y las cuerdas de él son cortas junto a los puntos que tocan dos trópicos.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>

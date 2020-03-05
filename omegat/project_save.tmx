@@ -14,10 +14,34 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Duo ergo calidissima loca sunt quae sunt sub tropicis duobus: sed inter duo calidissima non est temperatum medium.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca@fastmail.com" changedate="20200305T164511Z" creationid="nivaca@fastmail.com" creationdate="20200305T164511Z">
+        <seg>Por lo tanto, los dos lugares más cálidos son los que están bajo los dos trópicos, pero entre los dos más cálidos no hay un medio temperado. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Incendit igitur etiam ibi habitationem et reddit inhabitabilem.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca@fastmail.com" changedate="20200305T164311Z" creationid="nivaca@fastmail.com" creationdate="20200305T164311Z">
+        <seg>Por lo tanto, allí también incendia su habitabilidad y la lo torna inhabitable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Omni autem eodem modo facit in ultimis viginti gradibus Sagittarii, et viginti primis gradibus Capricorni, quibus accedit et recedit [B540a] ad tropici punctum hyemalis.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca@fastmail.com" changedate="20200305T164230Z" creationid="nivaca@fastmail.com" creationdate="20200305T164230Z">
         <seg>Sin embargo, en todo modo mismo lo hace en los últimos veinte grados de Sagitario y en los primeros veinte grados de Capricornio, a los que se acerca y de los que se aleja hasta el punto del trópico de invierno (=Capricornio).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sic igitur nec locus qui est sub aequinoctiali, est temperatus: et sic totum spatium quod est inter duos tropicos, est combustum et intemperatum, et habitationi contrarium sive incongruum: quia sicut dicit Aristoteles in libro de Causis proprietatum elementorum, et nos infra explanabimus, radix habitationis est aequalitas et temperamentum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca@fastmail.com" changedate="20200305T164705Z" creationid="nivaca@fastmail.com" creationdate="20200305T164705Z">
+        <seg>Así, por lo tanto, el lugar que está bajo el equinoccial (= el ecuador) tampoco es temperado, </seg>
       </tuv>
     </tu>
     <tu>
@@ -34,6 +58,14 @@
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200303T182726Z" creationid="andrealozanov" creationdate="20200303T182726Z">
         <seg>TRACTATUS I: DE LONGITUDINE ET LATITUDINE LOCI PER DISTANTIAM AB ORBE. 		</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Temperatum enim medium est inter calidissimum et frigidissimum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca@fastmail.com" changedate="20200305T164529Z" creationid="nivaca@fastmail.com" creationdate="20200305T164529Z">
+        <seg>Pues un medio temperado está entre lo más cálido y lo más frío.</seg>
       </tuv>
     </tu>
     <tu>

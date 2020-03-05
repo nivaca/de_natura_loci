@@ -1,1 +1,2 @@
 locus	lugar
+aequinoctialis	circulus aequinoctialis = ecuador

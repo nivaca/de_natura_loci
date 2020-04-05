@@ -69,6 +69,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="la">
+        <seg>Quod naturam loci scire oportet in scientia naturali, et quod peccant qui de hoc non quaerunt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200405T214934Z" creationid="andrealozanov" creationdate="20200405T214934Z">
+        <seg>c</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>De causis (Ps-Arist.), l. I, tr. 1, c.4.</note>
       <tuv lang="la">
         <seg>Sic igitur nec locus qui est sub aequinoctiali, est temperatus: et sic totum spatium quod est inter duos tropicos, est combustum et intemperatum, et habitationi contrarium sive incongruum: quia sicut dicit Aristoteles in libro de Causis proprietatum elementorum, et nos infra explanabimus, radix habitationis est aequalitas et temperamentum.</seg>
@@ -89,8 +97,8 @@
       <tuv lang="la">
         <seg>TRACTATUS I: DE LONGITUDINE ET LATITUDINE LOCI PER DISTANTIAM AB ORBE.</seg>
       </tuv>
-      <tuv lang="es" changeid="andrealozanov" changedate="20200303T182726Z" creationid="andrealozanov" creationdate="20200303T182726Z">
-        <seg>TRACTATUS I: DE LONGITUDINE ET LATITUDINE LOCI PER DISTANTIAM AB ORBE. 		</seg>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200405T213746Z" creationid="andrealozanov" creationdate="20200303T182726Z">
+        <seg>Tratado primero sobre la latitud y la longitud del lugar según la distancia de la esfera terrestre</seg>
       </tuv>
     </tu>
     <tu>

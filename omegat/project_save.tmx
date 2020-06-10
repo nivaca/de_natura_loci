@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Cum autem viginta quatuor fere gradus sint inter aequinoctialem et tropicum alterum: remaneret ergo habitabi-[B539b]-lis circa tropicum versus polum viginti quatuor graduum: et haec esset latitudo habitabilis inter torridam et frigidam versus quemcumque polorum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T233355Z" creationid="nivaca" creationdate="20200610T233355Z">
+        <seg>No obstante, puesto que hay casi veinticuatro grados entre el equinoccial y el otro trópico, quedaría una región habitable de veinticuatro grados cerca del trópico frente al polo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>De distinctione terrae per loca habitabilia et non habitabilia.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T232142Z" creationid="nivaca" creationdate="20200610T232142Z">
@@ -86,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Est autem hujusmodi dubitatio magna de torrida, utrum ipsa sit secundum totum inhabitabilis, sicut Antiqui videntur tradidisse.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T233522Z" creationid="nivaca" creationdate="20200610T233522Z">
+        <seg>No obstante, hay una gran duda sobre la tórrida, de si es toda inhabitable, así como los antiguos parecen haber dicho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Est autem tractatio Pythagorae et Homeri et praeter eos omnium qui in Aegypto philosophati sunt, sed et apud Latinos Ovidii et multorum aliorum, terram totam dividi in quinque zonas caeli, quarum tres ponunt inhabitabiles, et duas tantum habitabiles esse voluerunt, quarum mediam vocant perustam sive torridam: et hanc dicunt esse partem terrae quae supponitur spatio quadraginta octo graduum fere quod est inter duos tropicos, inter quos est via solis: declinat enim sol versus Aquilonem versus tropicum aestivalem fere per viginti quatuor gradus, et per tantumdem declinat ad Meridiem versus tropicum [B539a] hyemalem.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T232359Z" creationid="nivaca" creationdate="20200610T232359Z">
@@ -106,6 +122,14 @@
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T232414Z" creationid="nivaca" creationdate="20200610T232414Z">
         <seg>Y puesto que la vía del sol está directamente sobre este espacio dos veces al año, dicen que allí su rayo se refleja en sí mismo, por lo que es abrasador, y hace aquella parte inhabitable por el excesivo calor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Haec igitur est divisio terrae habitabilis et non habitabilis secundum dicta Antiquorum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T233405Z" creationid="nivaca" creationdate="20200610T233405Z">
+        <seg>Y esta sería la latitud habitable entre la tórrida y la fría hacia cualquiera de los polos. Por consiguiente, esta es la división de la tierra habitable y no habitable según lo dicho por los antiguos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -213,6 +237,14 @@ Y entonces convendría que aquel espacio desde ambos polos frente a ambos trópi
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T232207Z" creationid="nivaca" creationdate="20200610T232207Z">
         <seg>una, por cierto, la que diferencia toda la tierra en cinco regiones o zonas, las que plantean Platón tanto como Pitágoras y Homero, así como otros muchos autores;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Videtur autem Pythagorae, Platoni, et Democrito, et sociis eorum, quod totum hoc spatium sit inhabitabile propter quinque rationes, quarum prima sumitur ex dispersione radii solis super illa loca incidentis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T233524Z" creationid="nivaca" creationdate="20200610T233524Z">
+        <seg>En efecto, parece que para Pitágoras, para Platón, para Demócrito, y para sus compañeros, todo este espacio esfuera inhabitable por cinco razones. De estas, la primera se asume a partir de la disposición de los rayos del solo que caen sobre aquellos lugares.</seg>
       </tuv>
     </tu>
     <tu>

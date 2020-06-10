@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Duas autem suppositas regiones inhabitabiles esse dicunt propter frigus: eo quod nimis elongatae sunt a via solis ad quas radii solis non veniunt nisi oblique valde, et non faciunt angulum in ipsa nisi hebetem et obtusum valde: vel forte contingunt loca illa [C10a] tantum: et ideo nullius effectus vel parvi valde effectus sunt in locis illis: et ideo mortificans frigus est in locis illis, et humorum locorum illorum congelationes commisceri non possunt ad complexionem vivi alicujus constituendam.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T233207Z" creationid="nivaca" creationdate="20200610T233207Z">
+        <seg>Ahora bien, dicen que hay dos regiones situadas bajo el polo que de un lado y otro son inhabitables por el frío, en razón de que están excesivamente alejadas de la vía del sol, a las que los rayos del sol no llegan salvo de manera muy oblicua, y no generan un ángulo hacia él salvo muy abierto y obtuso, oy apenas si tocan aquellos lugares. Y por esto no tienen ningún efecto o uno muy pequeño en aquellos lugares, y por esto el frío es mortífero en aquellos lugares, y los humores de aquellos lugares no se pueden mezclar por la congelación de ellos mismos para constituir la complexión de algún ser vivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Duo ergo calidissima loca sunt quae sunt sub tropicis duobus: sed inter duo calidissima non est temperatum medium.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca@fastmail.com" changedate="20200305T164511Z" creationid="nivaca@fastmail.com" creationdate="20200305T164511Z">
@@ -138,6 +146,24 @@
       </tuv>
       <tuv lang="es" changeid="nivaca@fastmail.com" changedate="20200305T171240Z" creationid="nivaca@fastmail.com" creationdate="20200305T164230Z">
         <seg>Sin embargo, exactamente del modo mismo lo hace en los últimos veinte grados de Sagitario y en los primeros veinte grados de Capricornio, a los que se acerca y de los que se aleja hasta el punto del Trópico de invierno [=Capricornio].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Propter quod venti venientes a nostro polo frigidi sunt valde et sicci: eo quod humidum congelatum ejus commisceri non potest.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T233221Z" creationid="nivaca" creationdate="20200610T233221Z">
+        <seg>Razón por la cual también los vientos que vienen de nuestro polo son muy fríos y secos, por lo que lo húmedo congelado no se puede mezclar del todo con ellos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Quantitates autem illorum duorum locorum esse dicunt diversimode: quidam enim tradiderunt spatium hoc frigidum a septimo climate totum spatium versus Aquilonem: et tunc oporteret, quod esset spatium illud ab utroque polo versus tropicum utrumque quadraginta duorum graduum: quia latitudo septimi climatis est quadraginta et octo graduum, et tota latitudo quae est ab aequinoctiali ad alterum polorum, est nonaginta graduum: et ideo de ipsis quadraginta et octo gradibus septimi climatis remanerent quadraginta duo de latitudine regionis inhabitabilis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T233324Z" creationid="nivaca" creationdate="20200610T233324Z">
+        <seg>Sin embargo, dicen que las extensiones de aquellos dos lugares son de modos diferentes. En efecto, algunos han dicho que este espacio frío es todo el espacio desde el séptimo clima frente al aquilón.
+Y entonces convendría que aquel espacio desde ambos polos frente a ambos trópicos fuera de cuarenta y dos grados, porque la latitud del séptimo clima es de cuarenta y ocho grados, y toda la latitud, la que es desde el equinoccial hacia el otro polo, es de noventa grados. Y por eso, al restar cuarenta y ocho grados del séptimo clima, quedarían cuarenta y dos de latitud de la región inhabitable.
+</seg>
       </tuv>
     </tu>
     <tu>

@@ -21,6 +21,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>OJO: no coincide el texto</note>
+      <tuv lang="la">
+        <seg>Amplius accessus solis proximus facit calorem, et recessus facit frigus: est autem medium inter calidum et frigidum temperatum: ergo in medio accessu et recessu loca illa erunt temperata, et sic habitationi congrua.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T234935Z" creationid="nivaca" creationdate="20200610T234935Z">
+        <seg>El alejamiento más amplio del sol produce frío, así pues cuando se aleja del otro trópico, su último alejamientoalejamineto producirá el frío, y su próxima aproximación producirá el calor. Existe, sin embargo, un punto medio entre el frío y el calor: el templado, luego entre medio del alejamiento y la aproximación estarán aquellos lugares templados así adecuados para la habitación.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="la">
         <seg>CAPUT I.</seg>
       </tuv>
@@ -134,10 +143,26 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Est etiam rationabile ibi esse habitationem: cum enim juxta physicorum traditionem sol in obliquo circulo sit causa generationis per excessum, et causa corruptionis per recessum, oportebit ibi potissime esse generationem ubi aequaliter accedit et recedit: [C11b] est autem hoc sub aequinoctiali: erit igitur ibi potissime generatio et habitatio generatorum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T234806Z" creationid="nivaca" creationdate="20200610T234806Z">
+        <seg>Pero es también razonable que allí se pueda vivir; puesto que, de acuerdo con la tradición de los filósofos, el sol en una órbita oblicua puede ser la causa de generación por su aproximación y la causa de corrupción por su alejamiento, convendrá allí que la generación sea más potente, donde se aproxima y se aleja igualmente. Sin embargo esto es bajo el equinoccio; así pues ese será el lugar más potente para la generación de vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Et de prima quidem loquemur prius, ostendentes quidquid de hoc tradiderunt Antiqui, et rationabiliter dicta accipiamus in his.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T232310Z" creationid="nivaca" creationdate="20200610T232310Z">
         <seg>Y hablaremos primero, por cierto, sobre la primera mostrando todo lo que sobre esto enseñaron los antiguos para que tomemos en ellos (asuntos o antiguos) sus dictámenes con ayuda de la razón.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Et ex hoc constat oportere ibi esse habitationem: multas enim civitates gentis Achim et Indorum et Aethiopum in parte constat nobis in climate illo esse.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T234719Z" creationid="nivaca" creationdate="20200610T234719Z">
+        <seg>y por esto consta que ahí conviene la habitabilidad. En efecto, muchas ciudades del pueblo de los aquios y de los indios y de los etíopes nos consta que en parte están en ese clima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -176,8 +201,8 @@
       <tuv lang="la">
         <seg>India enim et Aethiopia in parte est in illis locis.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20200610T234601Z" creationid="nivaca" creationdate="20200610T234601Z">
-        <seg>En efecto, la India y Etiopía en parte están en aquellos lugares y por esto consta que ahí conviene la habitabilidad.</seg>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T234655Z" creationid="nivaca" creationdate="20200610T234601Z">
+        <seg>En efecto, la India y Etiopía en parte están en aquellos lugares</seg>
       </tuv>
     </tu>
     <tu>
@@ -244,6 +269,14 @@ Y entonces convendría que aquel espacio desde ambos polos frente a ambos trópi
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200405T215133Z" creationid="andrealozanov" creationdate="20200405T214934Z">
         <seg>Que en la ciencia natural conviene conocer la naturaleza del lugar y que pecan quienes no indagan sobre esto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Secundi autem climatis similiter tota latitudo fere inter aequinoctialem et tropicum aestivum existit: cujus latitudo est viginti quatuor graduum, quanta est declinatio solis ab aequinoctiali circulo secundum Ptolemaeum: et sunt in eo multae civitates nominatae, quarum habitatores plures venerunt ad nos.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T234747Z" creationid="nivaca" creationdate="20200610T234747Z">
+        <seg>Sin embargo, de la misma manera, casi tanta latitud del segundo clima está situada entre el trópico equinoccial y el estival cuya latitud es 24 grados, cuanta inclinación del sol hay desde el círculo equinoccial según Ptolomeo, y hay en este muchas ciudades famosas y renombradas, cuyos múltiples habitantes han llegado hasta nosotros.</seg>
       </tuv>
     </tu>
     <tu>

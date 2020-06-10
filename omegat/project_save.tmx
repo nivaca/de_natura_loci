@@ -46,6 +46,22 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Cum enim omnis radius incidens reflectatur ad parem sive aequalem angulum, oportet necessario, quod radius incidens alicui terrae perpendiculariter in seipsum reflectatur: in seipsum autem reflexus radius causat adustionem, sicut probatur in Prospectivis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T233705Z" creationid="nivaca" creationdate="20200610T233705Z">
+        <seg>En efecto, puesto que todo rayo que cae es reflejado en un ángulo equivalente o igual, conviene necesariamente que los rayos que caen en algún lugar de la tierra se reflejen perpendicularmente en el mismo. El rayo reflejado en sí mismo causa incendio, así como es probado en las *Perspectivas*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Cum igitur radius solis cuilibet loco terrae qui est inter duos tropicos bis in anno perpendiculariter incidat, oportet quod adustionem bis in anno perficiat per quam torridam reddit, et non congruam complexionatis et commixtis habitationem</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T233733Z" creationid="nivaca" creationdate="20200610T233733Z">
+        <seg>Por consiguiente, puesto que el rayo del sol en cualquier lugar de la tierra que esté entre los dos trópicos cae perpendicularmente dos veces al año, conviene que efectúe el incendio inmoderado dos veces al año, por el que se produce la tórrida y habitación no acorde a los seres combinados y mezclados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>De distinctione terrae per loca habitabilia et non habitabilia.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T232142Z" creationid="nivaca" creationdate="20200610T232142Z">
@@ -251,8 +267,8 @@ Y entonces convendría que aquel espacio desde ambos polos frente a ambos trópi
       <tuv lang="la">
         <seg>Viginti enim gradibus ultimi Geminorum parum distant a viginti gradibus Cancri: et si ducerentur chordae a gradibus Geminorum ultimis ad gradus Cancri primos sibi mutuo per comparitatem respondentes, essent chordae breves, quae subtenduntur arcubus sphaericis: eo quod circulus signorum ibi ascendit ab punctum tropici, et descendit ab eodem.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca@fastmail.com" changedate="20200305T170857Z" creationid="nivaca@fastmail.com" creationdate="20200305T162430Z">
-        <seg>Pues los últimos veinte *grados de Géminis distan poco de los *primeros veinte grados de Cáncer. Y si se trazaran las cuerdas desde los últimos grados de Géminis hasta los primeros grados de Cáncer mutuamente correspondientes a ellos por paridad, serían cuerdas breves que se tienden bajo los arcos *pequeños, por el hecho de que el círculo de los signos [zodiacales] allí asciende hasta el punto del trópico y desciende de él mismo.</seg>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T233929Z" creationid="nivaca@fastmail.com" creationdate="20200305T162430Z">
+        <seg>Pues los últimos veinte grados de Géminis distan poco de los primeros veinte grados de Cáncer. Y si se trazaran las cuerdas desde los últimos grados de Géminis hasta los primeros grados de Cáncer mutuamente correspondientes a ellos por paridad, serían cuerdas breves que se tienden bajo los arcos pequeños, por el hecho de que el círculo de los signos [zodiacales] allí asciende hasta el punto del trópico y desciende de él mismo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -277,8 +293,8 @@ Y entonces convendría que aquel espacio desde ambos polos frente a ambos trópi
       <tuv lang="la">
         <seg>[C10b] Secunda ratio quae fortior est inter omnes, est quod circulus signorum arcus est, et chordae ejus parvae juxta puncta quae attingunt duos tropicos.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca@fastmail.com" changedate="20200305T170726Z" creationid="nivaca@fastmail.com" creationdate="20200305T161838Z">
-        <seg>La segunda razón, que es más fuerte entre todas, es que el círculo de signos [zodiacales] es un arco, y las cuerdas de él son cortas junto a los puntos que tocan dos trópicos.</seg>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T233818Z" creationid="nivaca@fastmail.com" creationdate="20200305T161838Z">
+        <seg>La segunda razón, que es la más fuerte entre todas, es que el círculo de signos [zodiacales] es un arco, y sus cuerdas son cortas junto a los puntos que tocan los dos trópicos.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

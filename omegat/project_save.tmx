@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Dicunt enim isti, quod nos videmus multos homines oculis nostris qui habitaverunt inter tropicum aestivum et aequinoctialem: et libri Philosophorum de astris ibi degentium venerunt ad nos.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T234551Z" creationid="nivaca" creationdate="20200610T234551Z">
+        <seg>En efecto, ellos dicen que vemos muchos hombres con nuestros propios ojos que han habitado entre el trópico estival y equinoccial y nos han llegado los libros sobre los astros de los filósofos que allí vivieron.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Dicunt etiam constare per speculum concavum, cui si radius incidat perpendiculariter, elicitur ignis: quia reflexio radiorum super aquam maris perpendiculariter facta habitationem reddit ignitam et combustam.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T234317Z" creationid="nivaca@fastmail.com" creationdate="20200305T172415Z">
@@ -166,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>India enim et Aethiopia in parte est in illis locis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T234601Z" creationid="nivaca" creationdate="20200610T234601Z">
+        <seg>En efecto, la India y Etiopía en parte están en aquellos lugares y por esto consta que ahí conviene la habitabilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Istae autem duae rationes sunt fortiores inter rationes Antiquorum torridam esse supponentium.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca@fastmail.com" changedate="20200305T165214Z" creationid="nivaca@fastmail.com" creationdate="20200305T165214Z">
@@ -178,6 +194,14 @@
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T233107Z" creationid="nivaca" creationdate="20200610T233107Z">
         <seg>Ahora bien, dicen que el lugar es inhabitable por el mar, porque el reflejo del rayo se refracta en sí, y se hace el más cálido frente a los litorales por el estar rodeado de este tipo de mar, cuyo reflejo multiplica el calor en el litoral e incendia el litoral y lo hace inconveniente para la habitación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Necesse est igitur in medio terrae aequinoctialem esse inhabitabilem propter calorem.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T234532Z" creationid="nivaca" creationdate="20200610T234517Z">
+        <seg>[OJO]</seg>
       </tuv>
     </tu>
     <tu>
@@ -208,10 +232,26 @@ Y entonces convendría que aquel espacio desde ambos polos frente a ambos trópi
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Quintam autem asserunt rationem ex [B540b]conjecturis dicentes, quod omnis complexionati oportet temperatam esse habitationem: et non esse temperatum, nisi inter duo contraria intemperata: et ideo non esse habitationem aliquam nisi inter inhabitabilem propter frigus in parte una, et inhabitabilem propter calorem in parte alia.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T234449Z" creationid="nivaca" creationdate="20200610T234449Z">
+        <seg>También ofrecen una quinta razón a partir de conjeturas al decir que conviene que haya un lugar habitable templado para todo compuesto y que no haya un espacio templado salvo entre dos contrarios no templados y por esto no hay algún espacio habitable salvo entre el inhabitable a causa del frío en una parte e inhabitable a causa del calor en la otra parte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Quod naturam loci scire oportet in scientia naturali, et quod peccant qui de hoc non quaerunt.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200405T215133Z" creationid="andrealozanov" creationdate="20200405T214934Z">
         <seg>Que en la ciencia natural conviene conocer la naturaleza del lugar y que pecan quienes no indagan sobre esto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Si igitur illa loca sunt tam vehementer calida propter unam aestatem quam habent ex sole appropinquante et incedente super Zenith capitum eorum, probabile esset intolerabilis esse caloris terram cui incidit perpendiculariter bis in anno: et ideo esse inhabitabilem.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T234439Z" creationid="nivaca" creationdate="20200610T234439Z">
+        <seg>Por lo tanto, si aquellos lugares son tan fuertemente cálidos a causa de un único verano, que tienen a partir del sol que se les aproxima y no incide sobre el cenit de sus cabezas, es probable que haya tierra de calor intolerable, a la que incide perpendicularmente dos veces al año y por esto es inhabitable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -229,6 +269,22 @@ Y entonces convendría que aquel espacio desde ambos polos frente a ambos trópi
       </tuv>
       <tuv lang="es" changeid="nivaca@fastmail.com" changedate="20200305T171319Z" creationid="nivaca@fastmail.com" creationdate="20200305T163833Z">
         <seg>El sol, por lo tanto, cuando va en los dichos cuarenta grados, parece como si estuviera en el mismo lugar, y en su estado continuo parece quemar la habitabilidad de la tierra, por el hecho de que así como una columna de sus rayos cae continua y perpendicularmente sobre la tierra y la quema, así por lo tanto la torna inhabitable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sub utroque autem polorum necesse est esse inhabitabilem propter frigus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T234514Z" creationid="nivaca" creationdate="20200610T234514Z">
+        <seg>Ahora bajo ambos polos es necesario que haya un lugar inhabitable por el frío. Por lo tanto, es necesario que en medio de la tierra haya un lugar inhabitable equinoccial a causa del calor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sunt autem Ptolemaei et Avicennae rationes in contrarium.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T234537Z" creationid="nivaca" creationdate="20200610T234537Z">
+        <seg>Hay sin embargo argumentos de Ptolomeo y Avicena para lo contrario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -295,6 +351,14 @@ Y entonces convendría que aquel espacio desde ambos polos frente a ambos trópi
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T233818Z" creationid="nivaca@fastmail.com" creationdate="20200305T161838Z">
         <seg>La segunda razón, que es la más fuerte entre todas, es que el círculo de signos [zodiacales] es un arco, y sus cuerdas son cortas junto a los puntos que tocan los dos trópicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>[C11a] Adducunt etiam quartam ex probabilibus conjecturis objicientes, et dicunt quod nos invenimus loca illa, quorum declinatio est parva a tropico aestivo valde calida in aestate, et quasi intolerabilis caloris: et hyems illorum locorum est temperata non habens gelu, sicut sunt loca tertii climatis, cujus latitudo est graduum triginta.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T234430Z" creationid="nivaca" creationdate="20200610T234430Z">
+        <seg>En cuarto lugar, a partir de conjeturas probables añaden también al exponer diciendo que aquellos lugares cuya inclinación desde el trópico estival es pequeña los encontramos muy cálidos en el verano y como intolerable de calor, y que el invierno de aquellos lugares, que no tiene hielo, es templado, así como hay lugares del tercer clima cuya latitud es 30 grados y su día más largo de 14 horas.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

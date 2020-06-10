@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="la">
+        <seg>Ad ea autem quae inducta sunt, facilis est determinatio per ante dicta.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T235259Z" creationid="nivaca" creationdate="20200610T235259Z">
+        <seg>Además, con respecto a las cosas que se han aducido, la conclusión es fácil de entender.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Adhuc autem inducunt et tertiam, ibi mare dicentes, cui cum radii solis incidunt et stellarum, divaricantur et ex politione et tersione aquae et a frigiditate aquae calor excitatus a radiis solis expellitur ad littora, et comburit, et reddit locum inhabitabilem.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T234246Z" creationid="nivaca@fastmail.com" creationdate="20200305T170701Z">

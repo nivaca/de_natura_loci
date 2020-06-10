@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Alia autem penes quam climatum secundum latitudinem ab aequinoctiali est distinctio.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T232223Z" creationid="nivaca" creationdate="20200610T232223Z">
+        <seg>la otra, empero, bajo la que se da la distinción entre los climas según la latitud frente a la equinoccial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>CAPUT I.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200303T182805Z" creationid="andrealozanov" creationdate="20200303T182805Z">
@@ -30,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>De distinctione terrae per loca habitabilia et non habitabilia.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T232142Z" creationid="nivaca" creationdate="20200610T232142Z">
+        <seg>Sobre la diferenciación de la tierra por lugares habitables y no habitables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Dicunt etiam constare per speculum concavum, cui si radius incidat perpendiculariter, elicitur ignis: quia reflexio radiorum super aquam maris perpendiculariter facta habitationem reddit ignitam et combustam.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca@fastmail.com" changedate="20200305T172536Z" creationid="nivaca@fastmail.com" creationdate="20200305T172415Z">
@@ -42,6 +58,30 @@
       </tuv>
       <tuv lang="es" changeid="nivaca@fastmail.com" changedate="20200305T164511Z" creationid="nivaca@fastmail.com" creationdate="20200305T164511Z">
         <seg>Por lo tanto, los dos lugares más cálidos son los que están bajo los dos trópicos, pero entre los dos más cálidos no hay un medio temperado. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Est autem duplex habitabilis terrae diversitas ex habitudine comparationis terrae ad caelum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T232204Z" creationid="nivaca" creationdate="20200610T232204Z">
+        <seg>Ahora bien, la diversidad de la habitación de la tierra es doble a partir de la disposición de la relación de la tierra frente al cielo;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Est autem tractatio Pythagorae et Homeri et praeter eos omnium qui in Aegypto philosophati sunt, sed et apud Latinos Ovidii et multorum aliorum, terram totam dividi in quinque zonas caeli, quarum tres ponunt inhabitabiles, et duas tantum habitabiles esse voluerunt, quarum mediam vocant perustam sive torridam: et hanc dicunt esse partem terrae quae supponitur spatio quadraginta octo graduum fere quod est inter duos tropicos, inter quos est via solis: declinat enim sol versus Aquilonem versus tropicum aestivalem fere per viginti quatuor gradus, et per tantumdem declinat ad Meridiem versus tropicum [B539a] hyemalem.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T232359Z" creationid="nivaca" creationdate="20200610T232359Z">
+        <seg>Ahora bien, es enseñanza de Pitágoras y Homero y, después de ellos, de todos los que en Egipto han filosofado, pero también, entre los latinos, de Ovidio y de muchos otros, que la tierra toda se divide en cinco zonas según las cinco zonas del cielo, de estas afirman que tres son inhabitables y de estas tan solo dos determinaron que son habitables, de las cuales la zona media llaman “quemada” o tórrida. Y dicen que es esta la parte de la tierra que está situada bajo el espacio cerca del grado cuarenta y ocho, que está entre los dos trópicos, entre los cuales está la vía del sol; en efecto, el sol declina hacia el Aquilón (el Norte) [nororiente] en dirección al trópico estival (Trópico de Cáncer) cerca del grado veinticuatro y declina, en igual medida, hacia el meridiano en dirección al trópico de Capricornio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Et de prima quidem loquemur prius, ostendentes quidquid de hoc tradiderunt Antiqui, et rationabiliter dicta accipiamus in his.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T232310Z" creationid="nivaca" creationdate="20200610T232310Z">
+        <seg>Y hablaremos primero, por cierto, sobre la primera mostrando todo lo que sobre esto enseñaron los antiguos para que tomemos en ellos (asuntos o antiguos) sus dictámenes con ayuda de la razón.</seg>
       </tuv>
     </tu>
     <tu>
@@ -119,6 +159,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Una quidem quae distinguit terram totam in quinque plagas sive zonas, quas ponit Plato et Pythagoras et Homerus et plures alii auctores.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T232207Z" creationid="nivaca" creationdate="20200610T232207Z">
+        <seg>una, por cierto, la que diferencia toda la tierra en cinco regiones o zonas, las que plantean Platón tanto como Pitágoras y Homero, así como otros muchos autores;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Viginti enim gradibus ultimi Geminorum parum distant a viginti gradibus Cancri: et si ducerentur chordae a gradibus Geminorum ultimis ad gradus Cancri primos sibi mutuo per comparitatem respondentes, essent chordae breves, quae subtenduntur arcubus sphaericis: eo quod circulus signorum ibi ascendit ab punctum tropici, et descendit ab eodem.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca@fastmail.com" changedate="20200305T170857Z" creationid="nivaca@fastmail.com" creationdate="20200305T162430Z">
@@ -133,6 +181,14 @@
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200610T231002Z" creationid="nivaca" creationdate="20200303T181659Z">
         <seg>Comienza el libro sobre la naturaleza del lugar que proviene de su longitud y su latitud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>[B538b] CAPUT VI.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20200610T232122Z" creationid="nivaca" creationdate="20200610T232122Z">
+        <seg>Capítulo 6.</seg>
       </tuv>
     </tu>
     <tu>

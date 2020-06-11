@@ -48,8 +48,8 @@
       <tuv lang="la">
         <seg>Alia autem penes quam climatum secundum latitudinem ab aequinoctiali est distinctio.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20200610T232223Z" creationid="nivaca" creationdate="20200610T232223Z">
-        <seg>la otra, empero, bajo la que se da la distinción entre los climas según la latitud frente a la equinoccial.</seg>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200611T233748Z" creationid="nivaca" creationdate="20200610T232223Z">
+        <seg>La otra, empero, bajo la que se da la distinción entre los climas según la latitud frente a la equinoccial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -419,6 +419,14 @@
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T232533Z" creationid="andrealozanov" creationdate="20200611T232533Z">
         <seg>En efecto esta contrariedad no es a partir de la materia, puesto que la materia no es la causa de la virtud ni de la forma. Por lo tanto, conviene que se dé a partir del lugar formado por la configuración de los rayos de las estrellas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Haec enim et his similia sunt quae notantur circa locum illum in communi: quae tamen per accidens ex vicinitate montium, vel situ eorum, vel ex vicinitate marium, frequenter impediuntur, et aliquando recipiunt impedimentum per artificium peritorum virorum qui noverunt situs et virtutes stellarum, et impediunt effectus: quia, sicut dicit Ptolemaeus in [C9b] Quadripartito, "effectus stellarum impediri possunt per sapientiam peritorum virorum in astris."</seg>
+      </tuv>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200611T233438Z" creationid="andrealozanov" creationdate="20200611T233438Z">
+        <seg>Por lo tanto, estas cosas y otras similares que se anotan al respecto del lugar en general, sin embargo, son frecuentemente impedidas por accidente, a partir ya de la proximidad de los montes ya de su sitio y a partir de la proximidad de los mares;  a veces reciben el impedimento por el artificio de hombres expertos que conocieron los sitios y las virtudes de las estrellas y que impiden sus efectos, puesto que, así como dice Ptolomeo en el *Tetrabiblos*, los efectos de las estrellas pueden ser impedidos y ser procurados por la sabiduría de los hombres expertos en los astros.</seg>
       </tuv>
     </tu>
     <tu>

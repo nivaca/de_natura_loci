@@ -9,3 +9,6 @@ elementa	elementos
 rationabile	razonable
 commixtus	mezclado
 omnino	completamente
+Convenientia	confluencia
+corrumpentia	corrupción
+conservantia	conservación

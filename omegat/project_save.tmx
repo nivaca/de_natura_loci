@@ -175,6 +175,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Demum quod ex geminis seminibus et animalibus et brutis et hominibus ex hoc diverso respectu proprietates et mores diversi attribuantur.</seg>
+      </tuv>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200611T230156Z" creationid="andrealozanov" creationdate="20200611T230156Z">
+        <seg>en tanto que a partir de este diverso aspecto se atribuyen propiedades y costumbres diversas tanto a las semillas gemelas, como a los animales brutos y a los hombres. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Dicunt enim isti, quod nos videmus multos homines oculis nostris qui habitaverunt inter tropicum aestivum et aequinoctialem: et libri Philosophorum de astris ibi degentium venerunt ad nos.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T234551Z" creationid="nivaca" creationdate="20200610T234551Z">
@@ -283,6 +291,14 @@
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T235232Z" creationid="nivaca" creationdate="20200610T235232Z">
         <seg>Y esta es la tradición de Avicena y Ptolomeo sobre esos lugares en el libro De las divisiones de los lugares habitables. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Et hoc est rationabile: quia compertum est caelum diffundere virtutes formativas in omne quod est: maxime autem diffundit eas per radios emissos a luminibus stellarum: et ideo consequens est, ut quaelibet figura radiorum et angulus diversas in inferioribus causet virtutes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200611T230515Z" creationid="andrealozanov" creationdate="20200611T230515Z">
+        <seg>Y esto es razonable, puesto que se sabe que el cielo difunde las virtudes formativas en todo lo que es. Además, difunde máximamente aquellas virtudes a través de los rayos emitidos por las luces de las estrellas, y por esto es consecuente que cualquier configuración de los rayos y el ángulo cause diversas virtudes en los inferiores. </seg>
       </tuv>
     </tu>
     <tu>
@@ -515,6 +531,14 @@
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T233221Z" creationid="nivaca" creationdate="20200610T233221Z">
         <seg>Razón por la cual también los vientos que vienen de nuestro polo son muy fríos y secos, por lo que lo húmedo congelado no se puede mezclar del todo con ellos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Qua de causa variantur naturae et proprietates et mores et actus et species eorum qui in eodem loco sensibili videntur generari.</seg>
+      </tuv>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200611T225951Z" creationid="andrealozanov" creationdate="20200611T225951Z">
+        <seg>Por esta causa varían las naturalezas y las propiedades y las costumbres y los actos y las especies de estas cosas, que parecen ser generadas en el mismo lugar sensible, </seg>
       </tuv>
     </tu>
     <tu>

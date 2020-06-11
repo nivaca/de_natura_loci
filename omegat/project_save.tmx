@@ -311,6 +311,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>In medio autem est frigidus propter privationem utriusque caliditatis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200611T220153Z" creationid="andrealozanov" creationdate="20200611T220153Z">
+        <seg>en el medio, sin embargo, es frío a causa de la privación de ambos tipos de calores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Incendit igitur etiam ibi habitationem et reddit inhabitabilem.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca@fastmail.com" changedate="20200305T171329Z" creationid="nivaca@fastmail.com" creationdate="20200305T164311Z">
@@ -470,6 +478,14 @@ Y entonces convendría que aquel espacio desde ambos polos frente a ambos trópi
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T235215Z" creationid="nivaca" creationdate="20200610T235215Z">
         <seg>No obstante, así como dijimos que no existe habitación continua bajo el trópico de Cáncer, así también consentimos en que no existe habitación placentera en aquellos lugares en aquellas islas del mar ni en las costas sino en el tiempo en que el sol cae perpendicularmente en aquellos lugares, o en que fuera para habitar en subterráneos o en que debe retroceder por un tiempo hasta que el sol en aquellos lugares vuelve atrás oblicuamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Similiter autem aqua in summo subtilior est et dulcior propter aeris admixtionem, et in infimo turbulenta et salsa propter terrae admixtae combustionem, et in medio insipida.</seg>
+      </tuv>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200611T220226Z" creationid="andrealozanov" creationdate="20200611T220226Z">
+        <seg>Ahora bien, el agua en lo más alto es ciertamente más sutil y más dulce a causa de la mezcla con el aire y en lo más profundo es turbulenta y salada a causa de la combustión de la tierra mezclada y en el medio, insípida</seg>
       </tuv>
     </tu>
     <tu>

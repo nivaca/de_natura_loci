@@ -3,3 +3,4 @@ aequinoctialis	circulus aequinoctialis = ecuador
 latitudo	latitud
 LATITUDINE	latitud
 pars	parte
+locatur	localizado

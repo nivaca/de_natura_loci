@@ -119,6 +119,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Cum igitur ex motione horizontis necesse sit mutari totum circulum, et ex mutatione circuli mutetur tota figura radiorum, et etiam quodlibet punctum habitabilis unum speciale centrum constituat horizontis, necessario consequitur quodlibet punctum habitationis habere virtutes speciales quibus informatur id quod locatur in ipso.</seg>
+      </tuv>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200611T231001Z" creationid="andrealozanov" creationdate="20200611T231001Z">
+        <seg>Por lo tanto, puesto que es necesario que todo círculo mute por la mutación del horizonte y que toda configuración de los rayos dmute por la mutación del círculo, y puesto que cualquier punto de la habitación constituye en especial un centro del horizonte, necesariamente se sigue que cualquier punto de la habitación tiene virtudes especiales, en las que se informa lo que se localiza en él mismo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Cum igitur natura loci inveniatur in pluribus simul locantibus et locatis, oportet quod sit unum aliud ante ea quod sit locus primus, quod virtutem loci causet in omnibus aliis: et hoc quidem est necessarium de virtute loci secundum quam et motus est ad locum sicut ad formam, et conservans in esse formae datae.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T222846Z" creationid="andrealozanov" creationdate="20200611T222846Z">

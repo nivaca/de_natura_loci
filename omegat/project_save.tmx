@@ -135,10 +135,26 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>De communibus proprietatibus locorum in quibus sunt commixta ex quatuor elementis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200611T223124Z" creationid="andrealozanov" creationdate="20200611T223124Z">
+        <seg>Sobre las propiedades comunes de los lugares, en los que hay mezclas a partir de cuatro elementos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>De distinctione terrae per loca habitabilia et non habitabilia.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T232142Z" creationid="nivaca" creationdate="20200610T232142Z">
         <seg>Sobre la diferenciación de la tierra por lugares habitables y no habitables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>De natura autem locorum in quibus generantur et conservantur composita, multifaria est valde Auctorum traditio.</seg>
+      </tuv>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200611T223143Z" creationid="andrealozanov" creationdate="20200611T223143Z">
+        <seg>Ahora bien, la enseñanza de los autores acerca de la naturaleza de los lugares en los que los compuestos se generan y se conservan es muy variada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -267,6 +283,14 @@
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T235138Z" creationid="nivaca" creationdate="20200610T235138Z">
         <seg>Y por esto, algunos filósofos lo han llamado el más temperado de los lugares; sin embargo yo no pienso que pueda asentir/ acordar con a su opinión,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Et ideo in loco generationis eorum tria se contingunt elementa, aer scilicet, aqua, et terra.</seg>
+      </tuv>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200611T223457Z" creationid="andrealozanov" creationdate="20200611T223457Z">
+        <seg>y por esto en el lugar de su generación tres elementos se tocan, a saber, el aire y el agua y la tierra</seg>
       </tuv>
     </tu>
     <tu>
@@ -545,6 +569,14 @@ Y entonces convendría que aquel espacio desde ambos polos frente a ambos trópi
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Sed ut a communioribus sit narratio, scire oportet quod (sicut supra diximus) locus omnium compositorum commixtus et compositus est, neque est aliquid compositorum quod habitet id omnino simplici.</seg>
+      </tuv>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200611T223224Z" creationid="andrealozanov" creationdate="20200611T223224Z">
+        <seg>Pero, para que la introducción del recuento sea desde las cosas más comunes, conviene saber que, así como demostramos más arriba, el lugar de todas las cosas compuestas es mezclado y compuesto, y que no hay ninguno de estos compuestos que se halle completamente simple</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Si autem lucem vocant omnem virtutem quae a caelo influitur in inferioribus mediante natura luminosi, tunc verum est quod dicunt: sed tunc improprie loquentur: multae enim virtutes a caelo diffunduntur in inferiora, quae nequaquam luces vocari possunt, licet forte cum lumine caelesti descendant, sicut est calidum, et aliquando frigidum, et aliquando humidum, et aliquando siccum, quae cum radiis stellarum in inferioribus influuntur, et tamen nullum ipsorum nomine lucis proprie vocatur: virtutem tamen illam caelestem esse constat, quae format materiam ad speciem: eo quod formae substantiales nullae inducuntur nisi a virtute aliquis [C7b] caelesti, sicut in prima philosophia, Domino concedente, declaravimus.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T221447Z" creationid="andrealozanov" creationdate="20200611T221447Z">
@@ -720,6 +752,14 @@ Y entonces convendría que aquel espacio desde ambos polos frente a ambos trópi
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T215057Z" creationid="andrealozanov" creationdate="20200611T215057Z">
         <seg>Por lo que también algunos de estos antiguos dijeron que solo el fuego es el elemento primero y los otros se constituyen por la composición de este y por la acumulación de partes de fuego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>[B536b] CAPUT V.</seg>
+      </tuv>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200611T223108Z" creationid="andrealozanov" creationdate="20200611T223108Z">
+        <seg>Capítulo V</seg>
       </tuv>
     </tu>
     <tu>

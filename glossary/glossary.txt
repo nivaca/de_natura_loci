@@ -4,3 +4,4 @@ latitudo	latitud
 LATITUDINE	latitud
 pars	parte
 locatur	localizado
+oportet	Conviene

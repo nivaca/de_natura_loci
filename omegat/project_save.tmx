@@ -295,10 +295,26 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Et haec est causa quare nulla rerum generatarum invenitur [B537b]omnino per omnia similis alteri in proprietatibus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200611T231027Z" creationid="andrealozanov" creationdate="20200611T231027Z">
+        <seg>Y esta es la causa por la que ninguna de las cosas generadas se encuentra similar en sus propiedades a otra en absoluto y por todos los respectos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Et haec est de locis illis traditio Avicennae et Ptolemaei in libro de Divisione locorum habitabilium.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T235232Z" creationid="nivaca" creationdate="20200610T235232Z">
         <seg>Y esta es la tradición de Avicena y Ptolomeo sobre esos lugares en el libro De las divisiones de los lugares habitables. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Et hic locus est proprie, de quo dicit Porphyrius, quod est unum de individuantibus: quia, sicut tradit Boetius, impossibile est imaginari vel intelligi ut duorum aliquorum omnino idem sit locus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200611T231303Z" creationid="andrealozanov" creationdate="20200611T231303Z">
+        <seg>Y propiamente este es el lugar, del que habla Porfirio, que es único entre los que individuan, puesto que, como sostiene Boecio, es imposible incluso imaginar o bien inteligir que de dos cosas un lugar sea completamente el mismo. </seg>
       </tuv>
     </tu>
     <tu>

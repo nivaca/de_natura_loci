@@ -6,3 +6,5 @@ pars	parte
 locatur	localizado
 oportet	Conviene
 elementa	elementos
+rationabile	razonable
+commixtus	mezclado

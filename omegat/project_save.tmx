@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Aer quidem superius est aestuosus calidus, et inferius est vaporosus [B535a], calidus propter repercussionem radiorum ad terram.</seg>
+      </tuv>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200611T220138Z" creationid="andrealozanov" creationdate="20200611T220138Z">
+        <seg>en efecto, más arriba, ciertamente, el aire es cálido ardiente y más abajo es cálido vaporoso a causa de los reflejos de los rayos en la tierra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Alia autem penes quam climatum secundum latitudinem ab aequinoctiali est distinctio.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T232223Z" creationid="nivaca" creationdate="20200610T232223Z">
@@ -155,6 +163,14 @@
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T234057Z" creationid="nivaca@fastmail.com" creationdate="20200305T164511Z">
         <seg>Por lo tanto, los dos lugares más cálidos son los que están bajo los dos trópicos, pero entre los dos más cálidos no hay un medio temperado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Duo tamen istorum locorum sunt extremi, et duo sunt medii: medium tamen propter facilem elementorum admixtionem a physicis interstitia dicti sunt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200611T215850Z" creationid="andrealozanov" creationdate="20200611T215850Z">
+        <seg>Sin embargo, dos de estos lugares son extremos absolutamente y dos son medios. Y así los medios, por la fácil mezcla demás los elementos medios, fueron diferenciados por los filósofos como intersticios; </seg>
       </tuv>
     </tu>
     <tu>

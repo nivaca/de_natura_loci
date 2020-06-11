@@ -439,6 +439,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Licet autem quaedam compositorum eleventur in aerem sicut aves, tamen ipsorum generatio et habitatio in terra est: et ideo proprie terra est locus ipsorum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200611T225137Z" creationid="andrealozanov" creationdate="20200611T225137Z">
+        <seg>Además, aunque ciertas cosas entre los compuestos se elevan en el aire, como las aves, sin embargo, su habitación y su generación es en la tierra, y de la misma manera ocurre con los peces, que nadan en el agua; descansan, en efecto, todos estos seres en la tierra, y por esto la tierra es propiamente su lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Locum autem ex mari inhabitabilem dicunt: quia reflexio radii in se refricati et clarissimi fit ad littora per circuitum talis maris, quae reflexio multiplicat calorem in littore, et incendit littus, et facit ipsum habitationi non congruum.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T233107Z" creationid="nivaca" creationdate="20200610T233107Z">

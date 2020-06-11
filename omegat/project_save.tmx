@@ -215,6 +215,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Et ideo cum Avicenna et quibusdam aliis Philosophis dici oportet, quod locus naturalis qui virtutem habet inducendi formas in materia corporum simplicium, est superficies corporis continentis [C6b] cum distantia sui ab orbe: haec enim distantia causat calidum et frigidum, humidum et siccum, quae sunt virtutes naturales elementorum: haec enim si nulla sit, ex motu et lumine inducit calidum in summo et subtile et siccum, quae omnino non sunt nisi formae ignis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200611T215409Z" creationid="andrealozanov" creationdate="20200611T215409Z">
+        <seg>Y por esto, conviene decir con Avicena y algunos filósofos peripatéticos, que el lugar de lo natural, que tiene las virtudes de llevar/ inducir* las formas en la materia de los cuerpos simples, es la superficie del cuerpo que contiene junto con su distancia al orbe; en efecto esta distancia causa calidez y frigidez y humedad y sequedad, que son las virtudes naturales de los elementos. En efecto, si no la hay, a partir del movimiento y de la luz, esta induce lo cálido en lo más alto y lo sutil y lo seco, los que en general no son sino formas del fuego; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Et ideo dixerunt quidam Philosophi locum illum temperatissimum omnium locorum, cui tamen dicto eorum non puto esse consentiendum.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T235138Z" creationid="nivaca" creationdate="20200610T235138Z">
@@ -243,6 +251,14 @@
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T233405Z" creationid="nivaca" creationdate="20200610T233405Z">
         <seg>Y esta sería la latitud habitable entre la tórrida y la fría hacia cualquiera de los polos. Por consiguiente, esta es la división de la tierra habitable y no habitable según lo dicho por los antiguos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Hic autem error est sicut in libro de Caelo et Mundo diximus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200611T215210Z" creationid="andrealozanov" creationdate="20200611T215210Z">
+        <seg>No obstante, esto es un error, así como lo mostramos en Del cielo y el mundo</seg>
       </tuv>
     </tu>
     <tu>
@@ -520,6 +536,14 @@ Y entonces convendría que aquel espacio desde ambos polos frente a ambos trópi
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T214155Z" creationid="andrealozanov" creationdate="20200611T214155Z">
         <seg>Capítulo IV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>[B534b] Propter quod etiam quidam Antiquorum dixerunt solum ignem esse primum elementum, et alia per compositionem ipsius et coacervationem partium ignis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200611T215057Z" creationid="andrealozanov" creationdate="20200611T215057Z">
+        <seg>Por lo que también algunos de estos antiguos dijeron que solo el fuego es el elemento primero y los otros se constituyen por la composición de este y por la acumulación de partes de fuego</seg>
       </tuv>
     </tu>
     <tu>

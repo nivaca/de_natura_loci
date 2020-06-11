@@ -16,3 +16,4 @@ locorum	de los lugares
 fugit	repele
 attrahit	atrae
 loca	lugares
+similia	cosas similares

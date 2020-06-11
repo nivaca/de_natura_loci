@@ -12,3 +12,7 @@ omnino	completamente
 Convenientia	confluencia
 corrumpentia	corrupción
 conservantia	conservación
+locorum	de los lugares
+fugit	repele
+attrahit	atrae
+loca	lugares

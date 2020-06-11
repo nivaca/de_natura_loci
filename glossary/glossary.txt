@@ -5,3 +5,4 @@ LATITUDINE	latitud
 pars	parte
 locatur	localizado
 oportet	Conviene
+elementa	elementos

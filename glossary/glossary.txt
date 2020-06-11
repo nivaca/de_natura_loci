@@ -17,3 +17,4 @@ fugit	repele
 attrahit	atrae
 loca	lugares
 similia	cosas similares
+superficies	superficie

@@ -18,3 +18,5 @@ attrahit	atrae
 loca	lugares
 similia	cosas similares
 superficies	superficie
+comparationis	relación
+habitudine	disposición

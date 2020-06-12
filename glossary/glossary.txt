@@ -22,3 +22,4 @@ comparationis	relación
 habitudine	disposición
 tradiderunt	legaron
 tractatio	legado
+humorum	humor

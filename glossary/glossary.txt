@@ -23,3 +23,4 @@ habitudine	disposición
 tradiderunt	legaron
 tractatio	legado
 humorum	humor
+humidum	húmedo

@@ -21,3 +21,4 @@ superficies	superficie
 comparationis	relación
 habitudine	disposición
 tradiderunt	legaron
+tractatio	legado

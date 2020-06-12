@@ -20,3 +20,4 @@ similia	cosas similares
 superficies	superficie
 comparationis	relación
 habitudine	disposición
+tradiderunt	legaron

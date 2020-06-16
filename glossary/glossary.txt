@@ -49,3 +49,5 @@ congruos	acorde
 universaliter	universalmente
 in particulari	en particular
 in communi	en lo común/en común
+tradere	tratar
+complexionis	complexión

@@ -27,3 +27,6 @@ humidum	húmedo
 ORBE	esfera terrestre
 scientia naturali	ciencia natural
 scire	conocer
+continens	continente/que contiene
+principium	origen/principio
+virtutem	virtud/fuerza/potencia ?

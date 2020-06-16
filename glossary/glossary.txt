@@ -52,3 +52,5 @@ in communi	en lo común/en común
 tradere	tratar
 complexionis	complexión
 deducere	deducir
+ambiens	circundante
+tangens	tocante/que toca

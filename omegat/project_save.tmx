@@ -103,6 +103,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>CAPUT II.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200616T200506Z" creationid="mateovo2" creationdate="20200616T200506Z">
+        <seg>Capítulo II. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Cibum enim in animato moveri videmus ad quodlibet membrum sicut ad locum proprium in quo formam et esse accipit membri a virtute quae est in membro ad quod movetur: nec umquam ante valet cibus operationem suam perficere proprie, nisi sit perfecte virtutem membri ad quod movetur, adeptus, cujus perfectionis principium est membrum.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T175031Z" creationid="mateovo2" creationdate="20200616T175031Z">
@@ -475,8 +483,16 @@
       <tuv lang="la">
         <seg>Et in secunda accidentia locorum diversorum.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200616T200315Z" creationid="mateovo2" creationdate="20200616T200315Z">
-        <seg>y en la segunda,  mostrando los accidentes de los diversos lugares  </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20200616T200332Z" creationid="mateovo2" creationdate="20200616T200315Z">
+        <seg>y en la segunda  mostrando los accidentes de los diversos lugares  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Et in tertia determinabimus particularia loca fluminum et civitatum et montium: hoc enim modo in hac scientia processerunt Aristoteles et Plato.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200616T200438Z" creationid="mateovo2" creationdate="20200616T200438Z">
+        <seg>y en la tercera fijaremos los lugares particulares de los ríos, de las ciudades y de los montes; pues de este modo en esta ciencia procedieron Aristóteles y Platón. </seg>
       </tuv>
     </tu>
     <tu>

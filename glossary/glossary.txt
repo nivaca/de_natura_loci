@@ -8,7 +8,7 @@ oportet	Conviene
 elementa	elementos
 rationabile	razonable
 commixtus	mezclado
-omnino	completamente
+omnino	completamente/en absoluto
 Convenientia	confluencia
 corrumpentia	corrupción
 conservantia	conservación
@@ -39,3 +39,5 @@ Propter quod	por lo tanto
 probatioribus	reconocidos
 largiatur	dar abundantemente
 sumitur	afirmar
+habitudinem	disposición
+indigentia	carencia

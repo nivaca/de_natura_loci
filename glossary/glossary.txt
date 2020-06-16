@@ -56,3 +56,5 @@ ambiens	circundante
 tangens	tocante/que toca
 virtus	virtud/fuerza/potencia ??
 factiva	generativa
+figura	configuración
+consequens	lo que sigue

@@ -37,3 +37,4 @@ virtute	virtud/fuerza/potencia ?
 operationem	labor
 Propter quod	por lo tanto
 probatioribus	reconocidos
+largiatur	dar abundantemente

@@ -42,3 +42,7 @@ sumitur	afirmar
 habitudinem	disposición
 indigentia	carencia
 virtutibus	virtud/fuerza/potencia ?
+invenitur	se encuentra
+prohibita	retenida
+indigent	requerir
+congruos	acorde

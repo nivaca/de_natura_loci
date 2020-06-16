@@ -425,6 +425,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Et hunc librum per tres distinctiones dividimus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200616T200229Z" creationid="mateovo2" creationdate="20200616T200229Z">
+        <seg>Y dividimos este libro en tres partes. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Et ideo cum Avicenna et quibusdam aliis Philosophis dici oportet, quod locus naturalis qui virtutem habet inducendi formas in materia corporum simplicium, est superficies corporis continentis [C6b] cum distantia sui ab orbe: haec enim distantia causat calidum et frigidum, humidum et siccum, quae sunt virtutes naturales elementorum: haec enim si nulla sit, ex motu et lumine inducit calidum in summo et subtile et siccum, quae omnino non sunt nisi formae ignis.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T215409Z" creationid="andrealozanov" creationdate="20200611T215409Z">
@@ -461,6 +469,14 @@
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T185520Z" creationid="mateovo2" creationdate="20200616T185520Z">
         <seg>Y por esta razón, así como en las otras cosas naturales conviene que la ciencia natural deduzca hasta las cosas específicas, de esta manera en los lugares; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Et in secunda accidentia locorum diversorum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200616T200315Z" creationid="mateovo2" creationdate="20200616T200315Z">
+        <seg>y en la segunda,  mostrando los accidentes de los diversos lugares  </seg>
       </tuv>
     </tu>
     <tu>
@@ -694,6 +710,14 @@
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T183426Z" creationid="mateovo2" creationdate="20200616T183426Z">
         <seg>En efecto, de esta manera en todas las cosas se encuentra una inclinación natural hacia el lugar, por la cual las cosas no retenidas son llevadas hacia sus lugares propios. Por lo que incluso, así como se dice en la *Física*, no requieren de un motor hacia el lugar mismo salvo accidentalmente; motor que, a saber, remueve el obstáculo que detiene lo localizado bajo límites ajenos y que no son acordes a su naturaleza. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>In prima enim ostendemus omnes diversitates ex orbe procedere in omnem loci differentiam.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200616T200251Z" creationid="mateovo2" creationdate="20200616T200251Z">
+        <seg>en la primera mostrando que todas las diversidades proceden a partir del orbe en relación con toda diferencia del lugar,  </seg>
       </tuv>
     </tu>
     <tu>

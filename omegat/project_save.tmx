@@ -351,6 +351,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>Acá, si no estoy mal, falta traducir "naturaliter". </note>
+      <tuv lang="la">
+        <seg>Et etiam ipsa elementa per alium modum dicta natura sunt naturaliter rotunda, sicut nos in scientia Caeli et Mundi ostendimus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200616T195559Z" creationid="mateovo2" creationdate="20200616T195559Z">
+        <seg>Y, también, estos elementos, pero de otro modo, por dictamen natural son redondos* así como nosotros mostramos en la *Ciencia del cielo y del mundo*.  </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="la">
         <seg>Et ex hoc constat oportere ibi esse habitationem: multas enim civitates gentis Achim et Indorum et Aethiopum in parte constat nobis in climate illo esse.</seg>
       </tuv>
@@ -1192,11 +1201,12 @@ Y entonces convendría que aquel espacio desde ambos polos frente a ambos trópi
       </tuv>
     </tu>
     <tu>
+      <note>Acá estamos traduciendo "figuratae" por "disposición". Estábamos siempre traduciendo "habitudo" y "dispositio" por disposición...</note>
       <tuv lang="la">
         <seg>licet enim in libro de Caelo et Mundo dictum sit, "simplicia corpora habentia motum rectum esse rotunda per accidens, eo scilicet quod locantur in rotundo:" tamen hoc non est verum in compositis quae secundum naturam differunt propriis figuris, sicut differunt propriis speciebus: et ideo quod est in talibus causa figurae, est per prius causa [C3a] speciei sic vel aliter figuratae.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200616T194903Z" creationid="mateovo2" creationdate="20200616T194004Z">
-        <seg>En efecto, aunque en el libro *Sobre el cielo y el mundo* se dice que los cuerpos simples, teniendo un movimiento recto son redondos por accidente, esto, a saber, porque están localizados en lo redondo, sin embargo esto no es verdadero respecto a los compuestos, que difieren por sus disposiciones propias según la naturaleza así como difieren por sus propias especies; y por esto, lo que es en tales cuerpos la causa de la disposición es en primer lugar la causa de la especie de este o de otro modo de la disposición. </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20200616T195228Z" creationid="mateovo2" creationdate="20200616T194004Z">
+        <seg>En efecto, aunque en el libro *Sobre el cielo y el mundo* se dice que los cuerpos simples, teniendo un movimiento recto son redondos por accidente, esto, a saber, porque están localizados en lo redondo, sin embargo esto no es verdadero respecto a los compuestos, que difieren por sus disposiciones propias según la naturaleza así como difieren por sus propias especies; y por esto, lo que es en tales cuerpos la causa de la disposición es en primer lugar la causa de la especie de este o de otro modo de la disposición*. </seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

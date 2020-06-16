@@ -25,3 +25,5 @@ tractatio	legado
 humorum	humor
 humidum	húmedo
 ORBE	esfera terrestre
+scientia naturali	ciencia natural
+scire	conocer

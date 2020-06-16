@@ -288,6 +288,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Est autem etiam hujusmodi simile in dialecticis et probabilibus, in quibus illatio et confirmatio conclusionis est ex loco propter similitudinem quae sumitur ex loco naturali, et habitudinem ipsius [B528b]ad locatum, sicut diximus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200616T180103Z" creationid="mateovo2" creationdate="20200616T180103Z">
+        <seg>Existe, sin embargo, también su paralelo en los dialécticos y los probables, en los cuales la inferencia y la confirmación de la conclusión a partir del lugar sucede por similitud, que se afirma por su lugar natural y su disposición con respecto a lo localizado, tal como dijimos.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Est autem hujusmodi dubitatio magna de torrida, utrum ipsa sit secundum totum inhabitabilis, sicut Antiqui videntur tradidisse.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T233522Z" creationid="nivaca" creationdate="20200610T233522Z">

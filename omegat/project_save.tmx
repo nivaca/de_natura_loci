@@ -608,6 +608,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>Siento que hay algo raro en la traducción.</note>
+      <tuv lang="la">
+        <seg>His igitur de causis, postquam nos de mobilibus ad locum determinavimus, oportuit nos tangere de diversitate naturae [B530a] locorum, et de causa diversitatis et de accidentibus, ut perfecta sit doctrina de mobilibus ad locum, quando in speciali scitur locorum diversitas.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200616T200211Z" creationid="mateovo2" creationdate="20200616T200211Z">
+        <seg>Por lo tanto, esto dijimos sobre las causas, después de que nosotros habláramos sobre los móviles hacia el lugar, convino ocuparnos de la diversidad de la naturaleza de los lugares y acerca de la causa de la diversidad y acerca de los accidentes para que la doctrina sobre los móviles hacia el lugar sea completada, cuando en particular se conozca la diversidad de los lugares.  </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="la">
         <seg>Hoc autem est in viis planetarum.</seg>
       </tuv>

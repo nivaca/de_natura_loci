@@ -416,6 +416,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Et similiter est absque dubio in quolibet corpore quod movetur ad locum secundum naturam.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200616T175310Z" creationid="mateovo2" creationdate="20200616T175310Z">
+        <seg>Y, de la misma manera, sin duda sucede en cualquier cuerpo que se mueve hacia su lugar según la naturaleza.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Ex omnibus autem his rationibus patet veram esse sententiam quam tres Philosophi communiter tradiderunt, scilicet Avicenna et Averroes et Moyses Aegyptius, quod scilicet locus sub determinata distantia a caelo causat formas elementorum: et ideo elementa moventur determinata ad talem determinatam distantiam loci sub orbe propter loci et locati contrarietatem.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T220941Z" creationid="andrealozanov" creationdate="20200611T220941Z">

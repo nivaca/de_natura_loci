@@ -24,3 +24,4 @@ tradiderunt	legaron
 tractatio	legado
 humorum	humor
 humidum	húmedo
+ORBE	esfera terrestre

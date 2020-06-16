@@ -1190,6 +1190,14 @@ Y entonces convendría que aquel espacio desde ambos polos frente a ambos trópi
         <seg>en efecto, aunque un extremo no dista del otro por un gran espacio de lugar, conviene que los lugares muy cercanos sean a veces de virtudes diversas y contrarias..</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>licet enim in libro de Caelo et Mundo dictum sit, "simplicia corpora habentia motum rectum esse rotunda per accidens, eo scilicet quod locantur in rotundo:" tamen hoc non est verum in compositis quae secundum naturam differunt propriis figuris, sicut differunt propriis speciebus: et ideo quod est in talibus causa figurae, est per prius causa [C3a] speciei sic vel aliter figuratae.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200616T194004Z" creationid="mateovo2" creationdate="20200616T194004Z">
+        <seg>En efecto, aunque en el libro Sobre el cielo y el mundo se dice que los cuerpos simples, teniendo un movimiento recto son redondos por accidente, esto, a saber, porque están localizados en lo redondo, sin embargo esto no es verdadero respecto a los compuestos, los que difieren por sus disposiciones propias según la naturaleza así como difieren por sus propias especies; y por esto, lo que es en tales cuerpos la causa de la disposición es en primer lugar la causa de la especie de este modo, o de otro modo de la disposición. </seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
     <tu>
       <prop type="file">01.txt</prop>

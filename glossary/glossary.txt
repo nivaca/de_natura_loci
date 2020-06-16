@@ -46,3 +46,5 @@ invenitur	se encuentra
 prohibita	retenida
 indigent	requerir
 congruos	acorde
+universaliter	universalmente
+in particulari	en particular

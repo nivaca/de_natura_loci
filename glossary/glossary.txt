@@ -58,3 +58,4 @@ virtus	virtud/fuerza/potencia ??
 factiva	generativa
 figura	configuración
 consequens	lo que sigue
+ostendimus	mostramos

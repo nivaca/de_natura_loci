@@ -38,3 +38,4 @@ operationem	labor
 Propter quod	por lo tanto
 probatioribus	reconocidos
 largiatur	dar abundantemente
+sumitur	afirmar

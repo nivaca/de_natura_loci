@@ -897,6 +897,15 @@ Y entonces convendría que aquel espacio desde ambos polos frente a ambos trópi
       </tuv>
     </tu>
     <tu>
+      <note>Complejas* tiene un asterisco en la traducción que propusimos, por lo que toca ver si sí está bien traducido.</note>
+      <tuv lang="la">
+        <seg>Si enim nos considerationem ponimus in mixtis tantum non complexionatis, non sciemus perfecte naturam ipsorum, nisi sciamus omnes istorum differentias in metallis et lapidibus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200616T185804Z" creationid="mateovo2" creationdate="20200616T185804Z">
+        <seg>en efecto, si nosotros ponemos la observación en las cosas mixtas como no en las complejas*, no conoceremos perfectamente su naturaleza, si no conocemos todas las diferencias de las cosas mixtas en los metales y en las piedras. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="la">
         <seg>Si igitur illa loca sunt tam vehementer calida propter unam aestatem quam habent ex sole appropinquante et incedente super Zenith capitum eorum, probabile esset intolerabilis esse caloris terram cui incidit perpendiculariter bis in anno: et ideo esse inhabitabilem.</seg>
       </tuv>

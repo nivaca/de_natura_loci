@@ -65,8 +65,8 @@
       <tuv lang="la">
         <seg>Amplius autem omnia corpora rectarum dimensionum moventur ad loca sua sicut ad generationis ipsorum principium aliquod, et sicut ad principium conservationis ipsorum aliquod.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200616T174006Z" creationid="mateovo2" creationdate="20200616T174006Z">
-        <seg>Sin embargo, además, todos los cuerpos de dimensiones rectas se mueven hacia sus lugares, así como hacia algún principio de su generación y así como hacia el principio de su conservación</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20200616T174122Z" creationid="mateovo2" creationdate="20200616T174006Z">
+        <seg>Sin embargo, además, todos los cuerpos de dimensiones rectas se mueven hacia sus lugares, así como hacia algún principio de su generación y así como hacia el principio de su conservación </seg>
       </tuv>
     </tu>
     <tu>
@@ -434,8 +434,8 @@
       <tuv lang="la">
         <seg>Haec autem et alia ratio est: quia transmutatio omnis contenti est per continens: locus autem continens est: et ideo [B528a] principium ex ipso est transmutationis ejus quod continet: putrescunt namque ea quae putrescunt et conservantur conservata per virtutem continentium corporum, sicut probari habet in IV Meteororum: et ideo locum habere virtutem activam in locato non est ambiguum.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200616T173608Z" creationid="mateovo2" creationdate="20200616T173608Z">
-        <seg>Además, sin embargo, hay otra razón de esto, a saber, que toda transmutación de lo contenido sucede por lo continente; sin embargo, el lugar es lo continente; y por esto, su origen proviene de la transmutación de aquello que contiene. Pues se pudren las cosas que se pudren, y se conservan las cosas conservadas debido a las virtudes de los cuerpos continentes, así como se tiene demostrado en el cuarto libro de los *Metereológicos*, y por esta razón, no es ambiguo que el lugar tiene virtud activa en lo localizado. </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20200616T174047Z" creationid="mateovo2" creationdate="20200616T173608Z">
+        <seg>Ahora bien, hay otra razón de esto, a saber, que toda transmutación de lo contenido sucede por lo continente; sin embargo, el lugar es lo continente; y por esto, su origen proviene de la transmutación de aquello que contiene. Pues se pudren las cosas que se pudren, y se conservan las cosas conservadas debido a las virtudes de los cuerpos continentes, así como se tiene demostrado en el cuarto libro de los *Metereológicos*, y por esta razón, no es ambiguo que el lugar tiene virtud activa en lo localizado. </seg>
       </tuv>
     </tu>
     <tu>
@@ -480,6 +480,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Hanc enim naturam videmus in parvo mundo qui est [C1b] quodlibet animatum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200616T174235Z" creationid="mateovo2" creationdate="20200616T174235Z">
+        <seg>en efecto, vemos incluso esta naturaleza en el micromundo, que es cualquier cosa animada. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Hic autem error est sicut in libro de Caelo et Mundo diximus.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T215210Z" creationid="andrealozanov" creationdate="20200611T215210Z">
@@ -516,6 +524,14 @@
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T222008Z" creationid="andrealozanov" creationdate="20200611T222008Z">
         <seg>Sin embargo, esto también es evidente por otra razón; si, en efecto, dos compuestos se encuentran en uno, y uno de esos componentes se encuentra sin el otro, es necesario también que el restante se encuentre sin el resto, así como fue determinado en el octavo de los Físicos que en aquellas cosas que se mueven y que mueven, en las que, puesto que lo movido tan solo se encuentra sin el que mueve, también conviene que el moviente se encuentre sin lo movido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Ideo oportet scire naturam locorum et causam diversitatis ipsorum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200616T174156Z" creationid="mateovo2" creationdate="20200616T174156Z">
+        <seg>y por esta razón conviene conocer la naturaleza de los lugares y la causa de su diversidad; </seg>
       </tuv>
     </tu>
     <tu>

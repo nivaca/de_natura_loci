@@ -30,3 +30,4 @@ scire	conocer
 continens	continente/que contiene
 principium	origen/principio
 virtutem	virtud/fuerza/potencia ?
+parvo mundo	micromundo

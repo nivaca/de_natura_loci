@@ -31,3 +31,7 @@ continens	continente/que contiene
 principium	origen/principio
 virtutem	virtud/fuerza/potencia ?
 parvo mundo	micromundo
+animato	lo animado
+esse	ser
+virtute	virtud/fuerza/potencia ?
+operationem	labor

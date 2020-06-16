@@ -1060,5 +1060,16 @@ Y entonces convendría que aquel espacio desde ambos polos frente a ambos trópi
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">01.txt</prop>
+      <prop type="prev">Est autem etiam hujusmodi simile in dialecticis et probabilibus, in quibus illatio et confirmatio conclusionis est ex loco propter similitudinem quae sumitur ex loco naturali, et habitudinem ipsius [B528b]ad locatum, sicut diximus.</prop>
+      <prop type="next">[C2a]Testificatur etiam ad hoc, quod videmus omnia corpora quae diu sunt extra locum suae generationis, eo quod elongata sunt a principio suae conservationis et sui esse (et hoc non tantum modo videmus in hominibus et aliis animalibus, sed etiam in plantis quae multum in diversa loca transferuntur) est similiter lapides propriis virtutibus destruuntur, quando diu sunt extra locum suae generationis: et quamvis forte teneant colorem et figuram per tempus longum propter similitudinem corporum suorum, tamen, ut diximus, virtutem paulatim amittunt: et cum virtus ipsorum sit a tota specie ipsorum, et sit sequela complexionis ipsorum, constat quod etiam nomen speciei non retinet nisi aequivoce: et sunt sicut mortui qui propter desiccationem corporum longo tempore figuram retinuerunt.</prop>
+      <tuv lang="la">
+        <seg>Cum autem nullus omnino locus (proprie sumptus ut locus) sit mobilis, oportet ipsum esse omnino absque indigentia naturali: eo quod omnis motus physicus rectus est per indigentiam, cum omnino sit sequestratus ab omni indigentia privationis et materiae, oportet ipsum esse in ratione alicujus divini et optimi, ad quod et propter quod est motus, et in quo accipitur esse rei et salus ejusdem.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200616T181537Z" creationid="mateovo2" creationdate="20200616T181537Z">
+        <seg>Puesto que ningún lugar, comprendido propiamente como lugar, es en lo absoluto móvil, conviene que este mismo sea en lo absoluto sin carencia natural, por lo que todo movimiento físico recto sucede por carencia. Puesto que fue alejado completamente de la carencia de privación y de materia, conviene que este exista en la razón de alguien divino y excelente, hacia el que y por el que se mueve, y en el cual se recibe el ser de la cosa y la salvación de la misma.  </seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>

@@ -712,6 +712,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Non enim sufficit quod in mathematicis traditum est de hujusmodi diversitate, ubi traditur quae stellae, super quae loca, hoc vel illo modo oriantur, [C2b] vel occidant, utrum scilicet oblique vel recte, et quae stellarum nec oriantur nec occidant, sed semper appareant, vel quae numquam, et quae oriantur et occidant aliquando: quia licet ex his sciatur situs climatum, non tamen per eadem sufficienter scitur natura locorum et diversitas complexionis eorum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200616T185338Z" creationid="mateovo2" creationdate="20200616T185338Z">
+        <seg>en efecto, no es suficiente lo que en los *Matemáticos* se trató sobre esta tal diversidad, donde se trata sobre qué estrellas sobre qué lugares de este o aquel modo nacen o mueren, si, a saber, oblicua o rectamente, y cuáles entre ellas ni nacen ni mueren, si no siempre aparecen o las que nunca, y cuáles nacen y a veces mueren; puesto que, aunque se conozca a partir de estas cosas la posición de los climas, no sin embargo por estas cosas se conoce suficientemente la naturaleza de los lugares y la diversidad de la complexión de los mismos.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Omni autem eodem modo facit in ultimis viginti gradibus Sagittarii, et viginti primis gradibus Capricorni, quibus accedit et recedit [B540a] ad tropici punctum hyemalis.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T234026Z" creationid="nivaca@fastmail.com" creationdate="20200305T164230Z">
@@ -738,8 +746,8 @@
       <tuv lang="la">
         <seg>Propter quod tradentes scientiam naturalem, et non inducentes aliquid de diversitate locorum, peccant: et solatium quaerunt suae imperitiae, si dicunt non oportere de ipso quaerere.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200616T184901Z" creationid="mateovo2" creationdate="20200616T184901Z">
-        <seg>Por lo que los que tratan la ciencia natural y que no enseñan a alguien sobre la diversidad de los lugares pecan y buscan consuelo de su ignorancia, si dicen que no conviene preguntarse sobre esto mismo; </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20200616T185008Z" creationid="mateovo2" creationdate="20200616T184901Z">
+        <seg>Por lo que los que tratan la ciencia natural y que no enseñan a nadie sobre la diversidad de los lugares pecan y buscan consuelo de su ignorancia, si dicen que no conviene preguntarse sobre esto mismo;  </seg>
       </tuv>
     </tu>
     <tu>

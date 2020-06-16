@@ -528,6 +528,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>In his probatum est, quod locus est generationis principium activum, ut quidam putant.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200616T165409Z" creationid="mateovo2" creationdate="20200616T165409Z">
+        <seg>en efecto, en estos fue probado que el lugar es el principio activo de la generación, así como el padre.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>In medio autem est frigidus propter privationem utriusque caliditatis.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T220153Z" creationid="andrealozanov" creationdate="20200611T220153Z">

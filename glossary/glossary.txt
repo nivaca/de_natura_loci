@@ -35,3 +35,5 @@ animato	lo animado
 esse	ser
 virtute	virtud/fuerza/potencia ?
 operationem	labor
+Propter quod	por lo tanto
+probatioribus	reconocidos

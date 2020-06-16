@@ -632,6 +632,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Indicant autem haec omnia quae extra loca sua non natura, sed vi retinentur.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200616T182938Z" creationid="mateovo2" creationdate="20200616T182938Z">
+        <seg>Sin embargo, indican que esto y todas las cosas que están fuera de su lugar son retenidas no por naturaleza sino por fuerza. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Invenimus enim aliquod compositum quod est locans et locatum simul, et invenimus aliquod locatum tantum, oportet igitur esse aliquid locans tantum: et sicut in illis id quod est tantum movens, est causa motus in omnibus aliis, ita necesse est quod id quod est locus tantum, sit causa localitatis in omnibus aliis: nullum autem corpus locus est tantum nisi caelum, sicut patet ex dictis: igitur oportet quod ratio locationis sit in omnibus aliis a caelo.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T222536Z" creationid="andrealozanov" creationdate="20200611T222536Z">

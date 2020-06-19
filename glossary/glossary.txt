@@ -70,3 +70,6 @@ simplicia	simples (cuerpos, elementos, cosas)
 composita	compuestos (cuerpos, elementos, cosas)
 debetur	deber
 determinavimus	establecer
+connaturalia	connaturales
+contrarietas	contrariedad
+relativa	referida a

@@ -126,6 +126,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>Acá tradujimos "locum" por "localización", y no por "lugar".</note>
+      <tuv lang="la">
+        <seg>Compositum autem habet locum in composito: et ideo nullum compositum in simplici corpore locari potest: propter quod egregie dicit Aristoteles in libro de Causis proprietatum elementorum et orbis sive planetarum, quod si compositum occupetur a simplici, corrumpitur statim: dans exemplum de his animalibus, quae cadunt ab altissimo, quae ante mortua sunt quam ad terram deveniant: et ideo corrupta sunt, quia occupata sunt ab aere simplici, et non a casu.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200619T200348Z" creationid="mateovo2" creationdate="20200619T200348Z">
+        <seg>Sin embargo, lo compuesto tiene localización* en lo compuesto, y por esto ningún compuesto puede ser localizado en un cuerpo simple. Por lo que egregiamente afirma Aristóteles en el libro de las *Causas de las propiedades de los elementos y el mundo o de los planetas* que si el compuesto es ocupado por el simple, se corrompe inmediatamente, y da el ejemplo de aquellos animales que caen de lo más alto, que están muertos antes de llegar a la tierra, y que, por esto, están corruptos, porque son ocupados por aire simple, y no por la caída. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="la">
         <seg>Convenientia tamen est in locis quae vicina sunt in proprietatibus communibus: et ideo ea quae vicine habitant, similes habent complexiones et similia conservantia et similia corrumpentia in contrarium.</seg>
       </tuv>

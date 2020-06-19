@@ -489,6 +489,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>La expresión "encierre en sí por todos lados a los demás por lo que circunda" no se entiende.</note>
+      <tuv lang="la">
+        <seg>Et ideo oportet quod sit altius in loco secundum distantiam a centro, et claudens in se undique per circuitum alia: quia aliter non ubique per circuitum aequaliter efflueret virtutem ad esse eorum quae naturaliter sunt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200619T195205Z" creationid="mateovo2" creationdate="20200619T195205Z">
+        <seg>y por esto conviene que esté en el lugar más elevado según la distancia del centro y que encierre en sí por todos lados a los demás por lo que circunda*, porque lo que de otra manera por lo que circunda no influiría su fuerza igualmente por todos lados frente al ser de las cosas que suceden naturalmente. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="la">
         <seg>Et ideo praecipuos viros in philosophia, sicut fuit [B529b]Aristoteles et Plato, tractasse videmus de hujusmodi: licet libri eorum non integri, sed per partes ad nos venerint.</seg>
       </tuv>
@@ -1001,6 +1010,14 @@ Y entonces convendría que aquel espacio desde ambos polos frente a ambos trópi
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T235106Z" creationid="nivaca" creationdate="20200610T235106Z">
         <seg>Pero es necesario distinguir por qué bajo el trópico del verano, por las razones aducidas arriba, no puede existir una habitación continua y agradable, sino que algunas veces es placentera y en otros momentos, dificultosa y no placentera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sed quod sint in loco sic ordinata, debetur eis ex ordine dignitatum suarum, secundum quem ordinem sunt causae eorum, quae fiunt in natura: in quo ordine universalius causans est ultimum ambiens alia.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200619T195042Z" creationid="mateovo2" creationdate="20200619T195042Z">
+        <seg>sino el que estén ordenadas en un lugar ascendentemente se debe a ellas por el orden de su dignidad; según este orden, son causas de las cosas que suceden en la naturaleza, en este orden el que causa de manera más universal es el que circunda a otros de manera más universal, </seg>
       </tuv>
     </tu>
     <tu>

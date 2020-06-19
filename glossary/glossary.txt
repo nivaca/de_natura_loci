@@ -63,3 +63,5 @@ distinctione	diferenciación/distinción ??
 convenit	conviene
 communiter	en general
 concavum	concavidad
+contingunt	tener contacto
+immutat	alterar

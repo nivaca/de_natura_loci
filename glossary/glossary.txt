@@ -59,3 +59,4 @@ factiva	generativa
 figura	configuración
 consequens	lo que sigue
 ostendimus	mostramos
+distinctione	diferenciación/distinción ??

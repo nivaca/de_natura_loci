@@ -119,6 +119,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>CAPUT III.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200619T201312Z" creationid="mateovo2" creationdate="20200619T201312Z">
+        <seg>Capítulo III. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Causa autem haec est, quia locus et locatum connaturalia sunt: et ideo contrarietas ipsorum corrumpit: corrumpitur enim corpus compositum a continente quando fuerit ei contrarium: propter quod etiam in Physicis diximus non quamlibet superficiem esse locum rei [C4a] naturalem, sed illam quae est terminus locantis corporis relativa ad distantiam et causam, in quo propria est generatio rei locatae.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200619T200704Z" creationid="mateovo2" creationdate="20200619T200704Z">
@@ -269,6 +277,14 @@
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200612T204337Z" creationid="nivaca" creationdate="20200610T232142Z">
         <seg>Sobre la distinción de la tierra en lugares habitables y no habitables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>De diversitate loci et distantia sui ad orbem proveniente.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200619T201328Z" creationid="mateovo2" creationdate="20200619T201328Z">
+        <seg>Sobre la diversidad del lugar, la cual es proveniente a partir de su distancia al orbe  </seg>
       </tuv>
     </tu>
     <tu>
@@ -601,6 +617,14 @@
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200619T195429Z" creationid="mateovo2" creationdate="20200619T195429Z">
         <seg>Y para los simples, en verdad, el lugar es debido de por sí, sin embargo, para los compuestos el lugar es debido por los simples, y estos tienen movimiento hacia sus lugares naturales y por fuera de sus lugares, se corrompen. Y, en verdad, el lugar de los simples es simple, pero el lugar de los compuestos es compuesto;  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Ex his autem omnibus manifestum est quorum sit locus proprie, et quod locus per virtutes quas habet in se superficies locans, generationis est principium et conservationis corporis quod locatur in ipso.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200619T201219Z" creationid="mateovo2" creationdate="20200619T201219Z">
+        <seg>Ahora bien, a partir de todo esto es manifiesto: de qué cosas es el lugar en sentido propio y qué lugar, por las fuerzas que en sí tiene la superficie que localiza, es principio de la generación y de la conservación del cuerpo que localiza en él mismo. </seg>
       </tuv>
     </tu>
     <tu>

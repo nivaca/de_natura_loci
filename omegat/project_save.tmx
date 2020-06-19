@@ -578,6 +578,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>No se entiende la expresión "es debido de por sí".</note>
+      <tuv lang="la">
+        <seg>Et simplicibus quidem locus debetur per se, compositis autem locus debetur per simplicia: et haec motus habent ad sua loca naturales, et extra sua loca corrumpuntur: et locus quidem simplicium est simplex, locus autem compositorum est compositus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200619T195429Z" creationid="mateovo2" creationdate="20200619T195429Z">
+        <seg>Y para los simples, en verdad, el lugar es debido de por sí, sin embargo, para los compuestos el lugar es debido por los simples, y estos tienen movimiento hacia sus lugares naturales y por fuera de sus lugares, se corrompen. Y, en verdad, el lugar de los simples es simple, pero el lugar de los compuestos es compuesto;  </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="la">
         <seg>Ex omnibus autem his rationibus patet veram esse sententiam quam tres Philosophi communiter tradiderunt, scilicet Avicenna et Averroes et Moyses Aegyptius, quod scilicet locus sub determinata distantia a caelo causat formas elementorum: et ideo elementa moventur determinata ad talem determinatam distantiam loci sub orbe propter loci et locati contrarietatem.</seg>
       </tuv>
@@ -1149,6 +1158,14 @@ Y entonces convendría que aquel espacio desde ambos polos frente a ambos trópi
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T232336Z" creationid="andrealozanov" creationdate="20200611T232336Z">
         <seg>Ahora bien, la similitud y la disimilitud de los lugares y de las virtudes formativas, que se dan a partir del lugar, pueden ser advertidas máximamente en la materia por el indicio en cierto género de imán, que en un extremo repele el hierro y en el otro lo atrae;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Simplex enim corpus habet locari in simplici concavo corporis in quo est generatio ipsius, et ad quem est motus ipsius: et a quo si moveatur, festinat ad corruptionem [B531a], sicut in Physicis determinavimus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200619T195630Z" creationid="mateovo2" creationdate="20200619T195630Z">
+        <seg>en efecto, el cuerpo simple tiene localización en la concavidad simple del cuerpo, en la que se da su generación y hacia la que se da su movimiento, y de la que, si es movido, se apresurará a la corrupción, así como establecimos en los *Físicos*.  </seg>
       </tuv>
     </tu>
     <tu>

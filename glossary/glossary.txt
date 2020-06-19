@@ -66,3 +66,5 @@ concavum	concavidad
 contingunt	tener contacto
 immutat	alterar
 essentiae	esencia
+simplicia	simples (cuerpos, elementos, cosas)
+composita	compuestos (cuerpos, elementos, cosas)

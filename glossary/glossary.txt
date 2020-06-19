@@ -62,3 +62,4 @@ ostendimus	mostramos
 distinctione	diferenciación/distinción ??
 convenit	conviene
 communiter	en general
+concavum	concavidad

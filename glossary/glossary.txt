@@ -82,3 +82,4 @@ tradiderunt	legaron
 tractatio	legado
 humorum	humor
 Quantitates	extensiones
+comparitatem	congruencia

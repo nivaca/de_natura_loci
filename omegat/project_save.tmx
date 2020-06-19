@@ -926,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Ostendunt autem haec homines loca sua mutantes secundum contraria climata, qui propter loci inconnaturalitatem infirmantur et destruuntur: et quando redeunt ad loca nativa, recipiunt sanitatem.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200619T200904Z" creationid="mateovo2" creationdate="20200619T200904Z">
+        <seg>Ahora bien, esto lo muestran los hombres que cambian sus lugares en climas contrarios, puesto que por la no connaturalidad del lugar se debilitan y se quedan atrás, y cuando se devuelven a sus lugares nativos, recobran la salud.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Primo autem modo nec generabilia nec corruptibilia sunt in loco: omnia autem corpora praeter primum corpus habent extra se aliquod ambiens corpus, circa quod circumscribitur quantitas ipsorum.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200619T194329Z" creationid="mateovo2" creationdate="20200619T194329Z">
@@ -970,6 +978,15 @@
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T225951Z" creationid="andrealozanov" creationdate="20200611T225951Z">
         <seg>Por esta causa varían las naturalezas y las propiedades y las costumbres y los actos y las especies de estas cosas, que parecen ser generadas en el mismo lugar sensible, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Debería ser "que nunca se encuentra que", no?</note>
+      <tuv lang="la">
+        <seg>Quaedam autem animalia etiam virtutem generationis amittunt ex loci inconnaturalitate, sicut elephantes extra primum et secundum clima raro generant, nec inveniuntur umquam generasse ultra quartum: et similiter leones qui in sexto et septimo climate numquam generasse inveniuntur.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200619T201028Z" creationid="mateovo2" creationdate="20200619T201028Z">
+        <seg>Ahora bien, ciertos animales incluso pierden la fuerza de la generación por la no connaturalidad del lugar, así como los elefantes por fuera del primer y del segundo clima que pocas veces se reproducen y no se encuentran nunca elefantes que se hayan reproducido más allá del cuarto; y de manera similar los leones, que nunca se encuentran* que se hayan reproducido en el sexto y séptimo clima.  </seg>
       </tuv>
     </tu>
     <tu>

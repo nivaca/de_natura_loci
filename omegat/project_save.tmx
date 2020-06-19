@@ -53,6 +53,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="la">
+        <seg>Alio autem modo locus dicitur concavum superficiei ad quod est motus alterius corporis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200619T194241Z" creationid="mateovo2" creationdate="20200619T194241Z">
+        <seg>Sin embargo, de otro modo se llama "lugar" la concavidad de la superficie hacia la que se da el movimiento de algún cuerpo. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>OJO: no coincide el texto</note>
       <tuv lang="la">
         <seg>Amplius accessus solis proximus facit calorem, et recessus facit frigus: est autem medium inter calidum et frigidum temperatum: ergo in medio accessu et recessu loca illa erunt temperata, et sic habitationi congrua.</seg>
@@ -847,6 +855,14 @@
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T191741Z" creationid="mateovo2" creationdate="20200616T191741Z">
         <seg>Por lo tanto, conviene que incluso así suceda en la ciencia de los lugares.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Primo autem modo nec generabilia nec corruptibilia sunt in loco: omnia autem corpora praeter primum corpus habent extra se aliquod ambiens corpus, circa quod circumscribitur quantitas ipsorum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200619T194329Z" creationid="mateovo2" creationdate="20200619T194329Z">
+        <seg>Y, por cierto, del primer modo muchos cuerpos, ni generables ni corruptibles, están en un lugar; en efecto, todos los cuerpos, salvo el primer cuerpo, tienen fuera de sí algún cuerpo circundante, dentro del cual se circunscribe su magnitud. </seg>
       </tuv>
     </tu>
     <tu>

@@ -65,3 +65,4 @@ communiter	en general
 concavum	concavidad
 contingunt	tener contacto
 immutat	alterar
+essentiae	esencia

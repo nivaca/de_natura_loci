@@ -214,6 +214,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>"Distinctione" la teníamos anotada para traducirla como "distinción". Acá está como "diferenciación".</note>
+      <tuv lang="la">
+        <seg>De distinctione locorum, ut sciatur cujus loci hic investigetur diversitas.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200619T193735Z" creationid="mateovo2" creationdate="20200619T193735Z">
+        <seg>Sobre la diferenciación* de los lugares, para que se sepa de qué lugar se indaga aquí la diversidad. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="la">
         <seg>De distinctione terrae per loca habitabilia et non habitabilia.</seg>
       </tuv>

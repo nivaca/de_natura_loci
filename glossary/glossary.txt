@@ -68,3 +68,5 @@ immutat	alterar
 essentiae	esencia
 simplicia	simples (cuerpos, elementos, cosas)
 composita	compuestos (cuerpos, elementos, cosas)
+debetur	deber
+determinavimus	establecer

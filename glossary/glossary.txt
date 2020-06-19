@@ -76,3 +76,8 @@ relativa	referida a
 convalescit	desarrollar
 clima	clima
 cultura	cultivo
+comparationis	relación
+habitudine	disposición
+tradiderunt	legaron
+tractatio	legado
+humorum	humor

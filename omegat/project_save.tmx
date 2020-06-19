@@ -135,6 +135,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Corpora vero simplicia quae rectum habent motum, et composita ex ipsis secundum naturam locum habent ad quem est motus eorum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200619T195316Z" creationid="mateovo2" creationdate="20200619T195316Z">
+        <seg>Pero los cuerpos simples, que tienen movimiento recto, y los compuestos a partir de estos tienen un lugar según la naturaleza, hacia el que se da su movimiento. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Cujus causa est perfectio, quia aves leves sunt et carnes earum leviores sunt in genere aliis carnibus: propter quod etiam saniores a peritis medicorum judicantur: et leves autem sunt ex multo aere et spirituali quod est in eis: et ideo locus earum est aeris ut frequenter Pisces [B537a] autem qui frigidi sunt, materiam habent aquam spissam et pinguescentem et viscosam in genere, et ex tali connaturalitate aquam pro habitatione ab ordinante natura acceperunt.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T225358Z" creationid="andrealozanov" creationdate="20200611T225358Z">
@@ -1182,6 +1190,14 @@ Y entonces convendría que aquel espacio desde ambos polos frente a ambos trópi
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T164832Z" creationid="andrealozanov" creationdate="20200303T182726Z">
         <seg>Tratado primero sobre la latitud y la longitud del lugar según la distancia de la esfera terrestre. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Talia igitur corpora proprie loquendo non locum habent, sed locus sunt corporum aliorum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200619T195220Z" creationid="mateovo2" creationdate="20200619T195220Z">
+        <seg>Por lo tanto, tales cuerpos, hablando propiamente, no tienen lugar sino que son el lugar de los otros cuerpos. </seg>
       </tuv>
     </tu>
     <tu>

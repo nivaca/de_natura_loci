@@ -74,3 +74,5 @@ connaturalia	connaturales
 contrarietas	contrariedad
 relativa	referida a
 convalescit	desarrollar
+clima	clima
+cultura	cultivo

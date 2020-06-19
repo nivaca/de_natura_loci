@@ -851,6 +851,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Primum autem quod scire convenit, est quod locus dupliciter sumitur.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200619T193849Z" creationid="mateovo2" creationdate="20200619T193849Z">
+        <seg>Ahora bien, lo primero que conviene saber es que el lugar se toma de dos modos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Propter quod etiam a Peripateticis probatioribus locus inter principia naturae enumeratur.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T175606Z" creationid="mateovo2" creationdate="20200616T175606Z">
@@ -1141,6 +1149,14 @@ Y entonces convendría que aquel espacio desde ambos polos frente a ambos trópi
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200612T210221Z" creationid="nivaca" creationdate="20200610T232207Z">
         <seg>una, por cierto, es la que distingue toda la tierra en cinco regiones o zonas, las que plantean Platón, Pitágoras, Homero, así como otros muchos autores;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Uno enim modo dicitur locus communiter omne corpus ambiens extrinsecus alterum corpus ratione superficiei continentis et tangentis ipsum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200619T194119Z" creationid="mateovo2" creationdate="20200619T194119Z">
+        <seg>De un modo, en efecto, se llama "lugar en general" todo cuerpo circundante externo a otro cuerpo por causa de la superficie que lo contiene y lo toca. </seg>
       </tuv>
     </tu>
     <tu>

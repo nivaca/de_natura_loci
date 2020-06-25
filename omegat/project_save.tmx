@@ -248,6 +248,16 @@
       </tuv>
     </tu>
     <tu>
+      <note>Acá sucede lo mismo con "convenientia".
+Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "conviene".</note>
+      <tuv lang="la">
+        <seg>Cum igitur convenientia et generalitas sit inter locum et locatum, et ignis inter elementa magis convenit cum caelo, oportet quod inter elementa ignis in concavo ultimo orbis locetur.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T170217Z" creationid="mateovo2" creationdate="20200625T170217Z">
+        <seg>por lo tanto, puesto que la conveniencia/concordancia* y la connaturalidad se dan entre el lugar y lo localizado y el fuego concuerda* más con el cielo entre los elementos, conviene que entre los elementos solo el fuego se localice en la última concavidad del cielo. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="la">
         <seg>Cum igitur ex motione horizontis necesse sit mutari totum circulum, et ex mutatione circuli mutetur tota figura radiorum, et etiam quodlibet punctum habitabilis unum speciale centrum constituat horizontis, necessario consequitur quodlibet punctum habitationis habere virtutes speciales quibus informatur id quod locatur in ipso.</seg>
       </tuv>
@@ -1151,6 +1161,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200619T193849Z" creationid="mateovo2" creationdate="20200619T193849Z">
         <seg>Ahora bien, lo primero que conviene saber es que el lugar se toma de dos modos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Propter hoc autem et his similia multa videtur et est irrationalis opinio quorumdam dicentium nullum superius esse ignem, sed aerem usque ad sidera extendi: et est inconveniens ratio quam ad hoc inducunt dicentes esse inutilem, cum ad mixtionem [C5a] aliorum faciendam corporum et generationem perficiendam non possit descendere: eo quod secundum naturam semper sit superius: nec videmus animal quod ipsum per violentiam possit inclinare deorsum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T170326Z" creationid="mateovo2" creationdate="20200625T170326Z">
+        <seg>Ahora bien, por estas cosas y muchas similares a estas, es irracional la opinión de ciertos que dicen que nada es superior al fuego, salvo el aire que se extiende más allá hacia las estrellas. Y es inconveniente la razón que establecen sobre esto los que dicen aquí que el fuego es inútil, puesto que no puede descender para crear una mezcla de otros cuerpos y para completar la generación, debido a que su lugar es superior y no vemos nada que pueda inclinarlo para abajo por violencia.  </seg>
       </tuv>
     </tu>
     <tu>

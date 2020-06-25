@@ -1026,6 +1026,15 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
       </tuv>
     </tu>
     <tu>
+      <note>Acá tenemos nota para revisar la traducción de "subiecto".</note>
+      <tuv lang="la">
+        <seg>Licet enim idem subjecto sit medium terrae et medium mundi, non tamen in quantum est medium terrae, est medium mundi, sicut in Caelo et Mundo ostendimus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T170900Z" creationid="mateovo2" creationdate="20200625T170900Z">
+        <seg>en efecto, aunque por lo referido sea lo mismo* el medio del mundo y el medio de la tierra, sin embargo, el movimiento hacia este es propio de la tierra, en cuanto es el medio del mundo y no en cuanto es el medio de la tierra, así como se mostró en *Sobre el cielo y el mundo*.  </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="la">
         <seg>Locans autem et locatum sunt tria corpora reliqua elementorum.</seg>
       </tuv>

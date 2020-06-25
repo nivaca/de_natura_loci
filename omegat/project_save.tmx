@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="la">
+        <seg>Ad aliorum autem generationem virtus ejus adducit per radios solis, et quarumdam aliarum stellarum, sicut ostendemus in libro Meteororum: et quia nos hunc errorem in aliis locis destruximus et in aliis libris adhuc destruemus, convertamus nos nunc ad alia quae de distinctione locorum dicere intendimus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T170533Z" creationid="mateovo2" creationdate="20200625T170533Z">
+        <seg>Además, en relación con la generación de los otros, su virtud es conducida por los rayos del sol y de algunas otras estrellas, así como mostramos en el libro de los *Meteoros*. Y puesto que nosotros destruimos este error en otros lugares y una vez más lo destruiremos en otros libros, ahora nosotros volquémonos hacia otras cosas que pensamos decir sobre la distinción de los lugares.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Ad ea autem quae inducta sunt, facilis est determinatio per ante dicta.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T235259Z" creationid="nivaca" creationdate="20200610T235259Z">
@@ -872,6 +880,15 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
       </tuv>
     </tu>
     <tu>
+      <note>Acá sí estamos traduciendo "simplex" o "simpliciter" como "absoluto/en sentido absoluto".</note>
+      <tuv lang="la">
+        <seg>Hoc enim monstratur multis rationibus: est enim hoc simplex deorsum: et sic grave simpliciter habet moveri ad ipsum sicut ad locum proprium: est enim terra [B533a] spissius et inferius secundum naturam: et ratione istius proprietatis debetur ei locus remotior a loco ignis: et sic debetur ei centrum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T170659Z" creationid="mateovo2" creationdate="20200625T170659Z">
+        <seg>en efecto, esto se muestra por muchas razones: en efecto, este es el abajo absoluto*, y así lo que es grave en sentido absoluto* tiene que ser movido hacia este como hacia su lugar. Además, la tierra es el elemento más denso y más frío según la naturaleza, y en razón de una y otra de estas propiedades se debe a ella el lugar más remoto frente al lugar del fuego, y así se debe a este el centro del mundo;  </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="la">
         <seg>Ideo oportet scire naturam locorum et causam diversitatis ipsorum.</seg>
       </tuv>
@@ -1120,6 +1137,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T191741Z" creationid="mateovo2" creationdate="20200616T191741Z">
         <seg>Por lo tanto, conviene que incluso así suceda en la ciencia de los lugares.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Ostendemus autem quod centrum est locus terrae: et centrum illud quod est locus terrae, est mundi centrum, ad quod secundum naturam movetur terra.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T170554Z" creationid="mateovo2" creationdate="20200625T170554Z">
+        <seg>Ahora bien, mostramos que el centro es el lugar de la tierra y aquel centro que es el lugar de la tierra es el centro del mundo, al que la tierra se mueve según la naturaleza;  </seg>
       </tuv>
     </tu>
     <tu>

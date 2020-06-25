@@ -394,6 +394,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Est autem loci duplex distinctio.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T162847Z" creationid="mateovo2" creationdate="20200625T162847Z">
+        <seg>Ahora bien, hay una doble distinción del lugar: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Est autem perfectissimus omnium motuum motus localis, ut probatum est Physicis et in Caelo et Mundo: quare propter ipsum oportet esse aliquid divinissimum et optimum secundum naturam rei.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T221035Z" creationid="andrealozanov" creationdate="20200611T221035Z">

@@ -443,6 +443,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Est autem motus ad locum connaturalem et proprium.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T165731Z" creationid="mateovo2" creationdate="20200625T165731Z">
+        <seg>sin embargo, hay un movimiento hacia el lugar connatural y propio; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Est autem perfectissimus omnium motuum motus localis, ut probatum est Physicis et in Caelo et Mundo: quare propter ipsum oportet esse aliquid divinissimum et optimum secundum naturam rei.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T221035Z" creationid="andrealozanov" creationdate="20200611T221035Z">
@@ -1010,6 +1018,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Locus igitur ignis erit in concavo lunae super omnia corpora habentia motum rectum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T165745Z" creationid="mateovo2" creationdate="20200625T165745Z">
+        <seg>por lo tanto, el lugar del fuego estará en la concavidad de la luna sobre todos los cuerpos que tienen movimiento recto. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Magis autem perspicuum hoc est in plantis: eo quod videmus quasdam plantarum in uno loco convalescere, quae si ad clima proximum transferantur, nulla cultura [B531b]convalescere possunt.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200619T201156Z" creationid="mateovo2" creationdate="20200619T201156Z">
@@ -1102,6 +1118,15 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200619T200904Z" creationid="mateovo2" creationdate="20200619T200904Z">
         <seg>Ahora bien, esto lo muestran los hombres que cambian sus lugares en climas contrarios, puesto que por la no connaturalidad del lugar se debilitan y se quedan atrás, y cuando se devuelven a sus lugares nativos, recobran la salud.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Acá tenemos duda de cómo traducir "convenientia". Tenemos las opciones de "conveniencia" y "concordancia", pero según el glosario después lo tradujimos como "confluencia".</note>
+      <tuv lang="la">
+        <seg>Perspicuus etiam est ignis sicut apparet ex eo quod non tegit nobis corpora quae sunt super ipsum: et est inter caetera elementa magis perspicuus, eo quod est omnibus subti[B532b]lior et rarior: perspicuum autem in omni corpore est ex convenientia cum perpetuo superius corpori caelesti, sicut dicit Aristoteles in secundo libro de Anima.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T170058Z" creationid="mateovo2" creationdate="20200625T170058Z">
+        <seg>Incluso, el fuego es transparente, así como es evidente a partir de esto: que no cubre con una nube los cuerpos que están sobre él, y es el más transparente entre los demás elementos, debido a que es más sutil y más raro entre todos; sin embargo, la transparencia se da en todo cuerpo a partir de la conveniencia/concordancia* con el cuerpo celeste perpetuo superior, así como dice Aristóteles en el segundo de sus libros *Sobre el alma*; </seg>
       </tuv>
     </tu>
     <tu>

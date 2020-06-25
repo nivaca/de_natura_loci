@@ -87,3 +87,5 @@ respectu	respecto
 caliditate	calidez
 absolute	de manera absoluta
 formalior sit	fungir más de forma
+formalior	formadora
+in summo	en grado sumo

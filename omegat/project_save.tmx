@@ -669,6 +669,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Ex motu quidem: quoniam sicut in Caelo et Mundo dictum est, ignis movetur super omnia absolute elementa.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T163839Z" creationid="mateovo2" creationdate="20200625T163839Z">
+        <seg>Ciertamente, [es] a partir del movimiento, puesto que, así como en *Sobre el cielo y el mundo* se dijo, el fuego se mueve de manera absoluta sobre todos los elementos;  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Ex omnibus autem his rationibus patet veram esse sententiam quam tres Philosophi communiter tradiderunt, scilicet Avicenna et Averroes et Moyses Aegyptius, quod scilicet locus sub determinata distantia a caelo causat formas elementorum: et ideo elementa moventur determinata ad talem determinatam distantiam loci sub orbe propter loci et locati contrarietatem.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T220941Z" creationid="andrealozanov" creationdate="20200611T220941Z">

@@ -85,3 +85,4 @@ Quantitates	extensiones
 comparitatem	congruencia
 respectu	respecto
 caliditate	calidez
+absolute	de manera absoluta

@@ -90,3 +90,5 @@ formalior sit	fungir más de forma
 formalior	formadora
 in summo	en grado sumo
 comparatae	relativo
+Perspicuus	transparente
+rarior	más raro

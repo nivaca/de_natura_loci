@@ -899,6 +899,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Haec igitur sub orbe sunt loca simplicium.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T172352Z" creationid="mateovo2" creationdate="20200625T172352Z">
+        <seg>Por lo tanto, estas bajo el orbe son los lugares de los elementos simples. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Hanc enim naturam videmus in parvo mundo qui est [C1b] quodlibet animatum.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T174235Z" creationid="mateovo2" creationdate="20200616T174235Z">
@@ -960,6 +968,15 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T222008Z" creationid="andrealozanov" creationdate="20200611T222008Z">
         <seg>Sin embargo, esto también es evidente por otra razón; si, en efecto, dos compuestos se encuentran en uno, y uno de esos componentes se encuentra sin el otro, es necesario también que el restante se encuentre sin el resto, así como fue determinado en el octavo de los Físicos que en aquellas cosas que se mueven y que mueven, en las que, puesto que lo movido tan solo se encuentra sin el que mueve, también conviene que el moviente se encuentre sin lo movido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Acá traducimos "convenientiam" por "conveniencia".</note>
+      <tuv lang="la">
+        <seg>Hoc autem rationabiliter accidit aquae et aeri propter hoc quod non simpliciter gravia sunt elementa, neque simpliciter levia: horum enim est moveri ad medium sui loci, et declinare ab extremis secundum naturae convenientiam.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T172339Z" creationid="mateovo2" creationdate="20200625T172339Z">
+        <seg>Además, esto les sucede razonablemente al agua y al aire debido a esto: no son graves de manera absoluta ni leves de manera absoluta; en efecto, es propio de estos el moverse hacia el centro de su lugar y el declinar desde los extremos según la conveniencia* de la naturaleza. </seg>
       </tuv>
     </tu>
     <tu>

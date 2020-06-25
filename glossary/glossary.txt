@@ -93,3 +93,5 @@ comparatae	relativo
 Perspicuus	transparente
 rarior	más raro
 inconveniens	inconveniente
+detrahi	quitarse
+comparationem	por relación

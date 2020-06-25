@@ -701,6 +701,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Ex subtilitate autem: quoniam licet omne corpus secundum rationem divisibile sit in infinitum, tamen materia quatuor elementorum non potest subtiliari amplius quam subtiliata sit sub forma ignis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T164047Z" creationid="mateovo2" creationdate="20200625T164047Z">
+        <seg>Además, [es] a partir de la sutilidad, puesto que, aunque según la razón todo cuerpo es indivisible hacia el infinito, sin embargo, según el ser la materia de los cuatro elementos no se puede hacer más sutil que la sutilidad que se da bajo la forma del fuego; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Gressibilia autem gravia sunt et terrestria: propter quod in terra morantur sicut in loco habitationis suae congruo.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T225643Z" creationid="andrealozanov" creationdate="20200611T225643Z">
@@ -955,6 +963,16 @@
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200612T215915Z" creationid="nivaca" creationdate="20200610T233107Z">
         <seg>Ahora bien, dicen que el lugar es inhabitable a partir del mar, porque la reflexión del rayo que se refracta en sí, y que es muy cálido sucede frente a los litorales por estar rodeado de este tipo de mar, esta reflexión multiplica el calor en el litoral e incendia el litoral y lo hace inconveniente para la habitación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Acá está la duda de cómo traducir "simpliciter". Están las dos opciones "de modo simple, de manera absoluta"
+Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos, y dijimos que no tiene sentido hablar acá de "orbe de la luna".</note>
+      <tuv lang="la">
+        <seg>Locus autem qui simpliciter est super omnia tria elementa, concavum est orbis lunae.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T164010Z" creationid="mateovo2" creationdate="20200625T164010Z">
+        <seg>sin embargo, el lugar, que de modo simple/ de manera absoluta* está sobre todos los tres elementos, es la concavidad de la circunferencia* de la luna. </seg>
       </tuv>
     </tu>
     <tu>

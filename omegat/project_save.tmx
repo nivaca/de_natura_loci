@@ -444,6 +444,14 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Eodem autem modo nec aqua verissima est quae tangit aerem, nec illa quae tangit terram, sed media inter haec.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T172146Z" creationid="mateovo2" creationdate="20200625T172146Z">
+        <seg>Además, de la misma manera, ni es la más verdadera el agua que toca el aire, ni aquella que toca la tierra, sino la que está en el medio entre estas;  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Ergo ibi locatur quod verissime est ignis: quod autem in medio et infimo est ejusdem spatii, non adeo attingit ignis naturam, sed secundum minus.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200625T171558Z" creationid="mateovo2" creationdate="20200625T171541Z">
@@ -1656,6 +1664,15 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200619T195220Z" creationid="mateovo2" creationdate="20200619T195220Z">
         <seg>Por lo tanto, tales cuerpos, hablando propiamente, no tienen lugar sino que son el lugar de los otros cuerpos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Acá sí sale "in summo" y lo tradujimos como "en lo más alto", en vez de "en grado sumo".</note>
+      <tuv lang="la">
+        <seg>Tangens enim aerem in summo loci sui dulcis et subtilis est propter aeris admixtionem, et tangens terram in infimo loco sui turbulenta est valde et forte pontica vel salsa propter terrestre [C6a] quod commixtum est ei, sed media insipida est veram habens aquae naturam.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T172253Z" creationid="mateovo2" creationdate="20200625T172253Z">
+        <seg>en efecto, la que toca el aire en lo más alto* de su lugar es dulce e incluso sutil por la mezcla del aire, y la que toca la tierra en lo más bajo de su lugar es turbulenta y probablemente marina o salada por lo terrestre, que se le mezcla, pero la que está en el medio, que tiene la verdadera naturaleza del agua, es insípida. </seg>
       </tuv>
     </tu>
     <tu>

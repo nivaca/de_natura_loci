@@ -257,6 +257,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Cum enim ignis sit ascendere sursum, verissime et principalissime attingit illa pars materiae formam ignis, quae usque ad altissimum loci elevatur.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T171358Z" creationid="mateovo2" creationdate="20200625T171358Z">
+        <seg>en efecto, aunque el ascender hacia arriba sea propio del fuego, muy verdadera y principalmente aquella parte de la materia alcanza la forma del fuego, que se eleva hasta lo más alto del lugar;  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Cum enim omnis radius incidens reflectatur ad parem sive aequalem angulum, oportet necessario, quod radius incidens alicui terrae perpendiculariter in seipsum reflectatur: in seipsum autem reflexus radius causat adustionem, sicut probatur in Prospectivis.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200619T212326Z" creationid="nivaca" creationdate="20200610T233705Z">
@@ -424,6 +432,14 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T215850Z" creationid="andrealozanov" creationdate="20200611T215850Z">
         <seg>Sin embargo, dos de estos lugares son extremos absolutamente y dos son medios. Y así los medios, por la fácil mezcla demás los elementos medios, fueron diferenciados por los filósofos como intersticios; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Est autem altissimum loci ignis in concavo orbis ultimi.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T171418Z" creationid="mateovo2" creationdate="20200625T171418Z">
+        <seg>sin embargo, lo más alto del lugar del fuego está en contacto con la concavidad del orbe último; </seg>
       </tuv>
     </tu>
     <tu>
@@ -1374,6 +1390,15 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T235106Z" creationid="nivaca" creationdate="20200610T235106Z">
         <seg>Pero es necesario distinguir por qué bajo el trópico del verano, por las razones aducidas arriba, no puede existir una habitación continua y agradable, sino que algunas veces es placentera y en otros momentos, dificultosa y no placentera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Acá pasa otra vez lo de "orbis" por "circunferencia".</note>
+      <tuv lang="la">
+        <seg>Sed in his [C5b] locis elementorum magna est differentia: quia cum locus ignis sit concavum superficiei orbis lunae usque ad convexum aeris, non est hoc spatium totum aequaliter locus ignis, sed quasi principaliter et per posterius.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T171445Z" creationid="mateovo2" creationdate="20200625T171337Z">
+        <seg>Pero en estos lugares de los elementos la diferencia es grande, puesto que, aunque el lugar del fuego sea la concavidad de la superficie de la circunferencia* de la luna hasta lo convexo del aire, no es este espacio en su totalidad igualmente el lugar del fuego, sino casi principalmente y hacia el final; </seg>
       </tuv>
     </tu>
     <tu>

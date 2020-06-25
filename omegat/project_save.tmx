@@ -978,6 +978,14 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Inducunt etiam, quod cum ignis in se lux sit, ut videntur quidam Philosophi dicere, quod deberet videri et apparere, praecipue nocte quando non tegitur radio solis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T170342Z" creationid="mateovo2" creationdate="20200625T170342Z">
+        <seg>Incluso establecen, puesto que el fuego en sí es luz, como ciertos filósofos parecen decir, que debería ser visto y aparecer, en mayor grado por la noche, cuando no se encubre por el rayo del sol. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Invenimus enim aliquod compositum quod est locans et locatum simul, et invenimus aliquod locatum tantum, oportet igitur esse aliquid locans tantum: et sicut in illis id quod est tantum movens, est causa motus in omnibus aliis, ita necesse est quod id quod est locus tantum, sit causa localitatis in omnibus aliis: nullum autem corpus locus est tantum nisi caelum, sicut patet ex dictis: igitur oportet quod ratio locationis sit in omnibus aliis a caelo.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T222536Z" creationid="andrealozanov" creationdate="20200611T222536Z">
@@ -1259,6 +1267,15 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200610T234747Z" creationid="nivaca" creationdate="20200610T234747Z">
         <seg>Sin embargo, de la misma manera, casi tanta latitud del segundo clima está situada entre el trópico equinoccial y el estival cuya latitud es 24 grados, cuanta inclinación del sol hay desde el círculo equinoccial según Ptolomeo, y hay en este muchas ciudades famosas y renombradas, cuyos múltiples habitantes han llegado hasta nosotros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Acá tenemos una marca, para revisar la traducción de "ad vicariam".</note>
+      <tuv lang="la">
+        <seg>Sed ad hoc facile est respondere, quod ignis ad vicariam facit elementorum generationem in contactu aeris ad ipsum, sicut ostendi habet in libro Peri geneseos.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T170446Z" creationid="mateovo2" creationdate="20200625T170446Z">
+        <seg>Pero frente a estas cosas es fácil responder, porque el fuego por delegación* hace la generación de los elementos en el contacto del aire con él, como se tiene demostrado en el libro *Sobre la generación*.  </seg>
       </tuv>
     </tu>
     <tu>

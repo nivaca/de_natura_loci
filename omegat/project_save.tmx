@@ -86,6 +86,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>Acá traducimos "simplicis" como "absoluta".</note>
+      <tuv lang="la">
+        <seg>Amplius autem hoc ostenditur ex levitatis et simplicitatis diffinitione, quam in Caelo et Mundo determinavimus: si enim levitatis comparatae est moveri super corpora quaedam, levitatis simplicis erit moveri super omnia generabilia corpora.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T165708Z" creationid="mateovo2" creationdate="20200625T165708Z">
+        <seg>Además, más ampliamente, esto es mostrado a partir de la definición de levedad simple, que en *Sobre el cielo y el mundo* determinamos; si, en efecto, el moverse de la levedad relativa se da sobre cierto cuerpo, el moverse de la levedad absoluta* se daría sobre todos los cuerpos generados;   </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="la">
         <seg>Amplius autem omnia corpora rectarum dimensionum moventur ad loca sua sicut ad generationis ipsorum principium aliquod, et sicut ad principium conservationis ipsorum aliquod.</seg>
       </tuv>
@@ -1005,6 +1014,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200619T201156Z" creationid="mateovo2" creationdate="20200619T201156Z">
         <seg>Sin embargo, esto es más claro en las plantas, por lo que vemos que algunas de las plantas en un cierto lugar se desarrollan, las que, si son transplantadas a un clima próximo, por ningún cultivo se pueden desarrollar.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Materia igitur vicinissima orbi, calida est in summo: et ideo concavum orbis ultimi proprius locus est eisdem.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T165311Z" creationid="mateovo2" creationdate="20200625T165311Z">
+        <seg>por lo tanto, la materia más próxima al orbe es cálida en grado sumo, y por esto la concavidad del orbe último es el lugar más propio para esta. </seg>
       </tuv>
     </tu>
     <tu>

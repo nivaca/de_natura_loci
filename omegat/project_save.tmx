@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="la">
+        <seg>Accidit autem eidem, quod remotissime sub alia descendit in medio terrae: quia secundum quod locus ignis et terrae contrarii accipiuntur, sunt extrema in quae sunt motus contrarii, et alteri horum extremorum accidit quod sit medium, per hoc quod ipsum est medium mundi et non medium motus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T171849Z" creationid="mateovo2" creationdate="20200625T171849Z">
+        <seg>Además, a un extremo le sucede que lo que desciende más remotamente bajo los otros está en la mitad de la tierra, puesto que en la medida en que el lugar del fuego y de la tierra son entendidos como contrarios, son los extremos entre los que se dan los movimientos contrarios, y al otro de estos extremos le sucede que es el medio porque este mismo es el medio del mundo y no el medio del movimiento. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Ad aliorum autem generationem virtus ejus adducit per radios solis, et quarumdam aliarum stellarum, sicut ostendemus in libro Meteororum: et quia nos hunc errorem in aliis locis destruximus et in aliis libris adhuc destruemus, convertamus nos nunc ad alia quae de distinctione locorum dicere intendimus.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200625T170533Z" creationid="mateovo2" creationdate="20200625T170533Z">
@@ -1245,6 +1253,15 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200619T200904Z" creationid="mateovo2" creationdate="20200619T200904Z">
         <seg>Ahora bien, esto lo muestran los hombres que cambian sus lugares en climas contrarios, puesto que por la no connaturalidad del lugar se debilitan y se quedan atrás, y cuando se devuelven a sus lugares nativos, recobran la salud.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Otra vez tradujimos "simpliciter" por "absolutamente". Creo que deberíamos cambiarlo siempre a absolutamente (si eso tiene sentido para el significado), pues es la traducción que más usamos.</note>
+      <tuv lang="la">
+        <seg>Per oppositum autem se habet in terra: quoniam ideo quod terra est simpliciter gravis, et se-[B533b]-cundum hoc sub omnibus descendit, erit verissime natura terrae locata in centro: et secundum quod partes terrae plus vel minus elongantur a centro, sic plus vel minus attingunt veram naturam terrae.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T171814Z" creationid="mateovo2" creationdate="20200625T171814Z">
+        <seg>Sin embargo, por oposición, en la tierra se tiene que, por la razón de que la tierra es grave absolutamente* y por esto desciende bajo todas las cosas, la naturaleza más verdadera de la tierra estará localizada en el centro, y en la medida en que las partes de la tierra estén alejadas más o menos del centro, así menos y más alcanzan la verdadera naturaleza de la tierra.  </seg>
       </tuv>
     </tu>
     <tu>

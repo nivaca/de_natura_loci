@@ -981,6 +981,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Ignis enim tangens aerem facit ipsum aestuosum siccum, cum de natura sua aer sit calidus et humidus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T172038Z" creationid="mateovo2" creationdate="20200625T172038Z">
+        <seg>en efecto, el fuego que toca el aire se hace a sí mismo cálido seco, puesto que el aire por su naturaleza es cálido y húmedo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Illud autem divinum quod sic est in loco, propter quod motus est ad ipsum quod a caelo sibi influitur, quod simpliciter est locus et non locatum, quidam vocant lucem: et ideo dicunt lucem esse firmamentum loci: eo quod mathematice loquentes basilica [B535b]vocant.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T221136Z" creationid="andrealozanov" creationdate="20200611T221136Z">
@@ -1018,6 +1026,15 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200619T200825Z" creationid="mateovo2" creationdate="20200619T200825Z">
         <seg>en efecto, en aquella concavidad se genera y se conserva y se desarrolla y, fuera de ella en una superficie cóncava que tiene cualidades contrarias a ésta, se disuelve y se corrompe.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Acá no está lo de "in summo". "Summo", sin la preposición, lo tradujimos "en lo más alto".</note>
+      <tuv lang="la">
+        <seg>In locis autem mediorum elementorum omnino dissimile est: verior enim aer non est qui tangit ignem in sui loci summo, neque qui tangit aquam in infimo sui loci, sed potius qui locatur in medio spatio sui loci.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T172022Z" creationid="mateovo2" creationdate="20200625T172022Z">
+        <seg>Ahora bien, en los lugares de los elementos medios es completamente disímil; en efecto, no es más verdadero el aire que toca el fuego en lo más alto* de su lugar ni el que toca el agua en lo más bajo de su lugar, sino más bien el que se localiza en el espacio medio de su lugar;  </seg>
       </tuv>
     </tu>
     <tu>
@@ -1566,6 +1583,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T214224Z" creationid="andrealozanov" creationdate="20200611T214224Z">
         <seg>En efecto, la materia de sí no tiene ningún lugar en absoluto; sin embargo, de manera similar la materia que está bajo la forma de un cuerpo, aunque esté circunscrita a un lugar, no exige, sin embargo, un lugar bajo una determinada diferencia de lugar, al que es movido según el lugar; sino que en razón de la forma substancial determinada que, en cuanto forma substancial es propia del cuerpo generable, es exigida por la diferencia determinada del lugar hacia la que se da el movimiento según el lugar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Similiter et aqua tangens ipsum in infimo facit ipsum nebulosum et incorporatum et grossum, et alienam humiditatem habentem, cum aer de natura sua sit humidi spiritualis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T172106Z" creationid="mateovo2" creationdate="20200625T172106Z">
+        <seg>Además, de la misma manera, también el agua que toca a este en lo más bajo lo hace nube que tiene humedad incorporada y gruesa y distinta, puesto que el aire por su naturaleza es de humedad ventosa.  </seg>
       </tuv>
     </tu>
     <tu>

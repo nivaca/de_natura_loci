@@ -61,6 +61,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="la">
+        <seg>Altera autem ex situ et respectu loci ad vias plurimorum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T163123Z" creationid="mateovo2" creationdate="20200625T163123Z">
+        <seg>la otra, sin embargo, a partir del sitio y el respecto del lugar frente a las vías de los planetas. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>OJO: no coincide el texto</note>
       <tuv lang="la">
         <seg>Amplius accessus solis proximus facit calorem, et recessus facit frigus: est autem medium inter calidum et frigidum temperatum: ergo in medio accessu et recessu loca illa erunt temperata, et sic habitationi congrua.</seg>
@@ -797,6 +805,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>Acá pasa otra vez lo de "orbe".</note>
+      <tuv lang="la">
+        <seg>Illud vero quod est locans tantum, est orbis in quo est virtus causativa omnium generatorum et corruptorum, sive sint simplicia, sive sint composita, sicut in ante habitis diximus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T163240Z" creationid="mateovo2" creationdate="20200625T163240Z">
+        <seg>Pero esto que es lo que tan solo localiza es el orbe*, en el que está la fuerza causativa de todas las cosas generadas y corruptas, bien sean las cosas simples, o bien sean las cosas compuestas, así como dijimos en lo antes tratado. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="la">
         <seg>Immutationes autem tales in elementis statim apparent ex modica etiam variatione vel mutatione stellarum, sed in elementatis non adeo cito perpenduntur: et hoc contingit ideo quod elementa parum distant a materia: et ideo facillime recipiunt impressiones omnium agentium in ea: sed elementata quasi victas et terminatas habent suas materias per suas formas, et ideo magis resistunt alterantibus agentibus in ea: tandem tamen necesse est, quod ipsa alterentur et corrumpantur finita periodo sui esse quod habent ex virtutibus circuli caelestis, sicut melius explanabitur in fine secundi Peri geneseos.</seg>
       </tuv>
@@ -970,6 +987,14 @@
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200619T200904Z" creationid="mateovo2" creationdate="20200619T200904Z">
         <seg>Ahora bien, esto lo muestran los hombres que cambian sus lugares en climas contrarios, puesto que por la no connaturalidad del lugar se debilitan y se quedan atrás, y cuando se devuelven a sus lugares nativos, recobran la salud.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Prima quidem est ex hoc: quia, sicut diximus, aliud corporum est locans tantum, alterum est locatum, et quoddam est locans et locatum secundum naturam.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T163154Z" creationid="mateovo2" creationdate="20200625T163154Z">
+        <seg>Y la primera ciertamente se da a partir de esto, como dijimos, porque entre los cuerpos una cosa es lo que tan solo localiza y otra es lo que tan solo es localizado y cierta otra es lo que localiza y lo localizado según la naturaleza. </seg>
       </tuv>
     </tu>
     <tu>

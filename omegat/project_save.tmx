@@ -1307,6 +1307,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>Acá estamos traduciendo "orbe" como "orbe", y antes lo habíamos traducido como "esfera terrestre".</note>
+      <tuv lang="la">
+        <seg>Una quidem causa est distantia sui ab orbe, qui vere locus est omnium secundum naturam locum habentium.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T163017Z" creationid="mateovo2" creationdate="20200625T163017Z">
+        <seg>una, ciertamente, causada a partir de su distancia al orbe*, que es verdaderamente el lugar de todas las cosas que tienen un lugar según la naturaleza;  </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="la">
         <seg>Una quidem quae distinguit terram totam in quinque plagas sive zonas, quas ponit Plato et Pythagoras et Homerus et plures alii auctores.</seg>
       </tuv>

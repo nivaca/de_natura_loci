@@ -84,3 +84,4 @@ humorum	humor
 Quantitates	extensiones
 comparitatem	congruencia
 respectu	respecto
+caliditate	calidez

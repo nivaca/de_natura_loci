@@ -671,6 +671,14 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Et locus quidem in concavo ignis est aeris, et locus in concavo aeris est aquae.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T171308Z" creationid="mateovo2" creationdate="20200625T171308Z">
+        <seg>Y, ciertamente, el lugar en la concavidad del fuego es el aire, y el lugar en la concavidad del aire es el agua. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Et partes hujus divisionis manifestae sunt ad sensum: concavum enim orbi lunae est locus [B532a] ignis, et attingit ipsum undique, sicut Peripatetici tradiderunt.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200625T163349Z" creationid="mateovo2" creationdate="20200625T163349Z">

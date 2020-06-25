@@ -436,10 +436,20 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Ergo ibi locatur quod verissime est ignis: quod autem in medio et infimo est ejusdem spatii, non adeo attingit ignis naturam, sed secundum minus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T171558Z" creationid="mateovo2" creationdate="20200625T171541Z">
+        <seg>por lo tanto, ahí se localiza lo que es muy verdaderamente el fuego. 
+Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alcanza en tal grado la naturaleza del fuego, sino en lo mínimo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Acá otra vez está lo "orbe" por "orbe".</note>
+      <tuv lang="la">
         <seg>Est autem altissimum loci ignis in concavo orbis ultimi.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200625T171418Z" creationid="mateovo2" creationdate="20200625T171418Z">
-        <seg>sin embargo, lo más alto del lugar del fuego está en contacto con la concavidad del orbe último; </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T171515Z" creationid="mateovo2" creationdate="20200625T171418Z">
+        <seg>sin embargo, lo más alto del lugar del fuego está en contacto con la concavidad del orbe* último; </seg>
       </tuv>
     </tu>
     <tu>
@@ -807,6 +817,15 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
       </tuv>
     </tu>
     <tu>
+      <note>Otra vez lo de "orbe".</note>
+      <tuv lang="la">
+        <seg>Ex utroque enim locorum probatur, quod vera natura ignis est, quae concavum orbis ubique tangit.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T171642Z" creationid="mateovo2" creationdate="20200625T171642Z">
+        <seg>en efecto, a partir de estas dos [propiedades] se prueba que la naturaleza verdadera del fuego es la que toca la concavidad del orbe* por todos lados </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="la">
         <seg>Gressibilia autem gravia sunt et terrestria: propter quod in terra morantur sicut in loco habitationis suae congruo.</seg>
       </tuv>
@@ -893,6 +912,14 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T200211Z" creationid="mateovo2" creationdate="20200616T200211Z">
         <seg>Por lo tanto, esto dijimos sobre las causas, después de que nosotros habláramos sobre los móviles hacia el lugar, convino ocuparnos de la diversidad de la naturaleza de los lugares y acerca de la causa de la diversidad y acerca de los accidentes para que la doctrina sobre los móviles hacia el lugar sea completada, cuando en particular se conozca la diversidad de los lugares.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Hoc autem declaratur per hoc quod ignis est clarissimum et subtilissimum corpus specie.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200625T171617Z" creationid="mateovo2" creationdate="20200625T171617Z">
+        <seg>Además, esto también se declara por esto: que el fuego es el más sutil y el más cálido entre los cuerpos por su especie; </seg>
       </tuv>
     </tu>
     <tu>

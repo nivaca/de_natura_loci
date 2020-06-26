@@ -1407,11 +1407,15 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
     </tu>
     <tu>
+      <note>Revisar "temperatum"
+Temperamentum como temperamento/lanza
+temperatam como temperado
+Hacer notas!</note>
       <tuv lang="la">
         <seg>Quintam autem asserunt rationem ex [B540b]conjecturis dicentes, quod omnis complexionati oportet temperatam esse habitationem: et non esse temperatum, nisi inter duo contraria intemperata: et ideo non esse habitationem aliquam nisi inter inhabitabilem propter frigus in parte una, et inhabitabilem propter calorem in parte alia.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20200610T234449Z" creationid="nivaca" creationdate="20200610T234449Z">
-        <seg>También ofrecen una quinta razón a partir de conjeturas al decir que conviene que haya un lugar habitable templado para todo compuesto y que no haya un espacio templado salvo entre dos contrarios no templados y por esto no hay algún espacio habitable salvo entre el inhabitable a causa del frío en una parte e inhabitable a causa del calor en la otra parte.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20200626T215325Z" creationid="nivaca" creationdate="20200610T234449Z">
+        <seg>También ofrecen una quinta razón a partir de conjeturas quienes dicen que es preciso que la habitación de todo lo compuesto sea temperada y que no haya temperamento salvo entre dos contrarios no temperados, y por esto no hay ninguna habitación salvo entre la inhabitable a causa del frío en una parte y la inhabitable a causa del calor en la otra parte.</seg>
       </tuv>
     </tu>
     <tu>

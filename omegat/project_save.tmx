@@ -1222,8 +1222,8 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       <tuv lang="la">
         <seg>Necesse est igitur in medio terrae aequinoctialem esse inhabitabilem propter calorem.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20200610T234532Z" creationid="nivaca" creationdate="20200610T234517Z">
-        <seg>[OJO]</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20200626T215729Z" creationid="nivaca" creationdate="20200610T234517Z">
+        <seg>Por lo tanto, es necesario que en medio de la tierra el equinoccial sea inhabitable a causa del calor. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1652,16 +1652,16 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>Sub utroque autem polorum necesse est esse inhabitabilem propter frigus.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200626T215542Z" creationid="nivaca" creationdate="20200610T234514Z">
-        <seg>Sin embargo, bajo cada uno y otro polo es necesario que haya un lugar inhabitable a causa del frío. .</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20200626T215603Z" creationid="nivaca" creationdate="20200610T234514Z">
+        <seg>Sin embargo, bajo uno y otro polo es necesario que haya un lugar inhabitable a causa del frío..</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="la">
         <seg>Sunt autem Ptolemaei et Avicennae rationes in contrarium.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20200610T234537Z" creationid="nivaca" creationdate="20200610T234537Z">
-        <seg>Hay sin embargo argumentos de Ptolomeo y Avicena para lo contrario.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20200626T215802Z" creationid="nivaca" creationdate="20200610T234537Z">
+        <seg>Hay, sin embargo, argumentos de Ptolomeo y Avicena en contra. </seg>
       </tuv>
     </tu>
     <tu>

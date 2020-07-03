@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="la"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="la"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24,8 +24,8 @@
       <tuv lang="la">
         <seg>Ad ea autem quae inducta sunt, facilis est determinatio per ante dicta.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20200610T235259Z" creationid="nivaca" creationdate="20200610T235259Z">
-        <seg>Además, con respecto a las cosas que se han aducido, la conclusión es fácil de entender.</seg>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200703T225502Z" creationid="nivaca" creationdate="20200610T235259Z">
+        <seg>Además, con respecto a las cosas que se han aducido, la conclusión es fácil de entender por lo dicho antes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130,8 +130,8 @@
       <tuv lang="la">
         <seg>Amplius stellarum effectus fortissimus est in loco in quo multiplicantur maxime [B541a] radii eorum.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20200610T234946Z" creationid="nivaca" creationdate="20200610T234946Z">
-        <seg>El efecto más amplio de las estrellas es fuertísimo en el lugar en el cual los rayos de estas se multiplican al máximo.</seg>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200703T204042Z" creationid="nivaca" creationdate="20200610T234946Z">
+        <seg>Además, el efecto de las estrellas es fuertísimo en el lugar en el cual los rayos de estas se multiplican al máximo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -317,8 +317,8 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
       <tuv lang="la">
         <seg>Cum igitur viae planetarum sint inter duos tropicos, erit ibi fortior vis stellarum: vis autem stellarum est in generatione: ergo erit in locis illis potissime generatio: non potest autem esse generatio nisi in loco habitationis generatorum: oportet igitur ibi esse habitationem congruam generatis.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20200610T235012Z" creationid="nivaca" creationdate="20200610T235012Z">
-        <seg>Así pues, cuando los caminos de los planetas están [situados] entre dos trópicos, allí será más fuerte la fuerza de las estrellas; la fuerza de las estrellas está generándose; luego su generación será fuertísima en esos lugares. No puede haber generación, si no es en el lugar de la habitación que [potencia] la generación. Conviene así pues que allí sea el lugar adecuado para la generación.</seg>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200703T210136Z" creationid="nivaca" creationdate="20200610T235012Z">
+        <seg>Por lo tanto, ya que las vías de los planetas están entre los dos trópicos, allí será más fuerte la fuerza de las estrellas; pero la fuerza de las estrellas se da en la generación; por lo tanto. la generación se dará especialmente en esos lugares. Pero, no puede haber generación, si no es en el lugar de la habitación de lo generado. Por lo tanto, es preciso que allí esté la habitación adecuada para lo generado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -594,8 +594,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Et haec est de locis illis traditio Avicennae et Ptolemaei in libro de Divisione locorum habitabilium.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20200610T235232Z" creationid="nivaca" creationdate="20200610T235232Z">
-        <seg>Y esta es la tradición de Avicena y Ptolomeo sobre esos lugares en el libro De las divisiones de los lugares habitables. </seg>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200703T223800Z" creationid="nivaca" creationdate="20200610T235232Z">
+        <seg>Y este es el legado de Avicena y Ptolomeo sobre esos lugares en el libro Sobre la división de los lugares habitables. </seg>
       </tuv>
     </tu>
     <tu>
@@ -650,8 +650,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Et ideo dixerunt quidam Philosophi locum illum temperatissimum omnium locorum, cui tamen dicto eorum non puto esse consentiendum.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20200610T235138Z" creationid="nivaca" creationdate="20200610T235138Z">
-        <seg>Y por esto, algunos filósofos lo han llamado el más temperado de los lugares; sin embargo yo no pienso que pueda asentir/ acordar con a su opinión,</seg>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200703T221740Z" creationid="nivaca" creationdate="20200610T235138Z">
+        <seg>Y por esto, algunos filósofos dijeron que aquel lugar es el más temperado de todo los lugares; sin embargo yo no pienso que haya que asentir a esto dicho por ellos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -812,8 +812,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Ex omnibus igitur his rationibus, multis magnis viris qui ante hoc nostrum opus fuerunt videtur, quod locus ubi torrida esse videbatur, sit habitabilis.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20200610T235043Z" creationid="nivaca" creationdate="20200610T235043Z">
-        <seg>Así pues, de entre todas estas razones, parece a muchos hombres ilustres, que vivieron antes de nuestros tiempos, que el lugar, que parecía ser cálido, es habitable.</seg>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200703T213818Z" creationid="nivaca" creationdate="20200610T235043Z">
+        <seg>Por lo tanto, a partir de todas tales razones, parecía a muchos hombres ilustres, que vivieron antes de nuestros tiempos, que el lugar donde a los antiguos les parecía que estaba la zona tórrida, es habitable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -925,8 +925,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Hic autem inducunt etiam ea quae de imaginibus dicta inveniuntur: haec enim maxime perfecta sunt in viis planetarum, in locis scilicet quae directe et perpendiculariter respiciunt.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20200610T235029Z" creationid="nivaca" creationdate="20200610T235029Z">
-        <seg>Aquí ¿? indican además aquellas palabras que aparecen sobre las imágenes; estas pues son especialmente perfectas en los caminos de los planetas, en lugares, parece, en los cuales miran directamente y perpendicularmente</seg>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200703T212746Z" creationid="nivaca" creationdate="20200610T235029Z">
+        <seg>Eso también lo indica lo que se encuentra dicho sobre las imagines; en efecto, estas están completas perfectamente en las vías de los planetas, a saber en los lugares que miran directa y perpendicularmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -951,8 +951,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Hoc autem est in viis planetarum.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20200610T234955Z" creationid="nivaca" creationdate="20200610T234955Z">
-        <seg>Este [fenómeno] sucede en los caminos de los planetas.</seg>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200703T205034Z" creationid="nivaca" creationdate="20200610T234955Z">
+        <seg>Ahora bien, este [fenómeno] se da en las vías de los planetas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1214,8 +1214,8 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       <tuv lang="la">
         <seg>Nec est verum quod inter [B541b]duo calidissima nullum sit temperatum: quia recessus solis causat frigus ex victoria inferiorum elementorum causatum: et ideo licet frigus non sit ibi in summo, est tamen ibi ut temperans extreme calidum.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20200610T235123Z" creationid="nivaca" creationdate="20200610T235123Z">
-        <seg>Ni es cierto que entre dos zonas más cálidas ninguna sea temperada porque la recesión del sol causa frío por la victoria de los elementos inferiores causados, y por lo tanto, aunque el frío no está allí en su punto Çmáximo, sin embargo, está allí para temperar el calor extremo.</seg>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200703T221229Z" creationid="nivaca" creationdate="20200610T235123Z">
+        <seg>Y no es cierto que entre dos lugares muy calientes no haya ningún temperamento porque el retroceso del sol causa un frío causado por la victoria de los elementos inferiores, y por lo tanto, aunque el frío no esté allí en su punto máximo, sin embargo, está allí para temperar el calor extremo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1254,8 +1254,8 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       <tuv lang="la">
         <seg>Omnibus autem his rationibus et considerationibus habitis, consentiendum videtur Ptolemaeo et Avicennae, ut dicamus torridam non omnino esse torridam, sed esse habitatam tam in littoribus maris quod ibi est (et mare Indicum vocatur, quod multos habet adamantes in fundo) quam etiam in insulis maris multis quae ibidem a Philosophis esse describuntur.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20200610T235052Z" creationid="nivaca" creationdate="20200610T235052Z">
-        <seg>Tenidas todas las consideraciones de este tipo, es evidente que debemos acordar decir con Ptolomeo y Avicena en decir que la zona tórrida no es completamente tórrida, sino que es habitable tanto en los litoralesas playas –donde está el mar que llaman Índico, el que tiene muchos diamantes en el fondo– como en muchas islas que también han sido descritas por los filósofos.</seg>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200703T213705Z" creationid="nivaca" creationdate="20200610T235052Z">
+        <seg>Pero tenidas todas tales consideraciones, parece que debemos acordar con Ptolomeo y Avicena en decir que la zona tórrida no es completamente tórrida, sino que es habitada tanto en los litorales del mar –donde está el mar que llaman Índico, el que tiene muchos diamantes en el fondo– como en muchas islas del mar que también han sido descritas en el mismo lugar por diferentes filósofos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1465,8 +1465,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>Sed dicendum, quod temperatissimum necesse est esse eorum locorum, qui sunt inter duos tropicos, et congruum plus complexionibus eorum qui in regione duorum primorum climatum nascuntur, nisi forte per accidens aliquis ibi locus ex motibus temperetur: sed de hoc accidente dicemus inferius.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20200610T235158Z" creationid="nivaca" creationdate="20200610T235158Z">
-        <seg>sino debe decirse que es necesario que los más templados sean aquellos lugares que están entre dos trópicos y que es más apropiado para las complexiones de los que nacen en la región de los dos primeros climas, a menos que sea por accidente algún lugar se tempere por las montañas.</seg>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200703T222224Z" creationid="nivaca" creationdate="20200610T235158Z">
+        <seg>Sino que debe decirse que es necesario que sea el más temperado de aquellos lugares que están entre los dos trópicos y que es más apropiado para las complexiones de los que nacen en la región de los dos primeros climas, a menos que tal vez por accidente allí algún lugar se tempere por las montañas. Pero sobre este accidente hablaremos más abajo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1481,8 +1481,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>Sed distinguendum est, quoniam sub tropico aestivo propter rationes superius inductas non oportet esse continuam et delectabilem habitationem, sed est aliquando delectabilis, et aliquando laboriosa.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20200610T235106Z" creationid="nivaca" creationdate="20200610T235106Z">
-        <seg>Pero es necesario distinguir por qué bajo el trópico del verano, por las razones aducidas arriba, no puede existir una habitación continua y agradable, sino que algunas veces es placentera y en otros momentos, dificultosa y no placentera.</seg>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200703T214621Z" creationid="nivaca" creationdate="20200610T235106Z">
+        <seg>Pero ha de hacerse una distinción, porque bajo el trópico estival por las razones aducidas arriba no puede haber una habitación continua y agradable sino que algunas veces es placentera y otras veces, dificultosa y no placentera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1514,8 +1514,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>Sed sub aequinoctiali qui est sub medio regionis illius, quae torrida vocatur, et continua et delectabilis est habitatio: quia licet radius solis bis in anno ibi reflectatur in seipsum, eo quod illi loco perpendiculariter incidit, non tamen diu figitur in eodem loco: quare circulus solis ibi est extensus, et quasi recte recedit ab aequinoctiali, nec [C12a] rursum accedit ad ipsum nisi interpositis quatuor signis ad minus: et ideo calor accessus ejus non figitur circa locum unum, et ideo nullum locum incendit: et intervenit magnum tempus inter calorem solis quem facit accedendo, et eum quem facit in secundo accessu: propter quod unus calor alium in loco non invenit: et ideo calor ibi non multiplicatur.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20200610T235116Z" creationid="nivaca" creationdate="20200610T235116Z">
-        <seg>Sin embargo bajo el ecuador, que está en medio de aquella región que es llamada ‘tórrida’, la habitación es: continua y placentera, porque el mismo rayo del sol se refleja el dos veces en el año en aquel mismo lugar en el que cae perpendicularmente; sin embargo no está fijo en el mismo lugar porque la órbita del sol allí es extensa y retrocede casi rectamente desde el ecuador, no se aproxima de nuevo excepto después de pasar por cuatro signos por lo menos, y por lo tanto, su calor que se aproxima no se fija alrededor de un lugar y, por lo tanto, a ningún lugar avanza y un tiempo largo está entre el calor del sol que produce al avanzar y el que produce en su segunda aproximación. Por lo que un calor no encuentra otro en ese lugar y por lo tanto el calor no se multiplica.</seg>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200703T220145Z" creationid="nivaca" creationdate="20200610T235116Z">
+        <seg>Sin embargo bajo el ecuador, que está en medio de aquella región que es llamada ‘tórrida’, la habitación es continua y placentera porque, aunque el rayo del sol se refleja dos veces en el año, porque cae perpendicularmente en aquel lugar; sin embargo no está fijo en el mismo lugar mucho tiempo porque la órbita del sol allí es extensa, retrocede casi rectamente desde el ecuador y no se aproxima de nuevo excepto después de pasar por cuatro signos por lo menos. Y por lo tanto, el calor de su aproximación no se fija alrededor de un solo lugar y, por lo tanto, no incendia ningún lugar y pasa un tiempo largo entre el calor del sol que produce al aproximarse y el que produce en su segunda aproximación. Por lo que un calor no se halla en el mismo lugar que el otro y por lo tanto el calor no se multiplica allí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1573,8 +1573,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>Sicut autem diximus non esse continue delectabilem habitationem sub tropico aestivo, ita consentimus et non esse continue delectabilem habitationem locis illis in insulis illius maris et in littoribus, sed tempore quo sol perpendiculariter incidit locis illis, aut in subterraneis erit habitatio, vel recedendum ad tempus usquequo sol loca illa respiciat oblique.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20200610T235215Z" creationid="nivaca" creationdate="20200610T235215Z">
-        <seg>No obstante, así como dijimos que no existe habitación continua bajo el trópico de Cáncer, así también consentimos en que no existe habitación placentera en aquellos lugares en aquellas islas del mar ni en las costas sino en el tiempo en que el sol cae perpendicularmente en aquellos lugares, o en que fuera para habitar en subterráneos o en que debe retroceder por un tiempo hasta que el sol en aquellos lugares vuelve atrás oblicuamente.</seg>
+      <tuv lang="es" changeid="andrealozanov" changedate="20200703T223640Z" creationid="nivaca" creationdate="20200610T235215Z">
+        <seg>No obstante, así como dijimos que la habitación no es continuamente placentera bajo el trópico estival, así también consentimos en que no hay habitación continuamente placentera en las islas de aquel mar ni en los litorales sino que, en el tiempo en que el sol cae perpendicularmente en aquellos lugares, habrá que habitar en lugares subterráneos o habrá que retroceder por un tiempo hasta que el sol mire atrás aquellos lugares oblicuamente.</seg>
       </tuv>
     </tu>
     <tu>

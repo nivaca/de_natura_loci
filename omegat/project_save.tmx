@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="la"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="la"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1089,6 +1089,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>In tropico enim hyemali qui in Meridie est, tres (ut inquit) occurrunt causae caloris intolerabilis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200814T201042Z" creationid="anlozan" creationdate="20200814T201042Z">
+        <seg>En efecto, en el trópico invernal, que está en el sur, según dice, coinciden tres causas del calor intolerable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Incendit igitur etiam ibi habitationem et reddit inhabitabilem.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200619T221752Z" creationid="nivaca@fastmail.com" creationdate="20200305T164311Z">
@@ -1240,6 +1248,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200625T165046Z" creationid="mateovo2" creationdate="20200625T165046Z">
         <seg>el fuego no puede, por lo tanto, estar localizado en el cuerpo de la superficie más gruesa que lo que este mismo es, puesto que el lugar funge más de forma en todas las cosas que lo localizado; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Occurrit autem hic quaestio gravis, in qua etiam Reges potentissimi et Philosophi peritissimi ab antiquo laboraverunt: reges quidem experiendo, et Philosophi per investigationem rationis, utrum scilicet aliquid de terra quae ab aequinoctiali usque ad polum Australem extenditur, habitetur vel possit habitari.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200814T200922Z" creationid="anlozan" creationdate="20200814T200922Z">
+        <seg>No obstante, se presenta aquí la seria cuestión, sobre la que también los más poderosos reyes y los más expertos filósofos trabajaron desde tiempos antiguos (los reyes por tener experiencia y los filósofos por la investigación racional), a saber, de si algún otro [lugar] de la tierra que se extiende desde el equinoccial continuamente hasta el polo austral es habitado o puede ser habitado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1543,6 +1559,14 @@ Hacer notas!</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="la">
+        <seg>Si enim habitari possit, tunc frustra esset nisi habitaretur a plantis, animalibus, et hominibus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200814T200926Z" creationid="anlozan" creationdate="20200814T200926Z">
+        <seg>En efecto, si puede ser habitado, entonces sería en vano, a menos que estuviera habitado por plantas, animales y hombres. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Complejas* tiene un asterisco en la traducción que propusimos, por lo que toca ver si sí está bien traducido.</note>
       <tuv lang="la">
         <seg>Si enim nos considerationem ponimus in mixtis tantum non complexionatis, non sciemus perfecte naturam ipsorum, nisi sciamus omnes istorum differentias in metallis et lapidibus.</seg>
@@ -1667,6 +1691,14 @@ Hacer notas!</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="la">
+        <seg>Sunt autem multorum magnorum rationes, quod non habitari [C12b] possit: et inducunt praecipue tres rationes, quarum una est Ptolemaei, quod ad illam partem minor per diametrum solis conversa sit, et non propter vicinitatem corporis solis et ultra tropicum hyemalem effectus sit locus inhabitabilis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200814T201036Z" creationid="anlozan" creationdate="20200814T201036Z">
+        <seg>Además, hay razones de muchos grandes [hombres] para que no pueda ser habitada. Presentan especialmente tres, de las cuales una es de Ptolomeo, que la parte menor del diámetro solar se vuelve hacia aquella parte y por esto, a causa de la vecindad del cuerpo solar, también más allá del trópico invernal el lugar resulta inhabitable.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Acá "esse" está traducido como "condición", y no como "ser", como siempre la habíamos traducido.</note>
       <tuv lang="la">
         <seg>Sunt autem quidam dicentes locum non conferre nisi ad figuram, et non ad esse locati: eo quod est extrinsecum ambiens undique terminans, et tangens figuram locati: et ideo non oportere tradere dicunt scientiam diversitatis locorum in speciali scientiae naturalis: eo quod non operatur nisi ad accidens rei naturalis, et non per modum naturae quae est intrinsecum principium, sed, sicut dicunt, extrinsecus et per accidens continendo.</seg>
@@ -1709,6 +1741,14 @@ Hacer notas!</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="la">
+        <seg>Una quarum est rectitudo circuli solis circa tropicum per accessum ejus in Sagittario.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200814T201155Z" creationid="anlozan" creationdate="20200814T201155Z">
+        <seg>Una de ellas es la estrechez del círculo solar alrededor del trópico por su aproximación en Sagitario y su alejamiento en Capricornio.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Acá estamos traduciendo "orbe" como "orbe", y antes lo habíamos traducido como "esfera terrestre".</note>
       <tuv lang="la">
         <seg>Una quidem causa est distantia sui ab orbe, qui vere locus est omnium secundum naturam locum habentium.</seg>
@@ -1731,6 +1771,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200619T194119Z" creationid="mateovo2" creationdate="20200619T194119Z">
         <seg>De un modo, en efecto, se llama "lugar en general" todo cuerpo circundante externo a otro cuerpo por causa de la superficie que lo contiene y lo toca. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Utrum habitabilis sit quarta terrae quae est ab aequinoctiali usque in polum Australem?</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200814T200839Z" creationid="anlozan" creationdate="20200814T200839Z">
+        <seg>Si es habitable el cuarto de la tierra que se encuentra desde el equinoccial hasta el polo austral</seg>
       </tuv>
     </tu>
     <tu>

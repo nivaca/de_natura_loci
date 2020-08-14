@@ -412,6 +412,14 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Dicebat enim sub torrida ex parte meridiei esse montes de lapide qui dicitur magnes: et est illud genus magnetis talis naturae, quod carnes humanas sibi attrahit, sicut noster magnes ferrum: et propter illos non posse transire.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200814T210017Z" creationid="anlozan" creationdate="20200814T210017Z">
+        <seg>Decía que bajo la zona tórrida, desde la parte sur, hay montes de piedra que se llaman ‘magneto’, y es ese tipo de magneto de naturaleza tal que atrae las carnes humanas hacia sí, así como nuestro magneto atrae el hierro; y por aquellos nadie puede pasar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Dicunt enim illi medium semisphaerale Aquilonaris infusum aquis, et ab aequinoctiali in polum non esse nisi aquam, et aerem, et ignem, et non apparere de terra nisi dimidium semisphaeralis figurae ejus, et in illa nos habitare contendunt.</seg>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20200814T203502Z" creationid="anlozan" creationdate="20200814T203502Z">
@@ -1121,6 +1129,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>In descriptione autem facta sub Caesare Augusto, legitur quod nuntios misit Augustus ad reges Aegypti et Aethiopiae, qui naves et impensas pararent necessarias eis quos miserat ad transeundum: et venientes sub aequinoctiali loca paludosa invenerunt, in quibus nihil diffunditur: et lapidosa quae nec navibus, nec [B545a] pedibus poterant transire: et ideo sunt reversi negotio non peracto.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200814T211036Z" creationid="anlozan" creationdate="20200814T211036Z">
+        <seg>Sin embargo, en la descripción del orbe hecha por César Augusto, se lee que Augusto envió mensajeros a los reyes de Egipto y de Etiopía, que prepararían las naves y las vituallas necesarias para aquellos a quienes había enviado a atravesar. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>In his probatum est, quod locus est generationis principium activum, ut quidam putant.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T165409Z" creationid="mateovo2" creationdate="20200616T165409Z">
@@ -1230,6 +1246,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200619T224552Z" creationid="nivaca@fastmail.com" creationdate="20200305T165214Z">
         <seg>Sin embargo, estas dos razones son las más fuertes entre las razones de los antiguos que suponían que es tórrida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Legi ego quamdam causam cujusdam Philosophi, quare non sit transitus a quarta Aquilonari per torridam ad quartam meridianam.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200814T205959Z" creationid="anlozan" creationdate="20200814T205959Z">
+        <seg>Ya yo leí de un cierto filósofo una cierta causa por la cual no hay paso desde la cuarta aquilonal, por la zona tórrida, hasta la cuarta meridional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1630,6 +1654,14 @@ Hacer notas!</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="la">
+        <seg>Sed [C14b] quidquid ibi dicturi sumus, hoc erit opinionis aliorum: hic autem vere scripsimus opinionem nostram.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200814T205944Z" creationid="anlozan" creationdate="20200814T205944Z">
+        <seg>Pero cualquier cosa que allí hayamos de decir, esto será opinión de otros. Sin embargo, aquí verdaderamente escribimos nuestra opinión.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Acá tenemos una marca, para revisar la traducción de "ad vicariam".</note>
       <tuv lang="la">
         <seg>Sed ad hoc facile est respondere, quod ignis ad vicariam facit elementorum generationem in contactu aeris ad ipsum, sicut ostendi habet in libro Peri geneseos.</seg>
@@ -1668,6 +1700,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200703T214621Z" creationid="nivaca" creationdate="20200610T235106Z">
         <seg>Pero ha de hacerse una distinción, porque bajo el trópico estival por las razones aducidas arriba no puede haber una habitación continua y agradable sino que algunas veces es placentera y otras veces, dificultosa y no placentera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sed hoc impedimentum non utique esse credo, sed forte in aliquo loco.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200814T210034Z" creationid="anlozan" creationdate="20200814T210034Z">
+        <seg>Pero creo que este impedimento no está por todos lados, sino quizá en algún lugar.</seg>
       </tuv>
     </tu>
     <tu>

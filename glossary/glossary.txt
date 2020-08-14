@@ -100,3 +100,4 @@ declinatio	inclinación
 potissime	especialmente
 oportet	es preciso
 imaginibus	constelaciones
+vicinitas	proximidad

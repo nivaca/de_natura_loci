@@ -551,6 +551,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Et altera est perpendicularis casus radii ejus super loca illa.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200814T201211Z" creationid="anlozan" creationdate="20200814T201211Z">
+        <seg>Y otra es la caída perpendicular de su rayo sobre aquellos lugares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Et de prima quidem loquemur prius, ostendentes quidquid de hoc tradiderunt Antiqui, et rationabiliter dicta accipiamus in his.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200612T211854Z" creationid="nivaca" creationdate="20200610T232310Z">
@@ -1416,6 +1424,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Quas duas causas supra explanavimus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200814T201227Z" creationid="anlozan" creationdate="20200814T201227Z">
+        <seg>Estas dos causas las explicamos más arriba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Quidam autem consueverunt vocare omnem formam et omnem virtutem formativam splendorem intelligentiae, ex qua sunt formae: et hoc modo per mathematicam locutionem concedi potest, quod lux sit virtus qua caelum diffundit virtutem formativam in locum et omnes loci differentias.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T221539Z" creationid="andrealozanov" creationdate="20200611T221539Z">
@@ -1448,6 +1464,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T165117Z" creationid="andrealozanov" creationdate="20200405T214934Z">
         <seg>Que en la ciencia natural conviene conocer la naturaleza del lugar y que pecan quienes no indagan sobre esto. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Secunda autem ratio sumetur ab hoc, quod necesse est distribuere sic, quod in aliquo loco congruit habitationi.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200814T201341Z" creationid="anlozan" creationdate="20200814T201341Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -1738,6 +1762,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200619T222837Z" creationid="nivaca@fastmail.com" creationdate="20200305T164529Z">
         <seg>Pues el medio temperado está entre el lugar más cálido y el más frío.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Tertia vero causa est vicinitas corporis solis: eo quod minor pars diametri ejus est versus finem Sagittarii: et haec potissima et causa occurrentis caloris: et ideo locum illum et vicina loca dicunt effici inhabitabilia prop-[B542b]-ter aestum: et concordant cum hoc fere omnium sententiae, qui dicunt circulum solis concentricum non esse.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200814T201433Z" creationid="anlozan" creationdate="20200814T201319Z">
+        <seg>Por otra parte, la tercera es la vecindad del cuerpo solar, porque la menor parte de su diámetro está en dirección al final de Sagitario, y esta es la causa más poderosa del calor abrasador, y por esto dicen que aquel lugar y los lugares vecinos se vuelven inhabitables por causa del ardor.Y concuerdan con esto las sentencias de casi todos los que dicen que el círculo del sol no es concéntrico.</seg>
       </tuv>
     </tu>
     <tu>

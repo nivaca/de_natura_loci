@@ -404,6 +404,15 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Dicunt enim illi medium semisphaerale Aquilonaris infusum aquis, et ab aequinoctiali in polum non esse nisi aquam, et aerem, et ignem, et non apparere de terra nisi dimidium semisphaeralis figurae ejus, et in illa nos habitare contendunt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200814T203502Z" creationid="anlozan" creationdate="20200814T203502Z">
+        <seg>En efecto, ellos dicen que el medio norte de la tierra semiesférica está inmerso en las aguas y desde el equinoccial hasta el polo no hay sino agua, aire y fuego, 
+y de tierra no es visible sino un medio de su figura semiesférica, y en ella afirman que nosotros habitamos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Dicunt enim isti, quod nos videmus multos homines oculis nostris qui habitaverunt inter tropicum aestivum et aequinoctialem: et libri Philosophorum de astris ibi degentium venerunt ad nos.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200626T220216Z" creationid="nivaca" creationdate="20200610T234551Z">
@@ -1496,6 +1505,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T165117Z" creationid="andrealozanov" creationdate="20200405T214934Z">
         <seg>Que en la ciencia natural conviene conocer la naturaleza del lugar y que pecan quienes no indagan sobre esto. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Quod quidem dictum quia contra rationem est et improbatum in libro Caeli et Mundi, hic transimus, et praecipue quia rationem nullam isti pro se inducunt, nisi quia rumores de habitatione illa quae est ultra aequinoctialem, certos numquam perceperunt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200814T203524Z" creationid="anlozan" creationdate="20200814T203524Z">
+        <seg>Sin embargo, aquella afirmación aquí la dejamos de lado porque es contraria a la razón y no está probada en el Libro sobre el cielo y el mundo, y especialmente porque estos no aportan ninguna razón a favor de ello salvo aquella porque nunca han oído determinados rumores sobre la habitación que está más allá del equinoccial.</seg>
       </tuv>
     </tu>
     <tu>

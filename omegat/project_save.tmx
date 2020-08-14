@@ -1468,10 +1468,18 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Scimus enim in polo Septentrionali esse frigus dominans quod superiora elementa conducat in inferiora: et immediate probatum est esse temperamentum per latitudinem septem climatum: igitur necessarius erit locus in quo calor dominetur ex victoria superiorum elementorum in inferiora: et hunc dicunt esse quartam terrae partem, quae in superiori nostri hemisphaerii ab aequinoctiali circulo extenditur usque in polum Australem.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200814T202116Z" creationid="anlozan" creationdate="20200814T201500Z">
+        <seg>Además sabemos que en el polo septentrional hay un frío dominante que convierte a los elementos superiores en inferiores, y en el medio se ha probado que existe un temperamento a través de la séptima latitud de los climas.Y dicen que este [lugar] es la cuarta parte de la tierra que en nuestro hemisferio superior se extiende desde el círculo equinoccial hasta el polo austral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Secunda autem ratio sumetur ab hoc, quod necesse est distribuere sic, quod in aliquo loco congruit habitationi.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20200814T201341Z" creationid="anlozan" creationdate="20200814T201341Z">
-        <seg> </seg>
+      <tuv lang="es" changeid="anlozan" changedate="20200814T201441Z" creationid="anlozan" creationdate="20200814T201341Z">
+        <seg>Además, la segunda razón se deduce de esto, que es preciso distribuir la tierra de tal manera que sea adecuada para la habitación en otro lugar.</seg>
       </tuv>
     </tu>
     <tu>

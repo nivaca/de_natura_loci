@@ -762,6 +762,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Et nos hoc falsum esse videmus, cum oculis videamus in hac quarta homines habitare.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200814T204444Z" creationid="anlozan" creationdate="20200814T204444Z">
+        <seg>Sin embargo, si estaba en la cuarta meridional, entonces no pudo pasar a esta cuarta parte. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Et partes hujus divisionis manifestae sunt ad sensum: concavum enim orbi lunae est locus [B532a] ignis, et attingit ipsum undique, sicut Peripatetici tradiderunt.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200625T163349Z" creationid="mateovo2" creationdate="20200625T163349Z">
@@ -1661,6 +1669,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T223224Z" creationid="andrealozanov" creationdate="20200611T223224Z">
         <seg>Pero, para que la introducción del recuento sea desde las cosas más comunes, conviene saber que, así como demostramos más arriba, el lugar de todas las cosas compuestas es mezclado y compuesto, y que no hay ninguno de estos compuestos que se halle completamente simple</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Si autem fuit in quarta Meridionali, tunc ad istam quartam transire non potuit.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200814T204413Z" creationid="anlozan" creationdate="20200814T204413Z">
+        <seg>Y si en efecto se dijera que fue en la cuarta parte aquilonal, como es verdad, entonces no pudo pasar a aquella cuarta parte por causa del tostado desierto de gran extensión. </seg>
       </tuv>
     </tu>
     <tu>

@@ -136,6 +136,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Averroes enim in commento super librum quartum Caeli et Mundi, dicit et Aristotelis et suam fuisse opinionem, quod loca illa sunt habitabilia, et rationem adducit id necessario probantem, ut mihi videtur: dicit enim inter calidissimum et frigidissimum esse temperamentum: necessario etiam est locus [B543a] calidissimus sub tropico hyemali: frigidissimum autem esse necesse est sub polo, eo quod obliquissime locum illum radii solis respiciunt: igitur in medio per aequidistantiam ab utroque locus erit temperatus et congruus habitationi.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200814T202903Z" creationid="anlozan" creationdate="20200814T202903Z">
+        <seg>En efecto, Averroes en el Comentario al cuarto libro sobre el cielo y el mundo dice, de Aristóteles y fue su opinión, que aquellos lugares son habitables, y aduce como razón algo necesariamente probatorio, según me parece:dice, en efecto, que en medio de lo que es muy caliente y lo que es muy frío necesariamente existe lo temperado. Además, el lugar más caliente está bajo el trópico invernal. Además, es preciso que lo más frío exista bajo el polo, esto porque los rayos del sol caen  en aquel lugar muy oblicuamente.Por lo tanto, en el medio, por equidistancia con ambos, habrá un lugar temperado y adecuado para habitar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>CAPUT I.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200303T182805Z" creationid="andrealozanov" creationdate="20200303T182805Z">
@@ -1252,6 +1260,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Negat enim Averroes solem eccentricum circulum in quo moveatur, habere: et ideo tertiam causam caloris sub tropico hyemali dicit esse falsam et nullam: sed potius dicit quartam quae est ab aequinoctiali circulo usque in polum Australem, esse divisibilem per climata habitabilia, sicut et quarta terrae dividitur Septentrionalis, in qua nos habitamus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200814T203108Z" creationid="anlozan" creationdate="20200814T203108Z">
+        <seg>También niega Averroes que el sol tenga un círculo excéntrico en el desde el círculo equinoccial hasta el polo austral, es divisible en climas habitables, así como también se divide la cuarta parte de la tierra septentrional en la que nosotros habitamos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Non enim sufficit quod in mathematicis traditum est de hujusmodi diversitate, ubi traditur quae stellae, super quae loca, hoc vel illo modo oriantur, [C2b] vel occidant, utrum scilicet oblique vel recte, et quae stellarum nec oriantur nec occidant, sed semper appareant, vel quae numquam, et quae oriantur et occidant aliquando: quia licet ex his sciatur situs climatum, non tamen per eadem sufficienter scitur natura locorum et diversitas complexionis eorum.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T185338Z" creationid="mateovo2" creationdate="20200616T185338Z">
@@ -1925,6 +1941,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200626T211726Z" creationid="nivaca" creationdate="20200610T234430Z">
         <seg>En cuarto lugar, a partir de conjeturas probables añaden también quienes objetan diciendo que encontramos aquellos lugares cuya inclinación desde el trópico estival es pequeña muy cálidos en el verano y de calor casi intolerable, y que el invierno de aquellos lugares, carente de hielo, es templado, tal y como son los lugares del tercer clima cuya latitud es de 30 grados y su día más largo de 14 horas. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>[C13a] Sed his contrarii sunt plures Philosophorum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200814T202645Z" creationid="anlozan" creationdate="20200814T202645Z">
+        <seg>Pero hay muchos filósofos que son conrarios a esto.</seg>
       </tuv>
     </tu>
     <tu>

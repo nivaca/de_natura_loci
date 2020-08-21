@@ -1661,6 +1661,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Quod ideo contingit, quia frigus excedens illius regionis continue spissat aerem, et convertit in aquam in modum nebulae spissae, continue expanditur ibi aer super aquam.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200821T195905Z" creationid="anlozan" creationdate="20200821T195905Z">
+        <seg>Por eso ocurre que el frío excedente de esa región espesa el aire continuamente y lo convierte en agua, y por eso en forma de niebla espesa se expande continuamente allí el aire sobre el agua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Quod naturam loci scire oportet in scientia naturali, et quod peccant qui de hoc non quaerunt.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T165117Z" creationid="andrealozanov" creationdate="20200405T214934Z">

@@ -388,6 +388,14 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>De inhabitabilibus regionibus et terris.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200821T144706Z" creationid="anlozan" creationdate="20200821T144706Z">
+        <seg>Sobre las regiones inhabitables a causa del frío</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>De natura autem locorum in quibus generantur et conservantur composita, multifaria est valde Auctorum traditio.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T223143Z" creationid="andrealozanov" creationdate="20200611T223143Z">
@@ -996,6 +1004,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Has autem vel ambas regiones circa utrumque polum esse constat.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200821T144954Z" creationid="anlozan" creationdate="20200821T144954Z">
+        <seg>Se ha acordado en que estas dos regiones están alrededor de cada uno de los polos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Hic autem error est sicut in libro de Caelo et Mundo diximus.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T215210Z" creationid="andrealozanov" creationdate="20200611T215210Z">
@@ -1008,6 +1024,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200703T212746Z" creationid="nivaca" creationdate="20200610T235029Z">
         <seg>Eso también lo indica lo que se encuentra dicho sobre las imagines; en efecto, estas están completas perfectamente en las vías de los planetas, a saber en los lugares que miran directa y perpendicularmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>His autem habitis, de duabus regionibus inhabitabilibus propter frigus est tractandum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200821T144743Z" creationid="anlozan" creationdate="20200821T144743Z">
+        <seg>Es necesario tratar de estas dos regiones inhabitables a causa del frío.</seg>
       </tuv>
     </tu>
     <tu>

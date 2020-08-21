@@ -683,8 +683,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Et hoc quidem probatur experimentis eorum qui habitant ultra latitudinem quinquaginta et sex graduum, qui tantum frigus in terris eorum in hyeme habent, quod sine periculo [B545b][C15a] vitae longe ab igne separari non possunt, et terra neque ibi parum germinat, et hoc quod germinat, non ad perfectam pervenit maturitatem: et ideo omnino inhabitabilis videtur esse locus majoris latitudinis existens.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20200821T150728Z" creationid="anlozan" creationdate="20200821T150728Z">
-        <seg>Y esto es ciertamente probado por aquellas experiencias de los que habitan más allá de la latitud 56 grados que tienen tanto frío en su tierra en invierno, que no pueden separarse del fuego largo tiempo sin peligro para la vida y la tierra allí germina poco y lo que germina, no llega a madurar completamente.</seg>
+      <tuv lang="es" changeid="anlozan" changedate="20200821T151029Z" creationid="anlozan" creationdate="20200821T150728Z">
+        <seg>Y esto es ciertamente probado por aquellas experiencias de los que habitan más allá de la latitud 56 grados que tienen tanto frío en su tierra en invierno, que no pueden separarse del fuego largo tiempo sin peligro para la vida y la tierra allí germina poco y lo que germina, no llega a madurar completamente. Por esa razón parece que un lugar existente en latitudes más altas es inhabitable. to</seg>
       </tuv>
     </tu>
     <tu>
@@ -1813,6 +1813,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200703T220145Z" creationid="nivaca" creationdate="20200610T235116Z">
         <seg>Sin embargo bajo el ecuador, que está en medio de aquella región que es llamada ‘tórrida’, la habitación es continua y placentera porque, aunque el rayo del sol se refleja dos veces en el año, porque cae perpendicularmente en aquel lugar; sin embargo no está fijo en el mismo lugar mucho tiempo porque la órbita del sol allí es extensa, retrocede casi rectamente desde el ecuador y no se aproxima de nuevo excepto después de pasar por cuatro signos por lo menos. Y por lo tanto, el calor de su aproximación no se fija alrededor de un solo lugar y, por lo tanto, no incendia ningún lugar y pasa un tiempo largo entre el calor del sol que produce al aproximarse y el que produce en su segunda aproximación. Por lo que un calor no se halla en el mismo lugar que el otro y por lo tanto el calor no se multiplica allí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sed tamen sicut diximus de locis qui sunt sub aequinoctiali et tropicis, scilicet quod quidam sunt non continuae habitationis et indelectabilis, nec habitari possunt nisi in aestate: propter quod et pisces maris illius videmus tempore frigoris transferre se ad littora versus Meridiem, et in aestate redeunt, eo quod in hyeme intolerabile est eis frigus illorum locorum, quod aliquantulum temperatur in aestate.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200821T193507Z" creationid="anlozan" creationdate="20200821T150800Z">
+        <seg>Por lo tanto, así como dijimos de los lugares que están bajo el ecuador y los trópicos que evidentemente son de habitación no continua y dificil, lo mismo se da en los lugares que están junto al polo: que no son de habitación continua ni agradable ni pueden ser habitados sino en verano.Es por esto que vemos que los peces de aquel mar en tiempo frío migran a los litorales hacia el sur y en verano regresan, puesto que les es intolerable el frñio de esos lugares que en verano son un poco moderados. </seg>
       </tuv>
     </tu>
     <tu>

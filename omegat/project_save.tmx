@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="la"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="la"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1554,6 +1554,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T175606Z" creationid="mateovo2" creationdate="20200616T175606Z">
         <seg>Por lo tanto, el lugar se cuenta entre los principios de la naturaleza incluso por los reconocidos peripatéticos.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Propter quod etiam natura illorum locorum non satis nota est, nec certa nobis satis esse potest: quia non venit ad experimentum nisi quod scimus, quod signum extremum dominetur ibidem.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200821T214013Z" creationid="anlozan" creationdate="20200821T214013Z">
+        <seg>También por esto la naturaleza de aquellos lugares no es suficientemente conocida ni puede ser suficientemente conocida para nosotros; porque no entran en [nuestra] experiencia salvo que conozcamos qué signo extremo (¿externo? ¿zodiacal seguramente...) los tiene bajo su poder.</seg>
       </tuv>
     </tu>
     <tu>

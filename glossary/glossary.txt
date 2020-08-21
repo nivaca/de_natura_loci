@@ -104,3 +104,5 @@ vicinitas	proximidad
 congruus	adecuado
 quidem	ciertamente
 umquam	nunca
+quamvis	cuanto se quiera
+frigiditatem	frialdad

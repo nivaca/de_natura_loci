@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="la"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="la"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -965,8 +965,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Haec autem est sententia in fabula Hesiodi antiquitus lecta.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20200814T203542Z" creationid="anlozan" creationdate="20200814T203542Z">
-        <seg>No obstante, este parecer se encuentra en las fábulas de Hesíodo leídas desde la antigüedad.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20200821T215116Z" creationid="anlozan" creationdate="20200814T203542Z">
+        <seg>No obstante, esta sentencia, transmitida desde la antigüedad, se encuentra en las narraciones de Hesíodo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1694,8 +1694,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>Quod quidem dictum quia contra rationem est et improbatum in libro Caeli et Mundi, hic transimus, et praecipue quia rationem nullam isti pro se inducunt, nisi quia rumores de habitatione illa quae est ultra aequinoctialem, certos numquam perceperunt.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20200814T203524Z" creationid="anlozan" creationdate="20200814T203524Z">
-        <seg>Sin embargo, aquella afirmación aquí la dejamos de lado porque es contraria a la razón y no está probada en el Libro sobre el cielo y el mundo, y especialmente porque estos no aportan ninguna razón a favor de ello salvo aquella porque nunca han oído determinados rumores sobre la habitación que está más allá del equinoccial.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20200821T214604Z" creationid="anlozan" creationdate="20200814T203524Z">
+        <seg>Ciertamente, dejamos de lado lo dicho aquí, porque es contrario a la razón y está refutado en el Libro sobre el cielo y el mundo, y especialmente porque aquellos no aportan ninguna razón a favor de ello, salvo aquella de que nunca han oído noticias ciertas sobre la habitación que está más allá del equinoccial. </seg>
       </tuv>
     </tu>
     <tu>

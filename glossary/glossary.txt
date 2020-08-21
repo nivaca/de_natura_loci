@@ -103,3 +103,4 @@ imaginibus	constelaciones
 vicinitas	proximidad
 congruus	adecuado
 quidem	ciertamente
+umquam	nunca

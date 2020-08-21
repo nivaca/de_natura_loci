@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="la"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="la"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1407,8 +1407,8 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       <tuv lang="la">
         <seg>Negat enim Averroes solem eccentricum circulum in quo moveatur, habere: et ideo tertiam causam caloris sub tropico hyemali dicit esse falsam et nullam: sed potius dicit quartam quae est ab aequinoctiali circulo usque in polum Australem, esse divisibilem per climata habitabilia, sicut et quarta terrae dividitur Septentrionalis, in qua nos habitamus.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20200814T203108Z" creationid="anlozan" creationdate="20200814T203108Z">
-        <seg>También niega Averroes que el sol tenga un círculo excéntrico en el desde el círculo equinoccial hasta el polo austral, es divisible en climas habitables, así como también se divide la cuarta parte de la tierra septentrional en la que nosotros habitamos.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20200821T212044Z" creationid="anlozan" creationdate="20200814T203108Z">
+        <seg>También niega Averroes que el sol tenga un círculo excéntrico en el que se mueve, y por esto dice que la tercera causa de calor bajo el trópico invernal es falsa e inexistente, sino que más bien dice que la cuarta, que se encuentra desde el círculo equinoccial hasta el polo austral, es divisible en climas habitables, así como también se divide la cuarta parte de la tierra septentrional en la que nosotros habitamos.</seg>
       </tuv>
     </tu>
     <tu>

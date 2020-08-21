@@ -802,6 +802,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Et quantae sint latitudinis, non est certe probatum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200821T145125Z" creationid="anlozan" creationdate="20200821T145125Z">
+        <seg>Y no está probado con certeza de qué latitud son/ cuál es su extensión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Et quia via solis directe est super spatium illud bis in anno, dicunt quod ibi reflectitur radius ejus in seipsum, propter quod combustivus est, et facit partem illam inhabitabilem ex nimio calore.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200612T214148Z" creationid="nivaca" creationdate="20200610T232414Z">
@@ -1700,6 +1708,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T225336Z" creationid="andrealozanov" creationdate="20200611T225336Z">
         <seg>Pero el aire y el agua son lugares a través de los que se da su movimiento hacia el alimento. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sed credo quod omnia loca per mensem vel amplius (quando sol est in tropico hyemali) sunt inhabitabilia propter frigus: et similiter loca quae sunt majoris latitudinis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200821T145350Z" creationid="anlozan" creationdate="20200821T145350Z">
+        <seg>Sin embargo creo que todos los lugares, por un mes o más (cuando el sol está en el trópico invernal) son inhabitables a causa del frío. Y de la misma manera, los lugares que están en latitudes más extensas/más altas.</seg>
       </tuv>
     </tu>
     <tu>

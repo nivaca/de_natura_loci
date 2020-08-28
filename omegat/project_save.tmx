@@ -1847,11 +1847,12 @@ Hacer notas!</note>
       </tuv>
     </tu>
     <tu>
+      <note>no en esto: citando a Homero, Carites dice...</note>
       <tuv lang="la">
         <seg>Sed in hoc quod dicunt, quod Homerus dicit et [C14a] terram esse latae superficiei et non rotundae, non consentimus: quia eam rotundam esse satis probavimus in libro Caeli et Mundi.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20200814T204828Z" creationid="anlozan" creationdate="20200814T204828Z">
-        <seg>pero no en esto que al decir Homero esto, también dice que la tierra es de superficie plana y no redonda, puesto que probamos suficientemente, en el Libro sobre el cielo y el mundo, que esta es redonda, puesto que probamos suficientemente, en el Libro sobre el cielo y el mundo, que esta es redonda.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20200828T224624Z" creationid="anlozan" creationdate="20200814T204828Z">
+        <seg>pero no en esto: al presentar a Homero que dice esto*, Carites también dice que la tierra es de superficie plana y no redonda, puesto que probamos suficientemente, en el Libro sobre el cielo y el mundo, que esta es redonda.</seg>
       </tuv>
     </tu>
     <tu>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="la"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="la"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -829,6 +829,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20200821T145125Z" creationid="anlozan" creationdate="20200821T145125Z">
         <seg>Y no está probado con certeza de qué latitud son/ cuál es su extensión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Et quia frigus excellens mortificativa est qualitas, ibi pauca vel nulla vivere animalia.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200828T160944Z" creationid="anlozan" creationdate="20200828T160944Z">
+        <seg>Y puesto que el frío excendente es una cualidad mortífera, sabemos que pocos o ningunos animales viven allí.</seg>
       </tuv>
     </tu>
     <tu>

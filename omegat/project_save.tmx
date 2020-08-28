@@ -2207,6 +2207,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Vegetabilia quae ibi sunt, aliquantulum convalescunt, ut avena, et hordeum: sed triticum nequaquam ibi convalescere potest: et si aliquando seminatur, degenerat in granum alterius naturae.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200828T210757Z" creationid="anlozan" creationdate="20200828T210757Z">
+        <seg>La que están allí crecen poco como la avena y la cebada pero el trigo nunca podrá crecer allí, y si es sembrado alguna vez, se degenera a un grano de otra naturaleza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Videbitur enim alicui fortasse, quod superficies cujus concavum est locans in se locatum, dicitur et aliquid esse corporis locantis et non locati, et ideo habere virtutes corporis locantis: et propter illud debere agere ad formam corporis locantis et non ejus quod locatur in ipso: propter quod videtur concavum ignis in modo elementali non aerem debere producere, sed ignem: et sic nullum elementorum deberet esse nisi ignis solus, qui ex motu et lumine superiorum corporum generatur, et totam materiam elementalem videtur debere convertere in se.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T215037Z" creationid="andrealozanov" creationdate="20200611T214117Z">

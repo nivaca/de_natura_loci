@@ -642,8 +642,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Et forte frigus illorum locorum est causa quare ventus Aquilonaris est frigidus apud nos.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20200828T161807Z" creationid="anlozan" creationdate="20200828T161807Z">
-        <seg>También por casualidad, el frío de aquellos lugares es la causa por la que el viento aquilonar es fríoi cerca de nosotros.</seg>
+      <tuv lang="es" changeid="anlozan" changedate="20200828T162419Z" creationid="anlozan" creationdate="20200828T161807Z">
+        <seg>También por casualidad, el frío de aquellos lugares es la causa por la que el viento aquilonar es frío cerca de nosotros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1771,6 +1771,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T225336Z" creationid="andrealozanov" creationdate="20200611T225336Z">
         <seg>Pero el aire y el agua son lugares a través de los que se da su movimiento hacia el alimento. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sed apud habitantes ultra aequinoctialem, ventus a polo veniens est Meridianus, et apud eos est frigidus et siccus, sicut apud nos ventus Aquilonaris: sed ventus Aquilonaris illis venit a torrida et maribus calidis et locis paludosis: et ideo eis est calidus et humidus, sicut apud nos ventus Meridianus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200828T161845Z" creationid="anlozan" creationdate="20200828T161845Z">
+        <seg>Pero </seg>
       </tuv>
     </tu>
     <tu>

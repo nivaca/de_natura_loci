@@ -108,3 +108,4 @@ quamvis	cuanto se quiera
 frigiditatem	frialdad
 caliginem	nebulosidad
 nota est	es conocida
+forte	por casualidad

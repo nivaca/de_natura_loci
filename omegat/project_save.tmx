@@ -1566,6 +1566,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Propter autem regionum illarum sunt animalia frigida in terris illis corpore multum diminuta, vel penitus nulla, sicut asini et hujusmodi.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200828T191021Z" creationid="anlozan" creationdate="20200828T191021Z">
+        <seg>A causa del frío también en aquellas regiones los animales son fríos, muy diminutos de cuerpo en aquellas tierras o enteramente inexistente como los asnos y los de este tipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Propter hoc autem et his similia multa videtur et est irrationalis opinio quorumdam dicentium nullum superius esse ignem, sed aerem usque ad sidera extendi: et est inconveniens ratio quam ad hoc inducunt dicentes esse inutilem, cum ad mixtionem [C5a] aliorum faciendam corporum et generationem perficiendam non possit descendere: eo quod secundum naturam semper sit superius: nec videmus animal quod ipsum per violentiam possit inclinare deorsum.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200625T170326Z" creationid="mateovo2" creationdate="20200625T170326Z">

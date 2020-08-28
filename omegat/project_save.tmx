@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="la"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="la"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1624,8 +1624,8 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       <tuv lang="la">
         <seg>Ptolemaeus autem in libro de Dispositione sphaerae qui est introductorius Almagesti, dicit sub utroque tropico, aestivo scilicet et hyemali, habitare Aethiopes: et confirmat hoc per quemdam poetam, qui nomine dicitur Krices, qui Krices inducit Homerum dicentem: et sunt haec verba Ptolemaei: "Natura quidem exigit duo genera Aethiopum, quorum unum est sub tropico aestivo, et sunt Aethiopes, qui sequuntur nos: et alterum genus Aethiopum est, qui sunt sub tropico hyemali, qui est tropicus aestivus illis, quorum pedes sunt in directo pedum nostrorum." Et Krices quidem retulit de Homero versificatore, quod ipse dixit hos Aethiopes in versibus suis, cum dicit: "Et virtus in duobus finibus duas habet divisiones, quarum una est in occasibus horizontis, et altera est apud elevationem."</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200828T213917Z" creationid="anlozan" creationdate="20200814T204054Z">
-        <seg>Ptolomeo, sin embargo, en el Libro sobre la disposición de la esfera, que es introductorio al Almagesto, dice que bajo cada uno de los trópicos, a saber el estival y el invernal, habitan los etíopes. Y lo confirma por medio de cierto poeta cuyo nombre es Carites, el Carites que presenta a Homero hablando. Y estas son las palabras de Ptolomeo: ‘Ciertamente, la naturaleza produce dos géneros de etíopes, de los cuales uno está bajo el trópico estival, que son los etíopes que nos acompañan. Y el otro es el género de los etíopes que están bajo el trópico invernal, que es el trópico estival para ellos, cuyos pies están en la dirección de nuestros pies. Y Carites ciertamente retomó de Homero el versificador lo que el mismísimo dijo a estos etíopes en sus versos cuando dijo: ‘y la virtud tiene dos divisiones en las dos regiones, una de las cuales está en el ocaso de Orión y la otra junto al levante.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20200828T220112Z" creationid="anlozan" creationdate="20200814T204054Z">
+        <seg>Ptolomeo, sin embargo, en el Libro sobre la disposición de la esfera, que es introductorio al Almagesto, dice que bajo cada uno de los trópicos, a saber el estival y el invernal, habitan los etíopes. Y lo confirma por medio de cierto poeta cuyo nombre es Carites, el Carites que presenta a Homero hablando. Y estas son las palabras de Ptolomeo: ‘Ciertamente, la naturaleza produce dos géneros de etíopes, de los cuales uno está bajo el trópico estival, que son los etíopes que nos acompañan. Y el otro es el género de los etíopes que están bajo el trópico invernal, que es el trópico estival para ellos, cuyos pies están en la dirección de nuestros pies. Y Carites ciertamente retomó de Homero el versificador lo que él mismo dijo de estos etíopes en sus versos, cuando dijo: "y la virtud en las dos regiones tiene dos divisiones, una de las cuales está en los ocasos de Orión y la otra está junto al levante".</seg>
       </tuv>
     </tu>
     <tu>

@@ -1740,6 +1740,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Quosdam vidi homines qui causam quare non transeatur, dicunt esse inaccessibiles montes praeruptos et desertos.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200904T224422Z" creationid="mateovo2" creationdate="20200904T224422Z">
+        <seg>No obstante, vi a algunos hombres que dicen que la causa por la que no atravesaron es que los montes escarpados y los desiertos son inaccesibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Scimus enim in polo Septentrionali esse frigus dominans quod superiora elementa conducat in inferiora: et immediate probatum est esse temperamentum per latitudinem septem climatum: igitur necessarius erit locus in quo calor dominetur ex victoria superiorum elementorum in inferiora: et hunc dicunt esse quartam terrae partem, quae in superiori nostri hemisphaerii ab aequinoctiali circulo extenditur usque in polum Australem.</seg>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20200814T222840Z" creationid="anlozan" creationdate="20200814T201500Z">
@@ -1853,6 +1861,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200828T224624Z" creationid="anlozan" creationdate="20200814T204828Z">
         <seg>pero no en esto: al presentar a Homero que dice esto*, Carites también dice que la tierra es de superficie plana y no redonda, puesto que probamos suficientemente, en el Libro sobre el cielo y el mundo, que esta es redonda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sed mirum videtur, si undique sunt tam inaccessibiles, ut numquam possint transiri.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200904T224515Z" creationid="mateovo2" creationdate="20200904T224515Z">
+        <seg>Pero parece asombroso que sean tan inaccesibles por todos lados, de modo que nunca se puedan atravesar. </seg>
       </tuv>
     </tu>
     <tu>

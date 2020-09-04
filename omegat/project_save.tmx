@@ -1710,8 +1710,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>Quod autem dicitur, regionem illam quae est in meridie, inter Aquilonem et tropicum Capricorni, esse adustam, hoc manifestum est modo quo supra diximus: sed hoc non prohibet quin aliquando possit habitari, quando scilicet sol est in signis Aquilonaribus: tunc enim est eis hyems: et hoc modo etiam nihil prohibet quin homines quartae Aquilonaris possint transire ad homines quartae Meridionalis non impediente exustione solis.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20200814T204923Z" creationid="anlozan" creationdate="20200814T204923Z">
-        <seg>Se dice, sin embargo, que aquella región que está en el sur, entre el equinoccial y el trópico de Capricornio, es adusta. Esto es cierto en el modo que dijimos arriba. Pero esto no impide que a veces pueda ser habitada, por ejemplo, cuando el sol está en los signos aquilonales; entonces, en efecto, es invierno para ellos. Y de este modo tampoco nada impide que los hombres de la cuarta aquilonal puedan pasar hasta los hombres de la cuarta meridional al no ser impedidos por la calentura del sol.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20200904T213542Z" creationid="anlozan" creationdate="20200814T204923Z">
+        <seg>Se dice, sin embargo, que aquella región que está en el sur, entre el equinoccial y el trópico de Capricornio, es ardiente. Es verdadero en el modo que dijimos arriba. Pero esto no impide que a veces pueda ser habitada, por ejemplo, cuando el sol está en las constelaciones aquilonales; entonces, en efecto, es invierno para ellos. Y de este modo tampoco nada impide que los hombres de la cuarta parte aquilonal puedan llegar hasta los hombres de la cuarta parte meridional no impidiéndolo el exceso de calor del sol. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1912,7 +1912,6 @@ Hacer notas!</note>
       </tuv>
     </tu>
     <tu>
-      <note>Buscar construcción "alterius caeli"</note>
       <tuv lang="la">
         <seg>Sed videtur, quod multum sit laboriosa et non continua habitatio sub tropico Capricorni propter causas superinductas: sed spatium quod est post tropicum Capricorni usque ad latitudinem septimi climatis in Meridie mensurando, hoc est, usque ad latitudinem quadraginta et octo vel quinquaginta graduum habitabile est secundum delectationem et continue, sicut et nostrum, et forte plus quam nostrum: propter hoc quod ibi est superius solis, et caeli vicinitas plus temperat frigus regionum quae distant ab aequinoctiali per quinquaginta gradus a Meridie, quam faciat in Aquilone: eo quod aux ejus est in Aquilone, et oppositum augis in Meridie.</seg>
       </tuv>

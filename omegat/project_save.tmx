@@ -1817,8 +1817,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>Sed credo quod omnia loca per mensem vel amplius (quando sol est in tropico hyemali) sunt inhabitabilia propter frigus: et similiter loca quae sunt majoris latitudinis.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20200911T213430Z" creationid="anlozan" creationdate="20200821T145350Z">
-        <seg>Mas sin embargo pienso que todos los lugares, en los  cuales el día dura un mes o más (cuando el sol está en el trópico invernal) son inhabitables a causa del frío. Y de la misma manera, los lugares que están en latitudes más extensas/más altas.</seg>
+      <tuv lang="es" changeid="anlozan" changedate="20200911T213728Z" creationid="anlozan" creationdate="20200821T145350Z">
+        <seg>Mas sin embargo pienso que todos los lugares, en los que el día dura un mes o más (cuando el sol está en el trópico estival o en el trópico invernal) son inhabitables a causa del frío. Y de la misma manera, los lugares que son propios de una latitud más alta.</seg>
       </tuv>
     </tu>
     <tu>

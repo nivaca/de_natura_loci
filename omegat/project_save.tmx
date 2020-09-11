@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="la"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="la"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1101,8 +1101,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>His autem habitis, de duabus regionibus inhabitabilibus propter frigus est tractandum.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20200821T144743Z" creationid="anlozan" creationdate="20200821T144743Z">
-        <seg>Es necesario tratar de estas dos regiones inhabitables a causa del frío.</seg>
+      <tuv lang="es" changeid="anlozan" changedate="20200911T211507Z" creationid="anlozan" creationdate="20200821T144743Z">
+        <seg>Ahora bien, teniendo en cuenta esto, se ha de tratar de las dos regiones inhabitables a causa del frío.</seg>
       </tuv>
     </tu>
     <tu>

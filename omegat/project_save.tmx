@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="la"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="la"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2327,6 +2327,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20200619T203451Z" creationid="nivaca" creationdate="20200610T232122Z">
         <seg>Capítulo 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>[B542a] CAPUT VII.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20200916T200611Z" creationid="mateovo2" creationdate="20200916T200611Z">
+        <seg>Capítulo 7.</seg>
       </tuv>
     </tu>
     <tu>

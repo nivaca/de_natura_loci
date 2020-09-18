@@ -666,8 +666,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Et forte frigus illorum locorum est causa quare ventus Aquilonaris est frigidus apud nos.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20200918T221227Z" creationid="anlozan" creationdate="20200828T161807Z">
-        <seg>Y tal vez, el frío de aquellos lugares es la causa por la que el viento aquilonar es frío en nuestra región.</seg>
+      <tuv lang="es" changeid="anlozan" changedate="20200918T221720Z" creationid="anlozan" creationdate="20200828T161807Z">
+        <seg>Y tal vez, el frío de aquellos lugares es la causa por la que el viento aquilonal es frío en nuestra región.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1817,8 +1817,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>Sed apud habitantes ultra aequinoctialem, ventus a polo veniens est Meridianus, et apud eos est frigidus et siccus, sicut apud nos ventus Aquilonaris: sed ventus Aquilonaris illis venit a torrida et maribus calidis et locis paludosis: et ideo eis est calidus et humidus, sicut apud nos ventus Meridianus.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20200918T221659Z" creationid="anlozan" creationdate="20200828T161845Z">
-        <seg>Pero en la de los que habitan más allá de la equinoccial, el viento que les llega del polo es del sur, y en la de ellos es frío y seco tal como es en la de nosotros el viento del norte, pero aquel viento del norte viene de la zona tórrida, de los mares cálidos y de los lugares pantanosos, y por esto para ellos es cálido y húmedo así como para nosotro el viento sur.</seg>
+      <tuv lang="es" changeid="anlozan" changedate="20200918T222404Z" creationid="anlozan" creationdate="20200828T161845Z">
+        <seg>Pero en la de los que habitan más allá de la equinoccial, el viento que a estos llega del polo es meridional, y en la de ellos es frío y seco tal como es en la de nosotros el viento aquilonal, pero el viento aquilonal llega a aquellos de la zona tórrida, de los mares cálidos y de los lugares pantanosos, y por esto para ellos es cálido y húmedo así como en la de nosotros el viento meridional.</seg>
       </tuv>
     </tu>
     <tu>

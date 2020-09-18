@@ -559,6 +559,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Est autem immensa illorum locorum frigiditas, etiam causa quare materia illarum regionum sunt raro navigabilia: quia tempore hyemis congelata sunt glacie so-[B546b]-lidissima, et tempore aestatis fluit in eis glacies divisa, quae vel in mari congelata fuit, vel per flumina influit in mare.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200918T232533Z" creationid="anlozan" creationdate="20200918T230351Z">
+        <seg>Ahora bien, la frialdad intensa de aquellos lugares es también la causa por la que los mares de aquellas regiones son escasamente navegables porque en tiempo de invierno están congelados con un hielo muy sólido y en tiempo de verano fluye en ellos el hielo desprendido de su parte grande que o bien se congeló en el mar o desemboca por los ríos en el mar. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Est autem loci duplex distinctio.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200625T162847Z" creationid="mateovo2" creationdate="20200625T162847Z">
@@ -625,8 +633,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Est tamen in talibus locis distinctio: quia quanto sunt frigidiora in superficie, tanto magis recludunt in se vapores calidos diu in ventre terrae congregatos, et illi frequenter erumpunt in montes altos: propter quod tradunt Philosophi montes altos esse in partibus Aquilonaribus perpetuarum nivium et perpetuae frigiditatis.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20200918T230310Z" creationid="anlozan" creationdate="20200918T211451Z">
-        <seg>Hay, sin embargo, en esos lugares una diferencia: porque en cuanto son más fríos en la superficie tanto más se guardan en ellos vapores cálidos por mucho tiempo conservados en el vientre de la tierra, y estos irrumpen frecuentemente como montes altos. Por esto enseñan los filósofos que hay montañas altas en las partes aquilonales de nieves perpetuas y de frío perpetuo.</seg>
+      <tuv lang="es" changeid="anlozan" changedate="20200918T230444Z" creationid="anlozan" creationdate="20200918T211451Z">
+        <seg>Hay, sin embargo, en esos lugares una diferencia: porque en cuanto son más fríos en la superficie tanto más se guardan en ellos vapores cálidos por mucho tiempo conservados en el vientre de la tierra, y estos irrumpen frecuentemente como montes altos. Por esto enseñan los filósofos que hay montañas altas en las partes aquilonales de nieves perpetuas y de fríaldad perpetua</seg>
       </tuv>
     </tu>
     <tu>

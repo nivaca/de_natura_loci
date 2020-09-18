@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="la"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="la"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -619,6 +619,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200626T225325Z" creationid="nivaca" creationdate="20200610T234806Z">
         <seg>Pero es también razonable que allí haya habitación; puesto que, en efecto, de acuerdo con el legado de los filósofos, el sol en una órbita oblicua es causa de generación por su aproximación y causa de corrupción por su retroceso, será preciso que allí especialmente haya generación, donde se aproxima y retrocede por igual. Sin embargo, esto sucede bajo el equinoccio; por lo tanto, allí se dará especialmente la habitación de lo generado. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Est tamen in talibus locis distinctio: quia quanto sunt frigidiora in superficie, tanto magis recludunt in se vapores calidos diu in ventre terrae congregatos, et illi frequenter erumpunt in montes altos: propter quod tradunt Philosophi montes altos esse in partibus Aquilonaribus perpetuarum nivium et perpetuae frigiditatis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200918T211451Z" creationid="anlozan" creationdate="20200918T211451Z">
+        <seg>Ahora bien el frío en esos lugares es intenso, </seg>
       </tuv>
     </tu>
     <tu>

@@ -476,6 +476,14 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Dico autem illum arcum similem semicirculo aequinoctiali: quia et ipse arcus semicirculus ejus circuli intellectualis qui parallelus est aequinoctiali, distans ab ipso in [16b] sphaeram versus Aquilonem per quinquaginta gradus inaequalis est: quia aequinoctialis circulus est magnus dividens totam sphaeram caeli et terrae in duo aequalia: et parallelus, de quo dictum est, de parvis circulis, unus qui spheram caeli et terrae in duo aequalia dividit.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200925T174408Z" creationid="anlozan" creationdate="20200925T174408Z">
+        <seg>Ahora bien, digo que aquel arco es semejante al semicírculo equinoccial, puesto que este mismo es el semicírculo de su círculo percibido por el intelecto, que es paralelo al círculo equinoccial que dista por 50 grados desde este en la esfera hacia el aquilón. Sin embargo, es desigual porque el círculo equinoccial es el mayor círculo que divide toda la esfera del cielo y la tierra en dos [partes] iguales, y el paralelo —del que se dijo que es uno de los pequeños círculos— es el que no divide la esfera del cielo y la tierra en dos iguales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Dicunt enim illi medium semisphaerale Aquilonaris infusum aquis, et ab aequinoctiali in polum non esse nisi aquam, et aerem, et ignem, et non apparere de terra nisi dimidium semisphaeralis figurae ejus, et in illa nos habitare contendunt.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200821T213832Z" creationid="anlozan" creationdate="20200814T203502Z">
@@ -933,6 +941,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200904T221339Z" creationid="anlozan" creationdate="20200814T205847Z">
         <seg>Así también se entiende lo que dicen los filósofos, que no se encuentra a nadie que haya escrito algo sobre aquella habitación. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Et secundum istas mensuras habitatio nostra, quae versus Aquilonem est, longitudinem habet plus quam duplam ad ipsius latitudinem.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200925T174503Z" creationid="anlozan" creationdate="20200925T174503Z">
+        <seg>Y según estas medidas, nuestra habitación, que está hacia el aquilón, tiene una longitud más del doble que su misma latitud.</seg>
       </tuv>
     </tu>
     <tu>

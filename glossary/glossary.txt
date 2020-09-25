@@ -113,3 +113,4 @@ tempore	tiempo	estación
 propter	a causa
 secundum rationis	de acuerdo con la razón
 continue	permanentemente
+ab ortu solis	desde el orto del sol

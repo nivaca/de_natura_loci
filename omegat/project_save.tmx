@@ -1516,6 +1516,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Nunc videndum est de parte mundi quae continue et delectabiliter habitatur.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200925T170941Z" creationid="anlozan" creationdate="20200925T170941Z">
+        <seg>Ahora debe mirarse la parte del mundo que es habitada permanentemente y con deleite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Occurrit autem hic quaestio gravis, in qua etiam Reges potentissimi et Philosophi peritissimi ab antiquo laboraverunt: reges quidem experiendo, et Philosophi per investigationem rationis, utrum scilicet aliquid de terra quae ab aequinoctiali usque ad polum Australem extenditur, habitetur vel possit habitari.</seg>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20200814T212918Z" creationid="anlozan" creationdate="20200814T200922Z">
@@ -1792,6 +1800,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200904T230020Z" creationid="mateovo2" creationdate="20200904T224422Z">
         <seg>No obstante, conocí a algunos hombres que dicen que la causa por la que no atravesaron son los inaccesibles montes escarpados y los desiertos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sciendum autem, quod pars illa non est rotunda ut quidam eam figurant [C16a] dividentes mundum in Asiam, Africam, et Europam: sed potius extenditur habitabilis nostra a linea Meridionali versus Aquilonem, sicut diximus supra: et latitudo regionis illius est mensura distantiae ad Aquilonem: et quantitas latitudinis est pars circuli Meridionalis terrae illius, cujus latitudo est accipienda secundum quantitatem qua sol quando est in linea Meridionali, accedit ad Zenith capitum habitantium in terra aliqua: et sic dicitur latior et minus lata regio eorum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200925T171317Z" creationid="anlozan" creationdate="20200925T171317Z">
+        <seg>En verdad, ha de saberse que aquella parte no es redonda, como algunos que dividen el mundo en Asia, África y Europa la imaginan, sino que más bien nuestra habitable se extiende desde la línea meridional hacia el aquilón, como dijimos más arriba.Y la latitud de aquel sitio es la medida de su distancia desde la línea equinoccial hasta el aquilón, y la magnitud de su latitud es llamada en la Filosofía la magnitud del arco, que es la parte del círculo meridional de aquella región cuya latitud ha de ser tomada; en efecto, según la magnitud en la que el sol alcanza el cenit de las cabezas de los habitantes en algún sitio, cuando está en la línea meridional, así se dice que es más amplia o menos amplia su región.</seg>
       </tuv>
     </tu>
     <tu>

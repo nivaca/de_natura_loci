@@ -446,8 +446,8 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
       <tuv lang="la">
         <seg>De longitudine et latitudine locorum habitabilium.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20200925T170851Z" creationid="anlozan" creationdate="20200925T170851Z">
-        <seg> Sobre la longitud ya la latitud de los lugares habitables</seg>
+      <tuv lang="es" changeid="anlozan" changedate="20200925T214002Z" creationid="anlozan" creationdate="20200925T170851Z">
+        <seg> Sobre la longitud y la latitud de los lugares habitables</seg>
       </tuv>
     </tu>
     <tu>
@@ -1950,8 +1950,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>Sciendum autem, quod pars illa non est rotunda ut quidam eam figurant [C16a] dividentes mundum in Asiam, Africam, et Europam: sed potius extenditur habitabilis nostra a linea Meridionali versus Aquilonem, sicut diximus supra: et latitudo regionis illius est mensura distantiae ad Aquilonem: et quantitas latitudinis est pars circuli Meridionalis terrae illius, cujus latitudo est accipienda secundum quantitatem qua sol quando est in linea Meridionali, accedit ad Zenith capitum habitantium in terra aliqua: et sic dicitur latior et minus lata regio eorum.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20200925T171317Z" creationid="anlozan" creationdate="20200925T171317Z">
-        <seg>En verdad, ha de saberse que aquella parte no es redonda, como algunos que dividen el mundo en Asia, África y Europa la imaginan, sino que más bien nuestra habitable se extiende desde la línea meridional hacia el aquilón, como dijimos más arriba.Y la latitud de aquel sitio es la medida de su distancia desde la línea equinoccial hasta el aquilón, y la magnitud de su latitud es llamada en la Filosofía la magnitud del arco, que es la parte del círculo meridional de aquella región cuya latitud ha de ser tomada; en efecto, según la magnitud en la que el sol alcanza el cenit de las cabezas de los habitantes en algún sitio, cuando está en la línea meridional, así se dice que es más amplia o menos amplia su región.</seg>
+      <tuv lang="es" changeid="anlozan" changedate="20200925T220350Z" creationid="anlozan" creationdate="20200925T171317Z">
+        <seg>En verdad, ha de saberse que aquella parte no es redonda, como algunos que dividen el mundo en Asia, África y Europa la dibujan, sino que más bien nuestra parte habitable se extiende desde la línea meridional hacia el aquilón, como dijimos más arriba.Y la latitud de aquella región es la medida de su distancia desde la línea equinoccial hasta el aquilón, y la magnitud de su latitud es llamada en la Filosofía la magnitud del arco, que es la parte del círculo meridional de AQUEL SITIO cuya latitud ha de ser tomada; en efecto, según la magnitud en la que el sol alcanza el cenit de las cabezas de los habitantes en algún SITIO, cuando está en la línea meridional, así se dice que es mayor o menor la latitud de su región.</seg>
       </tuv>
     </tu>
     <tu>

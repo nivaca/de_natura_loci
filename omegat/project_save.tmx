@@ -889,6 +889,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Et multum variatur natura locorum per distantiam parvam vel magnam longitudinis illius.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200925T204543Z" creationid="anlozan" creationdate="20200925T204543Z">
+        <seg>Y en mucho cambia la naturaleza de los lugares según la pequeña o gran distancia de aquella longitud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Et nos hoc falsum esse videmus, cum oculis videamus in hac quarta homines habitare.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200828T222107Z" creationid="anlozan" creationdate="20200814T204444Z">
@@ -1947,6 +1955,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20200911T213728Z" creationid="anlozan" creationdate="20200821T145350Z">
         <seg>Mas sin embargo pienso que todos los lugares, en los que el día dura un mes o más (cuando el sol está en el trópico estival o en el trópico invernal) son inhabitables a causa del frío. Y de la misma manera, los lugares que son propios de una latitud más alta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sed debet talis homo scire, quod rationibus astrorum, et praecipue per eclipses lunares compertum est nostram habitationem non extendi per totum terrae circulum, ita quod habitabilis sit habitatio nostra ab Oriente in Occidentem, et per Occidentem iterum in Orientem: eo quod amphitrites fluat ab Aquilone per Orientis punctum in parte una, et per Occidentis punctum in parte alia in Meridie: et vocatur Oriens et Occidens mundi, ortus et occasus continuari ad amphitritem: et distantia ab illo vocatur terrae longitudo.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200925T201554Z" creationid="anlozan" creationdate="20200925T201554Z">
+        <seg>No obstante, tal hombre debe saber que por la disposición de los astros y, especialmente, por los eclipses lunares es dado por cierto que nuestra habitación no se extiende por la circunferencia entera de la Tierra, de manera que nuestra habitación sea practicable /transitable/ dable desde el oriente hacia el occidente y por el occidente de nuevo hacia el oriente, por aquello de que el Amphitrites en una parte fluya desde el aquilón por el punto oriental y en otra parte por el punto del occidente hacia el sur.Y se llama “oriente” y “occidente” del mundo la salida y el ocaso continuados hacia el Amphitrites, y la distancia desde él se llama “longitud del sitio”.</seg>
       </tuv>
     </tu>
     <tu>

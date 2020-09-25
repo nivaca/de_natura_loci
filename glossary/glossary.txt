@@ -109,3 +109,5 @@ frigiditatem	frialdad
 caliginem	nebulosidad
 nota est	es conocida
 forte	por casualidad
+tempore	tiempo	estación
+propter	a causa

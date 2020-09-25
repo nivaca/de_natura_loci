@@ -111,3 +111,4 @@ nota est	es conocida
 forte	por casualidad
 tempore	tiempo	estación
 propter	a causa
+secundum rationis	de acuerdo con la razón

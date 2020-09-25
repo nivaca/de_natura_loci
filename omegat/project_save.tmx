@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Alio etiam tempore ventus tempestuosus facit in eis tempestates, in tantum quod propter tempestates navigari non possunt, sicut dicit Albumasar: sol enim non consumit vapores, sed elevando confortatur ventus continue, et procellosum facit mare et innavigabile.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200925T164718Z" creationid="anlozan" creationdate="20200925T164718Z">
+        <seg>Además, en otra estación, el viento tempestuoso hace en él (el mar) tempestades, a tal nivel que por causa de las tempestades no pueden navegar, según dice Albumasar; en efecto el sol no consume los vapores sino que elevándose/ al elevarse el viento es fortalecido continuamente, hace al mar tormentoso e innavegable. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Altera autem ex situ et respectu loci ad vias plurimorum.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200625T163123Z" creationid="mateovo2" creationdate="20200625T163123Z">

@@ -1532,6 +1532,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Movet autem fortasse aliquem id quod diximus de longitudine terrarum, quod scilicet distantia ab Oriente mundi ipsius est longitudo: omnis enim terra suum habet Orientem, cum terra sit rotunda: et omnis terra distat ab Oriente suo spatio aequali, hoc est, per nonaginta gradus: et sic una terra non est longior quam alia.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200925T201527Z" creationid="anlozan" creationdate="20200925T201527Z">
+        <seg>Sin embargo, esto que dijimos sobre la longitud de los sitios (tierras ¿?), a saber, que la distancia desde el oriente del mundo es su longitud, quizás haga vacilar a alguien; en efecto, todo sitio tiene su oriente, puesto que la Tierra es redonda, y así todo sitio dista desde su oriente con un espacio suyo igual, esto es por los grados 90, y así un sitio no tiene más latitud que otro. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Nec est verum quod inter [B541b]duo calidissima nullum sit temperatum: quia recessus solis causat frigus ex victoria inferiorum elementorum causatum: et ideo licet frigus non sit ibi in summo, est tamen ibi ut temperans extreme calidum.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200703T221229Z" creationid="nivaca" creationdate="20200610T235123Z">

@@ -152,6 +152,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Arcus autem similis illi et non aequalis mensurat eam versus Aquilonem ab Oriente in Occiden-[B547b]-tem.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200925T174205Z" creationid="anlozan" creationdate="20200925T174205Z">
+        <seg>Sin embargo, el arco semejante a aquel y no igual la mide hacia el aquilón desde el oriente al occidente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Averroes enim in commento super librum quartum Caeli et Mundi, dicit et Aristotelis et suam fuisse opinionem, quod loca illa sunt habitabilia, et rationem adducit id necessario probantem, ut mihi videtur: dicit enim inter calidissimum et frigidissimum esse temperamentum: necessario etiam est locus [B543a] calidissimus sub tropico hyemali: frigidissimum autem esse necesse est sub polo, eo quod obliquissime locum illum radii solis respiciunt: igitur in medio per aequidistantiam ab utroque locus erit temperatus et congruus habitationi.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200916T201558Z" creationid="anlozan" creationdate="20200814T202903Z">
@@ -1395,8 +1403,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Ista autem pars est circuli qui intelligitur extendi a polo in polum per Orientem: et pars illius circuli ab ortu solis quando est in aequinoctiali accepta versus polum Aquilonarem per quinquaginta gradus mensurat habitationem, quae satis delectabiliter et continue habitatur: et remanent gradus quadraginta, quorum pars omnino inhabitabilis est, et pars habitatur cum labore et non continue.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20200925T173952Z" creationid="anlozan" creationdate="20200925T173952Z">
-        <seg>Sin embargo, una es la parte del círculo que se entiende que se extiende de polo a polo por el oriente. Y la parte de aquel círculo desde el levante del sol, cuando ha sido tomada en el [círculo] equinoccial hacia el polo del aquilón, extiende por 50 grados la habitación que es habitada muy deleitable y permanentemente.</seg>
+      <tuv lang="es" changeid="anlozan" changedate="20200925T174026Z" creationid="anlozan" creationdate="20200925T173952Z">
+        <seg>Sin embargo, una es la parte del círculo que se entiende que se extiende de polo a polo por el oriente. Y la parte de aquel círculo desde el levante del sol, cuando ha sido tomada en el [círculo] equinoccial hacia el polo del aquilón, extiende por 50 grados la habitación que es habitada muy deleitable y permanentemente. Y quedan 40 grados, de los cuales una parte es completamente inhabitable y la otra es habitada con trabajo y no permanentemente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2002,6 +2010,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Sed semicirculus aequinoctialis, qui in superiori hemisphaerio est, mensurat eam per centrum et octoginta gradus ab Oriente in Occidentem: quia tanta pars circuli extenditur super medietatem superiorem terrae in qua nos habitamus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200925T174140Z" creationid="anlozan" creationdate="20200925T174140Z">
+        <seg>Pero el semicírculo equinoccial, que está en el hemisferio superior, la mide por ciento ochenta grados desde el oriente al occidente, porque tanta parte del círculo se extiende sobre la mitad superior de la tierra, en la que habitamos nosotros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Sed si lux accipitur pro eo quod actum lucis habet illuminando, tunc virtus illa nequaquam lux vocari potest: mobile enim localiter non plus movetur ad locum illuminatum quam ad tenebrosum.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T221343Z" creationid="andrealozanov" creationdate="20200611T221343Z">
@@ -2138,6 +2154,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T191720Z" creationid="mateovo2" creationdate="20200616T191720Z">
         <seg>Y similarmente sucede en la consideración de las cosas complejas* y animadas.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Similis autem pars circuli mensurat nostram habitationem Occidentis et aequalis praedictae.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200925T174050Z" creationid="anlozan" creationdate="20200925T174014Z">
+        <seg>Ahora bien, una parte semejante del círculo mide [extiende] nuestra habitación desde la parte del occidente y de forma igual a la mencionada.</seg>
       </tuv>
     </tu>
     <tu>

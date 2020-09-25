@@ -420,6 +420,14 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>De longitudine et latitudine locorum habitabilium.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200925T170851Z" creationid="anlozan" creationdate="20200925T170851Z">
+        <seg> Sobre la longitud ya la latitud de los lugares habitables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>De natura autem locorum in quibus generantur et conservantur composita, multifaria est valde Auctorum traditio.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T223143Z" creationid="andrealozanov" creationdate="20200611T223143Z">

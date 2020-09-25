@@ -695,6 +695,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Et cum major dimen-[B548b]-sio vocetur longitudo, et minor vocetur latitudo, erit latitudo locorum habitabilium secundum distantiam ab Aquilone in Meridiem acceptam: et longitudo secundum dimensionem accepta ab Oriente in Occidente.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200925T205441Z" creationid="anlozan" creationdate="20200925T205441Z">
+        <seg>Y como es llamada longitud la medida mayor única y la menor es llamada latitud; la latitud de los lugares habitables se dará según la distancia tomada desde la equinoxial hacia el aquilón y la longitud según la medida tomada desde el oriente hacia el occidente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Et de prima quidem loquemur prius, ostendentes quidquid de hoc tradiderunt Antiqui, et rationabiliter dicta accipiamus in his.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200612T211854Z" creationid="nivaca" creationdate="20200610T232310Z">
@@ -853,6 +861,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T185520Z" creationid="mateovo2" creationdate="20200616T185520Z">
         <seg>Y por esta razón, así como en las otras cosas naturales conviene que la ciencia natural deduzca hasta las cosas específicas, de esta manera en los lugares; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Et illius causa est, quia in caelo est motus localis quem oportet esse secundum latitudinem in omnibus quae ex se moventur.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200925T205550Z" creationid="anlozan" creationdate="20200925T205550Z">
+        <seg>Y la causa de aquello es: puesto que en el cielo el movimiento es local es preciso que se dé según la latitud en todas las cosas que se mueven a partir de sí;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1465,6 +1481,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Iste autem motus non est in terra: et ideo minor in ea dimensio est dimensio quae vocatur minor in aere: vocatur autem illa latitudo areae, et major dimensio vocatur longitudo areae: et sic congrua sunt nomina superius dimensionibus terrae imposita.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200925T205611Z" creationid="anlozan" creationdate="20200925T205611Z">
+        <seg>sin embargo, este movimiento no se da en la Tierra; y por esto en ella la menor dimensión es la dimensión que se llama menor en área. No obstante, aquella se llama “latitud de área”, y la mayor medida se llama “longitud de área”. Y de esta manera son justos los nombres impuestos a las medidas superiores de la Tierra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Legi ego quamdam causam cujusdam Philosophi, quare non sit transitus a quarta Aquilonari per torridam ad quartam meridianam.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200904T222747Z" creationid="anlozan" creationdate="20200814T205959Z">
@@ -1946,6 +1970,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200626T223838Z" creationid="nivaca" creationdate="20200610T234747Z">
         <seg>Sin embargo, de la misma manera, entre el equinoccial y el trópico estival está situada casi toda la latitud del segundo clima, cuya latitud es de 24 grados, cuanta es la inclinación del sol desde el círculo equinoccial, según Ptolomeo, y hay en este muchas ciudades famosas y renombradas, de las cuales muchos habitantes han venido a nosotros. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Secundum totum autem semicirculum qui est ab Oriente in Occidentem est una vis radiis corporum caelestium in locis aequaliter ab aequinoctiali circulo distantibus, et una mensura dierum et noctium.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200925T205422Z" creationid="anlozan" creationdate="20200925T205422Z">
+        <seg>Sin embargo, a lo largo del semicírculo entero que se da desde el oriente hacia el occidente, hay una única fuerza de los rayos de los cuerpos celestes sobre los lugares equidistantes desde el círculo equinoxial y una única medida de los días y de las noches.</seg>
       </tuv>
     </tu>
     <tu>

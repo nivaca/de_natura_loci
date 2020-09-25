@@ -1935,6 +1935,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Sed advertendum aliter esse in caelo et aliter in terra: minor enim dimensio variat naturam terrenae habitationis ab Aquilone in Meridie acceptam, quam ab Oriente in Occidentem.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200925T204902Z" creationid="anlozan" creationdate="20200925T204902Z">
+        <seg>Pero ha de advertirse que de una manera es en la Tierra y de otra, en el cielo; en efecto, en menor medida/en una dimensión menor varía la naturaleza de la habitación terrena tomada desde el aquilón hacia el sur que desde el oriente hacia el occidente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Sed aer et aqua sunt loca per quae est motus ipsorum ad cibum.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T225336Z" creationid="andrealozanov" creationdate="20200611T225336Z">
@@ -2413,6 +2421,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200619T211813Z" creationid="nivaca" creationdate="20200610T233524Z">
         <seg>Ahora bien, parece que para Pitágoras, Platón, Demócrito, y sus compañeros, todo este espacio es inhabitable por cinco razones. De estas, la primera se toma a partir de la disposición del rayo del sol que cae sobre aquellos lugares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Videtur autem alicui inconvenienter esse dictum quod diximus de mensuris locorum: quia nos diximus in libro Caeli et Mundi, quod latitudo est a dextro ad sinistrum, et longitudo a superiori in inferius: et nos diximus, quod dextrum et [B548a] sinistrum caeli sunt Oriens et Occidens, et superius et inferius sunt poli, Meridianus, et Aquilonaris: et sic videbitur, quod longitudo locorum sit a Meridie in Aquilonem accipiendo, et latitudo sit ab Oriente in Occidentem per contrarium ejus quod diximus hic.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200925T204607Z" creationid="anlozan" creationdate="20200925T204607Z">
+        <seg>Sin embargo, le parecerá a alguno que es dicho inconvenientemente lo que dijimos sobre la medida de los lugares porque nosotros dijimos en el Libro Segundo sobre el Cielo y el Mundo, que la latitud se da desde lo derecho hacia lo izquierdo y que la longitud, desde lo superior hasta lo inferior; y nosotros dijimos que lo derecho y lo izquierdo del cielo son el oriente y el occidente y que lo superior y lo inferior son los polos sur y aquilonar. Y así parece que la longitud de los lugares ha de tomarse desde el sur hacia el aquilón y que la latitud de ellos se da desde el oriente hacia el occidente, al  contrario de lo que dijimos acá. </seg>
       </tuv>
     </tu>
     <tu>

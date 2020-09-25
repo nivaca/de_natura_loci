@@ -913,6 +913,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Et post istam latitudinem non est locus satis temperatus ad terrae nascentia in nostra habitabili.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200925T205351Z" creationid="anlozan" creationdate="20200925T205351Z">
+        <seg>Y después de esta latitud no hay lugar alguno suficientemente temperado para el surgimiento de sitios habitables para nosotros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Et praecipue propter hoc: quia cum motor primus nobilitatem suam largiatur omni ei quod formatur ad esse, absque dubio non largitur distanti esse vel formam, nisi per quod sibi est propinquius: est autem propinquius continens quam contentum: et sic per locum continentem largitur locato et esse et formam.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T175830Z" creationid="mateovo2" creationdate="20200616T175830Z">
@@ -965,6 +973,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20200925T173845Z" creationid="anlozan" creationdate="20200925T173845Z">
         <seg>Y según estas medidas, a saber, de longitud y latitud, no hay habitación nuestra redonda que esté hacia el aquilón, sino que más bien se compone de las cuatro partes del círculo, de las cuales dos son iguales y dos desiguales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Et si distat per quadraginta octo gradus, vincet longior dies diem aequinoctii per quatuor horas integras: et erit clima septimum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20200925T205325Z" creationid="anlozan" creationdate="20200925T205325Z">
+        <seg>Y si dista por 48 grados, supera el día más largo al día del equinoxio por cuatro horas completas, y se tendrá el séptimo clima.</seg>
       </tuv>
     </tu>
     <tu>

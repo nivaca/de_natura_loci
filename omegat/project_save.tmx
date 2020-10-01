@@ -247,6 +247,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="la">
+        <seg>Circulariter autem habitant, quorum [B549b]quidem latitudo cum sit una, longitudo non una et eadem est: isti enim sub uno parallelo circulo habitant, qui est aequalis in circuitu latitudinis ab aequinoctiali circulo: et ille quidem totus calidus et frigidus est, et humidus et siccus: et dies eorum aequales sunt et noctes: sed eorum ortus et occasus non sunt in uno tempore sensibili, nec eorum venti sunt aequales: quia quorum differunt Oriens et Occidens, horum necesse est esse ventos diversos ad minus Orientales et Occidentales.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201001T212032Z" creationid="mateovo2" creationdate="20201001T212032Z">
+        <seg>Sin embargo, habitan circularmente aquellos que, ciertamente, aunque cuya latitud sea una misma, la longitud no es una sola ni la misma; estos, en efecto, habitan bajo un solo círculo paralelo, que es igual en el circuito de la latitud desde el círculo equinoccial, y este lugar, ciertamente, es igualmente cálido y frío y húmedo y seco, y sus días y sus noches son iguales. Pero su orto y su ocaso no suceden en un único tiempo sensible, y sus vientos no son iguales. Puesto que el oriente y el occidente de aquellos difieren, es necesario que los vientos orientales y occidentales de estos difieran por menos. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Acá tradujimos "locum" por "localización", y no por "lugar".</note>
       <tuv lang="la">
         <seg>Compositum autem habet locum in composito: et ideo nullum compositum in simplici corpore locari potest: propter quod egregie dicit Aristoteles in libro de Causis proprietatum elementorum et orbis sive planetarum, quod si compositum occupetur a simplici, corrumpitur statim: dans exemplum de his animalibus, quae cadunt ab altissimo, quae ante mortua sunt quam ad terram deveniant: et ideo corrupta sunt, quia occupata sunt ab aere simplici, et non a casu.</seg>
@@ -349,6 +357,14 @@
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200625T171358Z" creationid="mateovo2" creationdate="20200625T171358Z">
         <seg>en efecto, aunque el ascender hacia arriba sea propio del fuego, muy verdadera y principalmente aquella parte de la materia alcanza la forma del fuego, que se eleva hasta lo más alto del lugar;  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Cum enim nonaginta gradus sint a centro horizontis uniuscujusque usque ad ortum, oportet quod eorum quorum horizontis centrum est in Occidente, ortus sit ubi est Meridies eorum qui sunt in Oriente: quia medietas centum et octoginta graduum, qui sunt semicirculus, qui est ab Oriente in Occidentem, est nonaginta gradus, qui sunt a circulo Meridiei orientalium usque ad occasum mundi.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201001T212146Z" creationid="mateovo2" creationdate="20201001T212146Z">
+        <seg>En efecto, puesto que los 90 grados están desde el centro del horizonte de cada uno de ellos hasta el orto, es preciso que el centro del horizonte de aquellos que está en el occidente sea el orto, donde está el sur de quienes están en el oriente, puesto que la mitad de los 180 grados que están en el semicírculo, que se extiende desde el oriente hacia el occidente, es de 90 grados, que se extienden desde el círculo de (los soles) que salen del meridional hasta el ocaso del mundo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -623,6 +639,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Est autem habitatio talium aequaliter quidem calida et frigida, humida et sicca, propter unam [B550a] eamdemque latitudinem quam habent: non tamen in una hora habent Orientem et Occidentem, sed potius differt ad minus per sex horas ortus istorum ab ortu illorum, et similiter occasus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201001T212137Z" creationid="mateovo2" creationdate="20201001T212137Z">
+        <seg>Ahora bien, la habitación de tales (habitantes), ciertamente, es igualmente cálida y fría y húmeda y seca, a causa de una sola y misma latitud que tienen. Sin embargo, no tienen el amanecer y el ocaso (el sol que sale y que se pone) en una sola hora, sino más bien el orto para estos difiere por lo menos por seis horas (90 grados) del orto para aquellos, y de la misma manera el ocaso.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Est autem hujusmodi dubitatio magna de torrida, utrum ipsa sit secundum totum inhabitabilis, sicut Antiqui videntur tradidisse.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200619T211031Z" creationid="nivaca" creationdate="20200610T233522Z">
@@ -864,6 +888,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Et horum quidem est unus ortus et occasus solis in die: non tamen sol oritur et occidit in eodem gradu: sed non est eis aequalis dies: nec est eis aequale frigus et calidum et humidum et siccum, eo quod non aequaliter dilatantur ab aequinoctiali circulo.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201001T212107Z" creationid="mateovo2" creationdate="20201001T212107Z">
+        <seg>Y, ciertamente, de estos el orto y el ocaso del sol es uno solo en un mismo día, cuando el sol sale y se pone en el mismo grado. Pero para ellos el día no es igual, y para ellos no es igual el frío ni el calor ni la sequedad ni la humedad, por razón de que no se esparcen de la misma manera desde el círculo equinoccial. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Et hunc librum per tres distinctiones dividimus.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200625T220205Z" creationid="mateovo2" creationdate="20200616T200229Z">
@@ -909,6 +941,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T191840Z" creationid="mateovo2" creationdate="20200616T191840Z">
         <seg>Y por esto vemos que hombres distinguidos en la filosofía, así como fueron Aristóteles y Platón, trataron de este modo, aunque sus libros sobre estas cosas, no completos, sino por partes a nosotros han llegado.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Et ideo quaecumque civitas vel locus elongatur ab alio per quinquaginta stadia, sensibiliter habent alium ortum et alium occasum stellarum secundum tempus sensibile.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201001T211956Z" creationid="mateovo2" creationdate="20201001T211956Z">
+        <seg>y por esto, cualquier ciudad o lugar se aleja del otro por cincuenta estadios, (y) sensiblemente tiene otro orto y otro ocaso de las estrellas según el tiempo sensible. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1021,6 +1061,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200612T214148Z" creationid="nivaca" creationdate="20200610T232414Z">
         <seg>Y puesto que la vía del sol está directamente sobre este espacio dos veces al año, dicen que allí su rayo se refleja en el mismo, por lo que es abrasador, y hace aquella parte inhabitable por el excesivo calor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Et quicumque locus ab alio removetur secundum latitudinem quingentorum stadiorum, sensibiliter calidior vel frigidior est quam alius: et sic sensibilis est distinctio proprietatum longitudinis et latitudinis locorum, nisi sit impedimentum per accidens aliquod loci ex maribus vel ex montibus: de quo accidente nos infra loquemur.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201001T212006Z" creationid="mateovo2" creationdate="20201001T212006Z">
+        <seg>Y cualquier lugar es removido de otro según la latitud de quinientos estadios, (y) es sensiblemente más frío o más cálido que el otro. Y así es sensible la distinción de las propiedades de la latitud y de la longitud de los lugares, salvo si por accidente hay algún impedimento del lugar a partir de mares o de montañas, accidente sobre el cual nosotros trataremos más abajo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1473,6 +1521,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>In omnibus autem his locis simul habitare secundum sensum dicuntur, quorum secundum sensum est una loci in calido et frigido et humido et sicco proprietas ex eadem latitudine loci sensibilis, et quibus sensibiliter est secundum tempus unus ortus solis et occasus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201001T212020Z" creationid="mateovo2" creationdate="20201001T212020Z">
+        <seg>Sin embargo, en todos estos lugares son dichos que habitan simultáneamente según los sentidos [los habitantes simultáneos], de los cuales, según los sentidos, hay una sola propiedad del lugar en lo cálido y lo frío y lo húmedo y lo seco a partir de la misma latitud del lugar sensible, y, según el tiempo, para ellos el orto y el ocaso del sol es sensiblemente uno solo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>In omnibus enim his inclinatio naturalis invenitur ad locum, qua in loca propria ferantur non prohibita: quod probatur etiam, quia, sicut in Physicis dictum est, non indigent motore ad ipsum locum nisi accidentali, quod scilicet removet obstaculum quod retinet locatum infra terminos alienos, et suae naturae non congruos.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T183426Z" creationid="mateovo2" creationdate="20200616T183426Z">
@@ -1760,6 +1816,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T191741Z" creationid="mateovo2" creationdate="20200616T191741Z">
         <seg>Por lo tanto, conviene que incluso así suceda en la ciencia de los lugares.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Opposite autem habitant, quorum est unus parallelus secundum latitudinem eandem, sed non est eis longitudo una, sed potius distant per maximam longitudinem quae potest esse per circulum: hoc autem est quando elongatur a se per totum semicirculum: tunc enim distant per longitudinem totam diametri, et convertunt contra se pedes invicem, ita quod diameter inferior circuli paralleli per Zenith capitum, et per pedes, et per centrum semicirculum transit: et isti vocantur antipodes, et sunt in nostra habitabili, sicut habitantes omnes qui sunt in uno eodemque climate elongati a se per totam longitudinem Orientis ab Occidente nostrae habitabilis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201001T212126Z" creationid="mateovo2" creationdate="20201001T212126Z">
+        <seg>Sin embargo, habitan opuestamente aquellos cuyo paralelo es uno solo según la misma latitud; pero, para ellos, la longitud no es una misma, sino que dista mucho más según la longitud máxima que puede haber según el círculo. Ahora bien, esta (longitud) se da cuando (los habitantes opuestos) se alejan de ellos mismos a través de todo el semicírculo; entonces, en efecto, distan según toda la longitud del diámetro y voltean recíprocamente sus pies contra sí mismos, de manera que el diámetro del círculo paralelo intelectual transita a través del cénit de sus cabezas y a través de sus pies y a través del centro del semicírculo. Y estos son nombrados “antípodas” o bien “antigenos”, y están en nuestra [Tierra] habitable, así como todos los habitantes quienes en uno y en el mismo clima están alejados de sí mismos a través de toda la longitud oriental desde el occidente de nuestra [Tierra] habitable.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -2695,6 +2759,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200821T221140Z" creationid="anlozan" creationdate="20200814T203719Z">
         <seg>Se dice que Sócrates fue de esta sentencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>[C18a] Coalterne autem habitare dicuntur, quorum una quidem est longitudo, sed non latitudo eorum est una et eadem: et illi sunt qui sub eadem linea habitant in Meridionali, quibus omnibus est in uno eodem quam tempore sensibili Meridies, quando sol accedit ad Zenith capitum ipsorum in motu diurno: sed tamen non habitant sub eodem parallelo circulo, qui distet aequali latitudine per circuitum habitationis ab aequinoctiali circulo.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201001T212059Z" creationid="mateovo2" creationdate="20201001T212059Z">
+        <seg>Sin embargo, son dichos que habitan coalternativamente aquellos cuya longitud, ciertamente, es una sola, pero su latitud no es una sola ni la misma. Y estos son quienes habitan bajo la misma línea meridional. Para todos estos el sur está en un solo y en el mismo tiempo sensible, puesto que el sol se aproxima al cénit de sus cabezas en su movimiento diurno. Pero tampoco habitan bajo este mismo círculo paralelo, aunque diste de la misma latitud desde el círculo equinoccial debido al circuito de la habitación.  </seg>
       </tuv>
     </tu>
     <tu>

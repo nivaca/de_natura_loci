@@ -468,6 +468,14 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>De diversitate naturae locorum ex accidenti montium, marium, et silvarum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201002T203859Z" creationid="nivaca" creationdate="20201002T203859Z">
+        <seg>Sobre la diferencia de la naturaleza de los lugares a partir del accidente de los montes, los mares y los bosques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>De inhabitabilibus regionibus et terris.</seg>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20200821T144706Z" creationid="anlozan" creationdate="20200821T144706Z">
@@ -560,6 +568,14 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201001T211724Z" creationid="mateovo2" creationdate="20201001T211724Z">
         <seg>Ahora bien, son llamados “habitantes simultáneos” aquellos cuya habitación es una sola según los sentidos respecto a la longitud y a la latitud, aunque según la razón sea diversa.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Differunt autem locorum proprietates per accidens marium et stagnorum et aliarum aquarum, et per accidens silvarum et montium.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201002T204011Z" creationid="nivaca" creationdate="20201002T203954Z">
+        <seg>Ahora bien, las propiedades de los lugares difieren según el accidente de los mares y de los lagos y de otrasx aguas, y según el accidente de los bosques y los montes;</seg>
       </tuv>
     </tu>
     <tu>

@@ -1123,16 +1123,16 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Et si distat per quadraginta octo gradus, vincet longior dies diem aequinoctii per quatuor horas integras: et erit clima septimum.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20200925T205325Z" creationid="anlozan" creationdate="20200925T205325Z">
-        <seg>Y si dista por 48 grados, supera el día más largo al día del equinoxio por cuatro horas completas, y se tendrá el séptimo clima.</seg>
+      <tuv lang="es" changeid="anlozan" changedate="20201002T220234Z" creationid="anlozan" creationdate="20200925T205325Z">
+        <seg>Y si dista 48 grados, supera el día más largo al día del equinoccio por cuatro horas completas y se tendrá el séptimo clima.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="la">
         <seg>Et si distat per quadraginta quinque gradus et tertiam gradus, vincet longior dies per tres horas integras et dimidiam, et vocatur sextum clima.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20200925T205321Z" creationid="anlozan" creationdate="20200925T205321Z">
-        <seg>Y si dista por 45 grados y una tercera parte de grado, supera el día más largo por tres horas completas y media, y se llama el lugar del sexto clima.</seg>
+      <tuv lang="es" changeid="anlozan" changedate="20201002T220123Z" creationid="anlozan" creationdate="20200925T205321Z">
+        <seg>Y si dista 45 grados y una tercera parte de grado, supera el día más largo por tres horas completas y media, y se llama el lugar del sexto clima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2111,8 +2111,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>Radius enim planetarum qui naturas dat locis, angulum et circulum mutat ad parvam quantitatem declinationis suae ad Aquilonem, ita quod cum sit in aequinoctiali puncto, aequat dies et noctes: et declinans ab eo versus Aquilonem per triginta sex gradus, et facit longiorem diem quam sit dies aequinoctii per unam horam in terra quae secundum latitudinem sedecim graduum distat ab aequinoctiali circulo, et [17a] in terra: cujus latitudo est viginti quatuor graduum et facit diem longiorem per horam et dimidiam: et hoc est clima secundum: et in terra quae ab aequinoctiali distat per triginta gradus, erit dies longior per duas horas, et constituit tertium clima: et si distat per triginta sex gradus, erit dies longior per duas horas et dimidiam, et sic constituit quartum clima: et si distat per quadraginta et unum gradus, et tertiam partem gradus, vincet longior dies per tres horas integras, et vocatur quintum clima.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20201002T220106Z" creationid="anlozan" creationdate="20200925T204955Z">
-        <seg>En efecto, el rayo de los planetas, que da las naturalezas a los lugares, varía el ángulo y la sombra según una poca cantidad de su inclinación hacia el aquilón, de manera que, cuando está en el punto equinoccial, iguala los días y las noches. Al inclinarse desde este frente al aquilón por 16 grados, hace el día más largo que el del equinoccio por una hora en el sitio que dista 16 grados de latitud desde el círculo equinoccial; y en el sitio cuya latitud es de 24 grados, hace el día más largo en una hora y media y esto es el segundo clima. Y en el sitio que dista de la equinoccial 30 grados, el día será más largo por dos horas y constituye el tercer clima. Y si dista 36 grados, el día será más largo por dos horas y media y hace el cuarto clima. Y si dista 41 grados y medio, supera el día más largo a la noche por tres horas y se llama el quinto clima.</seg>
+      <tuv lang="es" changeid="anlozan" changedate="20201002T220326Z" creationid="anlozan" creationdate="20200925T204955Z">
+        <seg>En efecto, el rayo de los planetas, que da las naturalezas a los lugares, varía el ángulo y la sombra según una poca cantidad de su inclinación hacia el aquilón, de manera que, cuando está en el punto equinoccial, iguala los días y las noches. Al inclinarse desde este frente al aquilón por 16 grados, hace el día más largo que el del equinoccio por una hora en el sitio que dista 16 grados de latitud desde el círculo equinoccial; y en el sitio cuya latitud es de 24 grados, hace el día más largo en una hora y media y esto es el segundo clima. Y en el sitio que dista de la equinoccial 30 grados, el día será más largo por dos horas y constituye el tercer clima. Y si dista 36 grados, el día será más largo por dos horas y media y hace el cuarto clima. Y si dista 41 grados y medio, el día más largo supera la noche por tres horas y se llama el quinto clima.</seg>
       </tuv>
     </tu>
     <tu>

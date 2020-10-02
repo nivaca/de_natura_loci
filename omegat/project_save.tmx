@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="la"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="la"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -454,8 +454,8 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
       <tuv lang="la">
         <seg>De diversitate habitationis in terra habitabili, et de diversitate naturae locorum.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201001T211701Z" creationid="mateovo2" creationdate="20201001T211701Z">
-        <seg>Sobre la habitación diversa de los habitadores en nuestra [Tierra] habitable y sobre la diversidad de la naturaleza de sus lugares.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201002T224644Z" creationid="mateovo2" creationdate="20201001T211701Z">
+        <seg>Sobre la habitación diversa de los que habitan en nuestra [parte] habitable y sobre la diversidad de la naturaleza de sus lugares.</seg>
       </tuv>
     </tu>
     <tu>

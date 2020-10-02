@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="la"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="la"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2111,8 +2111,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>Radius enim planetarum qui naturas dat locis, angulum et circulum mutat ad parvam quantitatem declinationis suae ad Aquilonem, ita quod cum sit in aequinoctiali puncto, aequat dies et noctes: et declinans ab eo versus Aquilonem per triginta sex gradus, et facit longiorem diem quam sit dies aequinoctii per unam horam in terra quae secundum latitudinem sedecim graduum distat ab aequinoctiali circulo, et [17a] in terra: cujus latitudo est viginti quatuor graduum et facit diem longiorem per horam et dimidiam: et hoc est clima secundum: et in terra quae ab aequinoctiali distat per triginta gradus, erit dies longior per duas horas, et constituit tertium clima: et si distat per triginta sex gradus, erit dies longior per duas horas et dimidiam, et sic constituit quartum clima: et si distat per quadraginta et unum gradus, et tertiam partem gradus, vincet longior dies per tres horas integras, et vocatur quintum clima.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20200925T204955Z" creationid="anlozan" creationdate="20200925T204955Z">
-        <seg>En efecto, el rayo de los planetas, que da las naturalezas a los lugares, varía el ángulo y la sombra de su inclinación hacia el aquilón en poca cantidad, de manera que en la medida en que está en el punto equinoccial, iguala los días y las noches. Al inclinarse desde él (el punto equinoccial) frente al aquilón por 16 grados hace el día más largo que lo que es el día del equinoxio por una hora en el sitio que dista en 16 grados de latitud desde el círculo equinoxial; y en el sitio cuya latitud es de 24 grados, hace el día más largo en una hora y media, y esto es el segundo clima. Y en el sitio que dista de la equinoxial por los 30 grados, el día será más largo por dos horas, y constituye el tercer clima. Y si dista por los 36 grados, el día será más largo por dos horas y media, y hace el cuarto clima. Y si dista por 41 grados y medio, supera el día más largo a la noche por tres horas, y se llama el quinto clima.</seg>
+      <tuv lang="es" changeid="anlozan" changedate="20201002T220106Z" creationid="anlozan" creationdate="20200925T204955Z">
+        <seg>En efecto, el rayo de los planetas, que da las naturalezas a los lugares, varía el ángulo y la sombra según una poca cantidad de su inclinación hacia el aquilón, de manera que, cuando está en el punto equinoccial, iguala los días y las noches. Al inclinarse desde este frente al aquilón por 16 grados, hace el día más largo que el del equinoccio por una hora en el sitio que dista 16 grados de latitud desde el círculo equinoccial; y en el sitio cuya latitud es de 24 grados, hace el día más largo en una hora y media y esto es el segundo clima. Y en el sitio que dista de la equinoccial 30 grados, el día será más largo por dos horas y constituye el tercer clima. Y si dista 36 grados, el día será más largo por dos horas y media y hace el cuarto clima. Y si dista 41 grados y medio, supera el día más largo a la noche por tres horas y se llama el quinto clima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2186,8 +2186,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>Sed advertendum aliter esse in caelo et aliter in terra: minor enim dimensio variat naturam terrenae habitationis ab Aquilone in Meridie acceptam, quam ab Oriente in Occidentem.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20200925T204902Z" creationid="anlozan" creationdate="20200925T204902Z">
-        <seg>Pero ha de advertirse que de una manera es en la Tierra y de otra, en el cielo; en efecto, en menor medida/en una dimensión menor varía la naturaleza de la habitación terrena tomada desde el aquilón hacia el sur que desde el oriente hacia el occidente.</seg>
+      <tuv lang="es" changeid="anlozan" changedate="20201002T213849Z" creationid="anlozan" creationdate="20200925T204902Z">
+        <seg>Pero ha de advertirse que de una manera es en la Tierra y de otra, en el cielo; en efecto, una dimensión menor tomada desde el aquilón hacia el sur varía la naturaleza de la habitación terrena más que una tomada desde el oriente hacia el occidente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2684,8 +2684,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>Videtur autem alicui inconvenienter esse dictum quod diximus de mensuris locorum: quia nos diximus in libro Caeli et Mundi, quod latitudo est a dextro ad sinistrum, et longitudo a superiori in inferius: et nos diximus, quod dextrum et [B548a] sinistrum caeli sunt Oriens et Occidens, et superius et inferius sunt poli, Meridianus, et Aquilonaris: et sic videbitur, quod longitudo locorum sit a Meridie in Aquilonem accipiendo, et latitudo sit ab Oriente in Occidentem per contrarium ejus quod diximus hic.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20200925T204607Z" creationid="anlozan" creationdate="20200925T204607Z">
-        <seg>Sin embargo, le parecerá a alguno que es dicho inconvenientemente lo que dijimos sobre la medida de los lugares porque nosotros dijimos en el Libro Segundo sobre el Cielo y el Mundo, que la latitud se da desde lo derecho hacia lo izquierdo y que la longitud, desde lo superior hasta lo inferior; y nosotros dijimos que lo derecho y lo izquierdo del cielo son el oriente y el occidente y que lo superior y lo inferior son los polos sur y aquilonar. Y así parece que la longitud de los lugares ha de tomarse desde el sur hacia el aquilón y que la latitud de ellos se da desde el oriente hacia el occidente, al  contrario de lo que dijimos acá. </seg>
+      <tuv lang="es" changeid="anlozan" changedate="20201002T211853Z" creationid="anlozan" creationdate="20200925T204607Z">
+        <seg>Sin embargo, le parecerá a alguno que es dicho inconvenientemente lo que dijimos sobre la medida de los lugares porque nosotros dijimos en el libro segundo *Sobre el Cielo y el Mundo*, que la latitud se da desde lo derecho hacia lo izquierdo y que la longitud, desde lo superior hasta lo inferior; y nosotros dijimos que lo derecho y lo izquierdo del cielo son el oriente y el occidente y que lo superior y lo inferior son los polos sur y aquilonal. Y así parece que la longitud de los lugares ha de tomarse desde el sur hacia el aquilón y que la latitud de ellos se da desde el oriente hacia el occidente, al contrario de lo que dijimos acá.</seg>
       </tuv>
     </tu>
     <tu>

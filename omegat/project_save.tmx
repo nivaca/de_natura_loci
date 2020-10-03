@@ -178,8 +178,8 @@
       <tuv lang="la">
         <seg>Amplius quaecumque natura invenitur in pluribus participata secundum rationem unam, oportet quod illa sit in aliquo uno primo quod est causa illius naturae in omnibus aliis, sicut probat Aristoteles in secundo Metaphysicae, et est suum exemplum de omnibus calidis quae causantur ab uno calido per se quod est ante ea, [C8a] et est ignis.</seg>
       </tuv>
-      <tuv lang="es" changeid="andrealozanov" changedate="20200611T222718Z" creationid="andrealozanov" creationdate="20200611T222718Z">
-        <seg>Es más, cualquier naturaleza única que se encuentre participada en muchas cosas según una única razón conviene que esta esté en algún único primero, que es causa de aquella naturaleza en todas las otras, así como prueba el egregio filósofo Aristóteles en el segundo de sus libros de la Metafísica, y es suyo el ejemplo de todas las cosas cálidas que son causadas por un único cálido de por sí, que está antes de aquellas y es el fuego. </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T030513Z" creationid="andrealozanov" creationdate="20200611T222718Z">
+        <seg>Es más, cualquier naturaleza única que se encuentre participada en muchas cosas según una única razón conviene que esta esté en algún único primero, que es causa de aquella naturaleza en todas las otras, así como prueba el egregio filósofo Aristóteles en el libro segundo de la *Metafísica*, y es suyo el ejemplo de todas las cosas cálidas que son causadas por un único cálido de por sí, que está antes de aquellas y es el fuego. </seg>
       </tuv>
     </tu>
     <tu>
@@ -487,6 +487,14 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T231001Z" creationid="andrealozanov" creationdate="20200611T231001Z">
         <seg>Por lo tanto, puesto que es necesario que todo círculo mute por la mutación del horizonte y que toda configuración de los rayos dmute por la mutación del círculo, y puesto que cualquier punto de la habitación constituye en especial un centro del horizonte, necesariamente se sigue que cualquier punto de la habitación tiene virtudes especiales, en las que se informa lo que se localiza en él mismo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Cum igitur natura loci inveniatur in pluribus simul locantibus et locatis, oportet quod sit unum aliud ante ea quod sit locus primus, quod virtutem loci causet in omnibus aliis:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T030545Z" creationid="mateovo2" creationdate="20201003T030545Z">
+        <seg>Puesto que, por lo tanto, la naturaleza del lugar se encuentra en muchas cosas a la vez tanto localizados como localizantes, conviene que haya algo único antes que las otras, que sea el lugar primero, que cause la virtud del lugar en todas las otras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1900,6 +1908,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200625T170342Z" creationid="mateovo2" creationdate="20200625T170342Z">
         <seg>Incluso establecen, puesto que el fuego en sí es luz, como ciertos filósofos parecen decir, que debería ser visto y aparecer, en mayor grado por la noche, cuando no se encubre por el rayo del sol. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Invenimus enim aliquod compositum quod est locans et locatum simul, et invenimus aliquod locatum tantum, oportet igitur esse aliquid locans tantum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T030409Z" creationid="mateovo2" creationdate="20201003T030343Z">
+        <seg>Pues nos encontramos algo compuesto que es a la vez lo que localiza y lo localizado, y encontramos algo tan solo localizado. Por consiguiente, conviene también que haya algo que es tan solo lo que localiza,</seg>
       </tuv>
     </tu>
     <tu>
@@ -3577,6 +3593,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et hoc quidem est necessarium de virtute loci secundum quam et motus est ad locum sicut ad formam, et conservans in esse formae datae.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T030551Z" creationid="mateovo2" creationdate="20201003T030551Z">
+        <seg>Y, ciertamente, esto es necesario respecto a la virtud del lugar, según la cual hay un movimiento hacia el lugar, así como hacia lo que forma y que conserva en el ser de la forma dada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et hoc ulteriori manifestatione in secundo Peri geneseos, et in libro Meteororum manifestabitur.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T025228Z" creationid="mateovo2" creationdate="20201003T025228Z">
@@ -3801,6 +3825,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et sicut in illis id quod est tantum movens, est causa motus in omnibus aliis, ita necesse est quod id quod est locus tantum, sit causa localitatis in omnibus aliis:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T030415Z" creationid="mateovo2" creationdate="20201003T030415Z">
+        <seg>y así como en aquellos esto que es tan solo lo que mueve es causa de movimiento en todos los otros, así también es necesario que esto que es tan solo lugar sea la causa de la localización en todos los otros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et similiter leones qui in sexto et septimo climate numquam generasse inveniuntur.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015602Z" creationid="mateovo2" creationdate="20201003T015602Z">
@@ -3861,6 +3893,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T024650Z" creationid="mateovo2" creationdate="20201003T024650Z">
         <seg>pues es propio de estos el moverse hacia el centro de su lugar y el declinar desde los extremos según la conveniencia* de la naturaleza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>igitur oportet quod ratio locationis sit in omnibus aliis a caelo.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T030430Z" creationid="mateovo2" creationdate="20201003T030430Z">
+        <seg>Por consiguiente, conviene que la virtud y la razón de la localización se dé en todos los otros a partir del cielo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3998,6 +4038,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T025631Z" creationid="mateovo2" creationdate="20201003T025631Z">
         <seg>pues no hay movimiento a algo, a no ser que aquello esté en razón de algo divino y óptimo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>nullum autem corpus locus est tantum nisi caelum, sicut patet ex dictis:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T030429Z" creationid="mateovo2" creationdate="20201003T030429Z">
+        <seg>Sin embargo, salvo el cielo, ningún cuerpo es tan solo lugar, así como es manifiesto en lo que ya hemos tratado.</seg>
       </tuv>
     </tu>
     <tu>

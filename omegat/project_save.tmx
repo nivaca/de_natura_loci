@@ -240,6 +240,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Cibum enim in animato moveri videmus ad quodlibet membrum sicut ad locum proprium in quo formam et esse accipit membri a virtute quae est in membro ad quod movetur:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T001416Z" creationid="nivaca" creationdate="20201003T001416Z">
+        <seg>En efecto, vemos que en lo animado el alimento se mueve hacia cualquier miembro, así como hacia su lugar propio, en el que recibe la forma y el ser del miembro por la virtud que está en el miembro hacia el que se mueve;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Cibum enim in animato moveri videmus ad quodlibet membrum sicut ad locum proprium in quo formam et esse accipit membri a virtute quae est in membro ad quod movetur: nec umquam ante valet cibus operationem suam perficere proprie, nisi sit perfecte virtutem membri ad quod movetur, adeptus, cujus perfectionis principium est membrum.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T175031Z" creationid="mateovo2" creationdate="20200616T175031Z">
@@ -598,8 +606,8 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
       <tuv lang="la">
         <seg>Dixerunt etiam propter eamdem causam loci naturam esse mirabilem.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200616T175628Z" creationid="mateovo2" creationdate="20200616T175628Z">
-        <seg>Dijeron también por la misma razón que la naturaleza del lugar es admirable  </seg>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T001434Z" creationid="mateovo2" creationdate="20200616T175628Z">
+        <seg>Dijeron también por la misma razón que la naturaleza del lugar es admirable </seg>
       </tuv>
     </tu>
     <tu>
@@ -1065,6 +1073,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Et praecipue propter hoc:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T001446Z" creationid="nivaca" creationdate="20201003T001446Z">
+        <seg>y principalmente por esto,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Et praecipue propter hoc: quia cum motor primus nobilitatem suam largiatur omni ei quod formatur ad esse, absque dubio non largitur distanti esse vel formam, nisi per quod sibi est propinquius: est autem propinquius continens quam contentum: et sic per locum continentem largitur locato et esse et formam.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T175830Z" creationid="mateovo2" creationdate="20200616T175830Z">
@@ -1357,8 +1373,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Hanc enim naturam videmus in parvo mundo qui est [C1b] quodlibet animatum.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200616T174235Z" creationid="mateovo2" creationdate="20200616T174235Z">
-        <seg>en efecto, vemos incluso esta naturaleza en el micromundo, que es cualquier cosa animada. </seg>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T001338Z" creationid="mateovo2" creationdate="20200616T174235Z">
+        <seg>pues vemos incluso esta naturaleza en el micromundo, que es cualquier cosa animada. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2893,6 +2909,30 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>est autem propinquius continens quam contentum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T001512Z" creationid="nivaca" creationdate="20201003T001512Z">
+        <seg>pero es más cercano lo continente que lo contenido,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et ideo [B528a] principium ex ipso est transmutationis ejus quod continet:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T001242Z" creationid="nivaca" creationdate="20201003T001242Z">
+        <seg>y por esto, su origen proviene de la transmutación de aquello que contiene.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et ideo locum habere virtutem activam in locato non est ambiguum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T001332Z" creationid="nivaca" creationdate="20201003T001332Z">
+        <seg>y por esta razón, no es ambiguo que el lugar tiene virtud activa en lo localizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et ideo principium formationis inferiorum ex superioribus influitur eis sicut ex principiis activis.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201003T001149Z" creationid="nivaca" creationdate="20201003T001149Z">
@@ -2914,6 +2954,46 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T195228Z" creationid="mateovo2" creationdate="20200616T194004Z">
         <seg>En efecto, aunque en el libro *Sobre el cielo y el mundo* se dice que los cuerpos simples, teniendo un movimiento recto son redondos por accidente, esto, a saber, porque están localizados en lo redondo, sin embargo esto no es verdadero respecto a los compuestos, que difieren por sus disposiciones propias según la naturaleza así como difieren por sus propias especies; y por esto, lo que es en tales cuerpos la causa de la disposición es en primer lugar la causa de la especie de este o de otro modo de la disposición*. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>locus autem continens est:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T001232Z" creationid="nivaca" creationdate="20201003T001232Z">
+        <seg>sin embargo, el lugar es lo continente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>nec umquam ante valet cibus operationem suam perficere proprie, nisi sit perfecte virtutem membri ad quod movetur, adeptus, cujus perfectionis principium est membrum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T001431Z" creationid="nivaca" creationdate="20201003T001431Z">
+        <seg>y no antes la comida puede completar su propia labor, a no ser que haya alcanzado completamente la virtud del miembro hacia el que se mueve cuyo principio de perfección es el miembro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>putrescunt namque ea quae putrescunt et conservantur conservata per virtutem continentium corporum, sicut probari habet in IV Meteororum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T001302Z" creationid="nivaca" creationdate="20201003T001302Z">
+        <seg>Pues se pudren las cosas que se pudren, y se conservan las cosas conservadas debido a las virtudes de los cuerpos continentes, así como se tiene demostrado en el cuarto libro de los *Metereológicos*,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>quia cum motor primus nobilitatem suam largiatur omni ei quod formatur ad esse, absque dubio non largitur distanti esse vel formam, nisi per quod sibi est propinquius:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T001509Z" creationid="nivaca" creationdate="20201003T001509Z">
+        <seg>porque cuando el motor primero da abundantemente su nobleza a todo aquello que se forma para ser, sin duda no da abundantemente el ser o la forma a lo más distante sino a través de aquello que le es más cercano;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>quia transmutatio omnis contenti est per continens:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T001214Z" creationid="nivaca" creationdate="20201003T001214Z">
+        <seg>que toda transmutación de lo contenido sucede por lo continente;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

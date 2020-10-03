@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Admirabitur autem forte aliquis unde veniet tanta loco virtus, quod in loco quaedam pars universalis materiae simplicium corporum accipit formam ignis, pars autem aeris, et pars formatur in aquam, et pars in terram:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T024826Z" creationid="mateovo2" creationdate="20201003T024826Z">
+        <seg>Ahora bien, probablemente alguno preguntará de donde viene tanta virtud a un  lugar, puesto que en cierto lugar una parte de la materia universal de los cuerpos simples toma la forma de fuego, no obstante, otra parte se convierte en aire, otra parte en agua y otra parte toma la forma de tierra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Admirabitur autem forte aliquis unde veniet tanta loco virtus, quod in loco quaedam pars universalis materiae simplicium corporum accipit formam ignis, pars autem aeris, et pars formatur in aquam, et pars in terram: materia enim de se nullum omnino habet locum.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T213834Z" creationid="andrealozanov" creationdate="20200611T213834Z">
@@ -517,8 +525,8 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
       <tuv lang="la">
         <seg>De causa virtutis loci qua datur forma elementi.</seg>
       </tuv>
-      <tuv lang="es" changeid="andrealozanov" changedate="20200611T213748Z" creationid="andrealozanov" creationdate="20200611T213748Z">
-        <seg>De la causa de la virtud del lugar, que causa la forma del elemento</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T024808Z" creationid="andrealozanov" creationdate="20200611T213748Z">
+        <seg>De la causa de la virtud del lugar por la que se le da la forma al elemento</seg>
       </tuv>
     </tu>
     <tu>
@@ -2851,6 +2859,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Similiter autem materia quae est sub forma corporum, licet loco circumscribatur, non tamen exigit locum sub determinata loci differentia ad quam est motus secundum locum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T024847Z" creationid="mateovo2" creationdate="20201003T024847Z">
+        <seg>sin embargo, de manera similar la materia que está bajo la forma de un cuerpo, aunque esté circunscrita a un lugar, no exige, sin embargo, un lugar bajo una determinada diferencia de lugar, al que es movido según el lugar;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Similiter autem materia quae est sub forma corporum, licet loco circumscribatur, non tamen exigit locum sub determinata loci differentia ad quam est motus secundum locum: sed ratione formae substantialis determinatae, quae in quantum forma substantialis est generabilis corporis, exigitur determinata loci differentia ad quam est motus secundum locum.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T214224Z" creationid="andrealozanov" creationdate="20200611T214224Z">
@@ -3070,6 +3086,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Videbitur enim alicui fortasse, quod superficies cujus concavum est locans in se locatum, dicitur et aliquid esse corporis locantis et non locati, et ideo habere virtutes corporis locantis:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T024914Z" creationid="mateovo2" creationdate="20201003T024914Z">
+        <seg>Pues a alguno le parecerá acaso que una superficie, cuya concavidad es la que localiza en ella al cuerpo localizado, es algo del cuerpo que localiza y no del localizado;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Videbitur enim alicui fortasse, quod superficies cujus concavum est locans in se locatum, dicitur et aliquid esse corporis locantis et non locati, et ideo habere virtutes corporis locantis: et propter illud debere agere ad formam corporis locantis et non ejus quod locatur in ipso: propter quod videtur concavum ignis in modo elementali non aerem debere producere, sed ignem: et sic nullum elementorum deberet esse nisi ignis solus, qui ex motu et lumine superiorum corporum generatur, et totam materiam elementalem videtur debere convertere in se.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T215037Z" creationid="andrealozanov" creationdate="20200611T214117Z">
@@ -3146,8 +3170,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>[B534b] Propter quod etiam quidam Antiquorum dixerunt solum ignem esse primum elementum, et alia per compositionem ipsius et coacervationem partium ignis.</seg>
       </tuv>
-      <tuv lang="es" changeid="andrealozanov" changedate="20200611T215057Z" creationid="andrealozanov" creationdate="20200611T215057Z">
-        <seg>Por lo que también algunos de estos antiguos dijeron que solo el fuego es el elemento primero y los otros se constituyen por la composición de este y por la acumulación de partes de fuego</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T025012Z" creationid="andrealozanov" creationdate="20200611T215057Z">
+        <seg>Por lo que también algunos de estos antiguos dijeron que solo el fuego es el elemento primero y los otros se constituyen por la composición de este y por la acumulación de partes del fuego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3497,6 +3521,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et propter illud debere agere ad formam corporis locantis et non ejus quod locatur in ipso:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T024926Z" creationid="mateovo2" creationdate="20201003T024926Z">
+        <seg>y que por eso tiene en él las virtudes del cuerpo que localiza y por esto debe conducir a la forma del cuerpo que localiza y no a la de aquel que está localizado en este.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et quamvis forte teneant colorem et figuram per tempus longum propter similitudinem corporum suorum, tamen, ut diximus, virtutem paulatim amittunt:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020401Z" creationid="nivaca" creationdate="20201003T001734Z">
@@ -3565,6 +3597,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T022943Z" creationid="mateovo2" creationdate="20201003T022943Z">
         <seg>y así lo que es grave en sentido absoluto tiene que ser movido hacia este como hacia su lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et sic nullum elementorum deberet esse nisi ignis solus, qui ex motu et lumine superiorum corporum generatur, et totam materiam elementalem videtur debere convertere in se.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T024952Z" creationid="mateovo2" creationdate="20201003T024952Z">
+        <seg>y así ninguno de los elementos debería existir sino el fuego solo, que, generado a partir del movimiento y la luz de los cuerpos superiores, parecería que toda la materia elemental debe convertirse en este [fuego].</seg>
       </tuv>
     </tu>
     <tu>
@@ -3674,6 +3714,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>materia enim de se nullum omnino habet locum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T024838Z" creationid="mateovo2" creationdate="20201003T024838Z">
+        <seg>Pues la materia de sí no tiene ningún lugar en absoluto;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>materia enim talium corporum prius habet formam substantialem quae est indivisibilis et impartibilis, quam habeat quantitatem:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T014307Z" creationid="mateovo2" creationdate="20201003T014307Z">
@@ -3742,6 +3790,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015445Z" creationid="mateovo2" creationdate="20201003T015445Z">
         <seg>Por lo que también dijimos en la *Física* que no cualquier superficie es el lugar natural para una cosa, sino aquella que es el límite del cuerpo que localiza referida según la distancia de la concavidad, en el que es propia la generación de la cosa localizada;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>propter quod videtur concavum ignis in modo elementali non aerem debere producere, sed ignem:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T024936Z" creationid="mateovo2" creationdate="20201003T024936Z">
+        <seg>Por lo cual parece que la concavidad del fuego en la materia elemental no debe producir aire sino fuego</seg>
       </tuv>
     </tu>
     <tu>
@@ -3870,6 +3926,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020427Z" creationid="nivaca" creationdate="20201003T002035Z">
         <seg>y es preciso que nosotros conozcamos en particular las diversidades de los lugares y la causa de su diversidad y los accidentes de los diversos lugares; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>sed ratione formae substantialis determinatae, quae in quantum forma substantialis est generabilis corporis, exigitur determinata loci differentia ad quam est motus secundum locum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T024901Z" creationid="mateovo2" creationdate="20201003T024901Z">
+        <seg>sino que en razón de la forma substancial determinada que, en cuanto forma substancial es propia del cuerpo generable, es exigida por la diferencia determinada del lugar hacia la que se da el movimiento según el lugar.</seg>
       </tuv>
     </tu>
     <tu>

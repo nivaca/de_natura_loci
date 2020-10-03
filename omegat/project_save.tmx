@@ -1970,10 +1970,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Licet autem quaedam compositorum eleventur in aerem sicut aves, tamen ipsorum generatio et habitatio in terra est:</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201003T164006Z" creationid="mateovo2" creationdate="20201003T163243Z">
-        <seg>Además, aunque ciertas cosas entre los compuestos se elevan en el aire, como las aves, sin embargo, su habitación y su generación es en la tierra, y de la misma manera ocurre con los peces, que nadan en el agua;
-
-descansan, en efecto, todos estos seres en la tierra, y por esto la tierra es propiamente su lugar.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T164158Z" creationid="mateovo2" creationdate="20201003T163243Z">
+        <seg>Además, aunque ciertas cosas entre los compuestos se elevan en el aire, como las aves, sin embargo, su habitación y su generación es en la tierra, y de la misma manera ocurre con los peces, que nadan en el agua; pues todos estos seres descansan en la tierra,</seg>
       </tuv>
     </tu>
     <tu>
@@ -3743,6 +3741,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015757Z" creationid="nivaca" creationdate="20201003T001149Z">
         <seg>y por esto el principio de la formación de los inferiores les fluye de los superiores, así como de los principios activos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et ideo proprie terra est locus ipsorum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T164208Z" creationid="mateovo2" creationdate="20201003T164208Z">
+        <seg>y por esto la tierra es propiamente su lugar.</seg>
       </tuv>
     </tu>
     <tu>

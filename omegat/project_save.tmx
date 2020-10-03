@@ -1127,6 +1127,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Et partes hujus divisionis manifestae sunt ad sensum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T021839Z" creationid="mateovo2" creationdate="20201003T021839Z">
+        <seg>Y las partes de sus divisiones son manifiestas frente al sentido;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Et partes hujus divisionis manifestae sunt ad sensum: concavum enim orbi lunae est locus [B532a] ignis, et attingit ipsum undique, sicut Peripatetici tradiderunt.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200625T163349Z" creationid="mateovo2" creationdate="20200625T163349Z">
@@ -1320,6 +1328,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Ex motu quidem:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T021857Z" creationid="mateovo2" creationdate="20201003T021857Z">
+        <seg>Ciertamente, a partir del movimiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Ex motu quidem: quoniam sicut in Caelo et Mundo dictum est, ignis movetur super omnia absolute elementa.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200625T163839Z" creationid="mateovo2" creationdate="20200625T163839Z">
@@ -1364,6 +1380,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200625T165152Z" creationid="mateovo2" creationdate="20200625T165152Z">
         <seg>Además, en razón de la calidez, esto mismo se prueba, puesto que la calidez rarifica en grado sumo y hace sutil en grado sumo;  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Ex subtilitate autem:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T022040Z" creationid="mateovo2" creationdate="20201003T022040Z">
+        <seg>Además, es a partir de la sutileza,</seg>
       </tuv>
     </tu>
     <tu>
@@ -2097,6 +2121,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200625T170058Z" creationid="mateovo2" creationdate="20200625T170058Z">
         <seg>Incluso, el fuego es transparente, así como es evidente a partir de esto: que no cubre con una nube los cuerpos que están sobre él, y es el más transparente entre los demás elementos, debido a que es más sutil y más raro entre todos; sin embargo, la transparencia se da en todo cuerpo a partir de la conveniencia/concordancia* con el cuerpo celeste perpetuo superior, así como dice Aristóteles en el segundo de sus libros *Sobre el alma*; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Prima quidem est ex hoc:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T021728Z" creationid="mateovo2" creationdate="20201003T021728Z">
+        <seg>Y la primera ciertamente se da a partir de esto,</seg>
       </tuv>
     </tu>
     <tu>
@@ -3099,6 +3131,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>concavum enim orbi lunae est locus [B532a] ignis, et attingit ipsum undique, sicut Peripatetici tradiderunt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T021845Z" creationid="mateovo2" creationdate="20201003T021845Z">
+        <seg>pues la concavidad de la circunferencia de la luna es el lugar del fuego y lo alcanza por todos lados, así como trataron los peripatéticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>corrumpitur enim corpus compositum a continente quando fuerit ei contrarium:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015418Z" creationid="mateovo2" creationdate="20201003T015418Z">
@@ -3508,10 +3548,26 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>quia, sicut diximus, aliud corporum est locans tantum, alterum est locatum, et quoddam est locans et locatum secundum naturam.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T021738Z" creationid="mateovo2" creationdate="20201003T021738Z">
+        <seg>porque entre los cuerpos una cosa es lo que tan solo localiza y otra es lo que tan solo es localizado y cierta otra es lo que localiza y lo localizado según la naturaleza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>quod probatur etiam, quia, sicut in Physicis dictum est, non indigent motore ad ipsum locum nisi accidentali, quod scilicet removet obstaculum quod retinet locatum infra terminos alienos, et suae naturae non congruos.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020420Z" creationid="nivaca" creationdate="20201003T002011Z">
         <seg>Por lo que incluso, así como se dice en la *Física*, no requieren de un motor hacia el lugar mismo salvo accidentalmente; motor que, a saber, remueve el obstáculo que detiene lo localizado bajo límites ajenos y que no son acordes a su naturaleza. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>quoniam sicut in Caelo et Mundo dictum est, ignis movetur super omnia absolute elementa.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T022018Z" creationid="mateovo2" creationdate="20201003T022018Z">
+        <seg>puesto que, así como se dijo en *Sobre el cielo y el mundo*, el fuego se mueve de manera absoluta sobre todos los elementos;</seg>
       </tuv>
     </tu>
     <tu>

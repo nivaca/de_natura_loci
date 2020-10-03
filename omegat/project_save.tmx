@@ -113,8 +113,8 @@
       <tuv lang="la">
         <seg>Amplius autem figura continens est esse et speciem in omnibus generans:</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20201003T002608Z" creationid="nivaca" creationdate="20201003T002608Z">
-        <seg>Sin embargo, la configuración es lo que sigue el ser y la especie en todas las cosas generadas.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T020610Z" creationid="nivaca" creationdate="20201003T002608Z">
+        <seg>Sin embargo, la configuración es lo que sigue el ser y la especie en todas las cosas generadas. </seg>
       </tuv>
     </tu>
     <tu>
@@ -862,12 +862,11 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
     </tu>
     <tu>
-      <note>Acá, si no estoy mal, falta traducir "naturaliter". </note>
       <tuv lang="la">
         <seg>Et etiam ipsa elementa per alium modum dicta natura sunt naturaliter rotunda, sicut nos in scientia Caeli et Mundi ostendimus.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200616T195559Z" creationid="mateovo2" creationdate="20200616T195559Z">
-        <seg>Y, también, estos elementos, pero de otro modo, por dictamen natural son redondos* así como nosotros mostramos en la *Ciencia del cielo y del mundo*.  </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T020851Z" creationid="mateovo2" creationdate="20200616T195559Z">
+        <seg>Y, también, los elementos mismos, pero de otro modo, por dictamen natural son naturalmente redondos* así como nosotros mostramos en la ciencia del *Cielo y del mundo*. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1511,8 +1510,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>His igitur de causis, postquam nos de mobilibus ad locum determinavimus, oportuit nos tangere de diversitate naturae [B530a] locorum, et de causa diversitatis et de accidentibus, ut perfecta sit doctrina de mobilibus ad locum, quando in speciali scitur locorum diversitas.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200625T220224Z" creationid="mateovo2" creationdate="20200616T200211Z">
-        <seg>Por lo tanto, esto dijimos sobre las causas, después de que nosotros habláramos sobre los móviles hacia el lugar, convino ocuparnos de la diversidad de la naturaleza de los lugares y acerca de la causa de la diversidad y acerca de los accidentes para que la doctrina sobre los móviles hacia el lugar sea completada, cuando en particular* se conozca la diversidad de los lugares.  </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T020910Z" creationid="mateovo2" creationdate="20200616T200211Z">
+        <seg>Por lo tanto, esto dijimos sobre las causas, después de que nosotros habláramos sobre los móviles hacia el lugar, convino ocuparnos de la diversidad de la naturaleza de los lugares y acerca de la causa de la diversidad y acerca de los accidentes para que la doctrina sobre los móviles hacia el lugar sea completada, cuando en particular* se conozca la diversidad de los lugares. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3263,8 +3262,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>et ideo quod est in talibus causa figurae, est per prius causa [C3a] speciei sic vel aliter figuratae.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20201003T002714Z" creationid="nivaca" creationdate="20201003T002714Z">
-        <seg>y por esto, lo que es en tales cuerpos la causa de la disposición es en primer lugar la causa de la especie de este o de otro modo de la disposición*.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T020621Z" creationid="nivaca" creationdate="20201003T002714Z">
+        <seg>y por esto, lo que es en tales cuerpos la causa de la disposición es en primer lugar la causa de la especie de este o de otro modo de la disposición*. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3367,8 +3366,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>licet enim in libro de Caelo et Mundo dictum sit, "simplicia corpora habentia motum rectum esse rotunda per accidens, eo scilicet quod locantur in rotundo:" tamen hoc non est verum in compositis quae secundum naturam differunt propriis figuris, sicut differunt propriis speciebus:</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20201003T002642Z" creationid="nivaca" creationdate="20201003T002642Z">
-        <seg>Pues aunque en el libro *Sobre el cielo y el mundo* se dice que los cuerpos simples, teniendo un movimiento recto son redondos por accidente, esto, a saber, porque están localizados en lo redondo, sin embargo esto no es verdadero respecto a los compuestos, que difieren por sus disposiciones propias según la naturaleza así como difieren por sus propias especies;</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T020614Z" creationid="nivaca" creationdate="20201003T002642Z">
+        <seg>Pues aunque en el libro *Sobre el cielo y el mundo* se dice que los cuerpos simples, teniendo un movimiento recto son redondos por accidente, esto, a saber, porque están localizados en lo redondo, sin embargo esto no es verdadero respecto a los compuestos, que difieren por sus disposiciones propias según la naturaleza así como difieren por sus propias especies; </seg>
       </tuv>
     </tu>
     <tu>
@@ -3400,8 +3399,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>locus igitur ad esse operatur.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20201003T002558Z" creationid="nivaca" creationdate="20201003T002558Z">
-        <seg>Por lo tanto, el lugar es operativo frente al ser.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T020608Z" creationid="nivaca" creationdate="20201003T002558Z">
+        <seg>Por lo tanto, el lugar es operativo frente al ser. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3440,8 +3439,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>oportet quod virtus rei faciens et terminans sit in loco:</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20201003T002543Z" creationid="nivaca" creationdate="20201003T002543Z">
-        <seg>es preciso que la fuerza, ser de la cosa que hace y que limita, esté en el lugar.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T020605Z" creationid="nivaca" creationdate="20201003T002543Z">
+        <seg>es preciso que la fuerza, ser de la cosa que hace y que limita, esté en el lugar. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3472,8 +3471,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>qualiter igitur intelligi potest, quod locus operetur ad id quod est consequens, et nihil conferat ad antecedens?</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20201003T002623Z" creationid="nivaca" creationdate="20201003T002623Z">
-        <seg>Por lo tanto, ¿de qué manera puede ser comprendido que el lugar es operativo frente a aquello que es lo que se sigue y que nada entregue a lo antecedente?</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T020611Z" creationid="nivaca" creationdate="20201003T002623Z">
+        <seg>Por lo tanto, ¿de qué manera puede ser comprendido que el lugar es operativo frente a aquello que es lo que se sigue y que nada entregue a lo antecedente? </seg>
       </tuv>
     </tu>
     <tu>

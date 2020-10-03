@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Ad aliorum autem generationem virtus ejus adducit per radios solis, et quarumdam aliarum stellarum, sicut ostendemus in libro Meteororum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T022738Z" creationid="mateovo2" creationdate="20201003T022738Z">
+        <seg>Sin embargo, en relación con la generación de los otros, su virtud es conducida por los rayos del sol y de algunas otras estrellas, así como mostramos en el libro de los *Meteoros*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Ad aliorum autem generationem virtus ejus adducit per radios solis, et quarumdam aliarum stellarum, sicut ostendemus in libro Meteororum: et quia nos hunc errorem in aliis locis destruximus et in aliis libris adhuc destruemus, convertamus nos nunc ad alia quae de distinctione locorum dicere intendimus.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200625T170533Z" creationid="mateovo2" creationdate="20200625T170533Z">
@@ -1595,6 +1603,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
     </tu>
     <tu>
+      <tuv lang="la">
+        <seg>Hoc enim monstratur multis rationibus:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T022900Z" creationid="mateovo2" creationdate="20201003T022900Z">
+        <seg>pues esto se muestra por muchas razones:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Acá sí estamos traduciendo "simplex" o "simpliciter" como "absoluto/en sentido absoluto".</note>
       <tuv lang="la">
         <seg>Hoc enim monstratur multis rationibus: est enim hoc simplex deorsum: et sic grave simpliciter habet moveri ad ipsum sicut ad locum proprium: est enim terra [B533a] spissius et inferius secundum naturam: et ratione istius proprietatis debetur ei locus remotior a loco ignis: et sic debetur ei centrum.</seg>
@@ -2087,6 +2103,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201001T212126Z" creationid="mateovo2" creationdate="20201001T212126Z">
         <seg>Sin embargo, habitan opuestamente aquellos cuyo paralelo es uno solo según la misma latitud; pero, para ellos, la longitud no es una misma, sino que dista mucho más según la longitud máxima que puede haber según el círculo. Ahora bien, esta (longitud) se da cuando (los habitantes opuestos) se alejan de ellos mismos a través de todo el semicírculo; entonces, en efecto, distan según toda la longitud del diámetro y voltean recíprocamente sus pies contra sí mismos, de manera que el diámetro del círculo paralelo intelectual transita a través del cénit de sus cabezas y a través de sus pies y a través del centro del semicírculo. Y estos son nombrados “antípodas” o bien “antigenos”, y están en nuestra [Tierra] habitable, así como todos los habitantes quienes en uno y en el mismo clima están alejados de sí mismos a través de toda la longitud oriental desde el occidente de nuestra [Tierra] habitable.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Ostendemus autem quod centrum est locus terrae:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T022825Z" creationid="mateovo2" creationdate="20201003T022825Z">
+        <seg>Ahora bien, mostraremos que el centro es el lugar de la tierra </seg>
       </tuv>
     </tu>
     <tu>
@@ -3243,10 +3267,34 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>est enim hoc simplex deorsum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T022910Z" creationid="mateovo2" creationdate="20201003T022910Z">
+        <seg>este es el abajo absoluto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>est enim terra [B533a] spissius et inferius secundum naturam:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T023114Z" creationid="mateovo2" creationdate="20201003T023114Z">
+        <seg>También la tierra por naturaleza es el elemento más denso y más frío,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et a quo si moveatur, festinat ad corruptionem [B531a], sicut in Physicis determinavimus.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015141Z" creationid="mateovo2" creationdate="20201003T015141Z">
         <seg>y de la que, si es movido, se apresurará a la corrupción, así como establecimos en la *Física*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et centrum illud quod est locus terrae, est mundi centrum, ad quod secundum naturam movetur terra.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T022836Z" creationid="mateovo2" creationdate="20201003T022836Z">
+        <seg>y aquel centro que es el lugar de la tierra es el centro del mundo, al que la tierra se mueve según la naturaleza;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3403,6 +3451,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et quia nos hunc errorem in aliis locis destruximus et in aliis libris adhuc destruemus, convertamus nos nunc ad alia quae de distinctione locorum dicere intendimus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T022755Z" creationid="mateovo2" creationdate="20201003T022755Z">
+        <seg>Y puesto que nosotros destruimos este error en otros lugares y una vez más lo destruiremos en otros libros, ahora nosotros volquémonos hacia otras cosas que pensamos decir sobre la distinción de los lugares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et quia superiora ad inferiora se habent sicut formae ad materias suas, sicut in libro de Caelo et Mundo diximus, oportet quod superiora semper sint loca inferiorum:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015750Z" creationid="nivaca" creationdate="20201003T001146Z">
@@ -3415,6 +3471,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T014556Z" creationid="mateovo2" creationdate="20201003T014556Z">
         <seg>y que aquello que no se mueve hacia la forma no se mueve hacia el lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et sic grave simpliciter habet moveri ad ipsum sicut ad locum proprium:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T022943Z" creationid="mateovo2" creationdate="20201003T022943Z">
+        <seg>y así lo que es grave en sentido absoluto tiene que ser movido hacia este como hacia su lugar.</seg>
       </tuv>
     </tu>
     <tu>

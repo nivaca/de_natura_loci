@@ -353,6 +353,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Cum autem nullus omnino locus (proprie sumptus ut locus) sit mobilis, oportet ipsum esse omnino absque indigentia naturali:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T001611Z" creationid="nivaca" creationdate="20201003T001611Z">
+        <seg>Puesto que ningún lugar, comprendido propiamente como lugar, es en lo absoluto móvil, conviene que este mismo sea en lo absoluto sin carencia natural, por lo que todo movimiento físico recto sucede por carencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Cum autem viginta quatuor fere gradus sint inter aequinoctialem et tropicum alterum: remaneret ergo habitabi-[B539b]-lis circa tropicum versus polum viginti quatuor graduum: et haec esset latitudo habitabilis inter torridam et frigidam versus quemcumque polorum.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200619T211431Z" creationid="nivaca" creationdate="20200610T233355Z">
@@ -2883,6 +2891,14 @@ Hacer notas!</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="la">
+        <seg>[C2a]Testificatur etiam ad hoc, quod videmus omnia corpora quae diu sunt extra locum suae generationis, eo quod elongata sunt a principio suae conservationis et sui esse (et hoc non tantum modo videmus in hominibus et aliis animalibus, sed etiam in plantis quae multum in diversa loca transferuntur) est similiter lapides propriis virtutibus destruuntur, quando diu sunt extra locum suae generationis:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T001707Z" creationid="nivaca" creationdate="20201003T001707Z">
+        <seg>Ahora bien, también apoya esto lo que vemos, que todos los cuerpos que están por mucho tiempo fuera del lugar de su generación se corrompen porque fueron alejados del principio de su ser y su conservación. Y esto lo vemos no solo en los hombres y en los otros animales, sino también en las plantas que son transportadas en gran cantidad hacia diversos lugares. Y similarmente las piedras se debilitan en sus fuerzas propias cuando están por mucho tiempo fuera del lugar de su generación,</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Acá estamos traduciendo "complexionis" por "composición", y no por "complexión", como habíamos sugerido.</note>
       <tuv lang="la">
         <seg>[C2a]Testificatur etiam ad hoc, quod videmus omnia corpora quae diu sunt extra locum suae generationis, eo quod elongata sunt a principio suae conservationis et sui esse (et hoc non tantum modo videmus in hominibus et aliis animalibus, sed etiam in plantis quae multum in diversa loca transferuntur) est similiter lapides propriis virtutibus destruuntur, quando diu sunt extra locum suae generationis: et quamvis forte teneant colorem et figuram per tempus longum propter similitudinem corporum suorum, tamen, ut diximus, virtutem paulatim amittunt: et cum virtus ipsorum sit a tota specie ipsorum, et sit sequela complexionis ipsorum, constat quod etiam nomen speciei non retinet nisi aequivoce: et sunt sicut mortui qui propter desiccationem corporum longo tempore figuram retinuerunt.</seg>
@@ -2909,10 +2925,26 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>eo quod omnis motus physicus rectus est per indigentiam, cum omnino sit sequestratus ab omni indigentia privationis et materiae, oportet ipsum esse in ratione alicujus divini et optimi, ad quod et propter quod est motus, et in quo accipitur esse rei et salus ejusdem.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T001627Z" creationid="nivaca" creationdate="20201003T001627Z">
+        <seg>Puesto que fue alejado completamente de la carencia de privación y de materia, conviene que este exista en la razón de alguien divino y excelente, hacia el que y por el que se mueve, y en el cual se recibe el ser de la cosa y la salvación de ella misma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>est autem propinquius continens quam contentum:</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201003T001512Z" creationid="nivaca" creationdate="20201003T001512Z">
         <seg>pero es más cercano lo continente que lo contenido,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et cum virtus ipsorum sit a tota specie ipsorum, et sit sequela complexionis ipsorum, constat quod etiam nomen speciei non retinet nisi aequivoce:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T001734Z" creationid="nivaca" creationdate="20201003T001734Z">
+        <seg>y, puesto que su fuerza se da por su especie completa y es resultado de su composición*, consta que incluso no retienen el nombre de su especie salvo equívocamente</seg>
       </tuv>
     </tu>
     <tu>
@@ -2941,10 +2973,34 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et quamvis forte teneant colorem et figuram per tempus longum propter similitudinem corporum suorum, tamen, ut diximus, virtutem paulatim amittunt:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T001734Z" creationid="nivaca" creationdate="20201003T001734Z">
+        <seg>y, aunque retengan fuertemente el color y la figura por un largo tiempo a causa de la solidez de sus cuerpos, sin embargo, como dijimos, pierden paulatinamente su fuerza;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et quia superiora ad inferiora se habent sicut formae ad materias suas, sicut in libro de Caelo et Mundo diximus, oportet quod superiora semper sint loca inferiorum:</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201003T001146Z" creationid="nivaca" creationdate="20201003T001146Z">
         <seg>Y puesto que las cosas superiores se dan frente a las cosas inferiores, así como las formas frente a sus materias, como dijimos en *Sobre el cielo y el mundo*, conviene que los superiores siempre sean los lugares de los inferiores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et sic per locum continentem largitur locato et esse et formam.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T001528Z" creationid="nivaca" creationdate="20201003T001528Z">
+        <seg>y así a través del lugar continente se dan abundantemente el ser y la forma a lo localizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et sunt sicut mortui qui propter desiccationem corporum longo tempore figuram retinuerunt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T001818Z" creationid="nivaca" creationdate="20201003T001818Z">
+        <seg>y son así como ciertos muertos, quienes retuvieron su figura temporal mucho tiempo por la sequedad de sus cuerpos.  </seg>
       </tuv>
     </tu>
     <tu>

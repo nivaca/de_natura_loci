@@ -1650,8 +1650,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>In illo enim concavo generatur et conservatur et convalescit, et extra illud in concava superficie habente qualitates contrarias illi, dissolvitur et corrumpitur.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200619T200825Z" creationid="mateovo2" creationdate="20200619T200825Z">
-        <seg>en efecto, en aquella concavidad se genera y se conserva y se desarrolla y, fuera de ella en una superficie cóncava que tiene cualidades contrarias a ésta, se disuelve y se corrompe.  </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T015511Z" creationid="mateovo2" creationdate="20200619T200825Z">
+        <seg>pues, en aquella concavidad se genera y se conserva y se desarrolla y, fuera de ella en una superficie cóncava que tiene cualidades contrarias a esta, se disuelve y se corrompe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1885,6 +1885,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Magis autem perspicuum hoc est in plantis:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T015624Z" creationid="mateovo2" creationdate="20201003T015624Z">
+        <seg>Sin embargo, esto es más claro en las plantas,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Magis autem perspicuum hoc est in plantis: eo quod videmus quasdam plantarum in uno loco convalescere, quae si ad clima proximum transferantur, nulla cultura [B531b]convalescere possunt.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200619T201156Z" creationid="mateovo2" creationdate="20200619T201156Z">
@@ -2061,6 +2069,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Ostendunt autem haec homines loca sua mutantes secundum contraria climata, qui propter loci inconnaturalitatem infirmantur et destruuntur:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T015526Z" creationid="mateovo2" creationdate="20201003T015526Z">
+        <seg>Ahora bien, esto lo muestran los hombres que cambian sus lugares en climas contrarios, puesto que por la no connaturalidad del lugar se debilitan y se quedan atrás,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Ostendunt autem haec homines loca sua mutantes secundum contraria climata, qui propter loci inconnaturalitatem infirmantur et destruuntur: et quando redeunt ad loca nativa, recipiunt sanitatem.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200619T200904Z" creationid="mateovo2" creationdate="20200619T200904Z">
@@ -2187,6 +2203,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T225951Z" creationid="andrealozanov" creationdate="20200611T225951Z">
         <seg>Por esta causa varían las naturalezas y las propiedades y las costumbres y los actos y las especies de estas cosas, que parecen ser generadas en el mismo lugar sensible, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Quaedam autem animalia etiam virtutem generationis amittunt ex loci inconnaturalitate, sicut elephantes extra primum et secundum clima raro generant, nec inveniuntur umquam generasse ultra quartum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T015541Z" creationid="mateovo2" creationdate="20201003T015541Z">
+        <seg>Ahora bien, ciertos animales incluso pierden la fuerza de la generación por la no connaturalidad del lugar, así como los elefantes por fuera del primer y del segundo clima que pocas veces se reproducen y no se encuentran nunca elefantes que se hayan reproducido más allá del cuarto;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3117,6 +3141,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>eo quod videmus quasdam plantarum in uno loco convalescere, quae si ad clima proximum transferantur, nulla cultura [B531b]convalescere possunt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T015644Z" creationid="mateovo2" creationdate="20201003T015644Z">
+        <seg>por lo que vemos que algunas de las plantas en un cierto lugar se desarrollan, las que, si son transplantadas a un clima próximo, por ningún cultivo se pueden desarrollar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>est autem propinquius continens quam contentum:</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201003T001512Z" creationid="nivaca" creationdate="20201003T001512Z">
@@ -3253,6 +3285,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et quando redeunt ad loca nativa, recipiunt sanitatem.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T015532Z" creationid="mateovo2" creationdate="20201003T015532Z">
+        <seg>y cuando se devuelven a sus lugares nativos, recobran la salud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et quia superiora ad inferiora se habent sicut formae ad materias suas, sicut in libro de Caelo et Mundo diximus, oportet quod superiora semper sint loca inferiorum:</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201003T001146Z" creationid="nivaca" creationdate="20201003T001146Z">
@@ -3273,6 +3313,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201003T001528Z" creationid="nivaca" creationdate="20201003T001528Z">
         <seg>y así a través del lugar continente se dan abundantemente el ser y la forma a lo localizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et similiter leones qui in sexto et septimo climate numquam generasse inveniuntur.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T015602Z" creationid="mateovo2" creationdate="20201003T015602Z">
+        <seg>y similarmente los leones, que nunca se encuentran* que se hayan reproducido en el sexto y séptimo clima.</seg>
       </tuv>
     </tu>
     <tu>

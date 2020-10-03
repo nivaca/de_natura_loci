@@ -3015,8 +3015,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>eo quod non operatur nisi ad accidens rei naturalis, et non per modum naturae quae est intrinsecum principium, sed, sicut dicunt, extrinsecus et per accidens continendo.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20201003T002459Z" creationid="nivaca" creationdate="20201003T002459Z">
-        <seg>y por esta razón dicen que no es conveniente tratar la ciencia de la diversidad de los lugares solamente en el libro de la ciencia natural, porque no opera sino frente al accidente de la cosa natural y no por el modo de la naturaleza, la cual es principio intrínseco, pero, según dicen, es extrínseco y contenido por accidente.</seg>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002954Z" creationid="nivaca" creationdate="20201003T002459Z">
+        <seg>por el hecho de que no opera sino frente al accidente de la cosa natural y no por el modo de la naturaleza, la cual es principio intrínseco, pero, según dicen, es extrínseco y contenido por accidente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3057,6 +3057,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201003T001332Z" creationid="nivaca" creationdate="20201003T001332Z">
         <seg>y por esta razón, no es ambiguo que el lugar tiene virtud activa en lo localizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et ideo non oportere tradere dicunt scientiam diversitatis locorum in speciali scientiae naturalis:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002943Z" creationid="nivaca" creationdate="20201003T002943Z">
+        <seg>y por esto dicen que no es preciso tratar la ciencia de la diferencia de los lugares solamente en el libro de la ciencia natural,</seg>
       </tuv>
     </tu>
     <tu>

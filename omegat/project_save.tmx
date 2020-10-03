@@ -271,6 +271,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="la">
+        <seg>Compositum autem habet locum in composito:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T015201Z" creationid="mateovo2" creationdate="20201003T015201Z">
+        <seg>Sin embargo, lo compuesto tiene localización* en lo compuesto,</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Acá tradujimos "locum" por "localización", y no por "lugar".</note>
       <tuv lang="la">
         <seg>Compositum autem habet locum in composito: et ideo nullum compositum in simplici corpore locari potest: propter quod egregie dicit Aristoteles in libro de Causis proprietatum elementorum et orbis sive planetarum, quod si compositum occupetur a simplici, corrumpitur statim: dans exemplum de his animalibus, quae cadunt ab altissimo, quae ante mortua sunt quam ad terram deveniant: et ideo corrupta sunt, quia occupata sunt ab aere simplici, et non a casu.</seg>
@@ -2679,6 +2687,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Simplex enim corpus habet locari in simplici concavo corporis in quo est generatio ipsius, et ad quem est motus ipsius:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T015128Z" creationid="mateovo2" creationdate="20201003T015128Z">
+        <seg>pues el cuerpo simple tiene localización en la concavidad simple del cuerpo, en la que se da su generación y hacia la que se da su movimiento,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Simplex enim corpus habet locari in simplici concavo corporis in quo est generatio ipsius, et ad quem est motus ipsius: et a quo si moveatur, festinat ad corruptionem [B531a], sicut in Physicis determinavimus.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200619T195630Z" creationid="mateovo2" creationdate="20200619T195630Z">
@@ -3053,6 +3069,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>dans exemplum de his animalibus, quae cadunt ab altissimo, quae ante mortua sunt quam ad terram deveniant:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T015321Z" creationid="mateovo2" creationdate="20201003T015321Z">
+        <seg>y da el ejemplo de aquellos animales que caen de lo más alto, que están muertos antes de llegar a la tierra,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>eo quod est extrinsecum ambiens undique terminans, et tangens figuram locati:</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201003T002429Z" creationid="nivaca" creationdate="20201003T002429Z">
@@ -3081,6 +3105,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201003T001512Z" creationid="nivaca" creationdate="20201003T001512Z">
         <seg>pero es más cercano lo continente que lo contenido,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et a quo si moveatur, festinat ad corruptionem [B531a], sicut in Physicis determinavimus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T015141Z" creationid="mateovo2" creationdate="20201003T015141Z">
+        <seg>y de la que, si es movido, se apresurará a la corrupción, así como establecimos en la *Física*.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3125,6 +3157,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et ideo corrupta sunt, quia occupata sunt ab aere simplici, et non a casu.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T015336Z" creationid="mateovo2" creationdate="20201003T015336Z">
+        <seg>y que, por esto, están corruptos, porque son ocupados por aire simple, y no por la caída.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et ideo locum habere virtutem activam in locato non est ambiguum.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201003T001332Z" creationid="nivaca" creationdate="20201003T001332Z">
@@ -3137,6 +3177,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201003T002943Z" creationid="nivaca" creationdate="20201003T002943Z">
         <seg>y por esto dicen que no es preciso tratar la ciencia de la diferencia de los lugares solamente en el libro de la ciencia natural,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et ideo nullum compositum in simplici corpore locari potest:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T015230Z" creationid="mateovo2" creationdate="20201003T015230Z">
+        <seg>y por esto ningún compuesto puede ser localizado en un cuerpo simple.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3161,6 +3209,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201003T002714Z" creationid="nivaca" creationdate="20201003T002714Z">
         <seg>y por esto, lo que es en tales cuerpos la causa de la disposición es en primer lugar la causa de la especie de este o de otro modo de la disposición*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et locus quidem simplicium est simplex, locus autem compositorum est compositus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T015107Z" creationid="mateovo2" creationdate="20201003T015107Z">
+        <seg>Y, en verdad, el lugar de los simples es simple, pero el lugar de los compuestos es compuesto;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3314,6 +3370,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201003T002543Z" creationid="nivaca" creationdate="20201003T002543Z">
         <seg>es preciso que la fuerza, ser de la cosa que hace y que limita, esté en el lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>propter quod egregie dicit Aristoteles in libro de Causis proprietatum elementorum et orbis sive planetarum, quod si compositum occupetur a simplici, corrumpitur statim:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T015255Z" creationid="mateovo2" creationdate="20201003T015255Z">
+        <seg>Por lo que egregiamente afirma Aristóteles en el libro de las *Causas de las propiedades de los elementos y el mundo o de los planetas* que si el compuesto es ocupado por el simple, se corrompe inmediatamente,</seg>
       </tuv>
     </tu>
     <tu>

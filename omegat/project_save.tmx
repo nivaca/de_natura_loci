@@ -1854,12 +1854,17 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
     </tu>
     <tu>
-      <note>Acá tenemos nota para revisar la traducción de "subiecto".</note>
+      <note>Cf. Aquinas, In IV Met., 2, n. 548; cf. 7, n. 622: "homo et album sunt diversa secundum rationem, licet sint idem subiecto".
+
+Cf. Aquinas, De princ. nat. 2: "Unde materia et privatio sunt idem subiecto, sed differunt ratione."
+
+
+Ser lo mismo según la definición (ratio) vs. ser lo mismo según el sujeto de inherencia. </note>
       <tuv lang="la">
         <seg>Licet enim idem subjecto sit medium terrae et medium mundi, non tamen in quantum est medium terrae, est medium mundi, sicut in Caelo et Mundo ostendimus.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200625T170900Z" creationid="mateovo2" creationdate="20200625T170900Z">
-        <seg>en efecto, aunque por lo referido sea lo mismo* el medio del mundo y el medio de la tierra, sin embargo, el movimiento hacia este es propio de la tierra, en cuanto es el medio del mundo y no en cuanto es el medio de la tierra, así como se mostró en *Sobre el cielo y el mundo*.  </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T024200Z" creationid="mateovo2" creationdate="20200625T170900Z">
+        <seg>pues aunque lo mismo, según el sujeto, sea el medio del mundo y el medio de la tierra, sin embargo, el movimiento hacia este es propio de la tierra, en cuanto es el medio del mundo y no en cuanto es el medio de la tierra, así como se mostró en *Sobre el cielo y el mundo*.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -3471,6 +3476,22 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T014556Z" creationid="mateovo2" creationdate="20201003T014556Z">
         <seg>y que aquello que no se mueve hacia la forma no se mueve hacia el lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et ratione istius proprietatis debetur ei locus remotior a loco ignis:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T023204Z" creationid="mateovo2" creationdate="20201003T023204Z">
+        <seg>y en razón de ambas propiedades se debe a ella el lugar más remoto frente al lugar del fuego,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et sic debetur ei centrum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T023211Z" creationid="mateovo2" creationdate="20201003T023211Z">
+        <seg>y así se debe a este el centro del mundo;</seg>
       </tuv>
     </tu>
     <tu>

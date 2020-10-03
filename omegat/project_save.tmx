@@ -2013,6 +2013,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Ostendimus [C3b] enim in VIII Physicorum, quod idem est motum ad formam et ad locum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T014550Z" creationid="mateovo2" creationdate="20201003T014550Z">
+        <seg>Pues mostramos en el VIII de la *Física* que lo mismo es el movimiento hacia la forma y hacia el lugar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Ostendimus [C3b] enim in VIII Physicorum, quod idem est motum ad formam et ad locum: et quod illud quod non movetur ad formam, non movetur ad locum: unde cum etiam talium corporum formae, separatae sint substantiae secundum Peripateticos, non debetur eis locus aliquis secundum naturam suae essentiae, sicut debetur formis aliorum corporum.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200619T194916Z" creationid="mateovo2" creationdate="20200619T194916Z">
@@ -2447,6 +2455,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200904T215418Z" creationid="anlozan" creationdate="20200814T205625Z">
         <seg>Pero, pienso que no es verdadero que de ellos no hayan llegado noticias a nosotros en absoluto, puesto que Homero ya había hablado de ellos; e incluso Lucano escribía sobre los árabes que viven en la zona tórrida, diciendo que las sombras que tenían a la derecha, allá en su tierra, cuando se dirigían hacia oriente estando en su sur/mediodía*, al venir a la cuarta parte aquilonal, parecían ir a la izquierda. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sed quod sint in loco sic ordinata, debetur eis ex ordine dignitatum suarum, secundum quem ordinem sunt causae eorum, quae fiunt in natura:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T014801Z" creationid="mateovo2" creationdate="20201003T014801Z">
+        <seg>sino el que estén ordenadas en un lugar ascendentemente se debe a ellas por el orden de su dignidad; según este orden, son causas de las cosas que suceden en la naturaleza,</seg>
       </tuv>
     </tu>
     <tu>
@@ -3141,6 +3157,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et quod illud quod non movetur ad formam, non movetur ad locum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T014556Z" creationid="mateovo2" creationdate="20201003T014556Z">
+        <seg>y que aquello que no se mueve hacia la forma no se mueve hacia el lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et sic per locum continentem largitur locato et esse et formam.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201003T001528Z" creationid="nivaca" creationdate="20201003T001528Z">
@@ -3322,6 +3346,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201003T002049Z" creationid="nivaca" creationdate="20201003T002049Z">
         <seg>entonces, en efecto, conoceremos perfectamente incluso las cosas que se generan y que se corrompen en los lugares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>unde cum etiam talium corporum formae, separatae sint substantiae secundum Peripateticos, non debetur eis locus aliquis secundum naturam suae essentiae, sicut debetur formis aliorum corporum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T014641Z" creationid="mateovo2" creationdate="20201003T014641Z">
+        <seg>De donde, aunque incluso las formas separadas de tales cuerpos sean substancias, según los peripatéticos, no se debe a ellas un lugar determinado según la naturaleza de su esencia, así como se debe a las formas de los otros cuerpos,</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

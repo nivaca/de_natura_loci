@@ -435,8 +435,8 @@
       <tuv lang="la">
         <seg>Cum enim ignis sit ascendere sursum, verissime et principalissime attingit illa pars materiae formam ignis, quae usque ad altissimum loci elevatur.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200625T171358Z" creationid="mateovo2" creationdate="20200625T171358Z">
-        <seg>en efecto, aunque el ascender hacia arriba sea propio del fuego, muy verdadera y principalmente aquella parte de la materia alcanza la forma del fuego, que se eleva hasta lo más alto del lugar;  </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T024358Z" creationid="mateovo2" creationdate="20200625T171358Z">
+        <seg>pues aunque el ascender hacia arriba sea propio del fuego, muy verdadera y principalmente aquella parte de la materia alcanza la forma del fuego, que se eleva hasta lo más alto del lugar;  </seg>
       </tuv>
     </tu>
     <tu>
@@ -703,6 +703,15 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200625T172146Z" creationid="mateovo2" creationdate="20200625T172146Z">
         <seg>Además, de la misma manera, ni es la más verdadera el agua que toca el aire, ni aquella que toca la tierra, sino la que está en el medio entre estas;  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Ergo ibi locatur quod verissime est ignis:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T024409Z" creationid="mateovo2" creationdate="20201003T024409Z">
+        <seg>por lo tanto, ahí se localiza lo que es muy verdaderamente el fuego.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -2167,6 +2176,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
     </tu>
     <tu>
+      <tuv lang="la">
+        <seg>Per oppositum autem se habet in terra:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T024506Z" creationid="mateovo2" creationdate="20201003T024506Z">
+        <seg>Sin embargo, por oposición, en la tierra se tiene que,</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Otra vez tradujimos "simpliciter" por "absolutamente". Creo que deberíamos cambiarlo siempre a absolutamente (si eso tiene sentido para el significado), pues es la traducción que más usamos.</note>
       <tuv lang="la">
         <seg>Per oppositum autem se habet in terra: quoniam ideo quod terra est simpliciter gravis, et se-[B533b]-cundum hoc sub omnibus descendit, erit verissime natura terrae locata in centro: et secundum quod partes terrae plus vel minus elongantur a centro, sic plus vel minus attingunt veram naturam terrae.</seg>
@@ -2575,6 +2592,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20200814T210034Z" creationid="anlozan" creationdate="20200814T210034Z">
         <seg>Pero creo que este impedimento no está por todos lados, sino quizá en algún lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sed in his [C5b] locis elementorum magna est differentia:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T024322Z" creationid="mateovo2" creationdate="20201003T024322Z">
+        <seg>Pero en estos lugares de los elementos la diferencia es grande,</seg>
       </tuv>
     </tu>
     <tu>
@@ -3496,6 +3521,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et secundum quod partes terrae plus vel minus elongantur a centro, sic plus vel minus attingunt veram naturam terrae.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T024521Z" creationid="mateovo2" creationdate="20201003T024521Z">
+        <seg>y en la medida en que las partes de la tierra estén alejadas más o menos del centro, así menos y más alcanzan la verdadera naturaleza de la tierra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et sic debetur ei centrum.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T023211Z" creationid="mateovo2" creationdate="20201003T023211Z">
@@ -3713,6 +3746,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>quia cum locus ignis sit concavum superficiei orbis lunae usque ad convexum aeris, non est hoc spatium totum aequaliter locus ignis, sed quasi principaliter et per posterius.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T024348Z" creationid="mateovo2" creationdate="20201003T024348Z">
+        <seg>porque aunque el lugar del fuego sea la concavidad de la superficie de la circunferencia de la luna hasta lo convexo del aire, no es este espacio en su totalidad igualmente el lugar del fuego, sino casi principalmente y hacia el final;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>quia cum motor primus nobilitatem suam largiatur omni ei quod formatur ad esse, absque dubio non largitur distanti esse vel formam, nisi per quod sibi est propinquius:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020336Z" creationid="nivaca" creationdate="20201003T001509Z">
@@ -3745,10 +3786,26 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>quod autem in medio et infimo est ejusdem spatii, non adeo attingit ignis naturam, sed secundum minus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T024416Z" creationid="mateovo2" creationdate="20201003T024416Z">
+        <seg>Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alcanza en tal grado la naturaleza del fuego, sino en lo mínimo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>quod probatur etiam, quia, sicut in Physicis dictum est, non indigent motore ad ipsum locum nisi accidentali, quod scilicet removet obstaculum quod retinet locatum infra terminos alienos, et suae naturae non congruos.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020420Z" creationid="nivaca" creationdate="20201003T002011Z">
         <seg>Por lo que incluso, así como se dice en la *Física*, no requieren de un motor hacia el lugar mismo salvo accidentalmente; motor que, a saber, remueve el obstáculo que detiene lo localizado bajo límites ajenos y que no son acordes a su naturaleza. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>quoniam ideo quod terra est simpliciter gravis, et se-[B533b]-cundum hoc sub omnibus descendit, erit verissime natura terrae locata in centro:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T024516Z" creationid="mateovo2" creationdate="20201003T024516Z">
+        <seg>por la razón de que la tierra es grave absolutamente* y por esto desciende bajo todas las cosas, la naturaleza más verdadera de la tierra estará localizada en el centro,</seg>
       </tuv>
     </tu>
     <tu>
@@ -3781,6 +3838,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T022429Z" creationid="mateovo2" creationdate="20201003T022429Z">
         <seg>pues si el moverse de la levedad relativa se da sobre cierto cuerpo, el moverse de la levedad absoluta* se daría sobre todos los cuerpos generados;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>tamen hoc non facit in ea motum generationis et formae, sed potius corruptionis et transmutationis ejus in formam terrae sicut et transfertur ad locum ejus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T024312Z" creationid="mateovo2" creationdate="20201003T024312Z">
+        <seg>sin embargo, esto no crea en ella movimiento de generación y de forma, sino más bien de su corrupción y de su transmutación en la forma de la tierra, así como también se transfiere hacia su lugar.</seg>
       </tuv>
     </tu>
     <tu>

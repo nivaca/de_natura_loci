@@ -825,8 +825,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Est autem perfectissimus omnium motuum motus localis, ut probatum est Physicis et in Caelo et Mundo:</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201003T025648Z" creationid="mateovo2" creationdate="20201003T025648Z">
-        <seg>Sin embargo, el movimiento local es el más perfecto de todos los movimientos, como fue demostrado en la *Física* y en *Sobre el cielo y el mundo-.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T025742Z" creationid="mateovo2" creationdate="20201003T025648Z">
+        <seg>Sin embargo, el movimiento local es el más perfecto de todos los movimientos, como fue demostrado en la *Física* y en *Sobre el cielo y el mundo*.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1730,6 +1730,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200904T215654Z" creationid="anlozan" creationdate="20200814T205632Z">
         <seg>Y por esto, al hablarles a ellos, dice: ‘árabes, vinisteis a un ignoto mundo para vosotros.”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Illud autem divinum quod sic est in loco, propter quod motus est ad ipsum quod a caelo sibi influitur, quod simpliciter est locus et non locatum, quidam vocant lucem:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T025759Z" creationid="mateovo2" creationdate="20201003T025759Z">
+        <seg>Sin embargo, a aquello divino que está de esta manera en el lugar, porque fue movido hacia este que del cielo fluye a sí mismo, que es absolutamente lugar y no localizado, algunos llaman "luz";</seg>
       </tuv>
     </tu>
     <tu>
@@ -2743,6 +2751,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Sed si lux accipitur pro eo quod actum lucis habet illuminando, tunc virtus illa nequaquam lux vocari potest:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T025900Z" creationid="mateovo2" creationdate="20201003T025900Z">
+        <seg>Pero si la luz es entendida como eso que el acto de la luz tiene al iluminar, entonces esa virtud inútilmente puede ser llamada "luz";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Sed si lux accipitur pro eo quod actum lucis habet illuminando, tunc virtus illa nequaquam lux vocari potest: mobile enim localiter non plus movetur ad locum illuminatum quam ad tenebrosum.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T221343Z" creationid="andrealozanov" creationdate="20200611T221343Z">
@@ -2787,6 +2803,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200828T221851Z" creationid="anlozan" creationdate="20200814T204413Z">
         <seg>Sin embargo, si estuvo en la cuarta parte meridional, entonces no pudo pasar a esta cuarta parte. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Si autem lucem vocant omnem virtutem quae a caelo influitur in inferioribus mediante natura luminosi, tunc verum est quod dicunt:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T025937Z" creationid="mateovo2" creationdate="20201003T025937Z">
+        <seg>Sin embargo, si llaman luz a toda virtud que fluye del cielo a los inferiores mediante la naturaleza luminosa, entonces es verdadero aquello que dicen,</seg>
       </tuv>
     </tu>
     <tu>
@@ -3377,6 +3401,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>eo quod mathematice loquentes basilica [B535b]vocant.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T025845Z" creationid="mateovo2" creationdate="20201003T025833Z">
+        <seg>que, hablando figurativamente, llaman la base del luga.r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>eo quod non operatur nisi ad accidens rei naturalis, et non per modum naturae quae est intrinsecum principium, sed, sicut dicunt, extrinsecus et per accidens continendo.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020552Z" creationid="nivaca" creationdate="20201003T002459Z">
@@ -3557,6 +3589,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015336Z" creationid="mateovo2" creationdate="20201003T015336Z">
         <seg>y que, por esto, están corruptos, porque son ocupados por aire simple, y no por la caída.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et ideo dicunt lucem esse firmamentum loci:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T025829Z" creationid="mateovo2" creationdate="20201003T025829Z">
+        <seg>y por esto, dicen que la luz es el firmamento del lugar,</seg>
       </tuv>
     </tu>
     <tu>
@@ -3874,6 +3914,22 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>mobile enim localiter non plus movetur ad locum illuminatum quam ad tenebrosum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T025919Z" creationid="mateovo2" creationdate="20201003T025919Z">
+        <seg>lo localmente movible no se mueve más al pues lugar iluminado que al tenebroso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>multae enim virtutes a caelo diffunduntur in inferiora, quae nequaquam luces vocari possunt, licet forte cum lumine caelesti descendant, sicut est calidum, et aliquando frigidum, et aliquando humidum, et aliquando siccum, quae cum radiis stellarum in inferioribus influuntur, et tamen nullum ipsorum nomine lucis proprie vocatur:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T025951Z" creationid="mateovo2" creationdate="20201003T025951Z">
+        <seg>pues muchas virtudes son difundidas del cielo a los inferiores, las cuales inútilmente podrían ser llamadas luces, aunque desciendan por casualidad con la luz celeste, así como se da lo cálido y otras veces lo frío y otras veces lo húmedo y otras veces lo seco, los cuales, con los rayos de las estrellas fluyen en los inferiores, y, no obstante, ninguno de estos es llamado con el nombre luz propiamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>nec umquam ante valet cibus operationem suam perficere proprie, nisi sit perfecte virtutem membri ad quod movetur, adeptus, cujus perfectionis principium est membrum.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015906Z" creationid="nivaca" creationdate="20201003T001431Z">
@@ -3975,6 +4031,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020611Z" creationid="nivaca" creationdate="20201003T002623Z">
         <seg>Por lo tanto, ¿de qué manera puede ser comprendido que el lugar es operativo frente a aquello que es lo que se sigue y que nada entregue a lo antecedente? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>quare propter ipsum oportet esse aliquid divinissimum et optimum secundum naturam rei.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T025749Z" creationid="mateovo2" creationdate="20201003T025749Z">
+        <seg>Por lo que conviene que este sea hacia lo más divino y óptimo según la naturaleza de la cosa</seg>
       </tuv>
     </tu>
     <tu>
@@ -4099,6 +4163,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>sed tunc improprie loquentur:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T025939Z" creationid="mateovo2" creationdate="20201003T025939Z">
+        <seg>pero entonces hablan impropiamente;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>si enim levitatis comparatae est moveri super corpora quaedam, levitatis simplicis erit moveri super omnia generabilia corpora.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T022429Z" creationid="mateovo2" creationdate="20201003T022429Z">
@@ -4135,6 +4207,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T024557Z" creationid="mateovo2" creationdate="20201003T024557Z">
         <seg>pues no es más verdadero el aire que toca el fuego en lo más alto de su lugar ni el que toca el agua en lo más bajo de su lugar, sino más bien el que se localiza en el espacio medio de su lugar;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>virtutem tamen illam caelestem esse constat, quae format materiam ad speciem:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T030010Z" creationid="mateovo2" creationdate="20201003T030010Z">
+        <seg>Sin embargo, es evidente que la virtud celestial es aquella que forma la materia hacia la especie,</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

@@ -1726,6 +1726,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Ignis autem locus ibi esse non poterat:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T163044Z" creationid="mateovo2" creationdate="20201003T163044Z">
+        <seg>Sin embargo, según el lugar, el fuego no podía estar ahí,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Ignis autem locus ibi esse non poterat: eo quod est simpliciter levis, et ideo quia non est causans cum sit vehementer activus: dissolveret enim omne compositum: propter quod etiam nihil habitat et movetur in igne, sicut in libro de Causis proprietatum elementorum ostendimus.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T223543Z" creationid="andrealozanov" creationdate="20200611T223543Z">

@@ -329,6 +329,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Convenientia tamen est in locis quae vicina sunt in proprietatibus communibus:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T164837Z" creationid="mateovo2" creationdate="20201003T164837Z">
+        <seg>Sin embargo, la confluencia se da en los lugares que son cercanas en cuanto a sus propiedades comunes,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Convenientia tamen est in locis quae vicina sunt in proprietatibus communibus: et ideo ea quae vicine habitant, similes habent complexiones et similia conservantia et similia corrumpentia in contrarium.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T232105Z" creationid="andrealozanov" creationdate="20200611T232105Z">
@@ -1015,6 +1023,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Et hoc est quod egregie dicit Hermes in libro de virtutibus universalibus quod "constellatio est causans virtutem qualitatum eorum quae infunduntur in inferioribus, et est formativa ipsorum per qualitates elementorum quae sunt sicut instrumenta virtutum caelestium." Non tantum autem quilibet locus particularis, alterius est proprietatis quam alius, sed etiam quilibet per se successive diversarum efficitur proprietatum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T165202Z" creationid="mateovo2" creationdate="20201003T165202Z">
+        <seg>Y esto es lo que dijo egregiamente Hermes en el *Libro sobre las virtudes universales*, que la constelación es la que causa la virtud cualitativa de las estrellas que se infunde en los inferiores y que es su formativa a través de las cualidades de los elementos que son como los instrumentos de las virtudes celestes. Además, cualquier lugar particular no solo tiene una propiedad más que otra, sino que también cualquier lugar de diversas propiedades se produce sucesivamente por sí,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Et hoc est quod egregie dicit Hermes in libro de virtutibus universalibus quod "constellatio est causans virtutem qualitatum eorum quae infunduntur in inferioribus, et est formativa ipsorum per qualitates elementorum quae sunt sicut instrumenta virtutum caelestium." Non tantum autem quilibet locus particularis, alterius est proprietatis quam alius, sed etiam quilibet per se successive diversarum efficitur proprietatum: eo quod per ortum et occasum super ipsum, et diversam habitudinem earum ad locum quemlibet necesse est variari proprietates ipsius.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T232849Z" creationid="andrealozanov" creationdate="20200611T232849Z">
@@ -1574,6 +1590,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T174047Z" creationid="mateovo2" creationdate="20200616T173608Z">
         <seg>Ahora bien, hay otra razón de esto, a saber, que toda transmutación de lo contenido sucede por lo continente; sin embargo, el lugar es lo continente; y por esto, su origen proviene de la transmutación de aquello que contiene. Pues se pudren las cosas que se pudren, y se conservan las cosas conservadas debido a las virtudes de los cuerpos continentes, así como se tiene demostrado en el cuarto libro de los *Metereológicos*, y por esta razón, no es ambiguo que el lugar tiene virtud activa en lo localizado. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Haec enim contrarietas non est ex materia, quia materia non est causa virtutis et formae:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T164941Z" creationid="mateovo2" creationdate="20201003T164941Z">
+        <seg>Pues esta contrariedad no es por la materia, puesto que la materia no es la causa de la virtud ni de la forma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3451,8 +3475,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>[C9a] Cum enim unus angulus non differat ab alio per magnum loci spatium, oportet quod vicina valde loca sint aliquando diversarum et contrariarum virtutum.</seg>
       </tuv>
-      <tuv lang="es" changeid="andrealozanov" changedate="20200611T232440Z" creationid="andrealozanov" creationdate="20200611T232440Z">
-        <seg>en efecto, aunque un extremo no dista del otro por un gran espacio de lugar, conviene que los lugares muy cercanos sean a veces de virtudes diversas y contrarias..</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T164915Z" creationid="andrealozanov" creationdate="20200611T232440Z">
+        <seg>pues aunque un extremo no dista del otro por un gran espacio de lugar, conviene que los lugares muy cercanos sean a veces de virtudes diversas y contrarias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3741,6 +3765,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T025829Z" creationid="mateovo2" creationdate="20201003T025829Z">
         <seg>y por esto, dicen que la luz es el firmamento del lugar,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et ideo ea quae vicine habitant, similes habent complexiones et similia conservantia et similia corrumpentia in contrarium.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T164848Z" creationid="mateovo2" creationdate="20201003T164848Z">
+        <seg>y por esto, estas cosas que habitan cercanamente tienen frecuentemente en común complexiones, condiciones de conservación y de corrupción similares.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4166,6 +4198,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T014029Z" creationid="mateovo2" creationdate="20201003T014029Z">
         <seg>pues todos los cuerpos, salvo el primer cuerpo, tienen fuera de sí algún cuerpo circundante dentro del cual se circunscribe su magnitud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>oportet igitur quod sit ex loco informato a figuratione radiorum stellarum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T165106Z" creationid="mateovo2" creationdate="20201003T165106Z">
+        <seg>Por lo tanto, es preciso que sea por el lugar formado por la configuración de los rayos de las estrellas.</seg>
       </tuv>
     </tu>
     <tu>

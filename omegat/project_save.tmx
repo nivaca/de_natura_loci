@@ -985,6 +985,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Et ideo praecipuos viros in philosophia, sicut fuit [B529b]Aristoteles et Plato, tractasse videmus de hujusmodi:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002335Z" creationid="nivaca" creationdate="20201003T002335Z">
+        <seg>Y por esto vemos que hombres distinguidos en la filosofía, así como fueron Aristóteles y Platón, trataron de este modo,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Et ideo praecipuos viros in philosophia, sicut fuit [B529b]Aristoteles et Plato, tractasse videmus de hujusmodi: licet libri eorum non integri, sed per partes ad nos venerint.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T191840Z" creationid="mateovo2" creationdate="20200616T191840Z">
@@ -1877,6 +1885,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Non enim sufficit quod in mathematicis traditum est de hujusmodi diversitate, ubi traditur quae stellae, super quae loca, hoc vel illo modo oriantur, [C2b] vel occidant, utrum scilicet oblique vel recte, et quae stellarum nec oriantur nec occidant, sed semper appareant, vel quae numquam, et quae oriantur et occidant aliquando:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002213Z" creationid="nivaca" creationdate="20201003T002213Z">
+        <seg>pues no es suficiente lo que en los *Matemáticos* se trató sobre esta tal diversidad, donde se trata sobre qué estrellas sobre qué lugares de este o aquel modo nacen o mueren, si, a saber, oblicua o rectamente, y cuáles entre ellas ni nacen ni mueren, si no siempre aparecen o las que nunca, y cuáles nacen y a veces mueren;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Non enim sufficit quod in mathematicis traditum est de hujusmodi diversitate, ubi traditur quae stellae, super quae loca, hoc vel illo modo oriantur, [C2b] vel occidant, utrum scilicet oblique vel recte, et quae stellarum nec oriantur nec occidant, sed semper appareant, vel quae numquam, et quae oriantur et occidant aliquando: quia licet ex his sciatur situs climatum, non tamen per eadem sufficienter scitur natura locorum et diversitas complexionis eorum.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T185338Z" creationid="mateovo2" creationdate="20200616T185338Z">
@@ -1943,8 +1959,8 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       <tuv lang="la">
         <seg>Oportet igitur, quod etiam sic sit de scientia locorum.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200616T191741Z" creationid="mateovo2" creationdate="20200616T191741Z">
-        <seg>Por lo tanto, conviene que incluso así suceda en la ciencia de los lugares.  </seg>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002313Z" creationid="mateovo2" creationdate="20200616T191741Z">
+        <seg>Por lo tanto, es preciso que incluso así suceda en la ciencia de los lugares.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -2051,6 +2067,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20200918T215441Z" creationid="anlozan" creationdate="20200821T214013Z">
         <seg>También por esto la naturaleza de aquellos lugares no puede ser suficientemente conocida para nosotros; porque no alcanza a llegar a la experiencia sino que sabemos que el frío extremo domina allí. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Propter quod tradentes scientiam naturalem, et non inducentes aliquid de diversitate locorum, peccant:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002152Z" creationid="nivaca" creationdate="20201003T002152Z">
+        <seg>or lo que los que tratan la ciencia natural y que no enseñan a nadie sobre la diversidad de los lugares pecan y buscan consuelo de su ignorancia, si dicen que no conviene preguntarse sobre esto mismo;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2478,8 +2502,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>Si enim nos considerationem ponimus in mixtis tantum non complexionatis, non sciemus perfecte naturam ipsorum, nisi sciamus omnes istorum differentias in metallis et lapidibus.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200616T185804Z" creationid="mateovo2" creationdate="20200616T185804Z">
-        <seg>en efecto, si nosotros ponemos la observación en las cosas mixtas como no en las complejas*, no conoceremos perfectamente su naturaleza, si no conocemos todas las diferencias de las cosas mixtas en los metales y en las piedras. </seg>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002301Z" creationid="mateovo2" creationdate="20200616T185804Z">
+        <seg>pues si nosotros ponemos la observación en las cosas mixtas como no en las complejas*, no conoceremos perfectamente su naturaleza, si no conocemos todas las diferencias de las cosas mixtas en los metales y en las piedras. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2619,6 +2643,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20200814T214400Z" creationid="anlozan" creationdate="20200814T201036Z">
         <seg>Además, hay razones de muchos grandes hombres para que no pueda ser habitada. Presentan especialmente tres, de las cuales una es de Ptolomeo, que la parte menor del diámetro solar se dirige hacia aquella parte y por esto, a causa de la proximidad del cuerpo solar, incluso más allá del trópico invernal el lugar resultó inhabitable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sunt autem quidam dicentes locum non conferre nisi ad figuram, et non ad esse locati:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002421Z" creationid="nivaca" creationdate="20201003T002421Z">
+        <seg>Existen, sin embargo, algunos que dicen que el lugar otorga solo a la figura y no a la condición* de lo localizado</seg>
       </tuv>
     </tu>
     <tu>
@@ -3021,10 +3053,26 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et solatium quaerunt suae imperitiae, si dicunt non oportere de ipso quaerere.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002153Z" creationid="nivaca" creationdate="20201003T002153Z">
+        <seg>y buscan consuelo de su ignorancia, si dicen que no conviene preguntarse sobre esto mismo;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et sunt sicut mortui qui propter desiccationem corporum longo tempore figuram retinuerunt.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201003T001818Z" creationid="nivaca" creationdate="20201003T001818Z">
         <seg>y son así como ciertos muertos, quienes retuvieron su figura temporal mucho tiempo por la sequedad de sus cuerpos.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>ita non sufficit universaliter tradere de loco nisi tradatur diversitas locorum, et innotescant accidentia diversorum locorum, et causa accidentium.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002127Z" creationid="nivaca" creationdate="20201003T002127Z">
+        <seg>de esta manera no es suficiente tratar sobre el lugar universalmente, si no se trata la diversidad de los lugares y no se diferencian los accidentes de los diversos lugares y la causa de los accidentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3034,6 +3082,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T195228Z" creationid="mateovo2" creationdate="20200616T194004Z">
         <seg>En efecto, aunque en el libro *Sobre el cielo y el mundo* se dice que los cuerpos simples, teniendo un movimiento recto son redondos por accidente, esto, a saber, porque están localizados en lo redondo, sin embargo esto no es verdadero respecto a los compuestos, que difieren por sus disposiciones propias según la naturaleza así como difieren por sus propias especies; y por esto, lo que es en tales cuerpos la causa de la disposición es en primer lugar la causa de la especie de este o de otro modo de la disposición*. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>licet libri eorum non integri, sed per partes ad nos venerint.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002343Z" creationid="nivaca" creationdate="20201003T002343Z">
+        <seg>aunque sus libros sobre estas cosas, no completos, sino por partes a nosotros han llegado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3066,6 +3122,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201003T001509Z" creationid="nivaca" creationdate="20201003T001509Z">
         <seg>porque cuando el motor primero da abundantemente su nobleza a todo aquello que se forma para ser, sin duda no da abundantemente el ser o la forma a lo más distante sino a través de aquello que le es más cercano;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>quia licet ex his sciatur situs climatum, non tamen per eadem sufficienter scitur natura locorum et diversitas complexionis eorum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002251Z" creationid="nivaca" creationdate="20201003T002251Z">
+        <seg>porque aunque se conozca a partir de estas cosas la posición de los climas, no sin embargo por estas cosas se conoce suficientemente la naturaleza de los lugares y la diversidad de la complexión de los mismos.</seg>
       </tuv>
     </tu>
     <tu>

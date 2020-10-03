@@ -111,6 +111,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Amplius autem figura continens est esse et speciem in omnibus generans:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002608Z" creationid="nivaca" creationdate="20201003T002608Z">
+        <seg>Sin embargo, la configuración es lo que sigue el ser y la especie en todas las cosas generadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Amplius autem figura continens est esse et speciem in omnibus generans: qualiter igitur intelligi potest, quod locus operetur ad id quod est consequens, et nihil conferat ad antecedens?</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T193737Z" creationid="mateovo2" creationdate="20200616T193737Z">
@@ -365,6 +373,14 @@
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200619T211431Z" creationid="nivaca" creationdate="20200610T233355Z">
         <seg>No obstante, puesto que hay casi veinticuatro grados entre el equinoccial y cada trópico, quedaría una región habitable de veinticuatro grados cerca del trópico hasta el polo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Cum enim a caelo sit omnis virtus factiva et operativa, nec derivetur haec virtus in extremum nisi per medium:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002517Z" creationid="nivaca" creationdate="20201003T002517Z">
+        <seg>puesto que, en efecto, del cielo toda fuerza es generativa y operativa y no se deriva esta fuerza en el extremo sino por el medio</seg>
       </tuv>
     </tu>
     <tu>
@@ -930,8 +946,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Et horum errorem facile est refellere per ea quae dicta sunt.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200616T192204Z" creationid="mateovo2" creationdate="20200616T192204Z">
-        <seg>De esto es fácil refutar un error mediante esas cosas que fueron dichas antes;  </seg>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002503Z" creationid="mateovo2" creationdate="20200616T192204Z">
+        <seg>De esto es fácil refutar un error mediante esas cosas que fueron dichas antes; </seg>
       </tuv>
     </tu>
     <tu>
@@ -1643,8 +1659,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>In prima enim ostendemus omnes diversitates ex orbe procedere in omnem loci differentiam.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200616T200251Z" creationid="mateovo2" creationdate="20200616T200251Z">
-        <seg>en la primera mostrando que todas las diversidades proceden a partir del orbe en relación con toda diferencia del lugar,  </seg>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002720Z" creationid="mateovo2" creationdate="20200616T200251Z">
+        <seg>En la primera mostrando que todas las diversidades proceden a partir del orbe en relación con toda diferencia del lugar, </seg>
       </tuv>
     </tu>
     <tu>
@@ -2981,6 +2997,22 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>eo quod est extrinsecum ambiens undique terminans, et tangens figuram locati:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002429Z" creationid="nivaca" creationdate="20201003T002429Z">
+        <seg>puesto que lo circundante es extrínseco, limitante por todas partes y tocante a la figura de lo localizado,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>eo quod non operatur nisi ad accidens rei naturalis, et non per modum naturae quae est intrinsecum principium, sed, sicut dicunt, extrinsecus et per accidens continendo.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002459Z" creationid="nivaca" creationdate="20201003T002459Z">
+        <seg>y por esta razón dicen que no es conveniente tratar la ciencia de la diversidad de los lugares solamente en el libro de la ciencia natural, porque no opera sino frente al accidente de la cosa natural y no por el modo de la naturaleza, la cual es principio intrínseco, pero, según dicen, es extrínseco y contenido por accidente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>eo quod omnis motus physicus rectus est per indigentiam, cum omnino sit sequestratus ab omni indigentia privationis et materiae, oportet ipsum esse in ratione alicujus divini et optimi, ad quod et propter quod est motus, et in quo accipitur esse rei et salus ejusdem.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201003T001627Z" creationid="nivaca" creationdate="20201003T001627Z">
@@ -3025,6 +3057,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201003T001149Z" creationid="nivaca" creationdate="20201003T001149Z">
         <seg>y por esto el principio de la formación de los inferiores les fluye de los superiores, así como de los principios activos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et ideo quod est in talibus causa figurae, est per prius causa [C3a] speciei sic vel aliter figuratae.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002714Z" creationid="nivaca" creationdate="20201003T002714Z">
+        <seg>y por esto, lo que es en tales cuerpos la causa de la disposición es en primer lugar la causa de la especie de este o de otro modo de la disposición*.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3076,6 +3116,14 @@ Hacer notas!</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="la">
+        <seg>licet enim in libro de Caelo et Mundo dictum sit, "simplicia corpora habentia motum rectum esse rotunda per accidens, eo scilicet quod locantur in rotundo:" tamen hoc non est verum in compositis quae secundum naturam differunt propriis figuris, sicut differunt propriis speciebus:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002642Z" creationid="nivaca" creationdate="20201003T002642Z">
+        <seg>Pues aunque en el libro *Sobre el cielo y el mundo* se dice que los cuerpos simples, teniendo un movimiento recto son redondos por accidente, esto, a saber, porque están localizados en lo redondo, sin embargo esto no es verdadero respecto a los compuestos, que difieren por sus disposiciones propias según la naturaleza así como difieren por sus propias especies;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Acá estamos traduciendo "figuratae" por "disposición". Estábamos siempre traduciendo "habitudo" y "dispositio" por disposición...</note>
       <tuv lang="la">
         <seg>licet enim in libro de Caelo et Mundo dictum sit, "simplicia corpora habentia motum rectum esse rotunda per accidens, eo scilicet quod locantur in rotundo:" tamen hoc non est verum in compositis quae secundum naturam differunt propriis figuris, sicut differunt propriis speciebus: et ideo quod est in talibus causa figurae, est per prius causa [C3a] speciei sic vel aliter figuratae.</seg>
@@ -3102,6 +3150,22 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>locus igitur ad esse operatur.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002558Z" creationid="nivaca" creationdate="20201003T002558Z">
+        <seg>Por lo tanto, el lugar es operativo frente al ser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>medium autem est corpus locans, sicut ostendimus supra:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002529Z" creationid="nivaca" creationdate="20201003T002529Z">
+        <seg>---el medio, sin embargo, es un cuerpo que localiza, así como lo mostramos más arriba---,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>nec umquam ante valet cibus operationem suam perficere proprie, nisi sit perfecte virtutem membri ad quod movetur, adeptus, cujus perfectionis principium est membrum.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201003T001431Z" creationid="nivaca" creationdate="20201003T001431Z">
@@ -3110,10 +3174,26 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>oportet quod virtus rei faciens et terminans sit in loco:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002543Z" creationid="nivaca" creationdate="20201003T002543Z">
+        <seg>es preciso que la fuerza, ser de la cosa que hace y que limita, esté en el lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>putrescunt namque ea quae putrescunt et conservantur conservata per virtutem continentium corporum, sicut probari habet in IV Meteororum:</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201003T001302Z" creationid="nivaca" creationdate="20201003T001302Z">
         <seg>Pues se pudren las cosas que se pudren, y se conservan las cosas conservadas debido a las virtudes de los cuerpos continentes, así como se tiene demostrado en el cuarto libro de los *Metereológicos*,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>qualiter igitur intelligi potest, quod locus operetur ad id quod est consequens, et nihil conferat ad antecedens?</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002623Z" creationid="nivaca" creationdate="20201003T002623Z">
+        <seg>Por lo tanto, ¿de qué manera puede ser comprendido que el lugar es operativo frente a aquello que es lo que se sigue y que nada entregue a lo antecedente?</seg>
       </tuv>
     </tu>
     <tu>

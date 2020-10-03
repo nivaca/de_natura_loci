@@ -1209,6 +1209,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Et sicut non sufficit determinare naturam animalis in communi, et secundum genus, nisi sciantur etiam animalium diversitates in generatione, cibo, et moribus:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002120Z" creationid="nivaca" creationdate="20201003T002120Z">
+        <seg>Y así como no es suficiente delimitar la naturaleza animal en lo común según el género, si no se conoce también la diversidad de los animales en la generación y en el alimento y las costumbres,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Et sicut non sufficit determinare naturam animalis in communi, et secundum genus, nisi sciantur etiam animalium diversitates in generatione, cibo, et moribus: ita non sufficit universaliter tradere de loco nisi tradatur diversitas locorum, et innotescant accidentia diversorum locorum, et causa accidentium.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T184814Z" creationid="mateovo2" creationdate="20200616T184814Z">
@@ -1254,6 +1262,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T220941Z" creationid="andrealozanov" creationdate="20200611T220941Z">
         <seg>Ahora bien, a partir de todos los razonamientos de esta clase es evidente que es verdadera la sentencia que tres filósofos presentan conjuntamente, a saber, Avicena, Averroes y Moisés el Egipcio: que el lugar bajo una distancia determinada al cielo causa las formas de los elementos y por esa razón los elementos determinados son movidos a tal determinada distancia del lugar bajo el orbe, a causa de la connaturalidad*** del lugar y de lo localizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Ex omnibus his igitur satis liquet, [B529a] quod oportet scire naturam loci, nec sufficit tractatus qui in Physicis habitus est de ipso, eo quod ille non nisi universaliter certificat de ipso:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002018Z" creationid="nivaca" creationdate="20201003T002018Z">
+        <seg>A partir de todo esto, por lo tanto, es suficientemente evidente por estas cosas que conviene conocer la naturaleza del lugar, y no es suficiente lo tratado que se hizo sobre esto en la *Física*, por lo que esto no dice verdad sobre el lugar sino universalmente,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1597,6 +1613,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201001T212020Z" creationid="mateovo2" creationdate="20201001T212020Z">
         <seg>Sin embargo, en todos estos lugares son dichos que habitan simultáneamente según los sentidos [los habitantes simultáneos], de los cuales, según los sentidos, hay una sola propiedad del lugar en lo cálido y lo frío y lo húmedo y lo seco a partir de la misma latitud del lugar sensible, y, según el tiempo, para ellos el orto y el ocaso del sol es sensiblemente uno solo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>In omnibus enim his inclinatio naturalis invenitur ad locum, qua in loca propria ferantur non prohibita:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T001911Z" creationid="nivaca" creationdate="20201003T001820Z">
+        <seg>En efecto, de esta manera en todas las cosas se encuentra una inclinación natural hacia el lugar, por la cual las cosas no retenidas son llevadas hacia sus lugares propios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3050,6 +3074,30 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201003T001214Z" creationid="nivaca" creationdate="20201003T001214Z">
         <seg>que toda transmutación de lo contenido sucede por lo continente;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>quod probatur etiam, quia, sicut in Physicis dictum est, non indigent motore ad ipsum locum nisi accidentali, quod scilicet removet obstaculum quod retinet locatum infra terminos alienos, et suae naturae non congruos.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002011Z" creationid="nivaca" creationdate="20201003T002011Z">
+        <seg>Por lo que incluso, así como se dice en la *Física*, no requieren de un motor hacia el lugar mismo salvo accidentalmente; motor que, a saber, remueve el obstáculo que detiene lo localizado bajo límites ajenos y que no son acordes a su naturaleza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>sed oportet nos scire diversitates locorum in particulari, et causas diversitatis ipsorum, et accidentia diversorum locorum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002035Z" creationid="nivaca" creationdate="20201003T002035Z">
+        <seg>y es preciso que nosotros conozcamos en particular las diversidades de los lugares y la causa de su diversidad y los accidentes de los diversos lugares;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>tunc enim perfecte sciemus ea quae generantur et corrumpuntur in locis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T002049Z" creationid="nivaca" creationdate="20201003T002049Z">
+        <seg>entonces, en efecto, conoceremos perfectamente incluso las cosas que se generan y que se corrompen en los lugares.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

@@ -715,6 +715,14 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Duas autem suppositas regiones inhabitabiles esse dicunt propter frigus:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T165732Z" creationid="mateovo2" creationdate="20201003T165732Z">
+        <seg>Ahora bien, dicen que hay dos regiones situadas bajo el polo que de un lado y otro son inhabitables por el frío,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Duas autem suppositas regiones inhabitabiles esse dicunt propter frigus: eo quod nimis elongatae sunt a via solis ad quas radii solis non veniunt nisi oblique valde, et non faciunt angulum in ipsa nisi hebetem et obtusum valde: vel forte contingunt loca illa [C10a] tantum: et ideo nullius effectus vel parvi valde effectus sunt in locis illis: et ideo mortificans frigus est in locis illis, et humorum locorum illorum congelationes commisceri non possunt ad complexionem vivi alicujus constituendam.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200612T223200Z" creationid="nivaca" creationdate="20200610T233207Z">
@@ -883,6 +891,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201002T225644Z" creationid="mateovo2" creationdate="20201001T211710Z">
         <seg>Ahora bien, se ha de saber que, en aquellas dimensiones de la tierra, ciertos son nombrados por los filósofos “habitantes simultáneos” y algunos son llamados “habitantes del mismo círculo”, y, sin embargo, otros según la coalternación, pero otros opuestamente. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Est autem tractatio Pythagorae et Homeri et praeter eos omnium qui in Aegypto philosophati sunt, sed et apud Latinos Ovidii et multorum aliorum, terram totam dividi in quinque zonas caeli, quarum tres ponunt inhabitabiles, et duas tantum habitabiles esse voluerunt, quarum mediam vocant perustam sive torridam:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T165630Z" creationid="mateovo2" creationdate="20201003T165630Z">
+        <seg>Ahora bien, es legado de Pitágoras y Homero y, después de ellos, de todos los que en Egipto han filosofado, pero también, entre los latinos, de Ovidio y de muchos otros, que toda la tierra se divide en cinco zonas según las cinco zonas del cielo, de estas afirman que tres son inhabitables y determinaron que tan solo dos son habitables, de las cuales la zona media llaman “quemada” o "tórrida".</seg>
       </tuv>
     </tu>
     <tu>
@@ -2119,6 +2135,14 @@ Ser lo mismo según la definición (ratio) vs. ser lo mismo según el sujeto de 
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Locum autem ex mari inhabitabilem dicunt:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T165716Z" creationid="mateovo2" creationdate="20201003T165716Z">
+        <seg>Ahora bien, dicen que el lugar es inhabitable a partir del mar,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Locum autem ex mari inhabitabilem dicunt: quia reflexio radii in se refricati et clarissimi fit ad littora per circuitum talis maris, quae reflexio multiplicat calorem in littore, et incendit littus, et facit ipsum habitationi non congruum.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200612T215915Z" creationid="nivaca" creationdate="20200610T233107Z">
@@ -2503,6 +2527,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T185008Z" creationid="mateovo2" creationdate="20200616T184901Z">
         <seg>Por lo que los que tratan la ciencia natural y que no enseñan a nadie sobre la diversidad de los lugares pecan y buscan consuelo de su ignorancia, si dicen que no conviene preguntarse sobre esto mismo;  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Propter quod venti venientes a nostro polo frigidi sunt valde et sicci:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T165847Z" creationid="mateovo2" creationdate="20201003T165847Z">
+        <seg>Por lo que también los vientos que vienen de nuestro polo son muy fríos y secos,</seg>
       </tuv>
     </tu>
     <tu>
@@ -3529,6 +3561,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>declinat enim sol versus Aquilonem versus tropicum aestivalem fere per viginti quatuor gradus, et per tantumdem declinat ad Meridiem versus tropicum [B539a] hyemalem.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T165648Z" creationid="mateovo2" creationdate="20201003T165648Z">
+        <seg>pues el sol declina hacia el Aquilón (el Norte) [nororiente] en dirección al trópico estival (Trópico de Cáncer) casi por veinticuatro grados y declina, en igual medida, hacia el meridiano en dirección al trópico de invernal (Trópico de Capricornio).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>dissolveret enim omne compositum:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T163150Z" creationid="mateovo2" creationdate="20201003T163150Z">
@@ -3573,6 +3613,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T025845Z" creationid="mateovo2" creationdate="20201003T025833Z">
         <seg>que, hablando figurativamente, llaman la base del luga.r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>eo quod nimis elongatae sunt a via solis ad quas radii solis non veniunt nisi oblique valde, et non faciunt angulum in ipsa nisi hebetem et obtusum valde:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T165807Z" creationid="mateovo2" creationdate="20201003T165807Z">
+        <seg>por el hecho de que están excesivamente alejadas de la vía del sol, a las que los rayos del sol no llegan salvo de manera muy oblicua y cada rayo solo produce un ángulo con respecto a sí mismo muy abierto y obtuso</seg>
       </tuv>
     </tu>
     <tu>
@@ -3713,6 +3761,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et hanc dicunt esse partem terrae quae supponitur spatio quadraginta octo graduum fere quod est inter duos tropicos, inter quos est via solis:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T165637Z" creationid="mateovo2" creationdate="20201003T165637Z">
+        <seg>Y dicen que es esta la parte de la tierra que está situada bajo un espacio de casi cuarenta y ocho grados, que está entre los dos trópicos, entre los cuales está la vía del sol;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et hoc contingit ideo quod elementa parum distant a materia:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T165249Z" creationid="mateovo2" creationdate="20201003T165238Z">
@@ -3849,10 +3905,26 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et ideo mortificans frigus est in locis illis, et humorum locorum illorum congelationes commisceri non possunt ad complexionem vivi alicujus constituendam.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T165834Z" creationid="mateovo2" creationdate="20201003T165834Z">
+        <seg>y por eso el frío es mortífero en aquellos lugares y los humores de aquellos lugares, por la congelación de ellos mismos, no se pueden mezclar para constituir la complexión de algún ser vivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et ideo non oportere tradere dicunt scientiam diversitatis locorum in speciali scientiae naturalis:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020542Z" creationid="nivaca" creationdate="20201003T002943Z">
         <seg>y por esto dicen que no es preciso tratar la ciencia de la diferencia de los lugares solamente en el libro de la ciencia natural, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et ideo nullius effectus vel parvi valde effectus sunt in locis illis:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T165821Z" creationid="mateovo2" creationdate="20201003T165821Z">
+        <seg>Y por eso no tienen ningún efecto o uno muy pequeño en aquellos lugares,</seg>
       </tuv>
     </tu>
     <tu>
@@ -4427,6 +4499,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>quia reflexio radii in se refricati et clarissimi fit ad littora per circuitum talis maris, quae reflexio multiplicat calorem in littore, et incendit littus, et facit ipsum habitationi non congruum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T165721Z" creationid="mateovo2" creationdate="20201003T165721Z">
+        <seg>porque la reflexión del rayo que se refracta en sí, y que es muy cálido sucede frente a los litorales por estar rodeado de este tipo de mar, esta reflexión multiplica el calor en el litoral e incendia el litoral y lo hace inconveniente para la habitación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>quia secundum quod locus ignis et terrae contrarii accipiuntur, sunt extrema in quae sunt motus contrarii, et alteri horum extremorum accidit quod sit medium, per hoc quod ipsum est medium mundi et non medium motus.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T024538Z" creationid="mateovo2" creationdate="20201003T024538Z">
@@ -4591,6 +4671,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T014641Z" creationid="mateovo2" creationdate="20201003T014641Z">
         <seg>De donde, aunque incluso las formas separadas de tales cuerpos sean substancias, según los peripatéticos, no se debe a ellas un lugar determinado según la naturaleza de su esencia, así como se debe a las formas de los otros cuerpos,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>vel forte contingunt loca illa [C10a] tantum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T165812Z" creationid="mateovo2" creationdate="20201003T165812Z">
+        <seg>y si acaso solamente tocan aquellos lugares.</seg>
       </tuv>
     </tu>
     <tu>

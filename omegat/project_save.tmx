@@ -823,6 +823,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Est autem perfectissimus omnium motuum motus localis, ut probatum est Physicis et in Caelo et Mundo:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T025648Z" creationid="mateovo2" creationdate="20201003T025648Z">
+        <seg>Sin embargo, el movimiento local es el más perfecto de todos los movimientos, como fue demostrado en la *Física* y en *Sobre el cielo y el mundo-.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Est autem perfectissimus omnium motuum motus localis, ut probatum est Physicis et in Caelo et Mundo: quare propter ipsum oportet esse aliquid divinissimum et optimum secundum naturam rei.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T221035Z" creationid="andrealozanov" creationdate="20200611T221035Z">
@@ -3174,6 +3182,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Virtus autem causandi quae huic vel illi loco a caelo infunditur, divina est et optima, quia aliter non esset motus ad locum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T025624Z" creationid="mateovo2" creationdate="20201003T025624Z">
+        <seg>Sin embargo, la virtud de causar, que es infundida por el cielo en este o en aquel lugar, es divina y óptima, porque de otra forma no existiría el movimiento hacia el lugar;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Virtus autem causandi quae huic vel illi loco a caelo infunditur, divina est et optima, quia aliter non esset motus ad locum: non enim motus est ad aliquid, nisi illud sit in ratione divini alicujus et optimi.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T220944Z" creationid="andrealozanov" creationdate="20200611T220944Z">
@@ -3547,8 +3563,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>et ideo elementa moventur determinata ad talem determinatam distantiam loci sub orbe propter loci et locati contrarietatem.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201003T025607Z" creationid="mateovo2" creationdate="20201003T025554Z">
-        <seg>y por eso los elementos determinados son movidos a tal determinada distancia del lugar bajo el orbe, a causa de la connaturalidad*** del lugar y de lo localizado</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T025622Z" creationid="mateovo2" creationdate="20201003T025554Z">
+        <seg>y por eso los elementos determinados son movidos a tal determinada distancia del lugar bajo el orbe, a causa de la connaturalidad*** del lugar y de lo localizado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3870,6 +3886,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T022707Z" creationid="mateovo2" creationdate="20201003T022707Z">
         <seg>y no vemos nada que pueda inclinarlo para abajo por violencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>non enim motus est ad aliquid, nisi illud sit in ratione divini alicujus et optimi.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T025631Z" creationid="mateovo2" creationdate="20201003T025631Z">
+        <seg>pues no hay movimiento a algo, a no ser que aquello esté en razón de algo divino y óptimo.</seg>
       </tuv>
     </tu>
     <tu>

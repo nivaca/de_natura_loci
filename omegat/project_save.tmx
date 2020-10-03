@@ -691,6 +691,14 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Dicunt etiam constare per speculum concavum, cui si radius incidat perpendiculariter, elicitur ignis:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170353Z" creationid="mateovo2" creationdate="20201003T170353Z">
+        <seg>Dicen también que consta que el reflejo de los rayos producido perpendicularmente sobre el agua de aquel mar vuelve incendiada y quemada toda su habitación,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Dicunt etiam constare per speculum concavum, cui si radius incidat perpendiculariter, elicitur ignis: quia reflexio radiorum super aquam maris perpendiculariter facta habitationem reddit ignitam et combustam.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200626T210012Z" creationid="nivaca@fastmail.com" creationdate="20200305T172415Z">
@@ -743,6 +751,14 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200612T223200Z" creationid="nivaca" creationdate="20200610T233207Z">
         <seg>Ahora bien, dicen que hay dos regiones situadas bajo el polo que de un lado y otro son inhabitables por el frío, en razón de que están excesivamente alejadas de la vía del sol, a las que los rayos del sol no llegan salvo de manera muy oblicua y cada rayo solo produce un ángulo con respecto a sí mismo muy abierto y obtuso y si acaso solamente tocan aquellos lugares. Y por esto no tienen ningún efecto o uno muy pequeño en aquellos lugares, y por esto el frío es mortífero en aquellos lugares y los humores*de aquellos lugares, por la congelación de ellos mismos, no se pueden mezclar para constituir la complexión de algún ser vivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Duo ergo calidissima loca sunt quae sunt sub tropicis duobus:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170255Z" creationid="mateovo2" creationdate="20201003T170255Z">
+        <seg>Por lo tanto, los dos lugares más cálidos son los que están bajo los dos trópicos, </seg>
       </tuv>
     </tu>
     <tu>
@@ -3065,6 +3081,14 @@ Hacer notas!</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="la">
+        <seg>Sic igitur nec locus qui est sub aequinoctiali, est temperatus:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170311Z" creationid="mateovo2" creationdate="20201003T170311Z">
+        <seg>Así, por lo tanto, el lugar que está bajo el [círculo] equinoccial (= el ecuador) tampoco será temperado,</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>De causis (Ps-Arist.), l. I, tr. 1, c.4.</note>
       <tuv lang="la">
         <seg>Sic igitur nec locus qui est sub aequinoctiali, est temperatus: et sic totum spatium quod est inter duos tropicos, est combustum et intemperatum, et habitationi contrarium sive incongruum: quia sicut dicit Aristoteles in libro de Causis proprietatum elementorum, et nos infra explanabimus, radix habitationis est aequalitas et temperamentum.</seg>
@@ -3176,6 +3200,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200619T195630Z" creationid="mateovo2" creationdate="20200619T195630Z">
         <seg>en efecto, el cuerpo simple tiene localización en la concavidad simple del cuerpo, en la que se da su generación y hacia la que se da su movimiento, y de la que, si es movido, se apresurará a la corrupción, así como establecimos en los *Físicos*.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sol ergo quando vadit in gradibus quadraginta dictis, quasi stare videtur in eodem loco, et statu suo continuo exurere terrae habitationem:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170218Z" creationid="mateovo2" creationdate="20201003T170218Z">
+        <seg>El sol, por lo tanto, cuando va en los dichos cuarenta grados, parece como si estuviera en el mismo lugar, y en su estado continuo quema la habitación de la tierra,</seg>
       </tuv>
     </tu>
     <tu>
@@ -3505,6 +3537,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>[C11a] Adducunt etiam quartam ex probabilibus conjecturis objicientes, et dicunt quod nos invenimus loca illa, quorum declinatio est parva a tropico aestivo valde calida in aestate, et quasi intolerabilis caloris:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170427Z" creationid="mateovo2" creationdate="20201003T170427Z">
+        <seg>En cuarto lugar, a partir de conjeturas probables añaden también quienes objetan diciendo que encontramos aquellos lugares cuya inclinación desde el trópico estival es pequeña muy cálidos en el verano y de calor casi intolerable,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>[C11a] Adducunt etiam quartam ex probabilibus conjecturis objicientes, et dicunt quod nos invenimus loca illa, quorum declinatio est parva a tropico aestivo valde calida in aestate, et quasi intolerabilis caloris: et hyems illorum locorum est temperata non habens gelu, sicut sunt loca tertii climatis, cujus latitudo est graduum triginta.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200626T211726Z" creationid="nivaca" creationdate="20200610T234430Z">
@@ -3618,6 +3658,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>eo quod circulus signorum ibi ascendit ab punctum tropici, et descendit ab eodem.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170208Z" creationid="mateovo2" creationdate="20201003T170208Z">
+        <seg>por el hecho de que el círculo de los signos [zodiacales] allí asciende hasta el punto del trópico y desciende desde él mismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>eo quod est extrinsecum ambiens undique terminans, et tangens figuram locati:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020540Z" creationid="nivaca" creationdate="20201003T002429Z">
@@ -3694,6 +3742,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T022706Z" creationid="mateovo2" creationdate="20201003T022706Z">
         <seg>por el hecho de que su lugar es superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>eo quod sicut una columna radiorum suorum perpendicularitate incidit terrae et exurit eam:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170235Z" creationid="mateovo2" creationdate="20201003T170235Z">
+        <seg>debido a que así como una sola columna de sus rayos cae continua y perpendicularmente sobre la tierra y la quema,</seg>
       </tuv>
     </tu>
     <tu>
@@ -3846,6 +3902,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T025228Z" creationid="mateovo2" creationdate="20201003T025228Z">
         <seg>Y esto se explicará más adelante por medio de lo manifestado en el segundo libro de *Sobre la generación y la corrupción* y en el libro de los *Meteorológicos*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et hyems illorum locorum est temperata non habens gelu, sicut sunt loca tertii climatis, cujus latitudo est graduum triginta.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170443Z" creationid="mateovo2" creationdate="20201003T170443Z">
+        <seg>y que el invierno de aquellos lugares, carente de hielo, es templado, tal y como son los lugares del tercer clima cuya latitud es de 30 grados y su día más largo de 14 horas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4142,6 +4206,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020341Z" creationid="nivaca" creationdate="20201003T001528Z">
         <seg>y así a través del lugar continente se dan abundantemente el ser y la forma a lo localizado. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et sic totum spatium quod est inter duos tropicos, est combustum et intemperatum, et habitationi contrarium sive incongruum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170315Z" creationid="mateovo2" creationdate="20201003T170315Z">
+        <seg>y así todo el espacio que está entre los dos trópicos está quemado e intemperado, y es inapropiado para la habitación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4596,10 +4668,26 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>quia reflexio radiorum super aquam maris perpendiculariter facta habitationem reddit ignitam et combustam.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170410Z" creationid="mateovo2" creationdate="20201003T170410Z">
+        <seg>por el espejo cóncavo, en el cual, si un rayo le cae perpendicularmente, se produce el fuego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>quia secundum quod locus ignis et terrae contrarii accipiuntur, sunt extrema in quae sunt motus contrarii, et alteri horum extremorum accidit quod sit medium, per hoc quod ipsum est medium mundi et non medium motus.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T024538Z" creationid="mateovo2" creationdate="20201003T024538Z">
         <seg>puesto que en la medida en que el lugar del fuego y de la tierra son entendidos como contrarios, son los extremos entre los que se dan los movimientos contrarios, y al otro de estos extremos le sucede que es el medio porque este mismo es el medio del mundo y no el medio del movimiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>quia sicut dicit Aristoteles in libro de Causis proprietatum elementorum, et nos infra explanabimus, radix habitationis est aequalitas et temperamentum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170329Z" creationid="mateovo2" creationdate="20201003T170329Z">
+        <seg>Porque así como dice Aristóteles en el *Libro sobre las causas de las propiedades de los elementos*, y como nosotros explicaremos abajo, el fundamento de la habitación es la justa proporción y el temperamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4692,6 +4780,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>reddit igitur eam inhabitabilem.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170237Z" creationid="mateovo2" creationdate="20201003T170237Z">
+        <seg>así por lo tanto la vuelve inhabitable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>remaneret ergo habitabi-[B539b]-lis circa tropicum versus polum viginti quatuor graduum:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T170055Z" creationid="mateovo2" creationdate="20201003T170055Z">
@@ -4704,6 +4800,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T165311Z" creationid="mateovo2" creationdate="20201003T165311Z">
         <seg>Pero los compuestos de elementos tienen sus materias casi dominadas y determinadas por sus formas, y, por eso, resisten más a las cosas que actúan produciendo cambios en ellos;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>sed inter duo calidissima non est temperatum medium.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170302Z" creationid="mateovo2" creationdate="20201003T170302Z">
+        <seg>pero entre los dos más cálidos no hay un medio temperado.</seg>
       </tuv>
     </tu>
     <tu>

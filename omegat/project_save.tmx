@@ -555,6 +555,14 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Cum igitur viae planetarum sint inter duos tropicos, erit ibi fortior vis stellarum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170931Z" creationid="mateovo2" creationdate="20201003T170931Z">
+        <seg>Por lo tanto, ya que las vías de los planetas están entre los dos trópicos, allí será más fuerte la fuerza de las estrellas;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Cum igitur viae planetarum sint inter duos tropicos, erit ibi fortior vis stellarum: vis autem stellarum est in generatione: ergo erit in locis illis potissime generatio: non potest autem esse generatio nisi in loco habitationis generatorum: oportet igitur ibi esse habitationem congruam generatis.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200703T210136Z" creationid="nivaca" creationdate="20200610T235012Z">
@@ -1766,6 +1774,15 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T215210Z" creationid="andrealozanov" creationdate="20200611T215210Z">
         <seg>No obstante, esto es un error, así como lo mostramos en Del cielo y el mundo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Hic autem inducunt etiam ea quae de imaginibus dicta inveniuntur:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T171005Z" creationid="mateovo2" creationdate="20201003T171005Z">
+        <seg>Eso también lo indica lo que se encuentra dicho sobre las imagines;
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -3024,6 +3041,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Sed sub aequinoctiali qui est sub medio regionis illius, quae torrida vocatur, et continua et delectabilis est habitatio:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T171044Z" creationid="mateovo2" creationdate="20201003T171044Z">
+        <seg>Sin embargo bajo el ecuador, que está en medio de aquella región que es llamada "tórrida", la habitación es continua y placentera </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Sed sub aequinoctiali qui est sub medio regionis illius, quae torrida vocatur, et continua et delectabilis est habitatio: quia licet radius solis bis in anno ibi reflectatur in seipsum, eo quod illi loco perpendiculariter incidit, non tamen diu figitur in eodem loco: quare circulus solis ibi est extensus, et quasi recte recedit ab aequinoctiali, nec [C12a] rursum accedit ad ipsum nisi interpositis quatuor signis ad minus: et ideo calor accessus ejus non figitur circa locum unum, et ideo nullum locum incendit: et intervenit magnum tempus inter calorem solis quem facit accedendo, et eum quem facit in secundo accessu: propter quod unus calor alium in loco non invenit: et ideo calor ibi non multiplicatur.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200703T220145Z" creationid="nivaca" creationdate="20200610T235116Z">
@@ -3842,6 +3867,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>ergo erit in locis illis potissime generatio:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170949Z" creationid="mateovo2" creationdate="20201003T170949Z">
+        <seg>por lo tanto, la generación se dará especialmente en esos lugares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>ergo in medio accessu et recessu loca illa erunt temperata, et sic habitationi congrua.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T170922Z" creationid="mateovo2" creationdate="20201003T170922Z">
@@ -4044,6 +4077,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et ideo calor accessus ejus non figitur circa locum unum, et ideo nullum locum incendit:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T171219Z" creationid="mateovo2" creationdate="20201003T171219Z">
+        <seg>y por eso el calor de su aproximación no se fija alrededor de un solo lugar, y por eso no incendia ningún lugar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et ideo concavum orbis ultimi proprius locus est eisdem.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T022334Z" creationid="mateovo2" creationdate="20201003T022334Z">
@@ -4208,6 +4249,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020621Z" creationid="nivaca" creationdate="20201003T002714Z">
         <seg>y por esto, lo que es en tales cuerpos la causa de la disposición es en primer lugar la causa de la especie de este o de otro modo de la disposición*. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et intervenit magnum tempus inter calorem solis quem facit accedendo, et eum quem facit in secundo accessu:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T171224Z" creationid="mateovo2" creationdate="20201003T171224Z">
+        <seg>y pasa un tiempo largo entre el calor del sol que produce al aproximarse y el que produce en su segunda aproximación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4408,6 +4457,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T025108Z" creationid="mateovo2" creationdate="20201003T025108Z">
         <seg>pues esta distancia causa calidez y frigidez y humedad y sequedad, que son las virtudes naturales de los elementos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>haec enim maxime perfecta sunt in viis planetarum, in locis scilicet quae directe et perpendiculariter respiciunt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T171014Z" creationid="mateovo2" creationdate="20201003T171014Z">
+        <seg>pues estas están completas perfectamente en las vías de los planetas, a saber en los lugares que miran directa y perpendicularmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4621,6 +4678,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>non potest autem esse generatio nisi in loco habitationis generatorum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170954Z" creationid="mateovo2" creationdate="20201003T170954Z">
+        <seg>Pero, no puede haber generación, si no es en el lugar de la habitación de lo generado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>nullum autem corpus locus est tantum nisi caelum, sicut patet ex dictis:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T030429Z" creationid="mateovo2" creationdate="20201003T030429Z">
@@ -4633,6 +4698,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T014029Z" creationid="mateovo2" creationdate="20201003T014029Z">
         <seg>pues todos los cuerpos, salvo el primer cuerpo, tienen fuera de sí algún cuerpo circundante dentro del cual se circunscribe su magnitud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>oportet igitur ibi esse habitationem congruam generatis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T171001Z" creationid="mateovo2" creationdate="20201003T171001Z">
+        <seg>Por lo tanto, es preciso que allí esté la habitación adecuada para lo generado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4709,6 +4782,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>propter quod unus calor alium in loco non invenit:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T171242Z" creationid="mateovo2" creationdate="20201003T171242Z">
+        <seg>Por lo que un calor no se halla en el mismo lugar que el otro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>propter quod videtur concavum ignis in modo elementali non aerem debere producere, sed ignem:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T024936Z" creationid="mateovo2" creationdate="20201003T024936Z">
@@ -4746,6 +4827,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020611Z" creationid="nivaca" creationdate="20201003T002623Z">
         <seg>Por lo tanto, ¿de qué manera puede ser comprendido que el lugar es operativo frente a aquello que es lo que se sigue y que nada entregue a lo antecedente? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>quare circulus solis ibi est extensus, et quasi recte recedit ab aequinoctiali, nec [C12a] rursum accedit ad ipsum nisi interpositis quatuor signis ad minus:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T171059Z" creationid="mateovo2" creationdate="20201003T171059Z">
+        <seg>sin embargo no está fijo en el mismo lugar mucho tiempo porque la órbita del sol allí es extensa, retrocede casi rectamente desde el ecuador y no se aproxima de nuevo excepto después de pasar por cuatro signos por lo menos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4810,6 +4899,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020507Z" creationid="nivaca" creationdate="20201003T002251Z">
         <seg>porque aunque se conozca a partir de estas cosas la posición de los climas, no sin embargo por estas cosas se conoce suficientemente la naturaleza de los lugares y la diversidad de la complexión de los mismos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>quia licet radius solis bis in anno ibi reflectatur in seipsum, eo quod illi loco perpendiculariter incidit, non tamen diu figitur in eodem loco:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T171052Z" creationid="mateovo2" creationdate="20201003T171052Z">
+        <seg>porque aunque el rayo del sol se refleja dos veces en el año, porque cae perpendicularmente en aquel lugar;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5058,6 +5155,15 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T030010Z" creationid="mateovo2" creationdate="20201003T030010Z">
         <seg>Sin embargo, es evidente que la virtud celestial es aquella que forma la materia hacia la especie,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>vis autem stellarum est in generatione:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170935Z" creationid="mateovo2" creationdate="20201003T170935Z">
+        <seg>pero la fuerza de las estrellas se da en la generación;
+</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

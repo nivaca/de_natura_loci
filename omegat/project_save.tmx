@@ -2322,6 +2322,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Nec est verum quod inter [B541b]duo calidissima nullum sit temperatum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T171306Z" creationid="mateovo2" creationdate="20201003T171306Z">
+        <seg>Y no es cierto que entre dos lugares muy calientes no haya ningún temperamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Nec est verum quod inter [B541b]duo calidissima nullum sit temperatum: quia recessus solis causat frigus ex victoria inferiorum elementorum causatum: et ideo licet frigus non sit ibi in summo, est tamen ibi ut temperans extreme calidum.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200703T221229Z" creationid="nivaca" creationdate="20200610T235123Z">
@@ -2906,6 +2914,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20200925T231516Z" creationid="anlozan" creationdate="20200925T201554Z">
         <seg>No obstante, tal hombre debe saber que por la disposición de los astros y, especialmente, por los eclipses lunares se ha descubierto que nuestra habitación no se extiende por la circunferencia entera de la Tierra, de manera que nuestra habitación sea transitable desde el oriente hacia el occidente y por el occidente de nuevo hacia el oriente, por aquello de que el Amphitrites en una parte fluya desde el aquilón por el punto oriental y en otra parte por el punto del occidente hacia el sur.Y se llama “oriente” y “occidente” del mundo al orto y al ocaso continuados hacia el Amphitrites y la distancia desde AQUEL se llama “longitud del sitio”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sed dicendum, quod temperatissimum necesse est esse eorum locorum, qui sunt inter duos tropicos, et congruum plus complexionibus eorum qui in regione duorum primorum climatum nascuntur, nisi forte per accidens aliquis ibi locus ex motibus temperetur:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T171359Z" creationid="mateovo2" creationdate="20201003T171359Z">
+        <seg>Sino que debe decirse que es necesario que sea el más temperado de aquellos lugares que están entre los dos trópicos y que es más apropiado para las complexiones de los que nacen en la región de los dos primeros climas, a menos que tal vez por accidente allí algún lugar se tempere por las montañas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4085,6 +4101,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et ideo calor ibi non multiplicatur.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T171252Z" creationid="mateovo2" creationdate="20201003T171247Z">
+        <seg>y por eso el calor no se multiplica allí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et ideo concavum orbis ultimi proprius locus est eisdem.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T022334Z" creationid="mateovo2" creationdate="20201003T022334Z">
@@ -4161,6 +4185,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T165306Z" creationid="mateovo2" creationdate="20201003T165306Z">
         <seg>y por eso reciben muy fácilmente todas las impresiones de las cosas que actúan en ellos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et ideo licet frigus non sit ibi in summo, est tamen ibi ut temperans extreme calidum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T171337Z" creationid="mateovo2" creationdate="20201003T171337Z">
+        <seg>y por eso aunque el frío no esté allí en su punto máximo, sin embargo, está allí para temperar el calor extremo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4911,6 +4943,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>quia recessus solis causat frigus ex victoria inferiorum elementorum causatum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T171325Z" creationid="mateovo2" creationdate="20201003T171325Z">
+        <seg>porque el retroceso del sol causa un frío causado por la victoria de los elementos inferiores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>quia reflexio radii in se refricati et clarissimi fit ad littora per circuitum talis maris, quae reflexio multiplicat calorem in littore, et incendit littus, et facit ipsum habitationi non congruum.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T165721Z" creationid="mateovo2" creationdate="20201003T165721Z">
@@ -5043,6 +5083,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T170055Z" creationid="mateovo2" creationdate="20201003T170055Z">
         <seg>quedaría una región habitable de veinticuatro grados cerca del trópico hasta el polo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>sed de hoc accidente dicemus inferius.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T171403Z" creationid="mateovo2" creationdate="20201003T171403Z">
+        <seg>Pero sobre este accidente hablaremos más abajo.</seg>
       </tuv>
     </tu>
     <tu>

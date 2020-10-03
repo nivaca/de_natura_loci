@@ -4355,6 +4355,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>quae tamen per accidens ex vicinitate montium, vel situ eorum, vel ex vicinitate marium, frequenter impediuntur, et aliquando recipiunt impedimentum per artificium peritorum virorum qui noverunt situs et virtutes stellarum, et impediunt effectus:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T165514Z" creationid="mateovo2" creationdate="20201003T165514Z">
+        <seg>sin embargo, son frecuentemente impedidas por accidente, a partir ya de la proximidad de los montes ya de su sitio y a partir de la proximidad de los mares; a veces reciben el impedimento por el artificio de hombres expertos que conocieron los sitios y las virtudes de las estrellas y que impiden sus efectos,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>qualiter igitur intelligi potest, quod locus operetur ad id quod est consequens, et nihil conferat ad antecedens?</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020611Z" creationid="nivaca" creationdate="20201003T002623Z">
@@ -4439,6 +4447,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015816Z" creationid="nivaca" creationdate="20201003T001214Z">
         <seg>que toda transmutación de lo contenido sucede por lo continente; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>quia, sicut dicit Ptolemaeus in [C9b] Quadripartito, "effectus stellarum impediri possunt per sapientiam peritorum virorum in astris."</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T165533Z" creationid="mateovo2" creationdate="20201003T165533Z">
+        <seg>porque así como dice Ptolomeo en el *Tetrabiblos*, los efectos de las estrellas pueden ser impedidos y ser procurados por la sabiduría de los hombres expertos en los astros.</seg>
       </tuv>
     </tu>
     <tu>

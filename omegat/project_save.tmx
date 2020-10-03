@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="la">
+        <seg>Accidit autem eidem, quod remotissime sub alia descendit in medio terrae:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T024533Z" creationid="mateovo2" creationdate="20201003T024533Z">
+        <seg>Además, a un extremo le sucede que lo que desciende más remotamente bajo los otros está en la mitad de la tierra,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Accidit autem eidem, quod remotissime sub alia descendit in medio terrae: quia secundum quod locus ignis et terrae contrarii accipiuntur, sunt extrema in quae sunt motus contrarii, et alteri horum extremorum accidit quod sit medium, per hoc quod ipsum est medium mundi et non medium motus.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200625T171849Z" creationid="mateovo2" creationdate="20200625T171849Z">
@@ -1611,6 +1619,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
     </tu>
     <tu>
+      <tuv lang="la">
+        <seg>Hoc autem rationabiliter accidit aquae et aeri propter hoc quod non simpliciter gravia sunt elementa, neque simpliciter levia:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T024639Z" creationid="mateovo2" creationdate="20201003T024639Z">
+        <seg>Además, esto les sucede más razonablemente al agua y al aire debido a esto: no son graves de manera absoluta ni leves de manera absoluta;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Acá traducimos "convenientiam" por "conveniencia".</note>
       <tuv lang="la">
         <seg>Hoc autem rationabiliter accidit aquae et aeri propter hoc quod non simpliciter gravia sunt elementa, neque simpliciter levia: horum enim est moveri ad medium sui loci, et declinare ab extremis secundum naturae convenientiam.</seg>
@@ -1664,8 +1680,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Ignis enim tangens aerem facit ipsum aestuosum siccum, cum de natura sua aer sit calidus et humidus.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200625T172038Z" creationid="mateovo2" creationdate="20200625T172038Z">
-        <seg>en efecto, el fuego que toca el aire se hace a sí mismo cálido seco, puesto que el aire por su naturaleza es cálido y húmedo. </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T024603Z" creationid="mateovo2" creationdate="20200625T172038Z">
+        <seg>pues el fuego que toca el aire se hace a sí mismo cálido seco, puesto que el aire por su naturaleza es cálido y húmedo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1731,6 +1747,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200904T222214Z" creationid="anlozan" creationdate="20200814T205931Z">
         <seg>En efecto, en el Libro de los Meteoros diremos una vez más algo sobre esto según los sentencias de los filósofos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>In locis autem mediorum elementorum omnino dissimile est:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T024543Z" creationid="mateovo2" creationdate="20201003T024543Z">
+        <seg>Ahora bien, en los lugares de los elementos medios es completamente disímil;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3585,6 +3609,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>horum enim est moveri ad medium sui loci, et declinare ab extremis secundum naturae convenientiam.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T024650Z" creationid="mateovo2" creationdate="20201003T024650Z">
+        <seg>pues es propio de estos el moverse hacia el centro de su lugar y el declinar desde los extremos según la conveniencia* de la naturaleza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>in quo ordine universalius causans est ultimum ambiens alia.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T014915Z" creationid="mateovo2" creationdate="20201003T014847Z">
@@ -3770,6 +3802,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>quia secundum quod locus ignis et terrae contrarii accipiuntur, sunt extrema in quae sunt motus contrarii, et alteri horum extremorum accidit quod sit medium, per hoc quod ipsum est medium mundi et non medium motus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T024538Z" creationid="mateovo2" creationdate="20201003T024538Z">
+        <seg>puesto que en la medida en que el lugar del fuego y de la tierra son entendidos como contrarios, son los extremos entre los que se dan los movimientos contrarios, y al otro de estos extremos le sucede que es el medio porque este mismo es el medio del mundo y no el medio del movimiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>quia transmutatio omnis contenti est per continens:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015816Z" creationid="nivaca" creationdate="20201003T001214Z">
@@ -3862,6 +3902,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T014641Z" creationid="mateovo2" creationdate="20201003T014641Z">
         <seg>De donde, aunque incluso las formas separadas de tales cuerpos sean substancias, según los peripatéticos, no se debe a ellas un lugar determinado según la naturaleza de su esencia, así como se debe a las formas de los otros cuerpos,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>verior enim aer non est qui tangit ignem in sui loci summo, neque qui tangit aquam in infimo sui loci, sed potius qui locatur in medio spatio sui loci.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T024557Z" creationid="mateovo2" creationdate="20201003T024557Z">
+        <seg>pues no es más verdadero el aire que toca el fuego en lo más alto de su lugar ni el que toca el agua en lo más bajo de su lugar, sino más bien el que se localiza en el espacio medio de su lugar;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

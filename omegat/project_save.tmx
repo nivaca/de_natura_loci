@@ -1968,6 +1968,16 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Licet autem quaedam compositorum eleventur in aerem sicut aves, tamen ipsorum generatio et habitatio in terra est:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T164006Z" creationid="mateovo2" creationdate="20201003T163243Z">
+        <seg>Además, aunque ciertas cosas entre los compuestos se elevan en el aire, como las aves, sin embargo, su habitación y su generación es en la tierra, y de la misma manera ocurre con los peces, que nadan en el agua;
+
+descansan, en efecto, todos estos seres en la tierra, y por esto la tierra es propiamente su lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Licet autem quaedam compositorum eleventur in aerem sicut aves, tamen ipsorum generatio et habitatio in terra est: et ideo proprie terra est locus ipsorum.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T225137Z" creationid="andrealozanov" creationdate="20200611T225137Z">
@@ -3433,6 +3443,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>dissolveret enim omne compositum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T163150Z" creationid="mateovo2" creationdate="20201003T163150Z">
+        <seg>Pues disolvería todo lo compuesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>distantia autem secunda formam aquae:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T025201Z" creationid="mateovo2" creationdate="20201003T025201Z">
@@ -4110,6 +4128,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015445Z" creationid="mateovo2" creationdate="20201003T015445Z">
         <seg>Por lo que también dijimos en la *Física* que no cualquier superficie es el lugar natural para una cosa, sino aquella que es el límite del cuerpo que localiza referida según la distancia de la concavidad, en el que es propia la generación de la cosa localizada;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>propter quod etiam nihil habitat et movetur in igne, sicut in libro de Causis proprietatum elementorum ostendimus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T163212Z" creationid="mateovo2" creationdate="20201003T163212Z">
+        <seg>Por lo cual, tampoco nada habita ni se mueve en el fuego, así como mostramos en el libro *Sobre las causas de las propiedades de los elementos*.</seg>
       </tuv>
     </tu>
     <tu>

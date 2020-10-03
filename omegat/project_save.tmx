@@ -3842,10 +3842,28 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>ergo in medio accessu et recessu loca illa erunt temperata, et sic habitationi congrua.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170922Z" creationid="mateovo2" creationdate="20201003T170922Z">
+        <seg>Hay, sin embargo, un medio temperado entre lo cálido y lo frío;
+
+por lo tanto, en medio del retroceso y de la aproximación aquellos lugares serán temperados y así adecuados para la habitación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>erit igitur ibi potissime generatio et habitatio generatorum.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T170713Z" creationid="mateovo2" creationdate="20201003T170713Z">
         <seg>por lo tanto, allí se dará especialmente la habitación de lo generado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>est autem medium inter calidum et frigidum temperatum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170912Z" creationid="mateovo2" creationdate="20201003T170912Z">
+        <seg>Por lo tanto, cuando se aleja del otro trópico, su último retroceso producirá frío, y su siguiente aproximación producirá calor.</seg>
       </tuv>
     </tu>
     <tu>

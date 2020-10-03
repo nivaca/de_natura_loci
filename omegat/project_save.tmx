@@ -240,6 +240,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Causa autem haec est, quia locus et locatum connaturalia sunt:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T015348Z" creationid="mateovo2" creationdate="20201003T015348Z">
+        <seg>Pero la causa de esto es porque el lugar y lo localizado son connaturales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Causa autem haec est, quia locus et locatum connaturalia sunt: et ideo contrarietas ipsorum corrumpit: corrumpitur enim corpus compositum a continente quando fuerit ei contrarium: propter quod etiam in Physicis diximus non quamlibet superficiem esse locum rei [C4a] naturalem, sed illam quae est terminus locantis corporis relativa ad distantiam et causam, in quo propria est generatio rei locatae.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200619T200704Z" creationid="mateovo2" creationdate="20200619T200704Z">
@@ -3069,6 +3077,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>corrumpitur enim corpus compositum a continente quando fuerit ei contrarium:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T015418Z" creationid="mateovo2" creationdate="20201003T015418Z">
+        <seg>pues el contenido es corrompido por el continente puesto que le fue contrario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>dans exemplum de his animalibus, quae cadunt ab altissimo, quae ante mortua sunt quam ad terram deveniant:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015321Z" creationid="mateovo2" creationdate="20201003T015321Z">
@@ -3153,6 +3169,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T014112Z" creationid="mateovo2" creationdate="20201003T014112Z">
         <seg>y por esto para tales cosas no propiamente y según la naturaleza se tiene un lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et ideo contrarietas ipsorum corrumpit:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T015403Z" creationid="mateovo2" creationdate="20201003T015403Z">
+        <seg>y, por esto, la contrariedad de ellos corrompe;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3378,6 +3402,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015255Z" creationid="mateovo2" creationdate="20201003T015255Z">
         <seg>Por lo que egregiamente afirma Aristóteles en el libro de las *Causas de las propiedades de los elementos y el mundo o de los planetas* que si el compuesto es ocupado por el simple, se corrompe inmediatamente,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>propter quod etiam in Physicis diximus non quamlibet superficiem esse locum rei [C4a] naturalem, sed illam quae est terminus locantis corporis relativa ad distantiam et causam, in quo propria est generatio rei locatae.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T015445Z" creationid="mateovo2" creationdate="20201003T015445Z">
+        <seg>Por lo que también dijimos en la *Física* que no cualquier superficie es el lugar natural para una cosa, sino aquella que es el límite del cuerpo que localiza referida según la distancia de la concavidad, en el que es propia la generación de la cosa localizada;</seg>
       </tuv>
     </tu>
     <tu>

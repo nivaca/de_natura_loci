@@ -80,8 +80,8 @@
       <tuv lang="la">
         <seg>Alio autem modo locus dicitur concavum superficiei ad quod est motus alterius corporis.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200619T194241Z" creationid="mateovo2" creationdate="20200619T194241Z">
-        <seg>Sin embargo, de otro modo se llama "lugar" la concavidad de la superficie hacia la que se da el movimiento de algún cuerpo. </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T013112Z" creationid="mateovo2" creationdate="20200619T194241Z">
+        <seg>Sin embargo, en otro modo se llama "lugar" a la concavidad de la superficie hacia la que se da el movimiento de algún cuerpo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2047,6 +2047,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Primo autem modo nec generabilia nec corruptibilia sunt in loco:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T013957Z" creationid="mateovo2" creationdate="20201003T013957Z">
+        <seg>Y, por cierto, del primer modo muchos cuerpos, ni generables ni corruptibles, están en un lugar;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Primo autem modo nec generabilia nec corruptibilia sunt in loco: omnia autem corpora praeter primum corpus habent extra se aliquod ambiens corpus, circa quod circumscribitur quantitas ipsorum.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200619T194329Z" creationid="mateovo2" creationdate="20200619T194329Z">
@@ -2057,8 +2065,8 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       <tuv lang="la">
         <seg>Primum autem quod scire convenit, est quod locus dupliciter sumitur.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200619T193849Z" creationid="mateovo2" creationdate="20200619T193849Z">
-        <seg>Ahora bien, lo primero que conviene saber es que el lugar se toma de dos modos. </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T012949Z" creationid="mateovo2" creationdate="20200619T193849Z">
+        <seg>Ahora bien, lo primero que conviene saber es que "lugar" se toma de dos modos. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2788,8 +2796,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>Uno enim modo dicitur locus communiter omne corpus ambiens extrinsecus alterum corpus ratione superficiei continentis et tangentis ipsum.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200619T194119Z" creationid="mateovo2" creationdate="20200619T194119Z">
-        <seg>De un modo, en efecto, se llama "lugar en general" todo cuerpo circundante externo a otro cuerpo por causa de la superficie que lo contiene y lo toca. </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T013031Z" creationid="mateovo2" creationdate="20200619T194119Z">
+        <seg>En un modo, en efecto, se llama "lugar" en general a todo cuerpo circundante externo a otro cuerpo por causa de la superficie que lo contiene y lo toca. </seg>
       </tuv>
     </tu>
     <tu>

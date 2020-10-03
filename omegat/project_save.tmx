@@ -234,8 +234,8 @@
       <tuv lang="la">
         <seg>Caliditas autem in summo est propinquissima causae caliditatis, quae est motus materiae superiorum, et vicinitas lucis eorum.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200625T165250Z" creationid="mateovo2" creationdate="20200625T165250Z">
-        <seg>sin embargo, la calidez es en grado sumo la más cercana a la causa de la calidez, que es el movimiento múltiple de los superiores y [es] la proximidad de su luz;  </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T022318Z" creationid="mateovo2" creationdate="20200625T165250Z">
+        <seg>sin embargo, la calidez es en grado sumo la más cercana a la causa de la calidez, que es el movimiento múltiple de los superiores y es la proximidad de su luz; </seg>
       </tuv>
     </tu>
     <tu>
@@ -1376,6 +1376,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Ex ratione vero caliditatis hoc idem probatur:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T022247Z" creationid="mateovo2" creationdate="20201003T022247Z">
+        <seg>Además, en razón de la calidez, esto mismo se prueba,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Ex ratione vero caliditatis hoc idem probatur: quia caliditas in summo clarificat et subtiliat.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200625T165152Z" creationid="mateovo2" creationdate="20200625T165152Z">
@@ -1931,6 +1939,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Materia igitur vicinissima orbi, calida est in summo:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T022329Z" creationid="mateovo2" creationdate="20201003T022329Z">
+        <seg>por lo tanto, la materia más próxima al orbe es cálida en grado sumo,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Materia igitur vicinissima orbi, calida est in summo: et ideo concavum orbis ultimi proprius locus est eisdem.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200625T165311Z" creationid="mateovo2" creationdate="20200625T165311Z">
@@ -2045,8 +2061,8 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       <tuv lang="la">
         <seg>Oportet igitur quod in ultima orbis superficie locetur, eo quod haec sola formalior est ipso.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200625T165123Z" creationid="mateovo2" creationdate="20200625T165123Z">
-        <seg>por lo tanto, conviene que esté localizado en la última superficie del orbe, en razón de que esta sola es más formadora que este  mismo.  </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T022121Z" creationid="mateovo2" creationdate="20200625T165123Z">
+        <seg>por lo tanto, conviene que esté localizado en la última superficie del orbe, en razón de que esta sola es más formadora que este mismo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3524,6 +3540,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>quia caliditas in summo clarificat et subtiliat.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T022307Z" creationid="mateovo2" creationdate="20201003T022307Z">
+        <seg>porque la calidez rarifica en grado sumo y hace sutil en grado sumo;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>quia cum motor primus nobilitatem suam largiatur omni ei quod formatur ad esse, absque dubio non largitur distanti esse vel formam, nisi per quod sibi est propinquius:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020336Z" creationid="nivaca" creationdate="20201003T001509Z">
@@ -3560,6 +3584,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020420Z" creationid="nivaca" creationdate="20201003T002011Z">
         <seg>Por lo que incluso, así como se dice en la *Física*, no requieren de un motor hacia el lugar mismo salvo accidentalmente; motor que, a saber, remueve el obstáculo que detiene lo localizado bajo límites ajenos y que no son acordes a su naturaleza. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>quoniam licet omne corpus secundum rationem divisibile sit in infinitum, tamen materia quatuor elementorum non potest subtiliari amplius quam subtiliata sit sub forma ignis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T022049Z" creationid="mateovo2" creationdate="20201003T022049Z">
+        <seg>puesto que, aunque según la razón todo cuerpo es indivisible hacia el infinito, sin embargo, según el ser la materia de los cuatro elementos no se puede hacer más sutil que la sutilidad que se da bajo la forma del fuego;</seg>
       </tuv>
     </tu>
     <tu>

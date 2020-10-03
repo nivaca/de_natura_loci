@@ -126,6 +126,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="la">
+        <seg>Amplius autem hoc ostenditur ex levitatis et simplicitatis diffinitione, quam in Caelo et Mundo determinavimus:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T022405Z" creationid="mateovo2" creationdate="20201003T022405Z">
+        <seg>Además, sin embargo, esto se muestra a partir de la definición de levedad simple, que en *Sobre el cielo y el mundo* determinamos;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Acá traducimos "simplicis" como "absoluta".</note>
       <tuv lang="la">
         <seg>Amplius autem hoc ostenditur ex levitatis et simplicitatis diffinitione, quam in Caelo et Mundo determinavimus: si enim levitatis comparatae est moveri super corpora quaedam, levitatis simplicis erit moveri super omnia generabilia corpora.</seg>
@@ -445,8 +453,8 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
       <tuv lang="la">
         <seg>Cum igitur convenientia et generalitas sit inter locum et locatum, et ignis inter elementa magis convenit cum caelo, oportet quod inter elementa ignis in concavo ultimo orbis locetur.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200625T170217Z" creationid="mateovo2" creationdate="20200625T170217Z">
-        <seg>por lo tanto, puesto que la conveniencia/concordancia* y la connaturalidad se dan entre el lugar y lo localizado y el fuego concuerda* más con el cielo entre los elementos, conviene que entre los elementos solo el fuego se localice en la última concavidad del cielo. </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T022601Z" creationid="mateovo2" creationdate="20200625T170217Z">
+        <seg>por lo tanto, puesto que la conveniencia/concordancia y la connaturalidad se dan entre el lugar y lo localizado y el fuego concuerda más con el cielo entre los elementos, conviene que entre los elementos solo el fuego se localice en la última concavidad del cielo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2131,6 +2139,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
     </tu>
     <tu>
+      <tuv lang="la">
+        <seg>Perspicuus etiam est ignis sicut apparet ex eo quod non tegit nobis corpora quae sunt super ipsum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T022459Z" creationid="mateovo2" creationdate="20201003T022459Z">
+        <seg>Incluso, el fuego es transparente, así como es evidente a partir de esto: que no cubre con una nube los cuerpos que están sobre él, </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Acá tenemos duda de cómo traducir "convenientia". Tenemos las opciones de "conveniencia" y "concordancia", pero según el glosario después lo tradujimos como "confluencia".</note>
       <tuv lang="la">
         <seg>Perspicuus etiam est ignis sicut apparet ex eo quod non tegit nobis corpora quae sunt super ipsum: et est inter caetera elementa magis perspicuus, eo quod est omnibus subti[B532b]lior et rarior: perspicuum autem in omni corpore est ex convenientia cum perpetuo superius corpori caelesti, sicut dicit Aristoteles in secundo libro de Anima.</seg>
@@ -2185,6 +2201,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20200918T223102Z" creationid="anlozan" creationdate="20200828T191021Z">
         <seg>Sin embargo, a causa del frío de aquellas regiones los animales fríos en aquellas tierras son muy diminutos de cuerpo o enteramente inexistentes como los asnos y los de este tipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Propter hoc autem et his similia multa videtur et est irrationalis opinio quorumdam dicentium nullum superius esse ignem, sed aerem usque ad sidera extendi:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T022614Z" creationid="mateovo2" creationdate="20201003T022614Z">
+        <seg>Ahora bien, por estas cosas y muchas similares a estas, es irracional la opinión de ciertos que dicen que nada es superior al fuego, salvo el aire que se extiende más allá hacia las estrellas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3227,6 +3251,22 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et est inconveniens ratio quam ad hoc inducunt dicentes esse inutilem, cum ad mixtionem [C5a] aliorum faciendam corporum et generationem perficiendam non possit descendere:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T022645Z" creationid="mateovo2" creationdate="20201003T022645Z">
+        <seg>Y es inconveniente la razón que establecen sobre esto los que dicen aquí que el fuego es inútil, puesto que no puede descender para crear una mezcla de otros cuerpos y para completar la generación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et est inter caetera elementa magis perspicuus, eo quod est omnibus subti[B532b]lior et rarior:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T022505Z" creationid="mateovo2" creationdate="20201003T022505Z">
+        <seg>y es el más transparente entre los demás elementos, debido a que es más sutil y más raro entre todos;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et forma in ipsis non movetur, nec par se, nec per accidens, sicut ostensum est in libris ante habitis Caeli et Mundi, et Physicorum, ubi probatur quod corpora talia ad locum non moventur, sicut nec aliquis secundum naturam motus est ipsorum ad formam.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T014439Z" creationid="mateovo2" creationdate="20201003T014439Z">
@@ -3255,6 +3295,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T014112Z" creationid="mateovo2" creationdate="20201003T014112Z">
         <seg>y por esto para tales cosas no propiamente y según la naturaleza se tiene un lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et ideo concavum orbis ultimi proprius locus est eisdem.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T022334Z" creationid="mateovo2" creationdate="20201003T022334Z">
+        <seg>y por esto la concavidad del orbe último es el lugar más propio para esta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3500,6 +3548,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>perspicuum autem in omni corpore est ex convenientia cum perpetuo superius corpori caelesti, sicut dicit Aristoteles in secundo libro de Anima.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T022541Z" creationid="mateovo2" creationdate="20201003T022541Z">
+        <seg>sin embargo, la transparencia se da en todo cuerpo a partir de la conveniencia/concordancia con el cuerpo celeste perpetuo superior, así como dice Aristóteles en el libro segundo de *Sobre el alma*;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>propter quod egregie dicit Aristoteles in libro de Causis proprietatum elementorum et orbis sive planetarum, quod si compositum occupetur a simplici, corrumpitur statim:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015255Z" creationid="mateovo2" creationdate="20201003T015255Z">
@@ -3608,6 +3664,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020427Z" creationid="nivaca" creationdate="20201003T002035Z">
         <seg>y es preciso que nosotros conozcamos en particular las diversidades de los lugares y la causa de su diversidad y los accidentes de los diversos lugares; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>si enim levitatis comparatae est moveri super corpora quaedam, levitatis simplicis erit moveri super omnia generabilia corpora.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T022429Z" creationid="mateovo2" creationdate="20201003T022429Z">
+        <seg>pues si el moverse de la levedad relativa se da sobre cierto cuerpo, el moverse de la levedad absoluta* se daría sobre todos los cuerpos generados;</seg>
       </tuv>
     </tu>
     <tu>

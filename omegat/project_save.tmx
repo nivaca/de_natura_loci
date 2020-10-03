@@ -3061,6 +3061,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et forma in ipsis non movetur, nec par se, nec per accidens, sicut ostensum est in libris ante habitis Caeli et Mundi, et Physicorum, ubi probatur quod corpora talia ad locum non moventur, sicut nec aliquis secundum naturam motus est ipsorum ad formam.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T014439Z" creationid="mateovo2" creationdate="20201003T014439Z">
+        <seg>y la forma en ellos no se mueve ni por sí ni por accidente, así como se mostró en los libros antes tratados *Del cielo y del mundo* y de la *Física*. Por lo que tales cuerpos no se mueven hacia un lugar, así como tampoco hay entre ellos algún movimiento hacia la forma según la naturaleza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et ideo [B528a] principium ex ipso est transmutationis ejus quod continet:</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201003T001242Z" creationid="nivaca" creationdate="20201003T001242Z">
@@ -3089,6 +3097,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201003T002943Z" creationid="nivaca" creationdate="20201003T002943Z">
         <seg>y por esto dicen que no es preciso tratar la ciencia de la diferencia de los lugares solamente en el libro de la ciencia natural,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et ideo perpetuitatem habent hujusmodi corpora secundum naturam:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T014314Z" creationid="mateovo2" creationdate="20201003T014314Z">
+        <seg>y por esto los cuerpos de este tipo tienen perpetuidad según la naturaleza,</seg>
       </tuv>
     </tu>
     <tu>

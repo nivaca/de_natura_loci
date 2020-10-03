@@ -125,6 +125,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="la">
+        <seg>Amplius accessus solis proximus facit calorem, et recessus facit frigus:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170900Z" creationid="mateovo2" creationdate="20201003T170900Z">
+        <seg>Además, el retroceso del sol produce frío. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>OJO: no coincide el texto</note>
       <tuv lang="la">
         <seg>Amplius accessus solis proximus facit calorem, et recessus facit frigus: est autem medium inter calidum et frigidum temperatum: ergo in medio accessu et recessu loca illa erunt temperata, et sic habitationi congrua.</seg>
@@ -683,6 +691,14 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Dicunt enim isti, quod nos videmus multos homines oculis nostris qui habitaverunt inter tropicum aestivum et aequinoctialem:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170552Z" creationid="mateovo2" creationdate="20201003T170552Z">
+        <seg>Pues ellos dicen que nosotros hemos visto muchos hombres con nuestros ojos que han habitado entre el trópico estival y el equinoccial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Dicunt enim isti, quod nos videmus multos homines oculis nostris qui habitaverunt inter tropicum aestivum et aequinoctialem: et libri Philosophorum de astris ibi degentium venerunt ad nos.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200626T220216Z" creationid="nivaca" creationdate="20200610T234551Z">
@@ -951,6 +967,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Est etiam rationabile ibi esse habitationem:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170651Z" creationid="mateovo2" creationdate="20201003T170651Z">
+        <seg>Pero es también razonable que allí haya habitación;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Est etiam rationabile ibi esse habitationem: cum enim juxta physicorum traditionem sol in obliquo circulo sit causa generationis per excessum, et causa corruptionis per recessum, oportebit ibi potissime esse generationem ubi aequaliter accedit et recedit: [C11b] est autem hoc sub aequinoctiali: erit igitur ibi potissime generatio et habitatio generatorum.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200626T225325Z" creationid="nivaca" creationdate="20200610T234806Z">
@@ -995,6 +1019,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T021032Z" creationid="mateovo2" creationdate="20200616T195559Z">
         <seg>Y también los elementos mismos, tomando "naturaleza" de otro modo, son naturalmente redondos, así como nosotros mostramos en la ciencia del *Cielo y del mundo*. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Et ex hoc constat oportere ibi esse habitationem:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170613Z" creationid="mateovo2" creationdate="20201003T170613Z">
+        <seg>y por esto consta que ahí es preciso que haya habitación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2669,6 +2701,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
     </tu>
     <tu>
+      <tuv lang="la">
+        <seg>Quintam autem asserunt rationem ex [B540b]conjecturis dicentes, quod omnis complexionati oportet temperatam esse habitationem:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170517Z" creationid="mateovo2" creationdate="20201003T170517Z">
+        <seg>También ofrecen una quinta razón a partir de conjeturas quienes dicen que es preciso que la habitación de todo lo compuesto sea temperada</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Revisar "temperatum"
 Temperamentum como temperamento/lanza
 temperatam como temperado
@@ -2758,6 +2798,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20200814T220112Z" creationid="anlozan" creationdate="20200814T201341Z">
         <seg>Además, la segunda razón se afirma de esto, que es preciso distribuir la tierra de tal manera que sea adecuada para la habitación en algún lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Secundi autem climatis similiter tota latitudo fere inter aequinoctialem et tropicum aestivum existit:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170635Z" creationid="mateovo2" creationdate="20201003T170635Z">
+        <seg>Sin embargo, de la misma manera, entre el equinoccial y el trópico estival está situada casi toda la latitud del segundo clima,</seg>
       </tuv>
     </tu>
     <tu>
@@ -3061,6 +3109,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020516Z" creationid="mateovo2" creationdate="20200616T185804Z">
         <seg>pues si nosotros ponemos la observación en las cosas mixtas como no en las complejas*, no conoceremos perfectamente su naturaleza, si no conocemos todas las diferencias de las cosas mixtas en los metales y en las piedras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Si igitur illa loca sunt tam vehementer calida propter unam aestatem quam habent ex sole appropinquante et incedente super Zenith capitum eorum, probabile esset intolerabilis esse caloris terram cui incidit perpendiculariter bis in anno:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170456Z" creationid="mateovo2" creationdate="20201003T170456Z">
+        <seg>Por lo tanto, si aquellos lugares son tan fuertemente cálidos a causa del solo verano que tienen a partir del sol que se les aproxima y que no cae sobre el cénit de sus cabezas*, es probable que sea de calor intolerable la tierra en la que el sol cae perpendicularmente dos veces al año,</seg>
       </tuv>
     </tu>
     <tu>
@@ -3553,6 +3609,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>[C11b] est autem hoc sub aequinoctiali:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170705Z" creationid="mateovo2" creationdate="20201003T170705Z">
+        <seg>Sin embargo, esto sucede bajo el equinoccio;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>[C13a] Sed his contrarii sunt plures Philosophorum.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200916T201015Z" creationid="anlozan" creationdate="20200814T202645Z">
@@ -3622,6 +3686,22 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015418Z" creationid="mateovo2" creationdate="20201003T015418Z">
         <seg>pues el contenido es corrompido por el continente puesto que le fue contrario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>cujus latitudo est viginti quatuor graduum, quanta est declinatio solis ab aequinoctiali circulo secundum Ptolemaeum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170642Z" creationid="mateovo2" creationdate="20201003T170642Z">
+        <seg>cuya latitud es de 24 grados, cuanta es la inclinación del sol desde el círculo equinoccial, según Ptolomeo,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>cum enim juxta physicorum traditionem sol in obliquo circulo sit causa generationis per excessum, et causa corruptionis per recessum, oportebit ibi potissime esse generationem ubi aequaliter accedit et recedit:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170700Z" creationid="mateovo2" creationdate="20201003T170700Z">
+        <seg>puesto que, en efecto, de acuerdo con el legado de los filósofos, el sol en una órbita oblicua es causa de generación por su aproximación y causa de corrupción por su retroceso, será preciso que allí especialmente haya generación, donde se aproxima y retrocede por igual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3758,6 +3838,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015644Z" creationid="mateovo2" creationdate="20201003T015644Z">
         <seg>por lo que vemos que algunas de las plantas en un cierto lugar se desarrollan, las que, si son transplantadas a un clima próximo, por ningún cultivo se pueden desarrollar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>erit igitur ibi potissime generatio et habitatio generatorum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170713Z" creationid="mateovo2" creationdate="20201003T170713Z">
+        <seg>por lo tanto, allí se dará especialmente la habitación de lo generado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4002,6 +4090,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et ideo esse inhabitabilem.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170458Z" creationid="mateovo2" creationdate="20201003T170458Z">
+        <seg>y que por esto sea inhabitable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et ideo facillime recipiunt impressiones omnium agentium in ea:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T165306Z" creationid="mateovo2" creationdate="20201003T165306Z">
@@ -4030,6 +4126,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T165834Z" creationid="mateovo2" creationdate="20201003T165834Z">
         <seg>y por eso el frío es mortífero en aquellos lugares y los humores de aquellos lugares, por la congelación de ellos mismos, no se pueden mezclar para constituir la complexión de algún ser vivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et ideo non esse habitationem aliquam nisi inter inhabitabilem propter frigus in parte una, et inhabitabilem propter calorem in parte alia.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170532Z" creationid="mateovo2" creationdate="20201003T170532Z">
+        <seg>y por eso no hay ninguna habitación salvo entre la inhabitable a causa del frío en una parte y la inhabitable a causa del calor en la otra parte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4098,10 +4202,26 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et libri Philosophorum de astris ibi degentium venerunt ad nos.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170600Z" creationid="mateovo2" creationdate="20201003T170600Z">
+        <seg>y que nos han llegado libros de los filósofos que allí vivieron acerca de los astros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et locus quidem simplicium est simplex, locus autem compositorum est compositus.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015107Z" creationid="mateovo2" creationdate="20201003T015107Z">
         <seg>Y, en verdad, el lugar de los simples es simple, pero el lugar de los compuestos es compuesto;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et non esse temperatum, nisi inter duo contraria intemperata:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170528Z" creationid="mateovo2" creationdate="20201003T170528Z">
+        <seg>y que no haya temperamento salvo entre dos contrarios no temperados,</seg>
       </tuv>
     </tu>
     <tu>
@@ -4238,6 +4358,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020449Z" creationid="nivaca" creationdate="20201003T002153Z">
         <seg>y buscan consuelo de su ignorancia, si dicen que no conviene preguntarse sobre esto mismo; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et sunt in eo multae civitates nominatae, quarum habitatores plures venerunt ad nos.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170647Z" creationid="mateovo2" creationdate="20201003T170647Z">
+        <seg>y hay en este muchas ciudades famosas y renombradas, de las cuales muchos habitantes han venido a nosotros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4439,6 +4567,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T025951Z" creationid="mateovo2" creationdate="20201003T025951Z">
         <seg>pues muchas virtudes son difundidas del cielo a los inferiores, las cuales inútilmente podrían ser llamadas luces, aunque desciendan por casualidad con la luz celeste, así como se da lo cálido y otras veces lo frío y otras veces lo húmedo y otras veces lo seco, los cuales, con los rayos de las estrellas fluyen en los inferiores, y, no obstante, ninguno de estos es llamado con el nombre luz propiamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>multas enim civitates gentis Achim et Indorum et Aethiopum in parte constat nobis in climate illo esse.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T170623Z" creationid="mateovo2" creationdate="20201003T170623Z">
+        <seg>Pues muchas ciudades del pueblo de los aquios y de los indios y de los etíopes en parte nos consta que están en ese clima.</seg>
       </tuv>
     </tu>
     <tu>

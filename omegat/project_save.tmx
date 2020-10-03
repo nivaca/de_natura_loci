@@ -506,12 +506,11 @@ Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "co
       </tuv>
     </tu>
     <tu>
-      <note>"Distinctione" la teníamos anotada para traducirla como "distinción". Acá está como "diferenciación".</note>
       <tuv lang="la">
         <seg>De distinctione locorum, ut sciatur cujus loci hic investigetur diversitas.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201003T012723Z" creationid="mateovo2" creationdate="20200619T193735Z">
-        <seg>Sobre la diferenciación* de los lugares, para que se sepa de qué lugar se indaga aquí la diversidad.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T021417Z" creationid="mateovo2" creationdate="20200619T193735Z">
+        <seg>Sobre la diferenciación de los lugares, a fin de que se sepa de qué lugar se indaga aquí la diversidad.</seg>
       </tuv>
     </tu>
     <tu>

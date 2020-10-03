@@ -3219,6 +3219,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>eo quod secundum naturam semper sit superius:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T022706Z" creationid="mateovo2" creationdate="20201003T022706Z">
+        <seg>por el hecho de que su lugar es superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>eo quod videmus quasdam plantarum in uno loco convalescere, quae si ad clima proximum transferantur, nulla cultura [B531b]convalescere possunt.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015644Z" creationid="mateovo2" creationdate="20201003T015644Z">
@@ -3528,6 +3536,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015906Z" creationid="nivaca" creationdate="20201003T001431Z">
         <seg>y no antes la comida puede completar su propia labor, a no ser que haya alcanzado completamente la virtud del miembro hacia el que se mueve cuyo principio de perfección es el miembro. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>nec videmus animal quod ipsum per violentiam possit inclinare deorsum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T022707Z" creationid="mateovo2" creationdate="20201003T022707Z">
+        <seg>y no vemos nada que pueda inclinarlo para abajo por violencia.</seg>
       </tuv>
     </tu>
     <tu>

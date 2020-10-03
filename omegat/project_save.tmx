@@ -1652,6 +1652,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Hoc autem patet alia ratione:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T030254Z" creationid="mateovo2" creationdate="20201003T030254Z">
+        <seg>Sin embargo, esto también es evidente por otra razón;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Hoc autem patet alia ratione: si enim duo inveniantur composita in uno, et unum inveniatur illorum componentium sine alio, necesse est et reliquum inveniri sine reliquo, sicut in octavo Physicorum est determinatum [B536a] in his quae moventur, in quibus motum tantum invenitur sine movente, oportet quod et movens tantum inveniatur sine moto.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T222008Z" creationid="andrealozanov" creationdate="20200611T222008Z">
@@ -2453,6 +2461,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Quidam autem consueverunt vocare omnem formam et omnem virtutem formativam splendorem intelligentiae, ex qua sunt formae:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T030119Z" creationid="mateovo2" creationdate="20201003T030119Z">
+        <seg>Sin embargo, algunos acostumbraron llamar toda forma y toda virtud formativa "esplendor de la inteligencia", por la cual hay formas,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Quidam autem consueverunt vocare omnem formam et omnem virtutem formativam splendorem intelligentiae, ex qua sunt formae: et hoc modo per mathematicam locutionem concedi potest, quod lux sit virtus qua caelum diffundit virtutem formativam in locum et omnes loci differentias.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T221539Z" creationid="andrealozanov" creationdate="20200611T221539Z">
@@ -2894,6 +2910,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T221902Z" creationid="andrealozanov" creationdate="20200611T221902Z">
         <seg>En efecto, así como dijimos al principio, algunos son tan solo lugar y otros son solamente localizados, algunos, sin embargo, son lugar y localizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sicut igitur calidum secundum se est causa ejus quod est calefactum tantum, et ejus quod est calefactum et calefaciens, ita oportet necessario quasi ut influxa virtus sit locato tantum, et locato et locanti, ab eo quod est locus tantum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T030234Z" creationid="mateovo2" creationdate="20201003T030234Z">
+        <seg>por lo tanto, así como lo cálido por sí es causa de eso que es tan solo calentado y de eso que es calentado y calienta, de esta manera conviene con necesidad que la virtud influida esté tan solo en lo localizado, y en lo localizado y en lo que localiza a partir de lo que es tan solo lugar;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3401,6 +3425,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>eo quod formae substantiales nullae inducuntur nisi a virtute aliquis [C7b] caelesti, sicut in prima philosophia, Domino concedente, declaravimus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T030044Z" creationid="mateovo2" creationdate="20201003T030044Z">
+        <seg>porque ningunas formas sustanciales se inducen, salvo por alguna virtud celestial, así como hemos declarado en la filosofía primera, Dios mediante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>eo quod mathematice loquentes basilica [B535b]vocant.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T025845Z" creationid="mateovo2" creationdate="20201003T025833Z">
@@ -3533,6 +3565,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015032Z" creationid="mateovo2" creationdate="20201003T015032Z">
         <seg>y estos tienen movimiento hacia sus lugares naturales y por fuera de sus lugares, se corrompen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et hoc modo per mathematicam locutionem concedi potest, quod lux sit virtus qua caelum diffundit virtutem formativam in locum et omnes loci differentias.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T030138Z" creationid="mateovo2" creationdate="20201003T030138Z">
+        <seg>y de este modo se puede conceder metafóricamente que la luz es la virtud, por la que el cielo difunde la virtud formadora hacia el lugar y hacia todas las diferencias de lugar</seg>
       </tuv>
     </tu>
     <tu>
@@ -3797,6 +3837,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T025119Z" creationid="mateovo2" creationdate="20201003T025119Z">
         <seg>Pues si no la hay, a partir del movimiento y de la luz, esta induce lo cálido en lo más alto y lo sutil y lo seco, los que en general no son sino formas del fuego;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>hoc enim est in ratione primi et causae in genere locati.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T030205Z" creationid="mateovo2" creationdate="20201003T030205Z">
+        <seg>esto se da en razón de lo primero y de la causa en el género del lugar</seg>
       </tuv>
     </tu>
     <tu>
@@ -4167,6 +4215,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T025939Z" creationid="mateovo2" creationdate="20201003T025939Z">
         <seg>pero entonces hablan impropiamente;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>si enim duo inveniantur composita in uno, et unum inveniatur illorum componentium sine alio, necesse est et reliquum inveniri sine reliquo, sicut in octavo Physicorum est determinatum [B536a] in his quae moventur, in quibus motum tantum invenitur sine movente, oportet quod et movens tantum inveniatur sine moto.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201003T030324Z" creationid="mateovo2" creationdate="20201003T030324Z">
+        <seg>pues si dos compuestos se encuentran en uno, y uno de esos componentes se encuentra sin el otro, es necesario también que el restante se encuentre sin el resto, así como fue determinado en el octavo de la *Física* que en aquellas cosas que se mueven y que mueven, en las que, puesto que lo movido tan solo se encuentra sin el que mueve, también conviene que el moviente se encuentre sin lo movido.</seg>
       </tuv>
     </tu>
     <tu>

@@ -1717,6 +1717,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Locus enim talis plus habet humidi quam calor consumere [B555b] possit: et ideo calor multiplicat ipsum et corrumpit: et ideo talia loca frequenter sunt vaporosa et pestiferosa habitantibus ea: et in locis illis sunt multa tonitrua et coruscationes: quare corrumpuntur multum et inficiuntur loca illa, ita quod inducunt gravem mortalitatem in homines et [C22a] alia animalia: quia aer humidus corrumpitur et efficitur venenosus, et penetrat indigestus ad interiora vitalium, et perimit subito.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201003T000634Z" creationid="nivaca" creationdate="20201003T000634Z">
+        <seg>Pues tal lugar tiene más humedad [lit. más de húmedo] que lo podría consumir el calor, y por eso el calor la multiplica a ella misma y la corrompe; y por eso tales lugares son con frecuencia vaporosos y generan pestes en quienes los habitan; y en tales lugares ha habido muchos truenos y relámpagos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Locus igitur ignis erit in concavo lunae super omnia corpora habentia motum rectum.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200625T165745Z" creationid="mateovo2" creationdate="20200625T165745Z">

@@ -3825,8 +3825,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>dicit enim inter calidissimum et frigidissimum esse temperamentum:</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201004T021442Z" creationid="mateovo2" creationdate="20201004T021442Z">
-        <seg>pues dice que en medio de lo que es muy caliente y lo que es muy frío necesariamente hay lo temperado.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T021820Z" creationid="mateovo2" creationdate="20201004T021442Z">
+        <seg>pues dice que entre lo más cálido y lo más frio hay un temperamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4862,6 +4862,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T022707Z" creationid="mateovo2" creationdate="20201003T022707Z">
         <seg>y no vemos nada que pueda inclinarlo para abajo por violencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>necessario etiam est locus [B543a] calidissimus sub tropico hyemali:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T021907Z" creationid="mateovo2" creationdate="20201004T021907Z">
+        <seg>Sin embargo, hay un lugar calidísimo bajo el trópico </seg>
       </tuv>
     </tu>
     <tu>

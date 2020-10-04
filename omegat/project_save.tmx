@@ -2532,6 +2532,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Mare enim in genere suo calidum est propter terrestre combustum sibi immixtum, et propter multam radiorum divaricationem super ipsum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T145451Z" creationid="nivaca" creationdate="20201004T145451Z">
+        <seg>Pues el mar, en su género, es cálido por la quema terrestre mezclada consigo mismo y por la gran difusión de los rayos sobre sí mismo;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Mare enim in genere suo calidum est propter terrestre combustum sibi immixtum, et propter multam radiorum divaricationem super ipsum: et ideo necesse est, quod loca vicina sibi aut sint calida et sicca, aut calida et humida superfluo humore, aut frigida et humida.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201002T212933Z" creationid="nivaca" creationdate="20201002T204524Z">

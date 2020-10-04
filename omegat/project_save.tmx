@@ -2772,6 +2772,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Nocent autem in [B557a] arboribus praecipue nux et quercus et caeterae arbores quae vel amaritudine sua inficiunt [C23b] aerem, vel proceritate sua concludunt cum, et eventari et purificari non permittunt.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201004T235636Z" creationid="nivaca" creationdate="20201004T235636Z">
+        <seg>Son especialmente dañinos entre los arboles la nuez y la encina y demás árboles que o bien por su amargura infectan/corrompen el aire, o bien por su altura lo encierran y no permiten que fluya y se purifique. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Non enim sufficit quod in mathematicis traditum est de hujusmodi diversitate, ubi traditur quae stellae, super quae loca, hoc vel illo modo oriantur, [C2b] vel occidant, utrum scilicet oblique vel recte, et quae stellarum nec oriantur nec occidant, sed semper appareant, vel quae numquam, et quae oriantur et occidant aliquando:</seg>
       </tuv>
       <tuv lang="es-CO" changeid="mateovo2" changedate="20201003T020503Z" creationid="nivaca" creationdate="20201003T002213Z">
@@ -4349,6 +4357,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>[B557b] Haec igitur de distinctione naturarum loci sufficiant:</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201004T235709Z" creationid="nivaca" creationdate="20201004T235709Z">
+        <seg>Por lo tanto, basten estas cosas sobre la diferencia entre las naturalezas de los lugares;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>[C10b] Secunda ratio quae fortior est inter omnes, est quod circulus signorum arcus est, et chordae ejus parvae juxta puncta quae attingunt duos tropicos.</seg>
       </tuv>
       <tuv lang="es-CO" changeid="nivaca" changedate="20200610T233818Z" creationid="nivaca@fastmail.com" creationdate="20200305T161838Z">
@@ -4909,6 +4925,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es-CO" changeid="mateovo2" changedate="20201004T015744Z" creationid="mateovo2" creationdate="20201003T022505Z">
         <seg>y es el más transparente entre los demás elementos, porque es más sutil y más raro entre todos;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et ex his versibus habent cognosci quae dicta sunt.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201004T235825Z" creationid="nivaca" creationdate="20201004T235825Z">
+        <seg>y tienen que conocerse a partir de estas cosas universales que se fueron dichas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6663,6 +6687,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es-CO" changeid="mateovo2" changedate="20201003T020336Z" creationid="nivaca" creationdate="20201003T001509Z">
         <seg>porque cuando el motor primero da abundantemente su nobleza a todo aquello que se forma para ser, sin duda no da abundantemente el ser o la forma a lo más distante sino a través de aquello que le es más cercano; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>quia de locis particularibus prolixior est sermo:</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201004T235733Z" creationid="nivaca" creationdate="20201004T235733Z">
+        <seg>porque el discurso sobre los lugares particulares es extenso,</seg>
       </tuv>
     </tu>
     <tu>

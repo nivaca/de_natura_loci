@@ -2998,6 +2998,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
     </tu>
     <tu>
+      <tuv lang="la">
+        <seg>Quandocumque enim calidum non est nisi corrumpens humidum, et non vincens ipsum, inducit pestiferas corruptiones.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T160225Z" creationid="nivaca" creationdate="20201004T160225Z">
+        <seg>Pues cuandoquiera que no es cálido sino que corrompe lo húmedods </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Ojo: no siempre "quantitas" debe traducirse como "extensión". Cuando se habla de la categoría de la cantidad, se deja así (pues no toda cantidad es una extensión, pero sí al contrario).</note>
       <tuv lang="la">
         <seg>Quantitates autem illorum duorum locorum esse dicunt diversimode:</seg>
@@ -3870,6 +3878,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200616T164832Z" creationid="andrealozanov" creationdate="20200303T182726Z">
         <seg>Tratado primero sobre la latitud y la longitud del lugar según la distancia de la esfera terrestre. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Talia autem loca etiam paludosa sunt frequenter ex humore diffuso super terram et corrumpente habitationem.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T160116Z" creationid="nivaca" creationdate="20201004T160116Z">
+        <seg>Sin embargo, tales lugares también son pantanosos con frecuencia debido al humor difundido en la tierra y que corrompe la habitación;</seg>
       </tuv>
     </tu>
     <tu>

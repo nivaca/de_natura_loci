@@ -208,6 +208,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Averroes enim in commento super librum quartum Caeli et Mundi, dicit et Aristotelis et suam fuisse opinionem, quod loca illa sunt habitabilia, et rationem adducit id necessario probantem, ut mihi videtur:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T021345Z" creationid="mateovo2" creationdate="20201004T021345Z">
+        <seg>Pues Averroes en el *Comentario al cuarto libro del cielo y el mundo* dice, de Aristóteles y fue su propia opinión, que aquellos lugares son habitables y aduce como razón algo necesariamente probatorio, como me parece;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Averroes enim in commento super librum quartum Caeli et Mundi, dicit et Aristotelis et suam fuisse opinionem, quod loca illa sunt habitabilia, et rationem adducit id necessario probantem, ut mihi videtur: dicit enim inter calidissimum et frigidissimum esse temperamentum: necessario etiam est locus [B543a] calidissimus sub tropico hyemali: frigidissimum autem esse necesse est sub polo, eo quod obliquissime locum illum radii solis respiciunt: igitur in medio per aequidistantiam ab utroque locus erit temperatus et congruus habitationi.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200916T201558Z" creationid="anlozan" creationdate="20200814T202903Z">
@@ -3815,6 +3823,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>dicit enim inter calidissimum et frigidissimum esse temperamentum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T021442Z" creationid="mateovo2" creationdate="20201004T021442Z">
+        <seg>pues dice que en medio de lo que es muy caliente y lo que es muy frío necesariamente hay lo temperado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>dissolveret enim omne compositum:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T163150Z" creationid="mateovo2" creationdate="20201003T163150Z">
@@ -4125,6 +4141,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T030551Z" creationid="mateovo2" creationdate="20201003T030551Z">
         <seg>Y, ciertamente, esto es necesario respecto a la virtud del lugar, según la cual hay un movimiento hacia el lugar, así como hacia lo que forma y que conserva en el ser de la forma dada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et hoc signum esse dicunt, quod nullus habitet omnino in locis illis:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T021308Z" creationid="mateovo2" creationdate="20201004T021308Z">
+        <seg>Y dicen que esto es signo de que nadie habita en lo absoluto en aquellos lugares,</seg>
       </tuv>
     </tu>
     <tu>
@@ -4517,6 +4541,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T170146Z" creationid="mateovo2" creationdate="20201003T170146Z">
         <seg>Y si se trazaran las cuerdas desde los últimos grados de Géminis hasta los primeros grados de Cáncer mutuamente correspondientes a ellos por congruencia, serían cuerdas cortas que están subtendidas por los arcos pequeños,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et si nullus habitat, tunc frustra esset habitabilis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T021315Z" creationid="mateovo2" creationdate="20201004T021315Z">
+        <seg>y si nadie ahí habita, entonces sería habitable en vano.</seg>
       </tuv>
     </tu>
     <tu>

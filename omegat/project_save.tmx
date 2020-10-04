@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="la">
+        <seg>"Et virtus in duobus finibus duas habet divisiones, quarum una est in occasibus horizontis, et altera est apud elevationem."</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022356Z" creationid="mateovo2" creationdate="20201004T022356Z">
+        <seg>"También la virtud en las dos regiones tiene dos divisiones, una de las cuales está en los ocasos de Orión y la otra está junto al levante."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>"Natura quidem exigit duo genera Aethiopum, quorum unum est sub tropico aestivo, et sunt Aethiopes, qui sequuntur nos:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022235Z" creationid="mateovo2" creationdate="20201004T022235Z">
+        <seg>"Ciertamente, la naturaleza produce dos géneros de etíopes, de los cuales uno está bajo el trópico estival, que son los etíopes que nos acompañan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Accidit autem eidem, quod remotissime sub alia descendit in medio terrae:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T024533Z" creationid="mateovo2" creationdate="20201003T024533Z">
@@ -90,6 +106,14 @@
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200612T210705Z" creationid="nivaca" creationdate="20200610T232223Z">
         <seg>la otra, empero, con respecto a la que se da la distinción de los climas según la latitud desde la equinoccial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Alii autem his non consentientes dixerunt quidem, quod terra est rotunda, et dixerunt quod quarta terrae quae est Aquilonaris, est elevata extra locum centricum mundi, et ideo porrigitur super aquas, ut sit congrua habitationi:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022117Z" creationid="mateovo2" creationdate="20201004T022117Z">
+        <seg>Ahora bien, otros, que no estaban de acuerdo con estos, dijeron que la tierra es ciertamente redonda, pero dijeron que la cuarta parte de la tierra, que es la aquilonal, se eleva por fuera del lugar del centro del mundo y por eso se extiende sobre las aguas, de manera que es adecuada para la habitación,</seg>
       </tuv>
     </tu>
     <tu>
@@ -2666,6 +2690,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Ptolemaeus autem in libro de Dispositione sphaerae qui est introductorius Almagesti, dicit sub utroque tropico, aestivo scilicet et hyemali, habitare Aethiopes:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022210Z" creationid="mateovo2" creationdate="20201004T022210Z">
+        <seg>Ptolomeo, sin embargo, en el *Libro sobre la disposición de la esfera*, que es una introducción al *Almagesto*, dice que bajo cada uno de los trópicos, a saber el estival y el invernal, habitan los etíopes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Ptolemaeus autem in libro de Dispositione sphaerae qui est introductorius Almagesti, dicit sub utroque tropico, aestivo scilicet et hyemali, habitare Aethiopes: et confirmat hoc per quemdam poetam, qui nomine dicitur Krices, qui Krices inducit Homerum dicentem: et sunt haec verba Ptolemaei: "Natura quidem exigit duo genera Aethiopum, quorum unum est sub tropico aestivo, et sunt Aethiopes, qui sequuntur nos: et alterum genus Aethiopum est, qui sunt sub tropico hyemali, qui est tropicus aestivus illis, quorum pedes sunt in directo pedum nostrorum." Et Krices quidem retulit de Homero versificatore, quod ipse dixit hos Aethiopes in versibus suis, cum dicit: "Et virtus in duobus finibus duas habet divisiones, quarum una est in occasibus horizontis, et altera est apud elevationem."</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200828T220112Z" creationid="anlozan" creationdate="20200814T204054Z">
@@ -2721,6 +2753,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20200814T201227Z" creationid="anlozan" creationdate="20200814T201227Z">
         <seg>Estas dos causas las explicamos más arriba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Quia vero de [B543b]hac opinione mentio erit in secundo libro de Causis proprietatum elementorum, ideo illic differemus disputationem contra ipsam, praecipue quia nos in tertio Caeli et Mundi probavimus terram esse directe locatam sub aliis omnibus elementis in medio mundi in quantum est medium mundi:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022203Z" creationid="mateovo2" creationdate="20201004T022203Z">
+        <seg>Ahora bien, puesto que se hará mención de esta opinión en el libro segundo *De las causas de las propiedades de los elementos*, por esto aplazaremos para allí la discusión contra ella, especialmente porque nosotros probamos en el libro tercero *Sobre el cielo y el mundo* que la tierra está localizada directamente bajo todos los otros elementos en el medio del mundo, en la medida en que es el medio del mundo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3412,6 +3452,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Sunt quidam dicentes deserta arenosa longi spatii jacere inter media, quorum sterilitas transitum prohibet:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022402Z" creationid="mateovo2" creationdate="20201004T022402Z">
+        <seg>Hay quienes dicen, además, que desiertos arenosos de gran extensión yacen en el medio, cuya esterilidad impide el paso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Sunt quidam dicentes deserta arenosa longi spatii jacere inter media, quorum sterilitas transitum prohibet: et ideo dicunt nullum ibi habitare: quia cum genus hominum ab uno disseminatum esse constet, aut ille, ut inquiunt, fuit in quarta Aquilonari, aut in quarta Meridionali.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200828T221328Z" creationid="anlozan" creationdate="20200814T204114Z">
@@ -3863,6 +3911,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>dixerunt autem, quod extra hanc quartam Aquilonarem sunt stellae Aquilonares quaedam.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022131Z" creationid="mateovo2" creationdate="20201004T022131Z">
+        <seg>Además, dijeron que ciertas estrellas aquilonales son lo que hace salir la cuarta parte aquilonal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>eo quod circulus signorum ibi ascendit ab punctum tropici, et descendit ab eodem.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T020322Z" creationid="mateovo2" creationdate="20201003T170208Z">
@@ -4041,6 +4097,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et alterum genus Aethiopum est, qui sunt sub tropico hyemali, qui est tropicus aestivus illis, quorum pedes sunt in directo pedum nostrorum." Et Krices quidem retulit de Homero versificatore, quod ipse dixit hos Aethiopes in versibus suis, cum dicit:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022320Z" creationid="mateovo2" creationdate="20201004T022320Z">
+        <seg>Y el otro es el género de los etíopes que están bajo el trópico invernal, que es el trópico estival para ellos, cuyos pies están en la dirección de nuestros pies." Y Carites ciertamente retomó de Homero el versificador lo que él mismo dijo de estos etíopes en sus versos, cuando dijo: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et centrum illud quod est locus terrae, est mundi centrum, ad quod secundum naturam movetur terra.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T022836Z" creationid="mateovo2" creationdate="20201003T022836Z">
@@ -4053,6 +4117,15 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T020932Z" creationid="mateovo2" creationdate="20201004T020932Z">
         <seg>Y concuerdan con esto las sentencias de casi todos los que dicen que el círculo del sol no es concéntrico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et confirmat hoc per quemdam poetam, qui nomine dicitur Krices, qui Krices inducit Homerum dicentem:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022215Z" creationid="mateovo2" creationdate="20201004T022215Z">
+        <seg>Y lo confirma por medio de cierto poeta cuyo nombre es Carites, el Carites que presenta a Homero hablando.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -4641,6 +4714,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et sunt haec verba Ptolemaei:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022221Z" creationid="mateovo2" creationdate="20201004T022221Z">
+        <seg>Y estas son las palabras de Ptolomeo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et sunt in eo multae civitates nominatae, quarum habitatores plures venerunt ad nos.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T170647Z" creationid="mateovo2" creationdate="20201003T170647Z">
@@ -4653,6 +4734,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020408Z" creationid="nivaca" creationdate="20201003T001818Z">
         <seg>y son así como ciertos muertos, quienes retuvieron su figura temporal mucho tiempo por la sequedad de sus cuerpos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et tres aliae quartae sunt sub aquis, et ideo non est in eis habitatio nisi natantibus tantum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022123Z" creationid="mateovo2" creationdate="20201004T022123Z">
+        <seg>y las tres otras cuartas partes están sumergidas bajo las aguas y por eso no hay en ellas habitación sino para los seres que tan solo nadan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4710,6 +4799,15 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T021116Z" creationid="nivaca" creationdate="20201003T002802Z">
         <seg>pues de este modo en esta ciencia procedieron Aristóteles y Platón.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>hoc enim satis refellit errorem qui dictus est hic.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022205Z" creationid="mateovo2" creationdate="20201004T022205Z">
+        <seg>Pues esto refuta suficientemente el error que está dicho allí.
+</seg>
       </tuv>
     </tu>
     <tu>

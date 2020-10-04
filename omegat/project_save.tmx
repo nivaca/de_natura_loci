@@ -3653,6 +3653,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Si enim sint humiles montes, non multum variant naturam locorum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T171131Z" creationid="nivaca" creationdate="20201004T171131Z">
+        <seg>pues si los montes son bajos, no alteran mucho la naturaleza de los lugares,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Si igitur illa loca sunt tam vehementer calida propter unam aestatem quam habent ex sole appropinquante et incedente super Zenith capitum eorum, probabile esset intolerabilis esse caloris terram cui incidit perpendiculariter bis in anno:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T170456Z" creationid="mateovo2" creationdate="20201003T170456Z">

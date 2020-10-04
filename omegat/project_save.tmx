@@ -713,6 +713,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Dicebat enim sub torrida ex parte meridiei esse montes de lapide qui dicitur magnes:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T023523Z" creationid="mateovo2" creationdate="20201004T023523Z">
+        <seg>Pues decía que bajo la zona tórrida, desde la parte sur, hay montes de piedra que se llaman ‘magneto’,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Dicebat enim sub torrida ex parte meridiei esse montes de lapide qui dicitur magnes: et est illud genus magnetis talis naturae, quod carnes humanas sibi attrahit, sicut noster magnes ferrum: et propter illos non posse transire.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200904T223145Z" creationid="anlozan" creationdate="20200814T210017Z">
@@ -2040,8 +2048,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>In libro enim Meteororum aliquid iterum dicemus de hoc secundum sententias Philosophorum.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200904T222214Z" creationid="anlozan" creationdate="20200814T205931Z">
-        <seg>En efecto, en el Libro de los Meteoros diremos una vez más algo sobre esto según los sentencias de los filósofos.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T023339Z" creationid="anlozan" creationdate="20200814T205931Z">
+        <seg>Pues en el Libro de los Meteoros diremos una vez más algo sobre esto según los sentencias de los filósofos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2951,6 +2959,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20201002T222213Z" creationid="anlozan" creationdate="20200925T205422Z">
         <seg>Sin embargo, a lo largo del semicírculo entero que se da desde el oriente hacia el occidente, hay una única fuerza de los rayos de los cuerpos celestes sobre los lugares equidistantes desde el círculo equinoccial y una única medida de los días y de las noches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sed [C14b] quidquid ibi dicturi sumus, hoc erit opinionis aliorum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T023416Z" creationid="mateovo2" creationdate="20201004T023416Z">
+        <seg>Pero cualquier cosa que allí hemos de decir, esto será acerca de la opinión de otros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4421,6 +4437,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et ideo dicimus sicut nobis videtur, non praejudicantes aliter dicentibus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T023325Z" creationid="mateovo2" creationdate="20201004T023325Z">
+        <seg>y por esto hablamos así como nos parece, sin prejuzgar a los que dicen otra cosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et ideo dicit loquens de eis:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T023032Z" creationid="mateovo2" creationdate="20201004T023032Z">
@@ -4874,6 +4898,15 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T025119Z" creationid="mateovo2" creationdate="20201003T025119Z">
         <seg>Pues si no la hay, a partir del movimiento y de la luz, esta induce lo cálido en lo más alto y lo sutil y lo seco, los que en general no son sino formas del fuego;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>hic autem vere scripsimus opinionem nostram.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T023419Z" creationid="mateovo2" creationdate="20201004T023419Z">
+        <seg>Sin embargo, aquí por cierto hemos escrito nuestra opinión.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -5629,6 +5662,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T022429Z" creationid="mateovo2" creationdate="20201003T022429Z">
         <seg>pues si el moverse de la levedad relativa se da sobre cierto cuerpo, el moverse de la levedad absoluta* se daría sobre todos los cuerpos generados;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>tamen Philosophi diversa valde scribunt de hoc:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T023223Z" creationid="mateovo2" creationdate="20201004T023223Z">
+        <seg>Sin embargo, los filósofos escriben muchas cosas diversas sobre esto,</seg>
       </tuv>
     </tu>
     <tu>

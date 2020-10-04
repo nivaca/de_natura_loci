@@ -3019,6 +3019,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Radius enim planetarum qui naturas dat locis, angulum et circulum mutat ad parvam quantitatem declinationis suae ad Aquilonem, ita quod cum sit in aequinoctiali puncto, aequat dies et noctes:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030255Z" creationid="mateovo2" creationdate="20201004T030255Z">
+        <seg>Pues el rayo de los planetas, que da las naturalezas a los lugares, varía el ángulo y la sombra de su inclinación hacia el aquilón en poca cantidad, de manera que en la medida en que está en el punto equinoccial, iguala los días y las noches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Radius enim planetarum qui naturas dat locis, angulum et circulum mutat ad parvam quantitatem declinationis suae ad Aquilonem, ita quod cum sit in aequinoctiali puncto, aequat dies et noctes: et declinans ab eo versus Aquilonem per triginta sex gradus, et facit longiorem diem quam sit dies aequinoctii per unam horam in terra quae secundum latitudinem sedecim graduum distat ab aequinoctiali circulo, et [17a] in terra: cujus latitudo est viginti quatuor graduum et facit diem longiorem per horam et dimidiam: et hoc est clima secundum: et in terra quae ab aequinoctiali distat per triginta gradus, erit dies longior per duas horas, et constituit tertium clima: et si distat per triginta sex gradus, erit dies longior per duas horas et dimidiam, et sic constituit quartum clima: et si distat per quadraginta et unum gradus, et tertiam partem gradus, vincet longior dies per tres horas integras, et vocatur quintum clima.</seg>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20201002T220326Z" creationid="anlozan" creationdate="20200925T204955Z">
@@ -3122,6 +3130,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200625T170446Z" creationid="mateovo2" creationdate="20200625T170446Z">
         <seg>Pero frente a estas cosas es fácil responder, porque el fuego por delegación* hace la generación de los elementos en el contacto del aire con él, como se tiene demostrado en el libro *Sobre la generación*.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sed advertendum aliter esse in caelo et aliter in terra:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030234Z" creationid="mateovo2" creationdate="20201004T030234Z">
+        <seg>Pero hay que advertir que de una manera es en la tierra y de otra, en el cielo;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3890,6 +3906,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Videtur autem alicui inconvenienter esse dictum quod diximus de mensuris locorum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030206Z" creationid="mateovo2" creationdate="20201004T030206Z">
+        <seg>Sin embargo, le parecerá a alguno que es dicho inconvenientemente lo que dijimos sobre la medida de los lugares</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Videtur autem alicui inconvenienter esse dictum quod diximus de mensuris locorum: quia nos diximus in libro Caeli et Mundi, quod latitudo est a dextro ad sinistrum, et longitudo a superiori in inferius: et nos diximus, quod dextrum et [B548a] sinistrum caeli sunt Oriens et Occidens, et superius et inferius sunt poli, Meridianus, et Aquilonaris: et sic videbitur, quod longitudo locorum sit a Meridie in Aquilonem accipiendo, et latitudo sit ab Oriente in Occidentem per contrarium ejus quod diximus hic.</seg>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20201002T211853Z" creationid="anlozan" creationdate="20200925T204607Z">
@@ -4119,6 +4143,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T021202Z" creationid="mateovo2" creationdate="20201004T021202Z">
         <seg>No se puede concebir otra causa para esto, salvo porque, por la continua conversión de los elementos superiores en inferiores, se levanta continuamente en el norte,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>cujus latitudo est viginti quatuor graduum et facit diem longiorem per horam et dimidiam:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030339Z" creationid="mateovo2" creationdate="20201004T030339Z">
+        <seg>y en el sitio cuya latitud es de 24 grados, hace el día más largo en una hora y media,</seg>
       </tuv>
     </tu>
     <tu>
@@ -4446,6 +4478,22 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et declinans ab eo versus Aquilonem per triginta sex gradus, et facit longiorem diem quam sit dies aequinoctii per unam horam in terra quae secundum latitudinem sedecim graduum distat ab aequinoctiali circulo, et [17a] in terra:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030331Z" creationid="mateovo2" creationdate="20201004T030331Z">
+        <seg>Al inclinarse desde él (el punto equinoccial) frente al aquilón por 16 grados hace el día más largo que lo que es el día del equinoxio por una hora en el sitio que dista en 16 grados de latitud desde el círculo equinoxial;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et distantia ab illo vocatur terrae longitudo.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030149Z" creationid="mateovo2" creationdate="20201004T030149Z">
+        <seg>y la distancia desde AQUEL se llama “longitud del sitio”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et distantia prima causabit formam aeris:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T025156Z" creationid="mateovo2" creationdate="20201003T025156Z">
@@ -4538,6 +4586,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T165249Z" creationid="mateovo2" creationdate="20201003T165238Z">
         <seg>Y esto sucede por el hecho de que los elementos poco distan de la materia, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et hoc est clima secundum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030341Z" creationid="mateovo2" creationdate="20201004T030341Z">
+        <seg>y esto es el segundo clima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4945,6 +5001,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et in terra quae ab aequinoctiali distat per triginta gradus, erit dies longior per duas horas, et constituit tertium clima:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030348Z" creationid="mateovo2" creationdate="20201004T030348Z">
+        <seg>Y en el sitio que dista de la equinoxial por los 30 grados, el día será más largo por dos horas, y constituye el tercer clima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et inducunt praecipue tres rationes, quarum una est Ptolemaei, quod ad illam partem minor per diametrum solis conversa sit, et non propter vicinitatem corporis solis et ultra tropicum hyemalem effectus sit locus inhabitabilis.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T014921Z" creationid="mateovo2" creationdate="20201004T014921Z">
@@ -5005,6 +5069,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T170528Z" creationid="mateovo2" creationdate="20201003T170528Z">
         <seg>y que no haya temperamento salvo entre dos contrarios no temperados,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et nos diximus, quod dextrum et [B548a] sinistrum caeli sunt Oriens et Occidens, et superius et inferius sunt poli, Meridianus, et Aquilonaris:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030216Z" creationid="mateovo2" creationdate="20201004T030216Z">
+        <seg>y nosotros dijimos que lo derecho y lo izquierdo del cielo son el oriente y el occidente y que lo superior y lo inferior son los polos sur y aquilonar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5178,6 +5250,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et si distat per triginta sex gradus, erit dies longior per duas horas et dimidiam, et sic constituit quartum clima:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030352Z" creationid="mateovo2" creationdate="20201004T030352Z">
+        <seg>Y si dista por los 36 grados, el día será más largo por dos horas y media, y hace el cuarto clima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et si ducerentur chordae a gradibus Geminorum ultimis ad gradus Cancri primos sibi mutuo per comparitatem respondentes, essent chordae breves, quae subtenduntur arcubus sphaericis:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T170146Z" creationid="mateovo2" creationdate="20201003T170146Z">
@@ -5246,6 +5326,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T030026Z" creationid="mateovo2" creationdate="20201004T030026Z">
         <seg>y así un sitio no tiene más longitud que otro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et sic videbitur, quod longitudo locorum sit a Meridie in Aquilonem accipiendo, et latitudo sit ab Oriente in Occidentem per contrarium ejus quod diximus hic.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030222Z" creationid="mateovo2" creationdate="20201004T030222Z">
+        <seg>Y así parece que la longitud de los lugares ha de tomarse desde el sur hacia el aquilón y que la latitud de ellos se da desde el oriente hacia el occidente, al  contrario de lo que dijimos acá.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5326,6 +5414,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T023714Z" creationid="mateovo2" creationdate="20201004T023655Z">
         <seg>Y al venir por el equinoccial, hallaron lugares pantanosos en los que se ensancha el Nilo,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et vocatur Oriens et Occidens mundi, ortus et occasus continuari ad amphitritem:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030147Z" creationid="mateovo2" creationdate="20201004T030135Z">
+        <seg>Y se llama “oriente” y “occidente” del mundo al orto y al ocaso continuados hacia el Amphitrites</seg>
       </tuv>
     </tu>
     <tu>
@@ -5554,6 +5650,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T025257Z" creationid="mateovo2" creationdate="20201003T025257Z">
         <seg>Y así los medios, por la fácil mezcla demás los elementos medios, fueron diferenciados por los filósofos como intersticios;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>minor enim dimensio variat naturam terrenae habitationis ab Aquilone in Meridie acceptam, quam ab Oriente in Occidentem.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030239Z" creationid="mateovo2" creationdate="20201004T030239Z">
+        <seg>pues en menor medida/en una dimensión menor varía la naturaleza de la habitación terrena tomada desde el aquilón hacia el sur que desde el oriente hacia el occidente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5947,6 +6051,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T024315Z" creationid="mateovo2" creationdate="20201004T024315Z">
         <seg>porque no alcanza a llegar a la experiencia sino que sabemos que el frío extremo domina allí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>quia nos diximus in libro Caeli et Mundi, quod latitudo est a dextro ad sinistrum, et longitudo a superiori in inferius:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030212Z" creationid="mateovo2" creationdate="20201004T030212Z">
+        <seg>porque nosotros dijimos en el segundo libro *Del cielo y el mundo*, que la latitud se da desde lo derecho hacia lo izquierdo y que la longitud, desde lo superior hasta lo inferior;</seg>
       </tuv>
     </tu>
     <tu>

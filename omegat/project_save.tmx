@@ -699,8 +699,8 @@
       <tuv lang="la">
         <seg>De longitudine et latitudine locorum habitabilium.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20200925T214002Z" creationid="anlozan" creationdate="20200925T170851Z">
-        <seg> Sobre la longitud y la latitud de los lugares habitables</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T024657Z" creationid="anlozan" creationdate="20200925T170851Z">
+        <seg>Sobre la longitud y la latitud de los lugares habitables</seg>
       </tuv>
     </tu>
     <tu>
@@ -2385,6 +2385,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Longitudo autem cujuslibet loci dicitur esse per mensuram ab Oriente in Occidentem acceptam:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T024935Z" creationid="mateovo2" creationdate="20201004T024935Z">
+        <seg>Ahora bien, la longitud de un lugar cualquiera se dice que es según la medida tomada desde el oriente hasta el occidente,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Longitudo autem cujuslibet loci dicitur esse per mensuram ab Oriente in Occidentem acceptam: et quantus est arcus a Zenith capitum versus Orientem totius habitabilis, tanta dicitur esse longitudo loci illius a Philosophis.</seg>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20200925T221147Z" creationid="anlozan" creationdate="20200925T173207Z">
@@ -2429,6 +2437,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200625T165311Z" creationid="mateovo2" creationdate="20200625T165311Z">
         <seg>por lo tanto, la materia más próxima al orbe es cálida en grado sumo, y por esto la concavidad del orbe último es el lugar más propio para esta. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Mensura [B547a] autem ista dicitur regionum latitudo a Philosophis:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T024907Z" creationid="mateovo2" creationdate="20201004T024907Z">
+        <seg>Sin embargo, esta medida es llamada por los filósofos "latitud de las regiones",</seg>
       </tuv>
     </tu>
     <tu>
@@ -2982,6 +2998,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20201002T220326Z" creationid="anlozan" creationdate="20200925T204955Z">
         <seg>En efecto, el rayo de los planetas, que da las naturalezas a los lugares, varía el ángulo y la sombra según una poca cantidad de su inclinación hacia el aquilón, de manera que, cuando está en el punto equinoccial, iguala los días y las noches. Al inclinarse desde este frente al aquilón por 16 grados, hace el día más largo que el del equinoccio por una hora en el sitio que dista 16 grados de latitud desde el círculo equinoccial; y en el sitio cuya latitud es de 24 grados, hace el día más largo en una hora y media y esto es el segundo clima. Y en el sitio que dista de la equinoccial 30 grados, el día será más largo por dos horas y constituye el tercer clima. Y si dista 36 grados, el día será más largo por dos horas y media y hace el cuarto clima. Y si dista 41 grados y medio, el día más largo supera la noche por tres horas y se llama el quinto clima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sciendum autem, quod pars illa non est rotunda ut quidam eam figurant [C16a] dividentes mundum in Asiam, Africam, et Europam:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T024730Z" creationid="mateovo2" creationdate="20201004T024730Z">
+        <seg>Ahora bien, hay que saber que aquella parte no es redonda, como algunos que dividen el mundo en Asia, África y Europa la dibujan,</seg>
       </tuv>
     </tu>
     <tu>
@@ -4896,6 +4920,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et latitudo regionis illius est mensura distantiae ad Aquilonem:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T024751Z" creationid="mateovo2" creationdate="20201004T024751Z">
+        <seg>Y la latitud de aquella región es la medida de su distancia desde la línea equinoccial hasta el aquilón,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et leves autem sunt ex multo aere et spirituali quod est in eis:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T164409Z" creationid="mateovo2" creationdate="20201003T164409Z">
@@ -5001,6 +5033,22 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et quantitas latitudinis est pars circuli Meridionalis terrae illius, cujus latitudo est accipienda secundum quantitatem qua sol quando est in linea Meridionali, accedit ad Zenith capitum habitantium in terra aliqua:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T024841Z" creationid="mateovo2" creationdate="20201004T024841Z">
+        <seg>y la magnitud de su latitud es llamada en la filosofía la magnitud del arco, que es la parte del círculo meridional de AQUEL SITIO cuya latitud ha de ser tomada; pues según la magnitud en la que el sol alcanza el cenit de las cabezas de los habitantes en algún SITIO, cuando está en la línea meridional, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et quantus est arcus a Zenith capitum versus Orientem totius habitabilis, tanta dicitur esse longitudo loci illius a Philosophis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T024956Z" creationid="mateovo2" creationdate="20201004T024956Z">
+        <seg>y cuanto sea el arco desde el cenit de las cabezas hasta el oriente del todo habitable, tanto se dice por los filósofos que es la longitud de aquel lugar,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et quia nos hunc errorem in aliis locis destruximus et in aliis libris adhuc destruemus, convertamus nos nunc ad alia quae de distinctione locorum dicere intendimus.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T022755Z" creationid="mateovo2" creationdate="20201003T022755Z">
@@ -5069,6 +5117,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T023211Z" creationid="mateovo2" creationdate="20201003T023211Z">
         <seg>y así se debe a este el centro del mundo;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et sic dicitur latior et minus lata regio eorum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T024846Z" creationid="mateovo2" creationdate="20201004T024846Z">
+        <seg>así se dice que es mayor o menor la latitud de su región.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5557,6 +5613,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>propter hoc quod secundum quantitatem arcus, qui est Meridionalis circuli pars, sol et caeteri planetae qui praecipue causant naturas et proprietates locorum, moventur in caeli latitudine super loca, aut directe perpendiculariter, aut accedendo versus ipsa.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T024924Z" creationid="mateovo2" creationdate="20201004T024924Z">
+        <seg>por el hecho de que, según la magnitud del arco, que es la parte del círculo meridional, el sol y los otros planetas, que principalmente causan las naturalezas y las propiedades de los lugares, se mueven en la latitud del cielo sobre los lugares ya directamente de manera perpendicular, ya aproximándose hacia ellos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>propter quod continue nebulosus et caliginosus est aer illarum regionum:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T024151Z" creationid="mateovo2" creationdate="20201004T024135Z">
@@ -5994,6 +6058,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T022027Z" creationid="mateovo2" creationdate="20201004T022027Z">
         <seg>sino que más bien dice que la cuarta, que se encuentra desde el círculo equinoccial hasta el polo austral, es divisible en climas habitables, así como también se divide la cuarta parte de la tierra septentrional en la que nosotros habitamos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>sed potius extenditur habitabilis nostra a linea Meridionali versus Aquilonem, sicut diximus supra:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T024745Z" creationid="mateovo2" creationdate="20201004T024745Z">
+        <seg>sino que más bien nuestra parte habitable se extiende desde la línea meridional hacia el aquilón, como dijimos más arriba</seg>
       </tuv>
     </tu>
     <tu>

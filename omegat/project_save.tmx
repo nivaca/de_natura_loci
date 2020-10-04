@@ -2022,6 +2022,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>In descriptione autem facta sub Caesare Augusto, legitur quod nuntios misit Augustus ad reges Aegypti et Aethiopiae, qui naves et impensas pararent necessarias eis quos miserat ad transeundum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T023649Z" creationid="mateovo2" creationdate="20201004T023649Z">
+        <seg>Sin embargo, en la descripción del mundo hecha por César Augusto, se lee que Augusto envió mensajeros a los reyes de Egipto y de Etiopía, quienes prepararían las naves y las vituallas necesarias para aquellos a quienes había enviado a atravesar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>In descriptione autem facta sub Caesare Augusto, legitur quod nuntios misit Augustus ad reges Aegypti et Aethiopiae, qui naves et impensas pararent necessarias eis quos miserat ad transeundum: et venientes sub aequinoctiali loca paludosa invenerunt, in quibus nihil diffunditur: et lapidosa quae nec navibus, nec [B545a] pedibus poterant transire: et ideo sunt reversi negotio non peracto.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200916T201600Z" creationid="anlozan" creationdate="20200814T211036Z">
@@ -3632,6 +3640,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Unde in omnibus credo his verius esse, quod difficilis sit transitus et non impossibilis:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T023739Z" creationid="mateovo2" creationdate="20201004T023739Z">
+        <seg>De ahí, que en relación con todas estas cosas creo que es más verdadero que el paso sea difícil y no imposible,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Unde in omnibus credo his verius esse, quod difficilis sit transitus et non impossibilis: et hoc propter vastam et arenosam eremum, quae adustione solis sterilis est: et ideo sine longitudinis viatione transiri non potest: et hanc esse causam existimo, quare parva est communicatio hominum ultra aequinoctialem existentium in climatibus Meridionalibus, cum his qui nobiscum habitant in quarta Aquilonari.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200904T232219Z" creationid="anlozan" creationdate="20200814T211238Z">
@@ -4228,6 +4244,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et est illud genus magnetis talis naturae, quod carnes humanas sibi attrahit, sicut noster magnes ferrum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T023530Z" creationid="mateovo2" creationdate="20201004T023530Z">
+        <seg>y es ese tipo de magneto de naturaleza tal que atrae las carnes humanas hacia sí, de la manera como nuestro magneto atrae el hierro;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et est inconveniens ratio quam ad hoc inducunt dicentes esse inutilem, cum ad mixtionem [C5a] aliorum faciendam corporum et generationem perficiendam non possit descendere:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T022645Z" creationid="mateovo2" creationdate="20201003T022645Z">
@@ -4284,6 +4308,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et hanc esse causam existimo, quare parva est communicatio hominum ultra aequinoctialem existentium in climatibus Meridionalibus, cum his qui nobiscum habitant in quarta Aquilonari.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T023801Z" creationid="mateovo2" creationdate="20201004T023801Z">
+        <seg>Y considero que esta es la causa por la que es poco el intercambio entre los hombres que existen en climas meridionales más allá del equinoccial y estos que habitan con nosotros en la cuarta parte aquilonal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et hoc contingit ideo quod elementa parum distant a materia:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T165249Z" creationid="mateovo2" creationdate="20201003T165238Z">
@@ -4305,6 +4337,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T030138Z" creationid="mateovo2" creationdate="20201003T030138Z">
         <seg>y de este modo se puede conceder metafóricamente que la luz es la virtud, por la que el cielo difunde la virtud formadora hacia el lugar y hacia todas las diferencias de lugar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et hoc propter vastam et arenosam eremum, quae adustione solis sterilis est:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T023747Z" creationid="mateovo2" creationdate="20201004T023747Z">
+        <seg>y esto a causa del desierto vasto y arenoso que es estéril por lo abrasador del sol,</seg>
       </tuv>
     </tu>
     <tu>
@@ -4613,6 +4653,23 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et ideo sine longitudinis viatione transiri non potest:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T023753Z" creationid="mateovo2" creationdate="20201004T023753Z">
+        <seg>y por esto sin gran provisión de viaje no puede ser atravesado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et ideo sunt reversi negotio non peracto.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T023729Z" creationid="mateovo2" creationdate="20201004T023729Z">
+        <seg>Y por esto volvieron sobre sus pasos con la empresa no finiquitada.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et ideo tertiam causam caloris sub tropico hyemali dicit esse falsam et nullam:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T022022Z" creationid="mateovo2" creationdate="20201004T022022Z">
@@ -4641,6 +4698,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T171224Z" creationid="mateovo2" creationdate="20201003T171224Z">
         <seg>y pasa un tiempo largo entre el calor del sol que produce al aproximarse y el que produce en su segunda aproximación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et lapidosa quae nec navibus, nec [B545a] pedibus poterant transire:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T023716Z" creationid="mateovo2" creationdate="20201004T023716Z">
+        <seg>y lugares rocosos que no podían ser atravesados ni por naves ni a pie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4681,6 +4746,15 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T021212Z" creationid="mateovo2" creationdate="20201004T021212Z">
         <seg>y por la causa opuesta de la conversión de los elementos inferiores en superiores se deprime y disminuye en el sur hacia el polo austral,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et propter illos non posse transire.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T023636Z" creationid="mateovo2" creationdate="20201004T023636Z">
+        <seg>y debido a aquellos nadie puede pasar.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -4865,6 +4939,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T170022Z" creationid="mateovo2" creationdate="20201003T170022Z">
         <seg>Y entonces convendría que aquel espacio desde ambos polos hasta ambos trópicos fuera de cuarenta y dos grados,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et venientes sub aequinoctiali loca paludosa invenerunt, in quibus nihil diffunditur:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T023714Z" creationid="mateovo2" creationdate="20201004T023655Z">
+        <seg>Y al venir por el equinoccial, hallaron lugares pantanosos en los que se ensancha el Nilo,</seg>
       </tuv>
     </tu>
     <tu>

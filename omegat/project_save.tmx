@@ -1704,6 +1704,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Et si quidem sunt ante locum versus Aquilonem, tunc erit locus per naturam calidus:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T174635Z" creationid="nivaca" creationdate="20201004T174635Z">
+        <seg>y si algunos están delante de un lugar frente al Aquilón, entonces el lugar será por naturaleza cálido,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Et si vina nascuntur in locis talibus, calidissima sunt et siccissima, ita quod intolerabilem astum excitant bibentibus ea, sicut sunt vina quae nascuntur in insula quae vocatur Cyprus, et in aliis locis similibus.</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201002T213530Z" creationid="nivaca" creationdate="20201002T212731Z">
@@ -6518,6 +6526,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T171325Z" creationid="mateovo2" creationdate="20201003T171325Z">
         <seg>porque el retroceso del sol causa un frío causado por la victoria de los elementos inferiores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>quia reflexio radii (quae ad montes est) calefacit locum vehementer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T174644Z" creationid="nivaca" creationdate="20201004T174644Z">
+        <seg>porque el reflejo de los rayos, </seg>
       </tuv>
     </tu>
     <tu>

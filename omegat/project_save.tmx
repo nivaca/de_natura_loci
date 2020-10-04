@@ -2377,6 +2377,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Infrigidatur etiam locus post resolutionem nivium.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201004T204141Z" creationid="nivaca" creationdate="20201004T204055Z">
+        <seg>El lugar también se enfría luego del deshielo de las nieves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Invenimus enim aliquod compositum quod est locans et locatum simul, et invenimus aliquod locatum tantum, oportet igitur esse aliquid locans tantum:</seg>
       </tuv>
       <tuv lang="es-CO" changeid="mateovo2" changedate="20201004T020630Z" creationid="mateovo2" creationdate="20201003T030343Z">

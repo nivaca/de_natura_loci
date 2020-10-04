@@ -2059,6 +2059,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Hic enim aer est optimus, qui cito recipit temporis qualitatem, et in tali loco plura elementa mutantur secundum tempora:</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201004T234635Z" creationid="nivaca" creationdate="20201004T234635Z">
+        <seg>pues este aire es el mejor, el que rápidamente recibe la cualidad del tiempo. Y en tal lugar muchas cosas cambian según los tiempos,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>His autem habitis, de duabus regionibus inhabitabilibus propter frigus est tractandum.</seg>
       </tuv>
       <tuv lang="es-CO" changeid="anlozan" changedate="20200911T211507Z" creationid="anlozan" creationdate="20200821T144743Z">
@@ -6043,8 +6051,8 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       <tuv lang="la">
         <seg>ideo in aestate cito calescit, habetque aestatem calidam, et in hyeme cito infrigidatur.</seg>
       </tuv>
-      <tuv lang="es-CO" changeid="nivaca" changedate="20201004T212216Z" creationid="nivaca" creationdate="20201004T212216Z">
-        <seg>por eso en el </seg>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201004T234534Z" creationid="nivaca" creationdate="20201004T212216Z">
+        <seg>por eso en el verano [el aire] caliente rápidamente y [el lugar] tiene un verano cálido, y en el invierno [el aire] enfría rápidamente;</seg>
       </tuv>
     </tu>
     <tu>

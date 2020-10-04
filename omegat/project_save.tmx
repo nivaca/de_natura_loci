@@ -1407,6 +1407,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Et ideo in talibus montibus vina fortia generantur in latere [B556a] Meridiano, nisi fuerint multum alti:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T174955Z" creationid="nivaca" creationdate="20201004T174955Z">
+        <seg>Y por eso en tales montes se producen vinos fuertes en el lado meridiano, salvo que [los montes] fueran muy altos,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Et ideo oportet quod sit altius in loco secundum distantiam a centro, et claudens in se undique per circuitum alia:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T014928Z" creationid="mateovo2" creationdate="20201003T014906Z">
@@ -6532,8 +6540,8 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       <tuv lang="la">
         <seg>quia reflexio radii (quae ad montes est) calefacit locum vehementer.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20201004T174644Z" creationid="nivaca" creationdate="20201004T174644Z">
-        <seg>porque el reflejo de los rayos, </seg>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T174852Z" creationid="nivaca" creationdate="20201004T174644Z">
+        <seg>porque el reflejo de los rayos, que dsa hacia los montes, calienta el lugar con vehemencia.</seg>
       </tuv>
     </tu>
     <tu>

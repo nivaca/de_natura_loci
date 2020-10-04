@@ -4777,6 +4777,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et erit locus non bonus ad habitandum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T202102Z" creationid="nivaca" creationdate="20201004T202102Z">
+        <seg>y no ser será un lugar bueno para habitar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et est illud genus magnetis talis naturae, quod carnes humanas sibi attrahit, sicut noster magnes ferrum:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T023530Z" creationid="mateovo2" creationdate="20201004T023530Z">
@@ -4797,6 +4805,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T015744Z" creationid="mateovo2" creationdate="20201003T022505Z">
         <seg>y es el más transparente entre los demás elementos, porque es más sutil y más raro entre todos;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et ex vicinitate montium grossam habet humiditatem, quia patulus est vento Occidentali frigido et humido:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T202053Z" creationid="nivaca" creationdate="20201004T202053Z">
+        <seg>y por la vecindad de los montes; pero tiene una espesa humedad, por el hecho de que está expuesto/abierto al frío y húmedo viento occidental,</seg>
       </tuv>
     </tu>
     <tu>
@@ -5849,8 +5865,8 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       <tuv lang="la">
         <seg>frigidus quidem erit, quia tectus est ab Oriente:</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20201004T202027Z" creationid="nivaca" creationdate="20201004T202027Z">
-        <seg>Será ciertamente frío, porque está protegido desde el oriente y por la vecindad de los montes; pero tiene una espesa humedad, por el hecho de que está expuesto/abierto al frío y húmedo viento occidental, no ser será un lugar bueno para habitar.</seg>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T202041Z" creationid="nivaca" creationdate="20201004T202027Z">
+        <seg>Será ciertamente frío, porque está protegido desde el oriente</seg>
       </tuv>
     </tu>
     <tu>

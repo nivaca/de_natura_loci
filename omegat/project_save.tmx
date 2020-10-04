@@ -5057,6 +5057,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et ideo loca illa frigida sunt per naturam:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T161933Z" creationid="nivaca" creationdate="20201004T161933Z">
+        <seg>Y por eso aunque los lugares sean fríos por naturaleza,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et ideo locum habere virtutem activam in locato non est ambiguum.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015833Z" creationid="nivaca" creationdate="20201003T001332Z">
@@ -6806,6 +6814,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T023223Z" creationid="mateovo2" creationdate="20201004T023223Z">
         <seg>Sin embargo, los filósofos escriben muchas cosas diversas sobre esto,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>tamen aestates illorum locorum non multum calefiunt, et hyemes eorum non multum frigidantur.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T162122Z" creationid="nivaca" creationdate="20201004T162122Z">
+        <seg>sin embargo, los veranos de aquellos lugares no calientan muchos, y los sus inviernos no enfrían mucho.</seg>
       </tuv>
     </tu>
     <tu>

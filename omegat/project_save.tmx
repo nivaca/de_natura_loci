@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Alio etiam tempore ventus tempestuosus facit in eis tempestates, in tantum quod propter tempestates navigari non possunt, sicut dicit Albumasar:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T024624Z" creationid="mateovo2" creationdate="20201004T024624Z">
+        <seg>Además, en otro tiempo, el viento tempestuoso produce en ellos [los mares] tempestades, a tal nivel que por causa de la tempestad no se pueden navegar, según dice Albumasar;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Alio etiam tempore ventus tempestuosus facit in eis tempestates, in tantum quod propter tempestates navigari non possunt, sicut dicit Albumasar: sol enim non consumit vapores, sed elevando confortatur ventus continue, et procellosum facit mare et innavigabile.</seg>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20200925T212751Z" creationid="anlozan" creationdate="20200925T164718Z">
@@ -244,6 +252,14 @@
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200916T201558Z" creationid="anlozan" creationdate="20200814T202903Z">
         <seg>En efecto, Averroes en el *Comentario al cuarto libro del cielo y el mundo* dice, de Aristóteles y fue su propia opinión, que aquellos lugares son habitables y aduce como razón algo necesariamente probatorio, como me parece; dice, en efecto, que en medio de lo que es muy caliente y lo que es muy frío necesariamente hay lo temperado. Pero el lugar más caliente está bajo el trópico invernal. Ahora bien, es preciso que lo más frío esté bajo el polo, esto porque los rayos del sol caen en aquel lugar muy oblicuamente. Por lo tanto, en el medio, por equidistancia con ambos, habrá un lugar temperado y adecuado para habitar.	</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Aves autem rapaces propter corporum suorum constrictorum et spirituum caliditatem fortissimae sunt in regionibus illis habitabilibus juxta polum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T024429Z" creationid="mateovo2" creationdate="20201004T024429Z">
+        <seg>También las aves rapaces son fortísimas a causa de la constricción de sus cuerpos y de la calidez de sus espíritus en las regiones habitables próximas al polo</seg>
       </tuv>
     </tu>
     <tu>
@@ -925,6 +941,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Est autem immensa illorum locorum frigiditas, etiam causa quare materia illarum regionum sunt raro navigabilia:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T024610Z" creationid="mateovo2" creationdate="20201004T024610Z">
+        <seg>Ahora bien, la frialdad intensa de aquellos lugares es también la causa por la que los mares de aquellas regiones son escasamente navegables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Est autem immensa illorum locorum frigiditas, etiam causa quare materia illarum regionum sunt raro navigabilia: quia tempore hyemis congelata sunt glacie so-[B546b]-lidissima, et tempore aestatis fluit in eis glacies divisa, quae vel in mari congelata fuit, vel per flumina influit in mare.</seg>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20200925T211507Z" creationid="anlozan" creationdate="20200918T230351Z">
@@ -977,6 +1001,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200625T163424Z" creationid="mateovo2" creationdate="20200625T163424Z">
         <seg>Sin embargo, hay una razón para esto a partir del movimiento y de la sutilidad y de la calidez y de la liviandad del fuego y de la transparencia y de las otras propiedades del fuego.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Est autem regio illa secundum rationis sententiam aquosa multum, eo quod ibi continue aer ad aquam resolvitur, sicut supra docuimus:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T024643Z" creationid="mateovo2" creationdate="20201004T024643Z">
+        <seg>Sin embargo, aquella región es, según lo que se sigue de la razón, muy abundante en agua, y esto porque allí el aire permanentemente se transforma en el agua, así como hemos enseñado más arriba </seg>
       </tuv>
     </tu>
     <tu>
@@ -1041,6 +1073,15 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200626T225325Z" creationid="nivaca" creationdate="20200610T234806Z">
         <seg>Pero es también razonable que allí haya habitación; puesto que, en efecto, de acuerdo con el legado de los filósofos, el sol en una órbita oblicua es causa de generación por su aproximación y causa de corrupción por su retroceso, será preciso que allí especialmente haya generación, donde se aproxima y retrocede por igual. Sin embargo, esto sucede bajo el equinoccio; por lo tanto, allí se dará especialmente la habitación de lo generado. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Est tamen in talibus locis distinctio:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T024522Z" creationid="mateovo2" creationdate="20201004T024522Z">
+        <seg>Hay, sin embargo, en esos lugares una diferencia:
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -3744,6 +3785,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Vegetabilia quae ibi sunt, aliquantulum convalescunt, ut avena, et hordeum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T024506Z" creationid="mateovo2" creationdate="20201004T024506Z">
+        <seg>Ahora bien, las plantas frías allí crecen poco como la avena y la cebada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Vegetabilia quae ibi sunt, aliquantulum convalescunt, ut avena, et hordeum: sed triticum nequaquam ibi convalescere potest: et si aliquando seminatur, degenerat in granum alterius naturae.</seg>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20200918T224356Z" creationid="anlozan" creationdate="20200828T210757Z">
@@ -4283,6 +4332,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et animalia quae ibi sunt, tendunt ad albedinem, sicut ursi, et leones, et hujusmodi.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T024435Z" creationid="mateovo2" creationdate="20201004T024435Z">
+        <seg>y los animales que están allí tienden a la blancura como el oso y los lepores y los de este tipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et centrum illud quod est locus terrae, est mundi centrum, ad quod secundum naturam movetur terra.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T022836Z" creationid="mateovo2" creationdate="20201003T022836Z">
@@ -4605,6 +4662,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et ideo eis est calidus et humidus, sicut apud nos ventus Meridianus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T024414Z" creationid="mateovo2" creationdate="20201004T024414Z">
+        <seg>y por esto para ellos es cálido y húmedo así como en la de nosotros el viento meridional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et ideo elementa moventur determinata ad talem determinatam distantiam loci sub orbe propter loci et locati contrarietatem.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T025622Z" creationid="mateovo2" creationdate="20201003T025554Z">
@@ -4799,6 +4864,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et in libro Meteororum cum subtiliori consideratione dicturi sumus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T024647Z" creationid="mateovo2" creationdate="20201004T024647Z">
+        <seg>y en el libro de los *Meterológicos* será discutido con consideraciones más precisas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et inducunt praecipue tres rationes, quarum una est Ptolemaei, quod ad illam partem minor per diametrum solis conversa sit, et non propter vicinitatem corporis solis et ultra tropicum hyemalem effectus sit locus inhabitabilis.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T014921Z" creationid="mateovo2" creationdate="20201004T014921Z">
@@ -4964,6 +5037,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T024521Z" creationid="mateovo2" creationdate="20201003T024521Z">
         <seg>y en la medida en que las partes de la tierra estén alejadas más o menos del centro, así menos y más alcanzan la verdadera naturaleza de la tierra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et si aliquando seminatur, degenerat in granum alterius naturae.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T024518Z" creationid="mateovo2" creationdate="20201004T024518Z">
+        <seg>y si es sembrado alguna vez, se degenera en un grano de otra naturaleza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5532,6 +5613,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>propter quod tradunt Philosophi montes altos esse in partibus Aquilonaribus perpetuarum nivium et perpetuae frigiditatis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T024601Z" creationid="mateovo2" creationdate="20201004T024601Z">
+        <seg>Por esto enseñan los filósofos que hay montañas altas en las partes aquilonales de nieves perpetuas y de fríaldad perpetua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>propter quod unus calor alium in loco non invenit:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T171242Z" creationid="mateovo2" creationdate="20201003T171242Z">
@@ -5685,6 +5774,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>quia quanto sunt frigidiora in superficie, tanto magis recludunt in se vapores calidos diu in ventre terrae congregatos, et illi frequenter erumpunt in montes altos:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T024530Z" creationid="mateovo2" creationdate="20201004T024530Z">
+        <seg>porque en cuanto son más fríos en la superficie tanto más se guardan en ellos vapores cálidos por mucho tiempo conservados en el vientre de la tierra, y estos irrumpen frecuentemente como montes altos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>quia recessus solis causat frigus ex victoria inferiorum elementorum causatum:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T171325Z" creationid="mateovo2" creationdate="20201003T171325Z">
@@ -5729,6 +5826,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T164825Z" creationid="mateovo2" creationdate="20201003T164825Z">
         <seg>porque así como el lugar de uno no es el del otro en su totalidad, de la misma manera el lugar de una parte no es el lugar de la otra parte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>quia tempore hyemis congelata sunt glacie so-[B546b]-lidissima, et tempore aestatis fluit in eis glacies divisa, quae vel in mari congelata fuit, vel per flumina influit in mare.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T024617Z" creationid="mateovo2" creationdate="20201004T024617Z">
+        <seg>porque en la estación de invierno están congelados con un hielo muy sólido y en la estación del verano fluye en ellos el hielo desprendido de su parte grande que o bien se congeló en el mar o desemboca por los ríos en el mar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5909,6 +6014,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>sed triticum nequaquam ibi convalescere potest:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T024514Z" creationid="mateovo2" creationdate="20201004T024514Z">
+        <seg>pero el trigo nunca puede crecer allí,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>sed tunc improprie loquentur:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T025939Z" creationid="mateovo2" creationdate="20201003T025939Z">
@@ -5937,6 +6050,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T022429Z" creationid="mateovo2" creationdate="20201003T022429Z">
         <seg>pues si el moverse de la levedad relativa se da sobre cierto cuerpo, el moverse de la levedad absoluta* se daría sobre todos los cuerpos generados;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>sol enim non consumit vapores, sed elevando confortatur ventus continue, et procellosum facit mare et innavigabile.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T024628Z" creationid="mateovo2" creationdate="20201004T024628Z">
+        <seg>pues el sol no consume el vapor sino que al elevarlo el viento como que se fortale permanentemente y hace al mar tormentoso e innavegable.</seg>
       </tuv>
     </tu>
     <tu>

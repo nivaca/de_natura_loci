@@ -1602,8 +1602,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Et quia ventus Aquilonaris dissipat nubes, erit locus ille frigidus et siccus et sanus ad habitandum, nisi ex alio accidente prohibeatur.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20201004T201727Z" creationid="nivaca" creationdate="20201004T201727Z">
-        <seg>Y porque el viento aquilonar disipa las nubes, aquel lugar será frio y seco y sano para habitar, salvo que [el viento] estuviera impedido por algún otro accidente.</seg>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T201804Z" creationid="nivaca" creationdate="20201004T201727Z">
+        <seg>Y porque el viento aquilonar disipa las nubes, aquel lugar será frio y seco y sano para habitar, salvo que [el viento] fuera impedido por algún otro accidente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3707,6 +3707,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200626T213352Z" creationid="nivaca" creationdate="20200610T234439Z">
         <seg>Por lo tanto, si aquellos lugares son tan fuertemente cálidos a causa del solo verano que tienen a partir del sol que se les aproxima y que no cae sobre el cénit de sus cabezas*, es probable que sea de calor intolerable la tierra en la que el sol cae perpendicularmente dos veces al año, y que por esto sea inhabitable. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Si vero montes sunt ex parte Orientis, et locus versus Occidentem, erit locus quoad illud accidens frigidus et humidus habens grossam terrestreitatem impuram:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T201921Z" creationid="nivaca" creationdate="20201004T201921Z">
+        <seg>Ahora bien, si los montes se dan desde el oriente y el lugar está frente al occidente, el lugar será ---en cuanto a este accidente--- uno frío y húmedo que tieen una espesa e impura humedad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5835,6 +5843,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       <tuv lang="es" changeid="mateovo2" changedate="20201004T021957Z" creationid="mateovo2" creationdate="20201004T021957Z">
         <seg>Ahora bien, es preciso que lo más frío esté bajo el polo, porque los rayos del sol caen en aquel lugar muy oblicuamente.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>frigidus quidem erit, quia tectus est ab Oriente:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T202027Z" creationid="nivaca" creationdate="20201004T202027Z">
+        <seg>Será ciertamente frío, porque está protegido desde el oriente y por la vecindad de los montes; pero tiene una espesa humedad, por el hecho de que está expuesto/abierto al frío y húmedo viento occidental, no ser será un lugar bueno para habitar.</seg>
       </tuv>
     </tu>
     <tu>

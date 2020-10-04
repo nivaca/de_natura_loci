@@ -2833,6 +2833,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Quod autem dicitur, regionem illam quae est in meridie, inter Aquilonem et tropicum Capricorni, esse adustam, hoc manifestum est modo quo supra diximus:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022840Z" creationid="mateovo2" creationdate="20201004T022840Z">
+        <seg>Se dice, sin embargo, que aquella región que está en el sur, entre el equinoccial y el trópico de Capricornio, es ardiente. Es verdadero en el modo que dijimos arriba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Quod autem dicitur, regionem illam quae est in meridie, inter Aquilonem et tropicum Capricorni, esse adustam, hoc manifestum est modo quo supra diximus: sed hoc non prohibet quin aliquando possit habitari, quando scilicet sol est in signis Aquilonaribus: tunc enim est eis hyems: et hoc modo etiam nihil prohibet quin homines quartae Aquilonaris possint transire ad homines quartae Meridionalis non impediente exustione solis.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200904T213542Z" creationid="anlozan" creationdate="20200814T204923Z">
@@ -3931,6 +3939,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T022131Z" creationid="mateovo2" creationdate="20201004T022131Z">
         <seg>Además, dijeron que ciertas estrellas aquilonales son lo que hace salir la cuarta parte aquilonal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>eo quod aux ejus est in Aquilone, et oppositum augis in Meridie.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022815Z" creationid="mateovo2" creationdate="20201004T022815Z">
+        <seg>porque su apogeo está en el aquilón y la oposición del apogeo en el sur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5119,8 +5135,8 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       <tuv lang="la">
         <seg>propter hoc quod ibi est superius solis, et caeli vicinitas plus temperat frigus regionum quae distant ab aequinoctiali per quinquaginta gradus a Meridie, quam faciat in Aquilone:</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201004T022719Z" creationid="mateovo2" creationdate="20201004T022719Z">
-        <seg>por el hecho de que allí está lo más alto del cielo y la proximidad del sol tempera más el frío de las regiones que distan del equinoccial por el grado 50 en el sur, a la que se hace en el aquilón, por aquello de que su apogeo está en el aquilón y la oposición del apogeo en el sur.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022807Z" creationid="mateovo2" creationdate="20201004T022719Z">
+        <seg>por el hecho de que allí está lo más alto del cielo y la proximidad del sol tempera más el frío de las regiones que distan del equinoccial por el grado 50 en el sur, a la que se hace en el aquilón,</seg>
       </tuv>
     </tu>
     <tu>
@@ -5486,6 +5502,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>sed hoc non prohibet quin aliquando possit habitari, quando scilicet sol est in signis Aquilonaribus:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022846Z" creationid="mateovo2" creationdate="20201004T022846Z">
+        <seg>Pero esto no impide que a veces pueda ser habitada, por ejemplo, cuando el sol está en las constelaciones aquilonales;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>sed inter duo calidissima non est temperatum medium.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T170302Z" creationid="mateovo2" creationdate="20201003T170302Z">
@@ -5562,6 +5586,15 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T165323Z" creationid="mateovo2" creationdate="20201003T165323Z">
         <seg>sin embargo, es necesario finalmente que tanto ellos mismos se alteren como que se corrompan terminado el período de su ser que tienen por las virtudes de la órbita celeste, así como será explicado mejor hacia el final del segundo libro *Sobre la generación y la corrupción*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>tunc enim est eis hyems:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022851Z" creationid="mateovo2" creationdate="20201004T022851Z">
+        <seg>pues entonces es invierno para ellos.
+</seg>
       </tuv>
     </tu>
     <tu>

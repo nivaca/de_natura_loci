@@ -745,6 +745,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Dico autem illum arcum similem semicirculo aequinoctiali:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T025808Z" creationid="mateovo2" creationdate="20201004T025808Z">
+        <seg>Ahora bien, digo que aquel arco es similar al semicírculo equinoccial, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Dico autem illum arcum similem semicirculo aequinoctiali: quia et ipse arcus semicirculus ejus circuli intellectualis qui parallelus est aequinoctiali, distans ab ipso in [16b] sphaeram versus Aquilonem per quinquaginta gradus inaequalis est: quia aequinoctialis circulus est magnus dividens totam sphaeram caeli et terrae in duo aequalia: et parallelus, de quo dictum est, de parvis circulis, unus qui spheram caeli et terrae in duo aequalia dividit.</seg>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20200925T224650Z" creationid="anlozan" creationdate="20200925T174408Z">
@@ -2466,6 +2474,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Movet autem fortasse aliquem id quod diximus de longitudine terrarum, quod scilicet distantia ab Oriente mundi ipsius est longitudo:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T025959Z" creationid="mateovo2" creationdate="20201004T025959Z">
+        <seg>Sin embargo, esto que dijimos sobre la longitud de las tierras, a saber, que la distancia desde el oriente del mundo es su longitud, quizás haga vacilar a alguien;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Movet autem fortasse aliquem id quod diximus de longitudine terrarum, quod scilicet distantia ab Oriente mundi ipsius est longitudo: omnis enim terra suum habet Orientem, cum terra sit rotunda: et omnis terra distat ab Oriente suo spatio aequali, hoc est, per nonaginta gradus: et sic una terra non est longior quam alia.</seg>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20200925T225451Z" creationid="anlozan" creationdate="20200925T201527Z">
@@ -3154,6 +3170,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20200911T213728Z" creationid="anlozan" creationdate="20200821T145350Z">
         <seg>Mas sin embargo pienso que todos los lugares, en los que el día dura un mes o más (cuando el sol está en el trópico estival o en el trópico invernal) son inhabitables a causa del frío. Y de la misma manera, los lugares que son propios de una latitud más alta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sed debet talis homo scire, quod rationibus astrorum, et praecipue per eclipses lunares compertum est nostram habitationem non extendi per totum terrae circulum, ita quod habitabilis sit habitatio nostra ab Oriente in Occidentem, et per Occidentem iterum in Orientem:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030042Z" creationid="mateovo2" creationdate="20201004T030042Z">
+        <seg>Pero tal hombre debe saber que por la disposición de los astros y, especialmente, por los eclipses lunares se ha descubierto que nuestra habitación no se extiende por la circunferencia entera de la tierra, de manera que nuestra habitación sea transitable desde el oriente hacia el occidente y por el occidente de nuevo hacia el oriente,</seg>
       </tuv>
     </tu>
     <tu>
@@ -4163,6 +4187,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>eo quod amphitrites fluat ab Aquilone per Orientis punctum in parte una, et per Occidentis punctum in parte alia in Meridie:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030133Z" creationid="mateovo2" creationdate="20201004T030133Z">
+        <seg>el Amphitrites en una parte fluya desde el aquilón por el punto oriental y en otra parte por el punto del occidente hacia el sur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>eo quod aux ejus est in Aquilone, et oppositum augis in Meridie.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T022815Z" creationid="mateovo2" creationdate="20201004T022815Z">
@@ -4977,10 +5009,26 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et omnis terra distat ab Oriente suo spatio aequali, hoc est, per nonaginta gradus:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030020Z" creationid="mateovo2" creationdate="20201004T030020Z">
+        <seg>y así todo sitio dista desde su oriente con un espacio igual, esto es por los grados 90,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et oportet, quod non [15b] continuam habeant habitationem ibi.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T024340Z" creationid="mateovo2" creationdate="20201004T024340Z">
         <seg>y es preciso que no tengan habitación permanente allí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et parallelus, de quo dictum est, de parvis circulis, unus qui spheram caeli et terrae in duo aequalia dividit.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T025921Z" creationid="mateovo2" creationdate="20201004T025921Z">
+        <seg>y paralelo ---del que se dijo que es uno de los pequeños círculos--- es el que no divide la esfera del cielo y la tierra en dos iguales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5190,6 +5238,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T170315Z" creationid="mateovo2" creationdate="20201003T170315Z">
         <seg>y así todo el espacio que está entre los dos trópicos está quemado e intemperado, y es inapropiado para la habitación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et sic una terra non est longior quam alia.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030026Z" creationid="mateovo2" creationdate="20201004T030026Z">
+        <seg>y así un sitio no tiene más longitud que otro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5598,6 +5654,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>omnis enim terra suum habet Orientem, cum terra sit rotunda:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030008Z" creationid="mateovo2" creationdate="20201004T030008Z">
+        <seg>pues todo sitio tiene su oriente, puesto que la tierra es redonda,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>oportet igitur ibi esse habitationem congruam generatis.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T171001Z" creationid="mateovo2" creationdate="20201003T171001Z">
@@ -5783,6 +5847,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>quia aequinoctialis circulus est magnus dividens totam sphaeram caeli et terrae in duo aequalia:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T025915Z" creationid="mateovo2" creationdate="20201004T025915Z">
+        <seg>Sin embargo, es desigual, porque el círculo equinoccial es el gran círculo que divide toda la esfera del cielo y la tierra en dos iguales,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>quia aliter non ubique per circuitum aequaliter efflueret virtutem ad esse eorum quae naturaliter sunt.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015005Z" creationid="mateovo2" creationdate="20201003T015005Z">
@@ -5835,6 +5907,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T022633Z" creationid="mateovo2" creationdate="20201004T022633Z">
         <seg>puesto que probamos suficientemente, en el *Libro sobre el cielo y el mundo*, que esta es redonda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>quia et ipse arcus semicirculus ejus circuli intellectualis qui parallelus est aequinoctiali, distans ab ipso in [16b] sphaeram versus Aquilonem per quinquaginta gradus inaequalis est:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T025818Z" creationid="mateovo2" creationdate="20201004T025818Z">
+        <seg>puesto que este mismo es el semicírculo de su círculo inteligible, que es paralelo al círculo equinoccial que dista por 50 grados desde este en la esfera hacia el aquilón.</seg>
       </tuv>
     </tu>
     <tu>

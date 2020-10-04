@@ -3636,6 +3636,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Si autem montes sunt ad Meridiem, et locus versus Aquilonem, et sunt alti montes et multi, locus erit frigidus vehementer, tam ex nivibus montium, quam etiam quia detectus est locus vento Aquilonari, et tectus et occultatus a vento Meridionali.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T175158Z" creationid="nivaca" creationdate="20201004T175158Z">
+        <seg>Sin embargo, si los montes dan hacia el meridiano, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Si autem sit distantia prima, in qua remissa est virtus motus, disgregabitur virtus elementalis contra statum formae ignis, et inducitur calidum non omnino extrahens, sed spirituale humidum permittens, et causas in materia:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T025141Z" creationid="mateovo2" creationdate="20201003T025141Z">
@@ -6540,8 +6548,8 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       <tuv lang="la">
         <seg>quia reflexio radii (quae ad montes est) calefacit locum vehementer.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20201004T174852Z" creationid="nivaca" creationdate="20201004T174644Z">
-        <seg>porque el reflejo de los rayos, que dsa hacia los montes, calienta el lugar con vehemencia.</seg>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T175136Z" creationid="nivaca" creationdate="20201004T174644Z">
+        <seg>porque el reflejo de los rayos, que da hacia los montes, calienta el lugar con vehemencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6614,6 +6622,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015816Z" creationid="nivaca" creationdate="20201003T001214Z">
         <seg>que toda transmutación de lo contenido sucede por lo continente; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>quia tunc habebunt nives perpetuas, ex quibus aut temperantur, aut infrigidantur loca.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T175124Z" creationid="nivaca" creationdate="20201004T175124Z">
+        <seg>porque entonces tendrían nieves perpetuas, por la que los lugares o bien se atemperarían, o bien se enfriarían.</seg>
       </tuv>
     </tu>
     <tu>

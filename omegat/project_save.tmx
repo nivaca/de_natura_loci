@@ -3068,6 +3068,14 @@ Hacer notas!</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="la">
+        <seg>Sed in hoc quod dicunt, quod Homerus dicit et [C14a] terram esse latae superficiei et non rotundae, non consentimus:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022626Z" creationid="mateovo2" creationdate="20201004T022626Z">
+        <seg>pero no en esto: al presentar a Homero que dice esto*, Carites también dice que la tierra es de superficie plana y no redonda, </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>no en esto: citando a Homero, Carites dice...</note>
       <tuv lang="la">
         <seg>Sed in hoc quod dicunt, quod Homerus dicit et [C14a] terram esse latae superficiei et non rotundae, non consentimus: quia eam rotundam esse satis probavimus in libro Caeli et Mundi.</seg>
@@ -3171,6 +3179,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T020722Z" creationid="andrealozanov" creationdate="20200611T223224Z">
         <seg>Pero, para que la introducción del recuento sea desde las cosas más comunes, es preciso saber que, así como demostramos más arriba, el lugar de todas las cosas compuestas es mezclado y compuesto, y que no hay ninguno de estos compuestos que se halle completamente simple</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sed videtur, quod multum sit laboriosa et non continua habitatio sub tropico Capricorni propter causas superinductas:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022655Z" creationid="mateovo2" creationdate="20201004T022655Z">
+        <seg>Pero parece que la habitación bajo el trópico de Capricornio es muy penosa e intermitente por las causas expuestas más arriba</seg>
       </tuv>
     </tu>
     <tu>
@@ -4362,6 +4378,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et ideo dicunt nullum ibi habitare:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022446Z" creationid="mateovo2" creationdate="20201004T022446Z">
+        <seg>Y por esto dicen que nadie habita allí,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et ideo ea quae vicine habitant, similes habent complexiones et similia conservantia et similia corrumpentia in contrarium.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T164848Z" creationid="mateovo2" creationdate="20201003T164848Z">
@@ -5093,6 +5117,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>propter hoc quod ibi est superius solis, et caeli vicinitas plus temperat frigus regionum quae distant ab aequinoctiali per quinquaginta gradus a Meridie, quam faciat in Aquilone:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022719Z" creationid="mateovo2" creationdate="20201004T022719Z">
+        <seg>por el hecho de que allí está lo más alto del cielo y la proximidad del sol tempera más el frío de las regiones que distan del equinoccial por el grado 50 en el sur, a la que se hace en el aquilón, por aquello de que su apogeo está en el aquilón y la oposición del apogeo en el sur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>propter quod egregie dicit Aristoteles in libro de Causis proprietatum elementorum et orbis sive planetarum, quod si compositum occupetur a simplici, corrumpitur statim:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015255Z" creationid="mateovo2" creationdate="20201003T015255Z">
@@ -5222,6 +5254,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>quia cum genus hominum ab uno disseminatum esse constet, aut ille, ut inquiunt, fuit in quarta Aquilonari, aut in quarta Meridionali.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022449Z" creationid="mateovo2" creationdate="20201004T022449Z">
+        <seg>porque, aunque se crea que el género humano haya sido diseminado por un solo hombre, aquel, como dicen, estuvo o en la cuarta parte aquilonal o en la cuarta parte meridional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>quia cum locus ignis sit concavum superficiei orbis lunae usque ad convexum aeris, non est hoc spatium totum aequaliter locus ignis, sed quasi principaliter et per posterius.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T024348Z" creationid="mateovo2" creationdate="20201003T024348Z">
@@ -5234,6 +5274,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020336Z" creationid="nivaca" creationdate="20201003T001509Z">
         <seg>porque cuando el motor primero da abundantemente su nobleza a todo aquello que se forma para ser, sin duda no da abundantemente el ser o la forma a lo más distante sino a través de aquello que le es más cercano; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>quia eam rotundam esse satis probavimus in libro Caeli et Mundi.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022633Z" creationid="mateovo2" creationdate="20201004T022633Z">
+        <seg>puesto que probamos suficientemente, en el *Libro sobre el cielo y el mundo*, que esta es redonda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5466,6 +5514,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T024901Z" creationid="mateovo2" creationdate="20201003T024901Z">
         <seg>sino que en razón de la forma substancial determinada que, en cuanto forma substancial es propia del cuerpo generable, es exigida por la diferencia determinada del lugar hacia la que se da el movimiento según el lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>sed spatium quod est post tropicum Capricorni usque ad latitudinem septimi climatis in Meridie mensurando, hoc est, usque ad latitudinem quadraginta et octo vel quinquaginta graduum habitabile est secundum delectationem et continue, sicut et nostrum, et forte plus quam nostrum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022703Z" creationid="mateovo2" creationdate="20201004T022703Z">
+        <seg>Pero el espacio que está después del trópico de Capricornio hasta la latitud del séptimo clima, midiendo hacia el sur, esto es, hasta la latitud de 48 o 50 grados, es habitable según el deleite y de manera continua, como también el nuestro y quizá más que el nuestro,</seg>
       </tuv>
     </tu>
     <tu>

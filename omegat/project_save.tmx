@@ -1600,6 +1600,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Et quia ventus Aquilonaris dissipat nubes, erit locus ille frigidus et siccus et sanus ad habitandum, nisi ex alio accidente prohibeatur.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T201727Z" creationid="nivaca" creationdate="20201004T201727Z">
+        <seg>Y porque el viento aquilonar disipa las nubes, aquel lugar será frio y seco y sano para habitar, salvo que [el viento] estuviera impedido por algún otro accidente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Et quia via solis directe est super spatium illud bis in anno, dicunt quod ibi reflectitur radius ejus in seipsum, propter quod combustivus est, et facit partem illam inhabitabilem ex nimio calore.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200612T214148Z" creationid="nivaca" creationdate="20200610T232414Z">

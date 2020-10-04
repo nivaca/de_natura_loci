@@ -553,6 +553,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Cum enim nonaginta gradus sint a centro horizontis uniuscujusque usque ad ortum, oportet quod eorum quorum horizontis centrum est in Occidente, ortus sit ubi est Meridies eorum qui sunt in Oriente:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T031604Z" creationid="mateovo2" creationdate="20201004T031604Z">
+        <seg>En efecto, puesto que los 90 grados están desde el centro del horizonte de cada uno de ellos hasta el orto, es preciso que el centro del horizonte de aquellos que está en el occidente sea el orto, donde está el sur de quienes están en el oriente,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Cum enim nonaginta gradus sint a centro horizontis uniuscujusque usque ad ortum, oportet quod eorum quorum horizontis centrum est in Occidente, ortus sit ubi est Meridies eorum qui sunt in Oriente: quia medietas centum et octoginta graduum, qui sunt semicirculus, qui est ab Oriente in Occidentem, est nonaginta gradus, qui sunt a circulo Meridiei orientalium usque ad occasum mundi.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201001T212146Z" creationid="mateovo2" creationdate="20201001T212146Z">
@@ -941,6 +949,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Est autem habitatio talium aequaliter quidem calida et frigida, humida et sicca, propter unam [B550a] eamdemque latitudinem quam habent:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T031544Z" creationid="mateovo2" creationdate="20201004T031544Z">
+        <seg>Ahora bien, la habitación de tales (habitantes), ciertamente, es igualmente cálida y fría y húmeda y seca, a causa de una sola y misma latitud que tienen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Est autem habitatio talium aequaliter quidem calida et frigida, humida et sicca, propter unam [B550a] eamdemque latitudinem quam habent: non tamen in una hora habent Orientem et Occidentem, sed potius differt ad minus per sex horas ortus istorum ab ortu illorum, et similiter occasus.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201001T212137Z" creationid="mateovo2" creationdate="20201001T212137Z">
@@ -1323,6 +1339,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020555Z" creationid="mateovo2" creationdate="20200616T192204Z">
         <seg>De esto es fácil refutar un error mediante esas cosas que fueron dichas antes;  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Et horum quidem est unus ortus et occasus solis in die:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T031422Z" creationid="mateovo2" creationdate="20201004T031353Z">
+        <seg>Y, ciertamente, de estos el orto y el ocaso del sol es uno solo en un mismo día,</seg>
       </tuv>
     </tu>
     <tu>
@@ -2688,6 +2712,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020525Z" creationid="mateovo2" creationdate="20200616T191741Z">
         <seg>Por lo tanto, es preciso que incluso así suceda en la ciencia de los lugares. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Opposite autem habitant, quorum est unus parallelus secundum latitudinem eandem, sed non est eis longitudo una, sed potius distant per maximam longitudinem quae potest esse per circulum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T031447Z" creationid="mateovo2" creationdate="20201004T031447Z">
+        <seg>Sin embargo, habitan opuestamente aquellos cuyo paralelo es uno solo según la misma latitud; pero, para ellos, la longitud no es una misma, sino que dista mucho más según la longitud máxima que puede haber según el círculo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5179,6 +5211,15 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et isti vocantur antipodes, et sunt in nostra habitabili, sicut habitantes omnes qui sunt in uno eodemque climate elongati a se per totam longitudinem Orientis ab Occidente nostrae habitabilis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T031538Z" creationid="mateovo2" creationdate="20201004T031538Z">
+        <seg>Y estos son nombrados “antípodas” o bien “antigenos”, y están en nuestra [tierra] habitable, así como todos los habitantes quienes en uno y en el mismo clima están alejados de sí mismos a través de toda la longitud oriental desde el occidente de nuestra [tierra] habitable.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et lapidosa quae nec navibus, nec [B545a] pedibus poterant transire:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T023716Z" creationid="mateovo2" creationdate="20201004T023716Z">
@@ -5654,6 +5695,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>hoc autem est quando elongatur a se per totum semicirculum:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T031454Z" creationid="mateovo2" creationdate="20201004T031454Z">
+        <seg>Ahora bien, esta (longitud) se da cuando (los habitantes opuestos) se alejan de ellos mismos a través de todo el semicírculo;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>hoc enim desertum arenosum, et procellas facit in eo ventus, et est vastum et latum, ita quod spatio septimanarum multarum transiri non potest:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T023107Z" creationid="mateovo2" creationdate="20201004T023107Z">
@@ -5880,6 +5929,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>nec est eis aequale frigus et calidum et humidum et siccum, eo quod non aequaliter dilatantur ab aequinoctiali circulo.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T031436Z" creationid="mateovo2" creationdate="20201004T031436Z">
+        <seg>y para ellos no es igual el frío ni el calor ni la sequedad ni la humedad, por razón de que no se esparcen de la misma manera desde el círculo equinoccial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>nec umquam ante valet cibus operationem suam perficere proprie, nisi sit perfecte virtutem membri ad quod movetur, adeptus, cujus perfectionis principium est membrum.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015906Z" creationid="nivaca" creationdate="20201003T001431Z">
@@ -5924,6 +5981,22 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T170954Z" creationid="mateovo2" creationdate="20201003T170954Z">
         <seg>Pero, no puede haber generación, si no es en el lugar de la habitación de lo generado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>non tamen in una hora habent Orientem et Occidentem, sed potius differt ad minus per sex horas ortus istorum ab ortu illorum, et similiter occasus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T031551Z" creationid="mateovo2" creationdate="20201004T031551Z">
+        <seg>Sin embargo, no tienen el amanecer y el ocaso (el sol que sale y que se pone) en una sola hora, sino más bien el orto para estos difiere por lo menos por seis horas (90 grados) del orto para aquellos, y de la misma manera el ocaso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>non tamen sol oritur et occidit in eodem gradu:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T031430Z" creationid="mateovo2" creationdate="20201004T031430Z">
+        <seg>cuando el sol sale y se pone en el mismo grado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6497,6 +6570,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>sed non est eis aequalis dies:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T031431Z" creationid="mateovo2" creationdate="20201004T031431Z">
+        <seg>Pero para ellos el día no es igual,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>sed oportet nos scire diversitates locorum in particulari, et causas diversitatis ipsorum, et accidentia diversorum locorum:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020427Z" creationid="nivaca" creationdate="20201003T002035Z">
@@ -6533,6 +6614,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T022703Z" creationid="mateovo2" creationdate="20201004T022703Z">
         <seg>Pero el espacio que está después del trópico de Capricornio hasta la latitud del séptimo clima, midiendo hacia el sur, esto es, hasta la latitud de 48 o 50 grados, es habitable según el deleite y de manera continua, como también el nuestro y quizá más que el nuestro,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>sed tamen non habitant sub eodem parallelo circulo, qui distet aequali latitudine per circuitum habitationis ab aequinoctiali circulo.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T031405Z" creationid="mateovo2" creationdate="20201004T031326Z">
+        <seg>Sin embargo, tampoco habitan bajo este mismo círculo paralelo, aunque diste de la misma latitud desde el círculo equinoccial debido al circuito de la habitación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6613,6 +6702,15 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T024105Z" creationid="mateovo2" creationdate="20201004T024054Z">
         <seg>otras veces incluso a causa de la frialdad natural del agua misma a partir de la cual repercutiendo sobre sí multiplica el calor---, sin embargo con todo eso un rayo fuerte no es producido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>tunc enim distant per longitudinem totam diametri, et convertunt contra se pedes invicem, ita quod diameter inferior circuli paralleli per Zenith capitum, et per pedes, et per centrum semicirculum transit:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T031529Z" creationid="mateovo2" creationdate="20201004T031529Z">
+        <seg>pues entonces distan según toda la longitud del diámetro y voltean recíprocamente sus pies contra sí mismos, de manera que el diámetro del círculo paralelo intelectual transita a través del cénit de sus cabezas y a través de sus pies y a través del centro del semicírculo.
+</seg>
       </tuv>
     </tu>
     <tu>

@@ -1110,6 +1110,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Et cum major dimen-[B548b]-sio vocetur longitudo, et minor vocetur latitudo, erit latitudo locorum habitabilium secundum distantiam ab Aquilone in Meridiem acceptam:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030443Z" creationid="mateovo2" creationdate="20201004T030443Z">
+        <seg>Y como es llamada longitud la medida mayor única y la menor es llamada latitud; la latitud de los lugares habitables se dará según la distancia tomada desde la equinoxial hacia el aquilón </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Et cum major dimen-[B548b]-sio vocetur longitudo, et minor vocetur latitudo, erit latitudo locorum habitabilium secundum distantiam ab Aquilone in Meridiem acceptam: et longitudo secundum dimensionem accepta ab Oriente in Occidente.</seg>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20201002T222951Z" creationid="anlozan" creationdate="20200925T205441Z">
@@ -1206,10 +1214,27 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Et hic quidem circulus, licet secundum esse mobilis sit, et moveatur secundum esse cujus est horizon, tamen secundum situm est immobilis, sicut et ipsa puncta Orientis et Occidentis quae situ manent et secundum esse variantur:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030625Z" creationid="mateovo2" creationdate="20201004T030625Z">
+        <seg>Y acá, ciertamente, el círculo, aunque según el ser sea móvil y aunque se mueva según su movimiento del cual es el horizonte, sin embargo, según su sitio es inmóvil, así como también los mismos puntos del oriente y del occidente, que permanecen en su sitio y varían según el ser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Et hic quidem circulus, licet secundum esse mobilis sit, et moveatur secundum esse cujus est horizon, tamen secundum situm est immobilis, sicut et ipsa puncta Orientis et Occidentis quae situ manent et secundum esse variantur: et de hoc horizonte non intendimus hic plus dicere quam hoc quod dictum est: quia sufficientior consideratio ipsius pertinet ad astronomiam.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201001T211922Z" creationid="mateovo2" creationdate="20201001T211922Z">
         <seg>Y acá, ciertamente, el círculo, aunque según el ser sea móvil y aunque se mueva según su movimiento del cual es el horizonte, sin embargo, según su sitio es inmóvil, así como también los mismos puntos del oriente y del occidente, que permanecen en su sitio y varían según el ser. Y sobre este horizonte no tenemos intención de decir acá nada más que esto que fue dicho, porque su consideración pertenece más apropiadamente a la astronomía. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Et hic quidem horizon duplex est:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030606Z" creationid="mateovo2" creationdate="20201004T030606Z">
+        <seg>Y, ciertamente, acá el horizonte es doble:
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -1559,10 +1584,26 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Et secundum rationem quidem quodlibet terrae punctum suum habet horizontem, cujus circumferentia caelum in praedictis punctis attingit:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030618Z" creationid="mateovo2" creationdate="20201004T030618Z">
+        <seg>Y según la razón, ciertamente, cualquier punto de la tierra tiene su propio horizonte, cuya circunferencia alcanza el cielo en los puntos antes dichos,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Et secundum rationem quidem quodlibet terrae punctum suum habet horizontem, cujus circumferentia caelum in praedictis punctis attingit: et ideo cujuslibet puncti habitationis nostrae superius diximus naturam esse diversam.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201001T211909Z" creationid="mateovo2" creationdate="20201001T211909Z">
         <seg>Y según la razón, ciertamente, cualquier punto de la tierra tiene su propio horizonte, cuya circunferencia alcanza el cielo en los puntos antes dichos, y por esto, más arriba dijimos que la naturaleza de cualquier punto de nuestra habitación es diversa. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Et si distat per quadraginta octo gradus, vincet longior dies diem aequinoctii per quatuor horas integras:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030411Z" creationid="mateovo2" creationdate="20201004T030411Z">
+        <seg>Y si dista por 48 grados, supera el día más largo al día del equinoxio por cuatro horas completas, </seg>
       </tuv>
     </tu>
     <tu>
@@ -2014,6 +2055,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Horizon autem sensibilis est, qui finit visum, hoc est, postquam sensibiliter est alius punctum Orientis, et alius Occidentis, et alius Aquilonis, et alius Meridiei:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030702Z" creationid="mateovo2" creationdate="20201004T030702Z">
+        <seg>Sin embargo, el horizonte sensible es el que limita el alcance de la visión, esto es, después del cual sensiblemente, es otro punto del oriente y otro [punto] del occidente, y un otro [punto] del aquilonal y otro [punto] del meridional;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Horizon autem sensibilis est, qui finit visum, hoc est, postquam sensibiliter est alius punctum Orientis, et alius Occidentis, et alius Aquilonis, et alius Meridiei: et illius quidem diameter ad plus est millium stadiorum secundum Ptolemaeum.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201002T230437Z" creationid="mateovo2" creationdate="20201001T211932Z">
@@ -2277,6 +2326,15 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200619T224552Z" creationid="nivaca@fastmail.com" creationdate="20200305T165214Z">
         <seg>Sin embargo, estas dos razones son las más fuertes entre las razones de los antiguos que suponían que es tórrida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Iste autem motus non est in terra:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030456Z" creationid="mateovo2" creationdate="20201004T030456Z">
+        <seg>sin embargo, este movimiento no se da en la tierra;
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -4478,6 +4536,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et de hoc horizonte non intendimus hic plus dicere quam hoc quod dictum est:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030633Z" creationid="mateovo2" creationdate="20201004T030633Z">
+        <seg>Y sobre este horizonte no tenemos intención de decir acá nada más que esto que fue dicho,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et declinans ab eo versus Aquilonem per triginta sex gradus, et facit longiorem diem quam sit dies aequinoctii per unam horam in terra quae secundum latitudinem sedecim graduum distat ab aequinoctiali circulo, et [17a] in terra:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T030331Z" creationid="mateovo2" creationdate="20201004T030331Z">
@@ -4506,6 +4572,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T025148Z" creationid="mateovo2" creationdate="20201003T025148Z">
         <seg>La distancia ulterior causará mayor grosor de las partes de la materia en la que lo húmedo causado hará que las partes de la materia fluyan recíprocamente entre sí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et erit clima septimum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030417Z" creationid="mateovo2" creationdate="20201004T030417Z">
+        <seg>y se tendrá el séptimo clima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4743,6 +4817,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et ideo cujuslibet puncti habitationis nostrae superius diximus naturam esse diversam.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030620Z" creationid="mateovo2" creationdate="20201004T030620Z">
+        <seg>y por esto, más arriba dijimos que la naturaleza de cualquier punto de nuestra habitación es diversa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et ideo de ipsis quadraginta et octo gradibus septimi climatis remanerent quadraginta duo de latitudine regionis inhabitabilis.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T170039Z" creationid="mateovo2" creationdate="20201003T170039Z">
@@ -4859,6 +4941,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T164514Z" creationid="mateovo2" creationdate="20201003T164514Z">
         <seg>y por esto su lugar es aéreo, como es lo usual. Además, los peces que son fríos tienen como materia el agua espesa, grasosa y viscosa por el género, y por tal connaturalidad aceptan el agua como habitación debido a la naturaleza que ordena todo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et ideo minor in ea dimensio est dimensio quae vocatur minor in aere:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030501Z" creationid="mateovo2" creationdate="20201004T030501Z">
+        <seg>y por esto en ella la menor dimensión es la dimensión que se llama menor en área.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5065,6 +5155,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et longitudo secundum dimensionem accepta ab Oriente in Occidente.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030449Z" creationid="mateovo2" creationdate="20201004T030449Z">
+        <seg>y la longitud según la medida tomada desde el oriente hacia el occidente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et non esse temperatum, nisi inter duo contraria intemperata:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T170528Z" creationid="mateovo2" creationdate="20201003T170528Z">
@@ -5250,6 +5348,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et si distat per quadraginta et unum gradus, et tertiam partem gradus, vincet longior dies per tres horas integras, et vocatur quintum clima.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030359Z" creationid="mateovo2" creationdate="20201004T030359Z">
+        <seg>Y si dista por 41 grados y medio, supera el día más largo a la noche por tres horas, y se llama el quinto clima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et si distat per triginta sex gradus, erit dies longior per duas horas et dimidiam, et sic constituit quartum clima:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T030352Z" creationid="mateovo2" creationdate="20201004T030352Z">
@@ -5270,6 +5376,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T021315Z" creationid="mateovo2" creationdate="20201004T021315Z">
         <seg>y si nadie ahí habita, entonces sería habitable en vano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et sic congrua sunt nomina superius dimensionibus terrae imposita.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030535Z" creationid="mateovo2" creationdate="20201004T030535Z">
+        <seg>Y de esta manera son justos los nombres impuestos a las medidas superiores de la tierra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6119,6 +6233,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>quia sufficientior consideratio ipsius pertinet ad astronomiam.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030644Z" creationid="mateovo2" creationdate="20201004T030644Z">
+        <seg>porque su consideración pertenece más apropiadamente a la astronomía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>quia tanta pars circuli extenditur super medietatem superiorem terrae in qua nos habitamus.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T025055Z" creationid="mateovo2" creationdate="20201004T025055Z">
@@ -6424,6 +6546,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>unus quidem secundum rationem acceptus, alter secundum sensum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030610Z" creationid="mateovo2" creationdate="20201004T030610Z">
+        <seg>uno, ciertamente, captado según la razón y el otro según los sentidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>vel forte contingunt loca illa [C10a] tantum:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T165812Z" creationid="mateovo2" creationdate="20201003T165812Z">
@@ -6453,6 +6583,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       <tuv lang="es" changeid="mateovo2" changedate="20201003T170935Z" creationid="mateovo2" creationdate="20201003T170935Z">
         <seg>pero la fuerza de las estrellas se da en la generación;
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>vocatur autem illa latitudo areae, et major dimensio vocatur longitudo areae:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030520Z" creationid="mateovo2" creationdate="20201004T030520Z">
+        <seg>Sin embargo, aquella se llama “latitud de área”, y la mayor medida se llama “longitud de área”.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

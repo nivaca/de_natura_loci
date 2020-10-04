@@ -3849,6 +3849,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>eo quod minor pars diametri ejus est versus finem Sagittarii:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T015156Z" creationid="mateovo2" creationdate="20201004T015156Z">
+        <seg>por el hecho de que la menor parte de su diámetro está en dirección al límite final de Sagitario,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>eo quod nimis elongatae sunt a via solis ad quas radii solis non veniunt nisi oblique valde, et non faciunt angulum in ipsa nisi hebetem et obtusum valde:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T165807Z" creationid="mateovo2" creationdate="20201003T165807Z">

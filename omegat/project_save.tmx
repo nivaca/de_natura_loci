@@ -2432,6 +2432,14 @@ Ser lo mismo según la definición (ratio) vs. ser lo mismo según el sujeto de 
       </tuv>
     </tu>
     <tu>
+      <tuv lang="la">
+        <seg>Loca enim meridionalia sita super maria quasi aduruntur ex reflexione radiorum solis ex multiplicatione luminis ad littus, et illa loca arenosa et calida et sicca sunt:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T145613Z" creationid="nivaca" creationdate="20201004T145613Z">
+        <seg>Pues los lugares meridionales situados sobre los mares casi que son inflamados por el reflejo de los rayos del sol y la multiplicación de la luz del sol hacia [/en torno a] la costa. Y por eso aquellos lugares arenosos se vuelven tanto secos como cálidos;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"terrestria" ⇒ "esterilia"</note>
       <tuv lang="la">
         <seg>Loca enim meridionalia sita super maria quasi aduruntur ex reflexione radiorum solis ex multiplicatione luminis ad littus, et illa loca arenosa et calida et sicca sunt: et mare divisum super illa loca etiam ad torrorem solis convertitur in sales, et loca illa facit terrestria ex calido adurente et sicco adusto.</seg>
@@ -5041,6 +5049,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et ideo necesse est, quod loca vicina sibi aut sint calida et sicca, aut calida et humida superfluo humore, aut frigida et humida.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T145531Z" creationid="nivaca" creationdate="20201004T145531Z">
+        <seg>y por eso es necesario o bien que los lugares vecinos a él mismo sean cálidos y secos, o bien que sean cálidos y húmedos por la excesiva humedad, o bien que sean fríos y húmedos por la excesiva humedad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et ideo non esse habitationem aliquam nisi inter inhabitabilem propter frigus in parte una, et inhabitabilem propter calorem in parte alia.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T170532Z" creationid="mateovo2" creationdate="20201003T170532Z">
@@ -5272,6 +5288,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T030449Z" creationid="mateovo2" creationdate="20201004T030449Z">
         <seg>y la longitud según la medida tomada desde el oriente hacia el occidente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et mare divisum super illa loca etiam ad torrorem solis convertitur in sales, et loca illa facit terrestria ex calido adurente et sicco adusto.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T145630Z" creationid="nivaca" creationdate="20201004T145630Z">
+        <seg>y el mar dividido [/que se divide] sobre aquellos lugares también se convierte en sales ante la torridez del sol y torna estériles aquellos lugares por lo cálido que consume y lo seco quemado.</seg>
       </tuv>
     </tu>
     <tu>

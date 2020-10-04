@@ -1402,8 +1402,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Et ideo quaecumque civitas vel locus elongatur ab alio per quinquaginta stadia, sensibiliter habent alium ortum et alium occasum stellarum secundum tempus sensibile.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201001T211956Z" creationid="mateovo2" creationdate="20201001T211956Z">
-        <seg>y por esto, cualquier ciudad o lugar se aleja del otro por cincuenta estadios, (y) sensiblemente tiene otro orto y otro ocaso de las estrellas según el tiempo sensible. </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030958Z" creationid="mateovo2" creationdate="20201001T211956Z">
+        <seg>y por esto, cualquier ciudad o lugar que se aleja del otro por cincuenta estadios, sensiblemente tiene otro orto y otro ocaso de las estrellas según el tiempo sensible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1548,6 +1548,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200612T214148Z" creationid="nivaca" creationdate="20200610T232414Z">
         <seg>Y puesto que la vía del sol está directamente sobre este espacio dos veces al año, dicen que allí su rayo se refleja en el mismo, por lo que es abrasador, y hace aquella parte inhabitable por el excesivo calor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Et quicumque locus ab alio removetur secundum latitudinem quingentorum stadiorum, sensibiliter calidior vel frigidior est quam alius:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030717Z" creationid="mateovo2" creationdate="20201004T030717Z">
+        <seg>Sin embargo, según el más verdadero descubrimiento/estudio de esto, desde entonces comúnmente se entiende que varía, cuando su semidiámetro es de cuatrocientos o, por mucho, de quinientos estadios;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3153,8 +3161,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>Secundum autem verissimam ejus deprehensionem tunc communiter deprehenditur variari, quando semidiameter ejus est quadringentorum vel ad plus quingentorum stadiorum.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201001T211944Z" creationid="mateovo2" creationdate="20201001T211944Z">
-        <seg>Sin embargo, según el más verdadero descubrimiento/estudio de esto, desde entonces comúnmente se entiende que varía, cuando su semidiámetro es de cuatrocientos o, por mucho, de quinientos estadios;  </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030922Z" creationid="mateovo2" creationdate="20201001T211944Z">
+        <seg>Sin embargo, según el más verdadero descubrimiento/estudio de esto, desde entonces comúnmente se entiende que varía, cuando su semidiámetro es de cuatrocientos o, por mucho, de quinientos estadios;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5075,6 +5083,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et illius quidem diameter ad plus est millium stadiorum secundum Ptolemaeum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030708Z" creationid="mateovo2" creationdate="20201004T030708Z">
+        <seg>y su diámetro (el del horizonte), ciertamente, es más de dos millones de estadios, según Ptolomeo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et immediate probatum est esse temperamentum per latitudinem septem climatum:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T021104Z" creationid="mateovo2" creationdate="20201004T021104Z">
@@ -5424,6 +5440,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020341Z" creationid="nivaca" creationdate="20201003T001528Z">
         <seg>y así a través del lugar continente se dan abundantemente el ser y la forma a lo localizado. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et sic sensibilis est distinctio proprietatum longitudinis et latitudinis locorum, nisi sit impedimentum per accidens aliquod loci ex maribus vel ex montibus:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T030917Z" creationid="mateovo2" creationdate="20201004T030917Z">
+        <seg>y por esto, cualquier ciudad o lugar se aleja del otro por cincuenta estadios, (y) sensiblemente tiene otro orto y otro ocaso de las estrellas según el tiempo sensible.</seg>
       </tuv>
     </tu>
     <tu>

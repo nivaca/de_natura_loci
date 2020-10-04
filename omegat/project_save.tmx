@@ -1448,6 +1448,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Et ideo talia loca, etiam ea quae cultura nascuntur in talibus locis, frequenter corrumpunt:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T161157Z" creationid="nivaca" creationdate="20201004T161157Z">
+        <seg>y por eso hay que huír de tales lugares, porque también tales cosas que se dan por el cultivo en tales lugares, con frecuencia corrompen,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Et illius causa est, quia in caelo est motus localis quem oportet esse secundum latitudinem in omnibus quae ex se moventur.</seg>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20201002T223331Z" creationid="anlozan" creationdate="20200925T205550Z">
@@ -3001,8 +3009,8 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       <tuv lang="la">
         <seg>Quandocumque enim calidum non est nisi corrumpens humidum, et non vincens ipsum, inducit pestiferas corruptiones.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20201004T160532Z" creationid="nivaca" creationdate="20201004T160225Z">
-        <seg>Pues cuandoquiera que no es cálido sino que corrompe lo húmedo, y no lo vence, induce/produce corrupciones </seg>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T161035Z" creationid="nivaca" creationdate="20201004T160225Z">
+        <seg>Pues cuandoquiera que no es cálido sino que corrompe lo húmedo, y no lo vence, induce/produce corrupciones pestilentes,</seg>
       </tuv>
     </tu>
     <tu>
@@ -3884,8 +3892,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>Talia autem loca etiam paludosa sunt frequenter ex humore diffuso super terram et corrumpente habitationem.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20201004T160116Z" creationid="nivaca" creationdate="20201004T160116Z">
-        <seg>Sin embargo, tales lugares también son pantanosos con frecuencia debido al humor difundido en la tierra y que corrompe la habitación;</seg>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T160925Z" creationid="nivaca" creationdate="20201004T160116Z">
+        <seg>Sin embargo, con frecuencia tales lugares también son pantanosos debido al humor difundido en la tierra y que corrompe la habitación;</seg>
       </tuv>
     </tu>
     <tu>

@@ -2067,8 +2067,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>In tropico enim hyemali qui in Meridie est, tres (ut inquit) occurrunt causae caloris intolerabilis.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20200814T201042Z" creationid="anlozan" creationdate="20200814T201042Z">
-        <seg>En efecto, en el trópico invernal, que está en el sur, según dice, coinciden tres causas del calor intolerable.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T015018Z" creationid="anlozan" creationdate="20200814T201042Z">
+        <seg>Pues en el trópico invernal, que está en el sur ---según dice---, coinciden tres causas del calor intolerable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3341,6 +3341,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Sunt autem multorum magnorum rationes, quod non habitari [C12b] possit:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T014911Z" creationid="mateovo2" creationdate="20201004T014911Z">
+        <seg>Ahora bien, hay razones de muchos grandes hombres para que no pueda ser habitada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Sunt autem multorum magnorum rationes, quod non habitari [C12b] possit: et inducunt praecipue tres rationes, quarum una est Ptolemaei, quod ad illam partem minor per diametrum solis conversa sit, et non propter vicinitatem corporis solis et ultra tropicum hyemalem effectus sit locus inhabitabilis.</seg>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20200814T214400Z" creationid="anlozan" creationdate="20200814T201036Z">
@@ -3411,6 +3419,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200619T222837Z" creationid="nivaca@fastmail.com" creationdate="20200305T164529Z">
         <seg>Pues el medio temperado está entre el lugar más cálido y el más frío.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Tertia vero causa est vicinitas corporis solis:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T015115Z" creationid="mateovo2" creationdate="20201004T015115Z">
+        <seg>Por otra parte, la tercera causa es la proximidad del cuerpo solar,</seg>
       </tuv>
     </tu>
     <tu>
@@ -4291,6 +4307,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et inducunt praecipue tres rationes, quarum una est Ptolemaei, quod ad illam partem minor per diametrum solis conversa sit, et non propter vicinitatem corporis solis et ultra tropicum hyemalem effectus sit locus inhabitabilis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T014921Z" creationid="mateovo2" creationdate="20201004T014921Z">
+        <seg>Presentan especialmente tres, de las cuales una es de Ptolomeo, que la parte menor del diámetro solar se dirige hacia aquella parte y por esto, a causa de la proximidad del cuerpo solar, incluso más allá del trópico invernal el lugar resultó inhabitable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et intervenit magnum tempus inter calorem solis quem facit accedendo, et eum quem facit in secundo accessu:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T171224Z" creationid="mateovo2" creationdate="20201003T171224Z">
@@ -5087,8 +5111,8 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       <tuv lang="la">
         <seg>reges quidem experiendo, et Philosophi per investigationem rationis, utrum scilicet aliquid de terra quae ab aequinoctiali usque ad polum Australem extenditur, habitetur vel possit habitari.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201004T014738Z" creationid="mateovo2" creationdate="20201004T014738Z">
-        <seg>a saber, de si alguna parte de la tierra que se extiende desde el equinoccial hasta el polo austral es habitada o puede ser habitada.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T014834Z" creationid="mateovo2" creationdate="20201004T014738Z">
+        <seg>---los reyes por la experiencia y los filósofos por la investigación racional--, a saber, de si alguna parte de la tierra que se extiende desde el equinoccial hasta el polo austral es habitada o puede ser habitada.</seg>
       </tuv>
     </tu>
     <tu>

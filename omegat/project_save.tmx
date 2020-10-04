@@ -4550,6 +4550,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>eo quod est frigidus et siccus non excellenter, sed habet frigiditatem in actu magis quam caliditatem:</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201004T211900Z" creationid="nivaca" creationdate="20201004T211900Z">
+        <seg>porque no es excesivamente frío ni excesivamente seco, sino que tiene una frialdad de hecho más que calidez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>eo quod est simpliciter levis, et ideo quia non est causans cum sit vehementer activus:</seg>
       </tuv>
       <tuv lang="es-CO" changeid="mateovo2" changedate="20201004T020252Z" creationid="mateovo2" creationdate="20201003T163139Z">
@@ -5022,6 +5030,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es-CO" changeid="mateovo2" changedate="20201004T021215Z" creationid="mateovo2" creationdate="20201004T021215Z">
         <seg>y por esto fluye a lo largo de la inclinación desde lo alto hacia la depresión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et ideo aer hujus est purus frequenter:</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201004T211934Z" creationid="nivaca" creationdate="20201004T211934Z">
+        <seg>Y por eso su aire es con frecuencia puro, </seg>
       </tuv>
     </tu>
     <tu>
@@ -6583,6 +6599,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es-CO" changeid="nivaca" changedate="20201004T203444Z" creationid="nivaca" creationdate="20201004T203444Z">
         <seg>tanto porque es frío por la nieve que está en él,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>quia frigus reprimit vapores et caligines quae impurum faciunt aerem, et non habet impuritatem et nebulas nisi post nivium resolutionem:</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201004T212052Z" creationid="nivaca" creationdate="20201004T212052Z">
+        <seg>porque el frío reprime/detiene los vapores y las brumas que hacen impuro al aire, y no tiene impurezas ni nieblas, sino quizás por el deshiele de las nieves,</seg>
       </tuv>
     </tu>
     <tu>

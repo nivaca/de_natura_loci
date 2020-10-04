@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Alia causa est, [B556b] quia aer ejus est ita turbidus et spissus, quod a parvo moveri non possit, etsi attigerit eum.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201004T210513Z" creationid="nivaca" creationdate="20201004T210513Z">
+        <seg>La segunda causa es que su aire es tan espeo y turbio que no podría ser movido por algo pequeño, incluso si lo tocara.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Alii autem his non consentientes dixerunt quidem, quod terra est rotunda, et dixerunt quod quarta terrae quae est Aquilonaris, est elevata extra locum centricum mundi, et ideo porrigitur super aquas, ut sit congrua habitationi:</seg>
       </tuv>
       <tuv lang="es-CO" changeid="mateovo2" changedate="20201004T022117Z" creationid="mateovo2" creationdate="20201004T022117Z">
@@ -2696,6 +2704,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
       <tuv lang="es-CO" changeid="andrealozanov" changedate="20200703T221229Z" creationid="nivaca" creationdate="20200610T235123Z">
         <seg>Y no es cierto que entre dos lugares muy calientes no haya ningún temperamento porque el retroceso del sol causa un frío causado por la victoria de los elementos inferiores, y por lo tanto, aunque el frío no esté allí en su punto máximo, sin embargo, está allí para temperar el calor extremo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Nec promoveri potest ex duabus causis, quarum una est:</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201004T210403Z" creationid="nivaca" creationdate="20201004T210403Z">
+        <seg>ni fluye ni puede moverse debido a dos causas: la primera de ellas</seg>
       </tuv>
     </tu>
     <tu>
@@ -6711,6 +6727,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es-CO" changeid="mateovo2" changedate="20201004T024617Z" creationid="mateovo2" creationdate="20201004T024617Z">
         <seg>porque en la estación de invierno están congelados con un hielo muy sólido y en la estación del verano fluye en ellos el hielo desprendido de su parte grande que o bien se congeló en el mar o desemboca por los ríos en el mar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>quia totus est quasi fovea, in cujus profundum ventus non potest intrare, sed flat in superioribus ejus.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201004T210427Z" creationid="nivaca" creationdate="20201004T210427Z">
+        <seg>es que todo el lugar es casi una caverna en cuya profundidad no puede entrar el viento, sino que sopla en su superficie [/sus partes superiores].</seg>
       </tuv>
     </tu>
     <tu>

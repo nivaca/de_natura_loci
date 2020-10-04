@@ -4052,6 +4052,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Vicinitas autem multa montium, diversas dat proprietates locis ex situ et altitudine ipsorum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T162650Z" creationid="nivaca" creationdate="20201004T162650Z">
+        <seg>Ahora bien, mucha vecindad [/muchas vecindades] de los montes les otorga diversas propiedades a los lugares debido al sitio de los montes y a su altitud;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Videbitur enim alicui fortasse, quod superficies cujus concavum est locans in se locatum, dicitur et aliquid esse corporis locantis et non locati, et ideo habere virtutes corporis locantis:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T024914Z" creationid="mateovo2" creationdate="20201003T024914Z">
@@ -5729,6 +5737,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020408Z" creationid="nivaca" creationdate="20201003T001818Z">
         <seg>y son así como ciertos muertos, quienes retuvieron su figura temporal mucho tiempo por la sequedad de sus cuerpos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et talia loca, licet non sint pestifera, tamen non sunt sana.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T162422Z" creationid="nivaca" creationdate="20201004T162422Z">
+        <seg>Y tales lugares, aunque no sean pestilentes, con todo no son sanos.</seg>
       </tuv>
     </tu>
     <tu>

@@ -3711,6 +3711,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Si vero fuerint montes ad Occidentem, et locus habitationis ad Occidentem, tunc erit locus detectus vento Occidentali, et protectus ab Orientali, et quoad hoc erit [C22b] frigidus et humidus, turbidum habens aerem, et ideo non multum sanus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nivaca" changedate="20201004T203133Z" creationid="nivaca" creationdate="20201004T203133Z">
+        <seg>Pero si los montes se dieran hacia el occidente y el lugar de habitación se diera hacia el oriente, entonces el lugar esteará desprotegido del viento oriental y protegido por el occidental, y en cuanto a esto será [22b] frío y húmedo, y tendrá un aire nuboso/turbio, y por eso no será muy sano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Si vero montes sunt ex parte Orientis, et locus versus Occidentem, erit locus quoad illud accidens frigidus et humidus habens grossam terrestreitatem impuram:</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201004T201921Z" creationid="nivaca" creationdate="20201004T201921Z">

@@ -2562,6 +2562,22 @@ Ser lo mismo según la definición (ratio) vs. ser lo mismo según el sujeto de 
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Locus autem habet accidentia multa ex stagnis vicinis, et aliis aquis, et paludibus et lacubus, quae sunt in eo:</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201004T235028Z" creationid="nivaca" creationdate="20201004T234907Z">
+        <seg>[Este] lugar también tiene muchos accidentes provenientes de los lagos vecinos y otras aguas y pantanos y barrizales que están en él;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Locus autem planus et se habens decenter undique, non habet proprietatem naturae nisi eam quam diximus ex latitudine et longitudine ejus causari.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201004T234833Z" creationid="nivaca" creationdate="20201004T234833Z">
+        <seg>Ahora bien, el lugar plano y ancho, descubierto por doquier, solo tiene la propiedad de la naturaleza de la que dijimos que es causada a partir de su latitud y longitud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Locus autem profundus inter montes conclusus vel alia de causa profundus, sicut sunt foveae magnae et profundae, malus erit:</seg>
       </tuv>
       <tuv lang="es-CO" changeid="nivaca" changedate="20201004T210210Z" creationid="nivaca" creationdate="20201004T210210Z">
@@ -5198,6 +5214,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es-CO" changeid="mateovo2" changedate="20201003T170458Z" creationid="mateovo2" creationdate="20201003T170458Z">
         <seg>y que por esto sea inhabitable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et ideo est in eis sanitas et longa vita, licet forte vina regionis talis non sint multa nec multum fortia.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201004T234737Z" creationid="nivaca" creationdate="20201004T234737Z">
+        <seg>y por eso en él están la salud y la larga vida, aunque quizás los vinos de tal región no sean muchos ni muy fuertes.</seg>
       </tuv>
     </tu>
     <tu>

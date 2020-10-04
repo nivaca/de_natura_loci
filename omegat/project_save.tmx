@@ -512,13 +512,11 @@
       </tuv>
     </tu>
     <tu>
-      <note>Acá sucede lo mismo con "convenientia".
-Acá traducimos "convenit" como "concuerda", y en el glosario está sugerido "conviene".</note>
       <tuv lang="la">
         <seg>Cum igitur convenientia et generalitas sit inter locum et locatum, et ignis inter elementa magis convenit cum caelo, oportet quod inter elementa ignis in concavo ultimo orbis locetur.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201003T022601Z" creationid="mateovo2" creationdate="20200625T170217Z">
-        <seg>por lo tanto, puesto que la conveniencia/concordancia y la connaturalidad se dan entre el lugar y lo localizado y el fuego concuerda más con el cielo entre los elementos, conviene que entre los elementos solo el fuego se localice en la última concavidad del cielo. </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T020559Z" creationid="mateovo2" creationdate="20200625T170217Z">
+        <seg>por lo tanto, puesto que la conveniencia/concordancia y la connaturalidad se dan entre el lugar y lo localizado y el fuego concuerda más con el cielo entre los elementos, es preciso que entre los elementos solo el fuego se localice en la última concavidad del cielo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1266,8 +1264,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Et ideo sicut in aliis naturis oportet scientiam naturalem usque ad specialia deducere, ita et in locis.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201003T020509Z" creationid="mateovo2" creationdate="20200616T185520Z">
-        <seg>Y por esta razón, así como en las otras cosas naturales conviene que la ciencia natural deduzca hasta las cosas específicas, de esta manera en los lugares;</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T020540Z" creationid="mateovo2" creationdate="20200616T185520Z">
+        <seg>Y por esta razón, así como en las otras cosas naturales es preciso que la ciencia natural deduzca hasta las cosas específicas, de esta manera en los lugares;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2107,8 +2105,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Invenimus enim aliquod compositum quod est locans et locatum simul, et invenimus aliquod locatum tantum, oportet igitur esse aliquid locans tantum:</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201003T030409Z" creationid="mateovo2" creationdate="20201003T030343Z">
-        <seg>Pues nos encontramos algo compuesto que es a la vez lo que localiza y lo localizado, y encontramos algo tan solo localizado. Por consiguiente, conviene también que haya algo que es tan solo lo que localiza,</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T020630Z" creationid="mateovo2" creationdate="20201003T030343Z">
+        <seg>Pues nos encontramos algo compuesto que es a la vez lo que localiza y lo localizado, y encontramos algo tan solo localizado. Por lo tanto, es preciso también que haya algo que es tan solo lo que localiza,</seg>
       </tuv>
     </tu>
     <tu>
@@ -2566,8 +2564,8 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       <tuv lang="la">
         <seg>Primum autem quod scire convenit, est quod locus dupliciter sumitur.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201003T012949Z" creationid="mateovo2" creationdate="20200619T193849Z">
-        <seg>Ahora bien, lo primero que conviene saber es que "lugar" se toma de dos modos. </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T020545Z" creationid="mateovo2" creationdate="20200619T193849Z">
+        <seg>Ahora bien, lo primero que es preciso saber es que "lugar" se toma de dos modos. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3222,8 +3220,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>Sicut igitur calidum secundum se est causa ejus quod est calefactum tantum, et ejus quod est calefactum et calefaciens, ita oportet necessario quasi ut influxa virtus sit locato tantum, et locato et locanti, ab eo quod est locus tantum:</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201003T030234Z" creationid="mateovo2" creationdate="20201003T030234Z">
-        <seg>por lo tanto, así como lo cálido por sí es causa de eso que es tan solo calentado y de eso que es calentado y calienta, de esta manera conviene con necesidad que la virtud influida esté tan solo en lo localizado, y en lo localizado y en lo que localiza a partir de lo que es tan solo lugar;</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T020612Z" creationid="mateovo2" creationdate="20201003T030234Z">
+        <seg>por lo tanto, así como lo cálido por sí es causa de eso que es tan solo calentado y de eso que es calentado y calienta, de esta manera es preciso con necesidad que la virtud influida esté tan solo en lo localizado, y en lo localizado y en lo que localiza a partir de lo que es tan solo lugar;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4493,8 +4491,8 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       <tuv lang="la">
         <seg>et solatium quaerunt suae imperitiae, si dicunt non oportere de ipso quaerere.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201003T020449Z" creationid="nivaca" creationdate="20201003T002153Z">
-        <seg>y buscan consuelo de su ignorancia, si dicen que no conviene preguntarse sobre esto mismo; </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T020535Z" creationid="nivaca" creationdate="20201003T002153Z">
+        <seg>y buscan consuelo de su ignorancia, si dicen que no es preciso preguntarse sobre esto mismo; </seg>
       </tuv>
     </tu>
     <tu>
@@ -4911,8 +4909,8 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       <tuv lang="la">
         <seg>quare propter ipsum oportet esse aliquid divinissimum et optimum secundum naturam rei.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201003T025749Z" creationid="mateovo2" creationdate="20201003T025749Z">
-        <seg>Por lo que conviene que este sea hacia lo más divino y óptimo según la naturaleza de la cosa</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T020604Z" creationid="mateovo2" creationdate="20201003T025749Z">
+        <seg>Por lo que es preciso que este sea hacia lo más divino y óptimo según la naturaleza de la cosa</seg>
       </tuv>
     </tu>
     <tu>
@@ -5183,8 +5181,8 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       <tuv lang="la">
         <seg>si enim duo inveniantur composita in uno, et unum inveniatur illorum componentium sine alio, necesse est et reliquum inveniri sine reliquo, sicut in octavo Physicorum est determinatum [B536a] in his quae moventur, in quibus motum tantum invenitur sine movente, oportet quod et movens tantum inveniatur sine moto.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201003T030324Z" creationid="mateovo2" creationdate="20201003T030324Z">
-        <seg>pues si dos compuestos se encuentran en uno, y uno de esos componentes se encuentra sin el otro, es necesario también que el restante se encuentre sin el resto, así como fue determinado en el octavo de la *Física* que en aquellas cosas que se mueven y que mueven, en las que, puesto que lo movido tan solo se encuentra sin el que mueve, también conviene que el moviente se encuentre sin lo movido.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T020619Z" creationid="mateovo2" creationdate="20201003T030324Z">
+        <seg>pues si dos compuestos se encuentran en uno, y uno de esos componentes se encuentra sin el otro, es necesario también que el restante se encuentre sin el resto, así como fue determinado en el octavo de la *Física* que en aquellas cosas que se mueven y que mueven, en las que, puesto que lo movido tan solo se encuentra sin el que mueve, también es preciso que el moviente se encuentre sin lo movido.</seg>
       </tuv>
     </tu>
     <tu>

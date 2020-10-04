@@ -360,6 +360,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Circulariter autem habitant, quorum [B549b]quidem latitudo cum sit una, longitudo non una et eadem est:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T031101Z" creationid="mateovo2" creationdate="20201004T031101Z">
+        <seg>Sin embargo, habitan circularmente aquellos que, ciertamente, aunque cuya latitud sea una misma, la longitud no es una sola ni la misma;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Circulariter autem habitant, quorum [B549b]quidem latitudo cum sit una, longitudo non una et eadem est: isti enim sub uno parallelo circulo habitant, qui est aequalis in circuitu latitudinis ab aequinoctiali circulo: et ille quidem totus calidus et frigidus est, et humidus et siccus: et dies eorum aequales sunt et noctes: sed eorum ortus et occasus non sunt in uno tempore sensibili, nec eorum venti sunt aequales: quia quorum differunt Oriens et Occidens, horum necesse est esse ventos diversos ad minus Orientales et Occidentales.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201001T212032Z" creationid="mateovo2" creationdate="20201001T212032Z">
@@ -1554,8 +1562,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Et quicumque locus ab alio removetur secundum latitudinem quingentorum stadiorum, sensibiliter calidior vel frigidior est quam alius:</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201004T030717Z" creationid="mateovo2" creationdate="20201004T030717Z">
-        <seg>Sin embargo, según el más verdadero descubrimiento/estudio de esto, desde entonces comúnmente se entiende que varía, cuando su semidiámetro es de cuatrocientos o, por mucho, de quinientos estadios;</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T031038Z" creationid="mateovo2" creationdate="20201004T030717Z">
+        <seg>Y cualquier lugar es removido de otro según la latitud de quinientos estadios, (y) es sensiblemente más frío o más cálido que el otro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4148,6 +4156,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>[C18a] Coalterne autem habitare dicuntur, quorum una quidem est longitudo, sed non latitudo eorum est una et eadem:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T031151Z" creationid="mateovo2" creationdate="20201004T031151Z">
+        <seg>Sin embargo, son dichos que habitan coalternativamente aquellos cuya longitud, ciertamente, es una sola, pero su latitud no es una sola ni la misma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>[C18a] Coalterne autem habitare dicuntur, quorum una quidem est longitudo, sed non latitudo eorum est una et eadem: et illi sunt qui sub eadem linea habitant in Meridionali, quibus omnibus est in uno eodem quam tempore sensibili Meridies, quando sol accedit ad Zenith capitum ipsorum in motu diurno: sed tamen non habitant sub eodem parallelo circulo, qui distet aequali latitudine per circuitum habitationis ab aequinoctiali circulo.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201001T212059Z" creationid="mateovo2" creationdate="20201001T212059Z">
@@ -4241,6 +4257,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015321Z" creationid="mateovo2" creationdate="20201003T015321Z">
         <seg>y da el ejemplo de aquellos animales que caen de lo más alto, que están muertos antes de llegar a la tierra,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>de quo accidente nos infra loquemur.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T031050Z" creationid="mateovo2" creationdate="20201004T031050Z">
+        <seg>accidente sobre el cual nosotros trataremos más abajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4556,6 +4580,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T030331Z" creationid="mateovo2" creationdate="20201004T030331Z">
         <seg>Al inclinarse desde él (el punto equinoccial) frente al aquilón por 16 grados hace el día más largo que lo que es el día del equinoxio por una hora en el sitio que dista en 16 grados de latitud desde el círculo equinoxial;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et dies eorum aequales sunt et noctes:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T031135Z" creationid="mateovo2" creationdate="20201004T031135Z">
+        <seg>y sus días y sus noches son iguales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5083,6 +5115,22 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et ille quidem totus calidus et frigidus est, et humidus et siccus:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T031130Z" creationid="mateovo2" creationdate="20201004T031130Z">
+        <seg>y este lugar, ciertamente, es igualmente cálido y frío y húmedo y seco,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et illi sunt qui sub eadem linea habitant in Meridionali, quibus omnibus est in uno eodem quam tempore sensibili Meridies, quando sol accedit ad Zenith capitum ipsorum in motu diurno:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T031321Z" creationid="mateovo2" creationdate="20201004T031321Z">
+        <seg>Y estos son quienes habitan bajo la misma línea meridional. Para todos estos el sur está en un solo y en el mismo tiempo sensible, puesto que el sol se aproxima al cénit de sus cabezas en su movimiento diurno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et illius quidem diameter ad plus est millium stadiorum secundum Ptolemaeum.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T030708Z" creationid="mateovo2" creationdate="20201004T030708Z">
@@ -5446,8 +5494,8 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       <tuv lang="la">
         <seg>et sic sensibilis est distinctio proprietatum longitudinis et latitudinis locorum, nisi sit impedimentum per accidens aliquod loci ex maribus vel ex montibus:</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201004T030917Z" creationid="mateovo2" creationdate="20201004T030917Z">
-        <seg>y por esto, cualquier ciudad o lugar se aleja del otro por cincuenta estadios, (y) sensiblemente tiene otro orto y otro ocaso de las estrellas según el tiempo sensible.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T031040Z" creationid="mateovo2" creationdate="20201004T030917Z">
+        <seg>Y así es sensible la distinción de las propiedades de la latitud y de la longitud de los lugares, salvo si por accidente hay algún impedimento del lugar a partir de mares o de montañas,</seg>
       </tuv>
     </tu>
     <tu>
@@ -5691,6 +5739,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T170127Z" creationid="mateovo2" creationdate="20201003T170127Z">
         <seg>El rayo reflejado en sí mismo causa un incendio, así como es probado en las *Perspectivas*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>isti enim sub uno parallelo circulo habitant, qui est aequalis in circuitu latitudinis ab aequinoctiali circulo:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T031119Z" creationid="mateovo2" creationdate="20201004T031119Z">
+        <seg>pues estos habitan bajo un solo círculo paralelo, que es igual en el circuito de la latitud desde el círculo equinoccial,</seg>
       </tuv>
     </tu>
     <tu>
@@ -6209,6 +6265,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>quia quorum differunt Oriens et Occidens, horum necesse est esse ventos diversos ad minus Orientales et Occidentales.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T031146Z" creationid="mateovo2" creationdate="20201004T031146Z">
+        <seg>Puesto que el oriente y el occidente de aquellos difieren, es necesario que los vientos orientales y occidentales de estos difieran por menos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>quia recessus solis causat frigus ex victoria inferiorum elementorum causatum:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T171325Z" creationid="mateovo2" creationdate="20201003T171325Z">
@@ -6397,6 +6461,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T165311Z" creationid="mateovo2" creationdate="20201003T165311Z">
         <seg>Pero los compuestos de elementos tienen sus materias casi dominadas y determinadas por sus formas, y, por eso, resisten más a las cosas que actúan produciendo cambios en ellos;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>sed eorum ortus et occasus non sunt in uno tempore sensibili, nec eorum venti sunt aequales:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T031140Z" creationid="mateovo2" creationdate="20201004T031140Z">
+        <seg>Pero su orto y su ocaso no suceden en un único tiempo sensible, y sus vientos no son iguales.</seg>
       </tuv>
     </tu>
     <tu>

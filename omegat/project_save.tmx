@@ -2360,6 +2360,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Negat enim Averroes solem eccentricum circulum in quo moveatur, habere:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022015Z" creationid="mateovo2" creationdate="20201004T022015Z">
+        <seg>También niega Averroes que el sol tenga un círculo excéntrico en el que se mueve,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Negat enim Averroes solem eccentricum circulum in quo moveatur, habere: et ideo tertiam causam caloris sub tropico hyemali dicit esse falsam et nullam: sed potius dicit quartam quae est ab aequinoctiali circulo usque in polum Australem, esse divisibilem per climata habitabilia, sicut et quarta terrae dividitur Septentrionalis, in qua nos habitamus.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200821T212044Z" creationid="anlozan" creationdate="20200814T203108Z">
@@ -2721,6 +2729,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200821T221729Z" creationid="anlozan" creationdate="20200814T204010Z">
         <seg>Ahora bien, puesto que se hará mención de esta opinión en el Segundo Libro de las causas de las propiedades de los elementos, por esto aplazaremos para allí la discusión contra ella, especialmente porque nosotros probamos en el Libro tercero Sobre el cielo y el mundo que la tierra está localizada directamente bajo todos los otros elementos en el medio del mundo, en la medida en que es el medio del mundo. En efecto, esto refuta suficientemente el error que está dicho allí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Quidam autem Antiquissimorum propter hoc terram non esse rotundam asserebant, sed potius factam semisphaeralem, et nullam omnino terram:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022044Z" creationid="mateovo2" creationdate="20201004T022044Z">
+        <seg>Ahora bien, algunos de los más antiguos por esto aseveraban que la tierra no es redonda, sino que más bien fue hecha semiesférica, y decían que, en dirección al polo austral, no había tierra en absoluto,</seg>
       </tuv>
     </tu>
     <tu>
@@ -3825,8 +3841,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>dicit enim inter calidissimum et frigidissimum esse temperamentum:</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201004T021820Z" creationid="mateovo2" creationdate="20201004T021442Z">
-        <seg>pues dice que entre lo más cálido y lo más frio hay un temperamento.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T021924Z" creationid="mateovo2" creationdate="20201004T021442Z">
+        <seg>pues dice que entre lo más cálido y lo más frio está lo temperado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4409,6 +4425,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et ideo tertiam causam caloris sub tropico hyemali dicit esse falsam et nullam:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022022Z" creationid="mateovo2" creationdate="20201004T022022Z">
+        <seg>y por esto dice que la tercera causa de calor bajo el trópico invernal es falsa e inexistente,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et immediate probatum est esse temperamentum per latitudinem septem climatum:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T021104Z" creationid="mateovo2" creationdate="20201004T021104Z">
@@ -4641,6 +4665,15 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>frigidissimum autem esse necesse est sub polo, eo quod obliquissime locum illum radii solis respiciunt:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T021957Z" creationid="mateovo2" creationdate="20201004T021957Z">
+        <seg>Ahora bien, es preciso que lo más frío esté bajo el polo, porque los rayos del sol caen en aquel lugar muy oblicuamente.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>haec enim distantia causat calidum et frigidum, humidum et siccum, quae sunt virtutes naturales elementorum:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T025108Z" creationid="mateovo2" creationdate="20201003T025108Z">
@@ -4685,6 +4718,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T024650Z" creationid="mateovo2" creationdate="20201003T024650Z">
         <seg>pues es propio de estos el moverse hacia el centro de su lugar y el declinar desde los extremos según la conveniencia* de la naturaleza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>igitur in medio per aequidistantiam ab utroque locus erit temperatus et congruus habitationi.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022002Z" creationid="mateovo2" creationdate="20201004T022002Z">
+        <seg>Por lo tanto, en el medio, por equidistancia con ambos, habrá un lugar temperado y adecuado para habitar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4868,8 +4909,8 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       <tuv lang="la">
         <seg>necessario etiam est locus [B543a] calidissimus sub tropico hyemali:</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201004T021907Z" creationid="mateovo2" creationdate="20201004T021907Z">
-        <seg>Sin embargo, hay un lugar calidísimo bajo el trópico </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T021934Z" creationid="mateovo2" creationdate="20201004T021907Z">
+        <seg>Sin embargo, hay un lugar calidísimo bajo el trópico invernal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5291,6 +5332,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>sed esse aquas dicebant versus polum Australem, et ideo ad nos nullum pervenisse de habitatione quartae quae est ultra aequinoctialem.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022050Z" creationid="mateovo2" creationdate="20201004T022050Z">
+        <seg>sino aguas, y por esto nadie había llegado a nosotros desde ninguna habitación de la cuarta parte, que está más allá del equinoccial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>sed inter duo calidissima non est temperatum medium.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T170302Z" creationid="mateovo2" creationdate="20201003T170302Z">
@@ -5303,6 +5352,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020427Z" creationid="nivaca" creationdate="20201003T002035Z">
         <seg>y es preciso que nosotros conozcamos en particular las diversidades de los lugares y la causa de su diversidad y los accidentes de los diversos lugares; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>sed potius dicit quartam quae est ab aequinoctiali circulo usque in polum Australem, esse divisibilem per climata habitabilia, sicut et quarta terrae dividitur Septentrionalis, in qua nos habitamus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022027Z" creationid="mateovo2" creationdate="20201004T022027Z">
+        <seg>sino que más bien dice que la cuarta, que se encuentra desde el círculo equinoccial hasta el polo austral, es divisible en climas habitables, así como también se divide la cuarta parte de la tierra septentrional en la que nosotros habitamos.</seg>
       </tuv>
     </tu>
     <tu>

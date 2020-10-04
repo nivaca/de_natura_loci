@@ -1967,8 +1967,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Ignotum vobis Arabes venistis in orbem.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20200904T215654Z" creationid="anlozan" creationdate="20200814T205632Z">
-        <seg>Y por esto, al hablarles a ellos, dice: ‘árabes, vinisteis a un ignoto mundo para vosotros.”.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T023045Z" creationid="anlozan" creationdate="20200814T205632Z">
+        <seg>"Arabes, vinisteis a un ignoto mundo para vosotros."</seg>
       </tuv>
     </tu>
     <tu>
@@ -3102,10 +3102,27 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Sed quod raro transeunt, causa est una latitudo deserti interjacentis, sicut scribunt historiographi:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T023051Z" creationid="mateovo2" creationdate="20201004T023051Z">
+        <seg>Pero, que rara vez pasen, la causa es la verdadera extensión del desierto que yace en el medio, tal como escriben los historiógrafos.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Sed quod raro transeunt, causa est una latitudo deserti interjacentis, sicut scribunt historiographi: hoc enim desertum arenosum, et procellas facit in eo ventus, et est vastum et latum, ita quod spatio septimanarum multarum transiri non potest: et ideo propter ariditatem illius contingit, quod parum scimus de habitantibus ibi.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200904T220957Z" creationid="anlozan" creationdate="20200814T205842Z">
         <seg>Pero, que rara vez pasen, la causa es la verdadera extensión del desierto que yace en el medio, tal como escriben los historiógrafos. En efecto, este desierto es arenoso y el viento crea tormentas de arena en él; y es vasto y ancho de tal modo que no puede ser atravesado en el espacio de muchas semanas. Y por esto, por su aridez, sucede que sabemos poco sobre los habitantes de allí y que los mensajeros de los reyes y los ejércitos no lo atravesaron.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sed quod rumores aliqui ex eis ad nos non pervenerunt, omnino non puto esse verum, cum Homerus jam locutus sit de ipsis, et etiam Lucanus de Arabibus qui in torrida habitant, scribat dicens, quod umbras quas habebant dextras in sua terra, quando se convertebant ad Orientem in Meridie suo venientes in quartam Aquilonarem vide-[B544b]-bant ire sinistras:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022941Z" creationid="mateovo2" creationdate="20201004T022941Z">
+        <seg>Pero pienso que no es verdadero que de ellos no hayan llegado noticias a nosotros en absoluto, puesto que Homero ya había hablado de ellos; e incluso Lucano escribía sobre los árabes que viven en la zona tórrida, diciendo que las sombras que tenían a la derecha, allá en su tierra, cuando se dirigían hacia oriente estando en su sur/mediodía*, al venir a la cuarta parte aquilonal, parecían ir a la izquierda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3277,6 +3294,15 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200626T213352Z" creationid="nivaca" creationdate="20200610T234439Z">
         <seg>Por lo tanto, si aquellos lugares son tan fuertemente cálidos a causa del solo verano que tienen a partir del sol que se les aproxima y que no cae sobre el cénit de sus cabezas*, es probable que sea de calor intolerable la tierra en la que el sol cae perpendicularmente dos veces al año, y que por esto sea inhabitable. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sic etiam intelligitur quod dicunt Philosophi, quod nullus invenitur scripsisse aliquid de habitatione illa:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T023209Z" creationid="mateovo2" creationdate="20201004T023209Z">
+        <seg>Así también se entiende lo que dicen los filósofos, que no se encuentra a nadie que haya escrito algo sobre aquella habitación.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -4250,6 +4276,15 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>et hoc modo etiam nihil prohibet quin homines quartae Aquilonaris possint transire ad homines quartae Meridionalis non impediente exustione solis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T022902Z" creationid="mateovo2" creationdate="20201004T022902Z">
+        <seg>Y de este modo tampoco nada impide que los hombres de la cuarta parte aquilonal puedan llegar hasta los hombres de la cuarta parte meridional no impidiéndolo el exceso de calor del sol.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>et hoc modo per mathematicam locutionem concedi potest, quod lux sit virtus qua caelum diffundit virtutem formativam in locum et omnes loci differentias.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T030138Z" creationid="mateovo2" creationdate="20201003T030138Z">
@@ -4382,6 +4417,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T170039Z" creationid="mateovo2" creationdate="20201003T170039Z">
         <seg>Y por eso, al restar cuarenta y ocho grados del séptimo clima, quedarían cuarenta y dos de latitud de la región inhabitable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et ideo dicit loquens de eis:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T023032Z" creationid="mateovo2" creationdate="20201004T023032Z">
+        <seg>Y por eso dice, hablándoles a ellos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4526,6 +4569,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T164208Z" creationid="mateovo2" creationdate="20201003T164208Z">
         <seg>y por esto la tierra es propiamente su lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>et ideo propter ariditatem illius contingit, quod parum scimus de habitantibus ibi.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T023113Z" creationid="mateovo2" creationdate="20201004T023113Z">
+        <seg>Y por esto, por su aridez, sucede que sabemos poco sobre los habitantes de allí y que los mensajeros de los reyes y los ejércitos no lo atravesaron.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4823,6 +4874,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T025119Z" creationid="mateovo2" creationdate="20201003T025119Z">
         <seg>Pues si no la hay, a partir del movimiento y de la luz, esta induce lo cálido en lo más alto y lo sutil y lo seco, los que en general no son sino formas del fuego;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>hoc enim desertum arenosum, et procellas facit in eo ventus, et est vastum et latum, ita quod spatio septimanarum multarum transiri non potest:</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201004T023107Z" creationid="mateovo2" creationdate="20201004T023107Z">
+        <seg>Pues este desierto es arenoso y el viento crea tormentas de arena en él; y es vasto y ancho de tal modo que no puede ser atravesado en el espacio de muchas semanas.</seg>
       </tuv>
     </tu>
     <tu>

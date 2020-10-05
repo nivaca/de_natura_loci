@@ -112,8 +112,8 @@
       <tuv lang="la">
         <seg>Alia causa est, [B556b] quia aer ejus est ita turbidus et spissus, quod a parvo moveri non possit, etsi attigerit eum.</seg>
       </tuv>
-      <tuv lang="es-CO" changeid="nivaca" changedate="20201004T210513Z" creationid="nivaca" creationdate="20201004T210513Z">
-        <seg>La segunda causa es que su aire es tan espeo y turbio que no podría ser movido por algo pequeño, incluso si lo tocara.</seg>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201005T002519Z" creationid="nivaca" creationdate="20201004T210513Z">
+        <seg>La segunda causa es que su aire es tan espeso y turbio que no podría ser movido por algo pequeño, incluso si lo tocara.</seg>
       </tuv>
     </tu>
     <tu>
@@ -907,8 +907,8 @@
       <tuv lang="la">
         <seg>E contrario autem est de loco alto non ex montibus, sed ex terrae elevatione, hic optimus est praecipue humanae vitae ad habitandum:</seg>
       </tuv>
-      <tuv lang="es-CO" changeid="nivaca" changedate="20201004T231314Z" creationid="nivaca" creationdate="20201004T211851Z">
-        <seg>Al contrario sucede al respecto del lugar que es alto no debido a las montes sino a la elevación común/uniforme de la tierra; es este es principalmente el mejor a la vida humana para el habitar/la habitación,</seg>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201005T002551Z" creationid="nivaca" creationdate="20201004T211851Z">
+        <seg>Sucede al contrario respecto del lugar que es alto no debido a las montes sino a la elevación común/uniforme de la tierra; es este principalmente el mejor a la vida humana para el habitar/la habitación,</seg>
       </tuv>
     </tu>
     <tu>
@@ -4600,8 +4600,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>eo quod est frigidus et siccus non excellenter, sed habet frigiditatem in actu magis quam caliditatem:</seg>
       </tuv>
-      <tuv lang="es-CO" changeid="nivaca" changedate="20201004T211900Z" creationid="nivaca" creationdate="20201004T211900Z">
-        <seg>porque no es excesivamente frío ni excesivamente seco, sino que tiene una frialdad de hecho más que calidez.</seg>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201005T002707Z" creationid="nivaca" creationdate="20201004T211900Z">
+        <seg>porque no es excesivamente frío ni excesivamente seco, sino que tiene de hecho/efectivamente/en acto frialdad más que calidez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5478,8 +5478,8 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       <tuv lang="la">
         <seg>et ideo ventus Aquilonaris gelatus est iterum et flat praecipue ex resolutione nivium.</seg>
       </tuv>
-      <tuv lang="es-CO" changeid="nivaca" changedate="20201004T204010Z" creationid="nivaca" creationdate="20201004T204010Z">
-        <seg>como, nuevamente, porque el gélido viento aquilonar sopla principalmente desde el deshielo de las nieves.</seg>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201005T002422Z" creationid="nivaca" creationdate="20201004T204010Z">
+        <seg>como, nuevamente, porque el gélido viento aquilonar/del norte sopla principalmente por/desde el deshielo de las nieves.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6845,8 +6845,8 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       <tuv lang="la">
         <seg>quia semper erit vapore terrestri plenus per quem inficit et inflat corpora, et aer siccus, eo quod non est purus, sed turbidus et spissus, non de facili recipit immutationem frigoris et caloris, nec eventatur.</seg>
       </tuv>
-      <tuv lang="es-CO" changeid="nivaca" changedate="20201004T210354Z" creationid="nivaca" creationdate="20201004T210354Z">
-        <seg>porque siempre está lleno de vapor terrestre por el cual infecta y enfría los cuerpos; y su aire, por el hecho de no ser puro sino turbio es espeso, no asume fácilmente el cambio del frío y del calor,</seg>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201005T002459Z" creationid="nivaca" creationdate="20201004T210354Z">
+        <seg>porque siempre está lleno de vapor terrestre por el cual infecta y enfría los cuerpos; y su aire, por el hecho de no ser puro sino turbio, es espeso, no asume fácilmente el cambio del frío y del calor,</seg>
       </tuv>
     </tu>
     <tu>

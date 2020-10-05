@@ -1425,8 +1425,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Et ideo in talibus montibus vina fortia generantur in latere [B556a] Meridiano, nisi fuerint multum alti:</seg>
       </tuv>
-      <tuv lang="es-CO" changeid="nivaca" changedate="20201004T174955Z" creationid="nivaca" creationdate="20201004T174955Z">
-        <seg>Y por eso en tales montes se producen vinos fuertes en el lado meridiano, salvo que [los montes] fueran muy altos,</seg>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201005T001943Z" creationid="nivaca" creationdate="20201004T174955Z">
+        <seg>Y por eso en tales montes se producen vinos fuertes en el lado meridiano, a menos que [los montes] fueran muy altos,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1618,8 +1618,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Et quia ventus Aquilonaris dissipat nubes, erit locus ille frigidus et siccus et sanus ad habitandum, nisi ex alio accidente prohibeatur.</seg>
       </tuv>
-      <tuv lang="es-CO" changeid="nivaca" changedate="20201004T201804Z" creationid="nivaca" creationdate="20201004T201727Z">
-        <seg>Y porque el viento aquilonar disipa las nubes, aquel lugar será frio y seco y sano para habitar, salvo que [el viento] fuera impedido por algún otro accidente.</seg>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201005T002122Z" creationid="nivaca" creationdate="20201004T201727Z">
+        <seg>Y puesto que el viento aquilonar/del norte disipa las nubes, aquel lugar será frío y seco y sano para habitar, salvo que [el viento] sea impedido por algún otro accidente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1738,8 +1738,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Et si quidem sunt ante locum versus Aquilonem, tunc erit locus per naturam calidus:</seg>
       </tuv>
-      <tuv lang="es-CO" changeid="mateovo2" changedate="20201005T001400Z" creationid="nivaca" creationdate="20201004T174635Z">
-        <seg>y si algunos están delante de un lugar frente al Aquilón/norte, entonces el lugar será por naturaleza cálido,</seg>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201005T001918Z" creationid="nivaca" creationdate="20201004T174635Z">
+        <seg>y si algunos están delante de un lugar frente al Aquilón/norte, entonces el lugar será por naturaleza cálido, </seg>
       </tuv>
     </tu>
     <tu>
@@ -3727,8 +3727,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>Si autem montes sunt ad Meridiem, et locus versus Aquilonem, et sunt alti montes et multi, locus erit frigidus vehementer, tam ex nivibus montium, quam etiam quia detectus est locus vento Aquilonari, et tectus et occultatus a vento Meridionali.</seg>
       </tuv>
-      <tuv lang="es-CO" changeid="nivaca" changedate="20201005T001603Z" creationid="nivaca" creationdate="20201004T175158Z">
-        <seg>Sin embargo, si los montes dan hacia el meridiano, y el lugar está frente al Aquilón/norte y [los montes] son muchos y altos, el lugar sería vehementemente frío tanto por las nieves de los montes como también por el hecho de que el lugar está desprotegido del viento aquilonar/del norte, y está protegido y ocultado por el viento meridional.</seg>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201005T002046Z" creationid="nivaca" creationdate="20201004T175158Z">
+        <seg>Sin embargo, si los montes dan hacia el meridiano, y el lugar está frente al Aquilón/norte y [los montes] son muchos y altos, el lugar será vehementemente frío, tanto por las nieves de los montes, como también por el hecho de que el lugar está descubierto del viento aquilonar/del norte, y está protegido y ocultado por el viento meridional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4939,8 +4939,8 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       <tuv lang="la">
         <seg>et ex vicinitate montium grossam habet humiditatem, quia patulus est vento Occidentali frigido et humido:</seg>
       </tuv>
-      <tuv lang="es-CO" changeid="nivaca" changedate="20201004T202053Z" creationid="nivaca" creationdate="20201004T202053Z">
-        <seg>y por la vecindad de los montes; pero tiene una espesa humedad, por el hecho de que está expuesto/abierto al frío y húmedo viento occidental,</seg>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201005T002212Z" creationid="nivaca" creationdate="20201004T202053Z">
+        <seg>y por la vecindad de los montes; pero tiene una espesa humedad por el hecho de que está expuesto/abierto al frío y húmedo viento occidental,</seg>
       </tuv>
     </tu>
     <tu>
@@ -5840,8 +5840,8 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       <tuv lang="la">
         <seg>et si sunt alti valde, tunc sunt nivosi frequenter, et tunc aut sunt siti versus Aquilonem claudentes locum, aut versus Meridiem, aut versus Occidentem.</seg>
       </tuv>
-      <tuv lang="es-CO" changeid="mateovo2" changedate="20201005T001351Z" creationid="nivaca" creationdate="20201004T174536Z">
-        <seg>y si son muy altos, entonces con frecuencia son nevosos, y entonces están situados hacia el Aquilón/norte, cerrando el lugar, o bien hacia el meridiano, o bien hacia el oriente, o bien hacia el occidente;</seg>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201005T001915Z" creationid="nivaca" creationdate="20201004T174536Z">
+        <seg>y si son muy altos, entonces con frecuencia son nevosos, y entonces están situados hacia el Aquilón/norte, cerrando el lugar, o bien hacia el meridiano, o bien hacia el oriente, o bien hacia el occidente; </seg>
       </tuv>
     </tu>
     <tu>
@@ -6909,8 +6909,8 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       <tuv lang="la">
         <seg>quia tunc habebunt nives perpetuas, ex quibus aut temperantur, aut infrigidantur loca.</seg>
       </tuv>
-      <tuv lang="es-CO" changeid="mateovo2" changedate="20201005T001447Z" creationid="nivaca" creationdate="20201004T175124Z">
-        <seg>porque entonces tendrían nieves perpetuas, por las que los lugares o bien se atemperarían, o bien se enfriarían.</seg>
+      <tuv lang="es-CO" changeid="nivaca" changedate="20201005T001956Z" creationid="nivaca" creationdate="20201004T175124Z">
+        <seg>porque entonces tendrían nieves perpetuas por las que los lugares o bien se atemperarían, o bien se enfriarían.</seg>
       </tuv>
     </tu>
     <tu>

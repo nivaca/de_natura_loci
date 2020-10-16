@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="la"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="la"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1071,8 +1071,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Est autem sciendum, quod in illis terrae dimensionibus quidam a Philosophis vocantur simul habitantes, et quidam circulariter dicuntur habitantes, quidam autem coalternatione, et quidam vero opposite.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201002T225644Z" creationid="mateovo2" creationdate="20201001T211710Z">
-        <seg>Ahora bien, se ha de saber que, en aquellas dimensiones de la tierra, ciertos son nombrados por los filósofos “habitantes simultáneos” y algunos son llamados “habitantes del mismo círculo”, y, sin embargo, otros según la coalternación, pero otros opuestamente. </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201016T211647Z" creationid="mateovo2" creationdate="20201001T211710Z">
+        <seg>Ahora bien, se ha de saber que, en aquellas dimensiones de la tierra, algunos son nombrados por los filósofos “habitantes simultáneos” y algunos son llamados “habitantes del mismo círculo”, y, por otro lado, otros [son llamados] según la coalternación, pero otros opuestamente. </seg>
       </tuv>
     </tu>
     <tu>

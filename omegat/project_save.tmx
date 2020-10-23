@@ -975,8 +975,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Est autem habitatio talium aequaliter quidem calida et frigida, humida et sicca, propter unam [B550a] eamdemque latitudinem quam habent: non tamen in una hora habent Orientem et Occidentem, sed potius differt ad minus per sex horas ortus istorum ab ortu illorum, et similiter occasus.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201023T225510Z" creationid="mateovo2" creationdate="20201001T212137Z">
-        <seg>Ahora bien, la habitación de tales [habitantes], ciertamente, es igualmente cálida y fría y húmeda y seca, a causa de una sola y misma latitud que tienen. Sin embargo, no tienen el amanecer y el ocaso (el sol que sale y que se pone) en una sola hora, sino más bien el orto para estos difiere por lo menos por seis horas (90 grados) del orto para aquellos, y de la misma manera el ocaso.  </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201023T225642Z" creationid="mateovo2" creationdate="20201001T212137Z">
+        <seg>Ahora bien, la habitación de tales [habitantes], ciertamente, es igualmente cálida y fría y húmeda y seca, a causa de una sola y misma latitud que tienen. Sin embargo, no tienen el levante y el poniente en una sola hora, sino más bien el orto para estos difiere por lo menos por seis horas del orto para aquellos, y de la misma manera el ocaso.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -2875,6 +2875,11 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       </tuv>
     </tu>
     <tu>
+      <note>Pericecos improprio significatu acceptos appellat Albertus opposite habitantes , Antipodas &amp; Antigenos , in hæc uerba . Opposite autem habitant quo- bitantes . Opposite han rum unus est parallelus secundum latitudinem eandem , sed non eft eis longis cudo una , fed potius distantsecundum magnamlongitudinem quæ ...
+Johann Stöffler · 1534
+
+Pericecos improprio significatu acceptos appellat Albertus opposite habitantes , Antipodas &amp; Antigenos , in hæc uerba . Opposite autem habitant quo- bitantes . Opposite han rum unus est parallelus secundum latitudinem eandem , sed non eft eis longis cudo una , fed potius distantsecundum magnamlongitudinem quæ ...
+Johann Stöffler · 1534</note>
       <tuv lang="la">
         <seg>Opposite autem habitant, quorum est unus parallelus secundum latitudinem eandem, sed non est eis longitudo una, sed potius distant per maximam longitudinem quae potest esse per circulum: hoc autem est quando elongatur a se per totum semicirculum: tunc enim distant per longitudinem totam diametri, et convertunt contra se pedes invicem, ita quod diameter inferior circuli paralleli per Zenith capitum, et per pedes, et per centrum semicirculum transit: et isti vocantur antipodes, et sunt in nostra habitabili, sicut habitantes omnes qui sunt in uno eodemque climate elongati a se per totam longitudinem Orientis ab Occidente nostrae habitabilis.</seg>
       </tuv>

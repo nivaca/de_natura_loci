@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="la"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="la"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2331,8 +2331,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>In omnibus autem his locis simul habitare secundum sensum dicuntur, quorum secundum sensum est una loci in calido et frigido et humido et sicco proprietas ex eadem latitudine loci sensibilis, et quibus sensibiliter est secundum tempus unus ortus solis et occasus.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201001T212020Z" creationid="mateovo2" creationdate="20201001T212020Z">
-        <seg>Sin embargo, en todos estos lugares son dichos que habitan simultáneamente según los sentidos [los habitantes simultáneos], de los cuales, según los sentidos, hay una sola propiedad del lugar en lo cálido y lo frío y lo húmedo y lo seco a partir de la misma latitud del lugar sensible, y, según el tiempo, para ellos el orto y el ocaso del sol es sensiblemente uno solo. </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201023T212027Z" creationid="mateovo2" creationdate="20201001T212020Z">
+        <seg>Sin embargo, se dice según los sentidos que habitan simultáneamente en todos estos lugares, de los cuales, según los sentidos, hay una sola propiedad del lugar en lo cálido y lo frío y lo húmedo y lo seco a partir de la misma latitud sensible del lugar, y, según el tiempo, para ellos el orto y el ocaso del sol es uno solo según los sentidos. </seg>
       </tuv>
     </tu>
     <tu>

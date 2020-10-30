@@ -2740,6 +2740,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Medium igitur per aequidistantiam acceptum inter frigidissimum quod est latitudinis nonaginta graduum, vel parum minus, et inter calidissimum quod est latitudo viginti quatuor graduum, videtur quod est latitudinis amplius quam quadraginta graduum: et hoc est sextum et septimum clima: illa igitur videntur magis temperata quam quartum clima.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201030T195727Z" creationid="anlozan" creationdate="20201030T195727Z">
+        <seg> Por lo tanto, parece que lo intermedio tomado por la equidistancia entre lo más frío, que es propio de la latitud de 90 grados o un poco menos, y lo más caluroso, que es propio de la latitud de 24 grados, es lo que es propio de la latitud de más de cuarenta grados, y eso es el sexto y el séptimo clima.Por lo tanto, esos climas parecen ser más temperados que el cuarto clima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Mensura [B547a] autem ista dicitur regionum latitudo a Philosophis:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T024907Z" creationid="mateovo2" creationdate="20201004T024907Z">

@@ -963,6 +963,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
     </tu>
     <tu>
+      <tuv lang="la">
+        <seg>Est autem dubitatio quaedam de his quae dicta sunt, utrum scilicet locus quarti climatis sit temperatus inter habitabilia?</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201030T183628Z" creationid="anlozan" creationdate="20201030T183628Z">
+        <seg>Ahora bien, hay una duda sobre lo que se ha dicho, es decir, si el lugar del cuarto clima verdaderamente es el más temperado entre los lugares habitables,</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Habitabilis: NOTA. </note>
       <tuv lang="la">
         <seg>Est autem duplex habitabilis terrae diversitas ex habitudine comparationis terrae ad caelum.</seg>
@@ -3302,6 +3310,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201005T000537Z" creationid="anlozan" creationdate="20200821T195905Z">
         <seg>Esto ocurre por eso, porque el frío ingente de esa región espesa el aire permanentemente y lo convierte en agua, y por eso, como niebla espesa, se expande permanentemente allí el aire sobre el agua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Quod ita esse ego non consentio: quia temperatura illa non est inter contraria, sed potius inter duos excessus ejusdem qualitatis, et ideo locus medius, sicut et superius diximus, non esse temperamentum secundum calidum et frigidum, sed potius remissior in calido inter alia duo loca: locus autem medius inter calidissimum et frigidissimum est temperatum frigidum et calidum, et ideo est delectabilis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201030T183550Z" creationid="anlozan" creationdate="20201030T183550Z">
+        <seg>Sin embargo, no estoy de acuerdo de que este asunto sea así, debido a que esa temperancia no se encuentra entre cualidades contrarias, sino más bien entre dos excesos de la misma cualidad, y por lo tanto el lugar intermedio, como hemos dicho más arriba también, no es temperado según lo caluroso y lo frío, sino más bien menos intensamente caluroso que los otros dos lugares, pero el lugar entre el más frío y el más caluroso es temperado según lo frío y lo caluroso, y por lo tanto, es deleitoso.</seg>
       </tuv>
     </tu>
     <tu>

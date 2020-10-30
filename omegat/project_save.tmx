@@ -3983,6 +3983,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Similiter excedens in calidissimo non est locus sub aequinoctiali et citra parum in latitudine primi climatis, sed potius sub tropico, quae latitudo est semicircularis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201030T195327Z" creationid="anlozan" creationdate="20201030T195327Z">
+        <seg>Asímismo, el que excede en lo más caluroso no es el lugar bajo la línea equinoccial y un poco del lado de acá [o: un poco hacia nosotros] en la latitud del primer clima, sino más bien el lugar bajo el trópico, la cual latitud es propia del segundo clima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Similitudo et dissimilitudo locorum et virtutum formativarum, quae sunt in loco, ex materia per signum maxime deprehendi potest in quodam magnetis genere, qui uno angulo fugit ferrum, et in alio attrahit ipsum.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T232336Z" creationid="andrealozanov" creationdate="20200611T232336Z">
@@ -7036,6 +7044,14 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T020420Z" creationid="nivaca" creationdate="20201003T002011Z">
         <seg>Por lo que incluso, así como se dice en la *Física*, no requieren de un motor hacia el lugar mismo salvo accidentalmente; motor que, a saber, remueve el obstáculo que detiene lo localizado bajo límites ajenos y que no son acordes a su naturaleza. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>quoniam excedens in frigidissimo, non est clima septimum, sed potius locus inhabitabilis sub aquilonari.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201030T183707Z" creationid="anlozan" creationdate="20201030T183707Z">
+        <seg>ya que el que excede en lo más frío no es el séptimo clima, sino más bien el lugar inhabitable bajo el polo aquilonal.</seg>
       </tuv>
     </tu>
     <tu>

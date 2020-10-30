@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="la"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="la"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -739,8 +739,8 @@
       <tuv lang="la">
         <seg>De diversitate naturae locorum ex accidenti montium, marium, et silvarum.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20201004T235852Z" creationid="nivaca" creationdate="20201002T203859Z">
-        <seg>Sobre la diferencia de la naturaleza de los lugares en virtud del accidente de los montes, los mares y los bosques.</seg>
+      <tuv lang="es" changeid="nivaca" changedate="20201030T212409Z" creationid="nivaca" creationdate="20201002T203859Z">
+        <seg>Sobre la diversidad de la naturaleza de los lugares en virtud del accidente de los montes, los mares y los bosques.</seg>
       </tuv>
     </tu>
     <tu>

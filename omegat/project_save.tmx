@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="la"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="la"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2783,8 +2783,8 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       <tuv lang="la">
         <seg>Medium igitur per aequidistantiam acceptum inter frigidissimum quod est latitudinis nonaginta graduum, vel parum minus, et inter calidissimum quod est latitudo viginti quatuor graduum, videtur quod est latitudinis amplius quam quadraginta graduum: et hoc est sextum et septimum clima: illa igitur videntur magis temperata quam quartum clima.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20201030T195727Z" creationid="anlozan" creationdate="20201030T195727Z">
-        <seg> Por lo tanto, parece que lo intermedio tomado por la equidistancia entre lo más frío, que es propio de la latitud de 90 grados o un poco menos, y lo más caluroso, que es propio de la latitud de 24 grados, es lo que es propio de la latitud de más de cuarenta grados, y eso es el sexto y el séptimo clima.Por lo tanto, esos climas parecen ser más temperados que el cuarto clima.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201030T225028Z" creationid="anlozan" creationdate="20201030T195727Z">
+        <seg>Por lo tanto, parece que lo intermedio tomado por la equidistancia entre lo más frío, que es propio de la latitud de 90 grados o un poco menos, y lo más cálido, que es propio de la latitud de 24 grados, es lo que es propio de la latitud de más de cuarenta grados, y esto es el sexto y el séptimo clima. Por lo tanto, aquellos climas parecen más temperados que el cuarto clima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4034,8 +4034,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>Similiter excedens in calidissimo non est locus sub aequinoctiali et citra parum in latitudine primi climatis, sed potius sub tropico, quae latitudo est semicircularis.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20201030T195327Z" creationid="anlozan" creationdate="20201030T195327Z">
-        <seg>Asímismo, el que excede en lo más caluroso no es el lugar bajo la línea equinoccial y un poco del lado de acá [o: un poco hacia nosotros] en la latitud del primer clima, sino más bien el lugar bajo el trópico, la cual latitud es propia del segundo clima.</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201030T224144Z" creationid="anlozan" creationdate="20201030T195327Z">
+        <seg>Ahora bien, lo que excede de la misma manera en lo más cálido no es el lugar que está bajo la línea equinoccial ni un poco del lado de acá en la latitud del primer clima, sino más bien el lugar bajo el trópico, latitud que es propia del segundo clima. </seg>
       </tuv>
     </tu>
     <tu>

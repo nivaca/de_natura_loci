@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="la"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="la"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -344,6 +344,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>CAPUT XI.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mateovo2" changedate="20201030T212239Z" creationid="mateovo2" creationdate="20201030T212239Z">
+        <seg>Capítulo 11.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Caliditas autem in summo est propinquissima causae caliditatis, quae est motus materiae superiorum, et vicinitas lucis eorum.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T022318Z" creationid="mateovo2" creationdate="20200625T165250Z">
@@ -603,8 +611,8 @@
       <tuv lang="la">
         <seg>Cum enim nonaginta gradus sint a centro horizontis uniuscujusque usque ad ortum, oportet quod eorum quorum horizontis centrum est in Occidente, ortus sit ubi est Meridies eorum qui sunt in Oriente: quia medietas centum et octoginta graduum, qui sunt semicirculus, qui est ab Oriente in Occidentem, est nonaginta gradus, qui sunt a circulo Meridiei orientalium usque ad occasum mundi.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201023T231558Z" creationid="mateovo2" creationdate="20201001T212146Z">
-        <seg>En efecto, puesto que los 90 grados van del centro del horizonte de cada uno de ellos hacia el orto, es preciso que, de aquellos cuyo centro de horizonte está en el occidente, el orto esté donde está el mediodía de quienes están en el oriente, puesto que la mitad de los 180 grados que son un semicírculo, que se extiende desde el oriente hacia el occidente, es de 90 grados que van del círculo del sur de los levantes hacia el ocaso del mundo. </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201030T212228Z" creationid="mateovo2" creationdate="20201001T212146Z">
+        <seg>En efecto, puesto que los 90 grados van del centro del horizonte de cualquier habitante hacia el orto, es preciso que, de aquellos cuyo centro de horizonte está en el occidente, el orto esté donde está el mediodía de quienes están en el oriente, puesto que la mitad de los 180 grados, que son un semicírculo, que se extiende desde el oriente hacia el occidente, es de 90 grados que van del círculo meridional de los orientales hacia el ocaso del mundo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -744,11 +752,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Mirar diversidad, diferencia, distinción.</note>
       <tuv lang="la">
         <seg>De diversitate temperamenti climatum.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20201030T182815Z" creationid="anlozan" creationdate="20201030T182815Z">
-        <seg>De la diversidad de la templanza de los climas y de la diversidad del exceso en cuanto a la falta de templanza</seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201030T213857Z" creationid="anlozan" creationdate="20201030T182815Z">
+        <seg>De la diversidad de la temperie de los climas y de la diversidad del exceso en cuanto a la intemperie. </seg>
       </tuv>
     </tu>
     <tu>
@@ -771,8 +780,8 @@
       <tuv lang="la">
         <seg>De natura autem horum septem climatum intelligendum est, quod duplex est in eis temperamentum, et duplex excessus: est enim excessus in [C18b] calidissimo et frigidissimo, et sic calidissimum est sub torrida, et frigidissima habitatio est post septimum clima.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20201030T182829Z" creationid="anlozan" creationdate="20201030T182829Z">
-        <seg>Ahora bien, de la naturaleza de estos siete climas, hay que entender que en ellos la templanza es doble así como el exceso; efectivamente, hay exceso en lo más caluroso y en lo más frío, y de esa manera lo más caluroso está bajo la tórrida y la habitación más fría está más allá del séptimo clima </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201030T214355Z" creationid="anlozan" creationdate="20201030T182829Z">
+        <seg>Ahora bien, de la naturaleza de estos siete climas, hay que entender que en ellos la temperie es doble, así como el exceso; efectivamente, hay exceso en lo más cálido y en lo más frío, y de esa manera lo más caluroso está bajo la [zona] tórrida y la habitación más fría está más allá del séptimo clima, </seg>
       </tuv>
     </tu>
     <tu>

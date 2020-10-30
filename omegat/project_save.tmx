@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="la"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="la"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -713,6 +713,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>De diversitate temperamenti climatum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201030T182815Z" creationid="anlozan" creationdate="20201030T182815Z">
+        <seg>De la diversidad de la templanza de los climas y de la diversidad del exceso en cuanto a la falta de templanza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>De inhabitabilibus regionibus et terris.</seg>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20200821T144706Z" creationid="anlozan" creationdate="20200821T144706Z">
@@ -725,6 +733,14 @@
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T024657Z" creationid="anlozan" creationdate="20200925T170851Z">
         <seg>Sobre la longitud y la latitud de los lugares habitables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>De natura autem horum septem climatum intelligendum est, quod duplex est in eis temperamentum, et duplex excessus: est enim excessus in [C18b] calidissimo et frigidissimo, et sic calidissimum est sub torrida, et frigidissima habitatio est post septimum clima.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201030T182829Z" creationid="anlozan" creationdate="20201030T182829Z">
+        <seg>Ahora bien, de la naturaleza de estos siete climas, hay que entender que en ellos la templanza es doble así como el exceso; efectivamente, hay exceso en lo más caluroso y en lo más frío, y de esa manera lo más caluroso está bajo la tórrida y la habitación más fría está más allá del séptimo clima </seg>
       </tuv>
     </tu>
     <tu>
@@ -1238,6 +1254,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Et hanc puto ego esse temperaturam simpliciter mundi, et non quoad complexionem alicujus animalis in singulo.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201030T182903Z" creationid="anlozan" creationdate="20201030T182903Z">
+        <seg>Y yo pienso que esta es la temperancia sin más del mundo y no respecto a la complexión de cualquier animal en particular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Et hic locus est proprie, de quo dicit Porphyrius, quod est unum de individuantibus:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T164745Z" creationid="mateovo2" creationdate="20201003T164745Z">
@@ -1448,6 +1472,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Et ideo potest bene esse, quod clima quartum temperatum sit simpliciter, et non sit temperatum complexioni asini, vel bovis, vel alterius magis calidi vel frigidi quam sit calor vel frigus climatis quarti.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201030T183301Z" creationid="anlozan" creationdate="20201030T183301Z">
+        <seg>Y por lo tanto, bien puede ser que el cuarto clima sea temperado sin más y no temperado para la complexión del asno, de la vaca o de otro animal más caluroso o frío que la frialdad o el calor del cuarto clima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Et ideo praecipuos viros in philosophia, sicut fuit [B529b]Aristoteles et Plato, tractasse videmus de hujusmodi:</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201005T000113Z" creationid="nivaca" creationdate="20201003T002335Z">
@@ -1604,6 +1636,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20200911T212934Z" creationid="anlozan" creationdate="20200821T145125Z">
         <seg>Y no está probado con certeza cuánta sea su extensión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Et quantum ad hoc per aequidistantiam temperamentum est in climate quarto.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201030T182859Z" creationid="anlozan" creationdate="20201030T182859Z">
+        <seg>y con respecto a ese exceso doble, por equidistancia, la templanza está en el cuarto clima.</seg>
       </tuv>
     </tu>
     <tu>

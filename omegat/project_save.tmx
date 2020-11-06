@@ -2863,8 +2863,8 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
       <tuv lang="la">
         <seg>Nec impedit hoc quod objiciunt de calido excedente in aestate, cum frigus non excedit in hyeme: quia jam ostendimus actu calidi sensibilis esse actum vitae et motum sine quo nihil commisceri nec vivere potest: et ideo ubi est intemperamentum frigoris, non est clima temperatum: sicut nec id quod habet aequaliter frigoris, sed potius id quod habet plus caloris quam frigoris, et non excedit in calore.</seg>
       </tuv>
-      <tuv lang="es" changeid="anlozan" changedate="20201106T222642Z" creationid="anlozan" creationdate="20201106T202136Z">
-        <seg>No es impedimento esto que objetan sobre el calor excesivo en verano, aunque el frío no exceda en invierno, porque ya mostramos que el acto delo cálido sensible es el acto y el acto de la vida y del movimiento, sin lo cual nada puede combinarse ni vivir. Y por esto donde se da intemperancia de frío no hay clima temperado así como tampoco eso que tiene por igual frío y calor, sino más bien eso que tiene más calor que frío y que no es excesivo en calor.</seg>
+      <tuv lang="es" changeid="anlozan" changedate="20201106T222838Z" creationid="anlozan" creationdate="20201106T202136Z">
+        <seg>No es impedimento esto que objetan sobre el calor excesivo en verano, aunque el frío no exceda en invierno, porque ya mostramos que el acto delo cálido sensible es el acto de la vida y del movimiento, sin lo cual nada puede combinarse ni vivir. Y por esto donde se da intemperie de frío no hay clima temperado así como tampoco eso que tiene por igual frío y calor, sino más bien eso que tiene más calor que frío y que no es excesivo en calor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4599,6 +4599,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201023T221649Z" creationid="mateovo2" creationdate="20201001T212059Z">
         <seg>Sin embargo, se dice que habitan coalternativamente aquellos cuya longitud, ciertamente, es una sola, pero su latitud no es una sola ni la misma. Y estos son quienes habitan bajo la misma línea meridional. Para todos estos el mediodía sucede en un solo y mismo tiempo sensible, puesto que el sol se aproxima al cénit de sus cabezas en su movimiento diurno. Pero tampoco habitan bajo este mismo círculo paralelo, que diste igual latitud del círculo equinoccial por el circuito de habitación.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>[C19b] His habitis, adhuc advertendum est differentem esse naturam istorum climatum in cujuslibet medio et extremis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201106T223132Z" creationid="anlozan" creationdate="20201106T223132Z">
+        <seg>Consideradas estas cosas, debe advertirse en este momento que la naturaleza de estos climas es diferente en el medio y los extremos de cualquiera.</seg>
       </tuv>
     </tu>
     <tu>

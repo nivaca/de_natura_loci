@@ -115,3 +115,5 @@ secundum rationis	de acuerdo con la razón
 continue	permanentemente
 ab ortu solis	desde el orto del sol
 dimensio	medida
+simpliciter	en sentido absoluto
+in actu	en acto

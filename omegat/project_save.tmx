@@ -441,6 +441,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Concordare autem cum ipso videtur Homerus, sicut Krices narrat in libro de Natura locorum habitabilium.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201113T202928Z" creationid="anlozan" creationdate="20201113T202928Z">
+        <seg>Parece concordar con eso también Homero, como lo narra Crates (de Malos) en el libro sobre la naturaleza de los lugares habitables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Constat enim quod super inferius hemisphaerium stellae secundum diversum motum ab Occidente oriuntur: vadunt igitur super illos nocte a sinistro caeli, sicut patet ex his quae in secundo libro Caeli et Mundi determinata sunt.</seg>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20201113T185741Z" creationid="anlozan" creationdate="20201113T185741Z">
@@ -2227,6 +2235,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Hesiodus tamen dicit etiam terram inferiorem esse latae figurae, ut habilis sit ad natandum super aquas: quia latum non facile mergitur.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201113T202458Z" creationid="anlozan" creationdate="20201113T202458Z">
+        <seg>Sin embargo, Hesiodo también dice que la tierra inferior es de forma ancha, para que sea posible nadar sobre las aguas porque el lado no es hundido fácilmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Hic autem error est sicut in libro de Caelo et Mundo diximus.</seg>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T215210Z" creationid="andrealozanov" creationdate="20200611T215210Z">
@@ -3519,6 +3535,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200821T214604Z" creationid="anlozan" creationdate="20200814T203524Z">
         <seg>Ciertamente, dejamos de lado lo dicho aquí, porque es contrario a la razón y está refutado en el Libro sobre el cielo y el mundo, y especialmente porque aquellos no aportan ninguna razón a favor de ello, salvo aquella de que nunca han oído noticias ciertas sobre la habitación que está más allá del equinoccial. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Quod quidem hic creatus sit, experimentum probat: ideo nullos ab ipso generatos dicunt illuc descendisse.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201113T202439Z" creationid="anlozan" creationdate="20201113T202439Z">
+        <seg>Y de hecho, como haya sido creado aquí, lo prueba el razonamiento, por lo tanto dicen también que nadie generado de este mismo [hombre] ha descendido allí.</seg>
       </tuv>
     </tu>
     <tu>

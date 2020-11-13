@@ -264,6 +264,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Apparet igitur, ut inquiunt, quod locus inferioris hemisphaerii habitabilis sit, sicut iste.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201113T203409Z" creationid="anlozan" creationdate="20201113T203409Z">
+        <seg>Por lo tanto, como es dicho, que es aparente que el lugar del hemisferio inferior sea habitable así como también lo es este.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Arcus autem similis illi et non aequalis mensurat eam versus Aquilonem ab Oriente in Occiden-[B547b]-tem.</seg>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20200925T223219Z" creationid="anlozan" creationdate="20200925T174205Z">
@@ -2981,6 +2989,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Nec obstat quod stellae oriuntur eis a sinistro: quia sinistrum illud caeli non est acceptum secundum esse, sed secundum situm.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201113T203454Z" creationid="anlozan" creationdate="20201113T203454Z">
+        <seg>Y no lo impide el que las estrellas de ellos estén orientadas a la izquierda, porque esa izquierda del cielo no está tomada en el cielo de acuerdo al ser; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Nec promoveri potest ex duabus causis, quarum una est:</seg>
       </tuv>
       <tuv lang="es" changeid="nivaca" changedate="20201004T210403Z" creationid="nivaca" creationdate="20201004T210403Z">
@@ -3930,6 +3946,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Sed sinistrum secundum situm, hoc est, quoad nos tantum, et hoc nihil [B554a] prohibet quoad nos esse dextrum: et ideo ratio Pythagorae nulla est omnino.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201113T203538Z" creationid="anlozan" creationdate="20201113T203538Z">
+        <seg>Pero la izquierda según esta posición es hasta tanto sea nuestra izquierda y esto en nada impide para otros sea la derecha y por lo tanto el racionamiento de Pitágoras es nulo completamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Sed sub aequinoctiali qui est sub medio regionis illius, quae torrida vocatur, et continua et delectabilis est habitatio:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T171044Z" creationid="mateovo2" creationdate="20201003T171044Z">
@@ -4244,6 +4268,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200619T195630Z" creationid="mateovo2" creationdate="20200619T195630Z">
         <seg>en efecto, el cuerpo simple tiene localización en la concavidad simple del cuerpo, en la que se da su generación y hacia la que se da su movimiento, y de la que, si es movido, se apresurará a la corrupción, así como establecimos en los *Físicos*.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sinistrum enim [C21a] caeli quod secundum esse accipitur, unum est, et aliquando est in Oriente nostro secundum situm, sicut in libro Caeli et Mundi est determinatum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201113T203505Z" creationid="anlozan" creationdate="20201113T203505Z">
+        <seg>sino de acuerdo a la posición. A saber, la izquierda en el cielo, que es tomada de acuerdo al ser, es una y a veces está en nuestro oriente, según la posición, como es declarado en el libro Sobre el cielo y del mundo. </seg>
       </tuv>
     </tu>
     <tu>

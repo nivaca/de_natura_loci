@@ -673,6 +673,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Cum enim solis radii et stellarum omnes angulos suos describant super eam, oportet quod exsiccent in ea humidum in locis super quae sunt anguli acuti radiorum, et in loci super quae radii perpendiculariter incidunt, et humidum generetur in locis aliis quae longioris latitudinis sunt a via solis: ex talibus autem effectibus locus fit habitabilis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201113T203327Z" creationid="anlozan" creationdate="20201113T203327Z">
+        <seg>De hecho, como los rayos del sol y de las estrellas tracen todos sus ángulos sobre ella, es necesario que sequen en ella lo húmedo en los lugares sobre los cuales son agudos los ángulos de los rayos y en los lugares sobre los cuales los rayos inciden perpendicularmente y  que sea generado lo húmedo en los otros lugares, los cuales son de las latitudes más alejadas de la vía del sol. Por tales efectos se hace el lugar habitable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Cum igitur convenientia et generalitas sit inter locum et locatum, et ignis inter elementa magis convenit cum caelo, oportet quod inter elementa ignis in concavo ultimo orbis locetur.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201004T020559Z" creationid="mateovo2" creationdate="20200625T170217Z">
@@ -4276,6 +4284,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200626T215802Z" creationid="nivaca" creationdate="20200610T234537Z">
         <seg>Hay, sin embargo, argumentos de Ptolomeo y Avicena en contra. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sunt autem alii Philosophi, sicut Albumasar et sui sequaces, dicentes illam terram habitabilem esse, sicut et istam in qua nos habitamus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201113T202933Z" creationid="anlozan" creationdate="20201113T202933Z">
+        <seg>Hay también otros filósofos a quienes esta opinión no les place, como Albumasar y sus seguidores, quienes dicen que aquella tierra es habitable así como también esta en la cual nosotros habitamos.</seg>
       </tuv>
     </tu>
     <tu>

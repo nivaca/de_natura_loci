@@ -3021,6 +3021,14 @@ Acá traducimos "orbis" como "circunferencia", aunque esa discusión la tuvimos,
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Nec sunt [C21b] audiendi qui fingunt ibi homines habitare non posse, eo quod caderent a terra si ibi habitarent: dicere enim eos cadere qui pedes habent ad nos, vulgaris imperitia est: cum inferius mundi non sit acceptum quoad nos, sed simpliciter, ita quod simpliciter inferius est, et ubique vocatur versus terrae centrum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201113T210031Z" creationid="anlozan" creationdate="20201113T210031Z">
+        <seg>Ni habrán de ser oídos quienes inventan que allí los hombres no pueden habitar, porque en ese punto caerían de la tierra si allí habitaran; de hecho, decir que ellos caen, quienes invierten sus pies con respecto a nosotros, es una impertinencia vulgar, en el caso que la parte inferior del mundo no sea tomada con respecto a nosotros, sino simplemente, en tal manera porque inferior es simplemente también llamada toda parte en dirección al centro de la tierra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Necesse est igitur in medio terrae aequinoctialem esse inhabitabilem propter calorem.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200626T215729Z" creationid="nivaca" creationdate="20200610T234517Z">
@@ -3527,6 +3535,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="andrealozanov" changedate="20200611T221655Z" creationid="andrealozanov" creationdate="20200611T221655Z">
         <seg>Por lo tanto, de cualquier modo que se llame, no es una fuerza grande, mientras que se conceda que esta misma virtud es infundida desde el cielo hacia el lugar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Quod autem ad nos non pervenit aliquis de habitatoribus inferioris hemisphaerii, non est ex hoc ut inducunt, quia [B554b] nullus ibi habiter: sed potius quantitas Oceani interjacentis undique circa terram per circuitum, quod propter nimiam distantiam locorum suorum transnavigari non potest.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201113T205841Z" creationid="anlozan" creationdate="20201113T205841Z">
+        <seg>Pero el que para nosotros no es conocido nada sobre los habitantes del hemisferio inferior, no es por razón de esto, que se dice, que allí nadie habita, sino más bien por la cantidad del océano interyacente en todas partes alrededor de la tierra en circuito, por lo que por cuenta de la excesiva distancia de sus costas no es posible ser navegado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4042,6 +4058,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Si autem in aliqua parte transnavigatum est, hoc est sub torrida: quia ibi secundum naturam littora ejus sunt magis stricta.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201113T205858Z" creationid="anlozan" creationdate="20201113T205858Z">
+        <seg>Pero si en alguna otra parte es navegado, esto es bajo la zona tórrida, porque allí las costas de ellos son más estrechas de acuerdo a la naturaleza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Si autem lucem vocant omnem virtutem quae a caelo influitur in inferioribus mediante natura luminosi, tunc verum est quod dicunt:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T025937Z" creationid="mateovo2" creationdate="20201003T025937Z">
@@ -4087,6 +4111,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="anlozan" changedate="20200814T213305Z" creationid="anlozan" creationdate="20200814T200926Z">
         <seg>En efecto, si puede ser habitada, entonces sería en vano, a menos que fuera habitada por plantas, animales y hombres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Si enim in effectu sic esset, aqua non posset limitari littoribus terrae: sed in uno erit supra terram totam.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201113T205729Z" creationid="anlozan" creationdate="20201113T205729Z">
+        <seg>de hecho, si esto fuera así en efecto, no podría el agua bordear las costas de la tierra, sino que se inundaría sobre toda la tierra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4413,6 +4445,14 @@ Hacer notas!</note>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200828T221328Z" creationid="anlozan" creationdate="20200814T204114Z">
         <seg>Hay quienes dicen, además, que desiertos arenosos de gran extensión yacen en el medio, cuya esterilidad impide el paso. Y por esto dicen que nadie habita allí, porque, aunque se crea que el género humano haya sido diseminado por un solo hombre, aquel, como dicen, estuvo o en la cuarta parte aquilonal o en la cuarta parte meridional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Sunt tamen aliqui qui contendunt aquam esse majorem multa proportione quam terra: sed illi fundant intentionem suam super proportione spissitudinis terrae ad spissitudinem aquae: et ex tali proportione, cum nota sit eis proprietas terrae, aestimant de quantitate aquae.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201113T205803Z" creationid="anlozan" creationdate="20201113T205803Z">
+        <seg>Sin embargo, hay algunos otros que afirman que el agua es de mucha mayor proporción que la de la tierra.Pero ellos basan su pensamiento sobre la proporción de la densidad de la tierra de acuerdo a la densidad del agua, y de tal proporción, como es conocida por ellos la cantidad de la tierra, evalúan sobre la cantidad de agua.</seg>
       </tuv>
     </tu>
     <tu>

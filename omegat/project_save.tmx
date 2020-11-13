@@ -4136,6 +4136,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Stellae vero Meridionales radiant super prima, et non super ultima: et cum stellarum illarum lumina sint diversarum naturarum, sicut in libro Caeli et Mundi diximus, oportet quod climata irradiata ab ipsis, efficiantur diversarum naturarum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201113T160359Z" creationid="anlozan" creationdate="20201113T160359Z">
+        <seg>y por otro lado, las estrellas meridionales brillan sobre los primeros y no sobre los últimos. Y puesto que las luces de aquellas estrellas son de diversas naturalezas, así como es demostrado en el libro Sobre el cielo y el mundo, es preciso que los climas por lo irradiado por estas, resulten de naturalezas diversas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Sub utroque autem polorum necesse est esse inhabitabilem propter frigus.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200810T175143Z" creationid="nivaca" creationdate="20200610T234514Z">

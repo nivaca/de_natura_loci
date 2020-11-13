@@ -4116,6 +4116,14 @@ Hacer notas!</note>
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Si igitur fiat proportio materiae aquae ad terram, ex uno pugillo terrae fiunt forte mille pugilli aquae: et ideo ad hanc proportionem dictum est esse aquam majori spatio quam terra.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201113T205657Z" creationid="anlozan" creationdate="20201113T205657Z">
+        <seg>Pero con respecto a cuánto sea en efecto el agua mayor que la tierra, es incierto, porque son muchas las cosas que disminuyen al agua y como esta sea un elemento de fácil conversión en otro elemento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Si igitur illa loca sunt tam vehementer calida propter unam aestatem quam habent ex sole appropinquante et incedente super Zenith capitum eorum, probabile esset intolerabilis esse caloris terram cui incidit perpendiculariter bis in anno:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T170456Z" creationid="mateovo2" creationdate="20201003T170456Z">

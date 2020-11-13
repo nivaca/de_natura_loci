@@ -408,6 +408,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Communiter enim scribunt et dicunt nullum nostrae habitationis ad illum locum pervenisse: quia omnes illi qui scripserunt de observationibus locorum et astrorum, invenimus in superiori hemisphaerio posuisse suas observationes, et praecipue cognoscitur in scriptura quam scribunt de eclipsibus lunaribus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201113T175601Z" creationid="anlozan" creationdate="20201113T175601Z">
+        <seg>De hecho, generalmente escriben y dicen que nadie de nuestra habitación ha alcanzado alguna vez aquel lugar, porque encontramos que todos aquellos que han escrito sobre las observaciones de los lugares y los astros situaron sus observaciones en el hemisferio superior y esto es principalmente conocido en la escritura, cuando escriben sobre los eclipses lunares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Compositum autem habet locum in composito:</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015201Z" creationid="mateovo2" creationdate="20201003T015201Z">
@@ -802,6 +810,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>De natura et dispositione inferioris hemisphaerii.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201113T175525Z" creationid="anlozan" creationdate="20201113T175525Z">
+        <seg>Sobre la naturaleza y disposición del hemisferio inferior de la tierra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>De natura locorum tractaturi quae [B527b] provenit ex habitudine loci ad caelum, primo faciemus mentionem de his quae in Physicis determinata sunt.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20201003T015738Z" creationid="mateovo2" creationdate="20200616T165314Z">
@@ -978,6 +994,14 @@
     </tu>
     <tu>
       <tuv lang="la">
+        <seg>Eclipsis terrae est in omni terra eodem modo, et in uno eodemque tempore: et cum habitantes per longitudinem climatum Philosophi tempus eclipsium notaverunt, non invenimus umquam distantiam unius Philosophi ab alio nisi per duodecim horas aequales: et cum in qualibet hora ascendant quindecim gradus aequinoctialis aequales, constat quod in duodecim horis centum et octogenta gradus ascendant: et haec est medietas circuli cui tantum medietas terrae subditur: et tunc unus Philosophorum observantium in una regione eclipsim aliquam lunae non distare ponit ab alio nisi per medietatem terrae: [B553a] sicut si esset eclipsis habitanti in Oriente in prima hora noctis, eadem esset habitanti in Occidente in duodecima hora ab illa: et in hac deprehenderunt Philosophi quidam in superiori hemisphaerio tantum habitare homines, quibus tota fere multitudo Mathematicorum consensit, dicens ibi nullum omnino habitare: quia constat quod major est sphaera aquae quam terrae: oportet igitur aquam in aliqua parte terram operire ponamus, sicut videmus quod aer operit aquam et terram: cum autem non operiat eam in nostro hemisphaerio, videtur eis concedendum esse quod operiat eam in inferiori.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201113T185708Z" creationid="anlozan" creationdate="20201113T185708Z">
+        <seg>De hecho, el eclipse de la luna es en un modo y en un mismo tiempo en toda la tierra, y cuando los habitantes hayan observado a través de la longitud de los climas el tiempo del eclipse del filósofo, no encontraremos distancia alguna de un filósofo al otro sino por doce horas iguales.Y como en cualquier hora asciendan quince grados iguales del equinoccial, consta, que en doce horas ascienden ciento ochenta grados.Y esto es la mitad del círculo, que se extiende hasta la mitad de la tierra, y en ese instante uno de los filósofos que observa algún eclipse de la luna en una región no puede distar de otro sino por la mitad de la tierra.Así, si el eclipse ocurriera para el habitante en el oriente en la primera hora de la noche, igualmente sería para el habitante en occidente en la hora doce de ésta [la noche].Y de esto discernieron ciertos filósofos que apenas en el hemisferio superior habitan hombres, a quienes casi toda la multitud de los matemáticos consiente diciendo que allí [en el hemisferio inferior] nadie en absoluto habita, porque consta, que es mayor el orbe del agua que el de la tierra.Es conveniente, entonces, que en algún espacio pongamos agua para cubrir la tierra, así como vemos que el aire cubre el agua y la tierra.Pero como no cubra a esta en nuestro hemisferio, parece que se le concederá a esto, que la cubre en el inferior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
         <seg>Eodem autem modo nec aqua verissima est quae tangit aerem, nec illa quae tangit terram, sed media inter haec.</seg>
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200625T172146Z" creationid="mateovo2" creationdate="20200625T172146Z">
@@ -1122,6 +1146,14 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       </tuv>
       <tuv lang="es" changeid="mateovo2" changedate="20200625T165731Z" creationid="mateovo2" creationdate="20200625T165731Z">
         <seg>sin embargo, hay un movimiento hacia el lugar connatural y propio; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="la">
+        <seg>Est autem nunc inquirendum de medietate terrae quae in inferiori hemisphaerio est, de qua diversa et pene contraria a diversis Philosophis scribuntur.</seg>
+      </tuv>
+      <tuv lang="es" changeid="anlozan" changedate="20201113T175533Z" creationid="anlozan" creationdate="20201113T175533Z">
+        <seg>Sin embargo, queda ahora por ser examinada la parte media de la tierra, la que está en el hemisferio inferior, sobre la cual son escritas cosas diversas y casi contrarias por los filósofos.</seg>
       </tuv>
     </tu>
     <tu>

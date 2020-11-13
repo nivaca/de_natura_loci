@@ -119,3 +119,4 @@ simpliciter	en sentido absoluto
 in actu	en acto
 moribus	costumbres
 eodem modo	de la misma manera
+radiant	irradian

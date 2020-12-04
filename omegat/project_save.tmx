@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="la"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="la"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4166,8 +4166,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>Si igitur fiat proportio materiae aquae ad terram, ex uno pugillo terrae fiunt forte mille pugilli aquae: et ideo ad hanc proportionem dictum est esse aquam majori spatio quam terra.</seg>
       </tuv>
-      <tuv lang="es" changeid="mateovo2" changedate="20201128T151705Z" creationid="anlozan" creationdate="20201113T205657Z">
-        <seg>Por lo tanto, si se hace una proporción de la materia de agua con respecto a tierra, de un puñado de tierra se hacen quizás cuatro o más puñados de agua, y en cuanto a esta proporción se ha dicho que hay agua en un mayor espacio que en el que hay tierra. </seg>
+      <tuv lang="es" changeid="mateovo2" changedate="20201204T211228Z" creationid="anlozan" creationdate="20201113T205657Z">
+        <seg>Por lo tanto, si se hiciera una proporción de la materia de agua con respecto a tierra, de un puñado de tierra se harían quizás cuatro o más puñados de agua, y en cuanto a esta proporción se ha dicho que hay agua en un mayor espacio que en el que hay tierra. </seg>
       </tuv>
     </tu>
     <tu>

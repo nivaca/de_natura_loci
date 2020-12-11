@@ -1827,8 +1827,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Et quia ventus Aquilonaris dissipat nubes, erit locus ille frigidus et siccus et sanus ad habitandum, nisi ex alio accidente prohibeatur.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20201005T002122Z" creationid="nivaca" creationdate="20201004T201727Z">
-        <seg>Y puesto que el viento aquilonar/del norte disipa las nubes, aquel lugar será frío y seco y sano para habitar, salvo que [el viento] sea impedido por algún otro accidente.</seg>
+      <tuv lang="es" changeid="nivaca" changedate="20201211T225657Z" creationid="nivaca" creationdate="20201004T201727Z">
+        <seg>Y puesto que el viento aquilonal disipa las nubes, aquel lugar será frío y seco y sano para habitar, salvo que sea impedido por algún otro accidente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4199,8 +4199,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>Si vero montes sunt ex parte Orientis, et locus versus Occidentem, erit locus quoad illud accidens frigidus et humidus habens grossam terrestreitatem impuram:</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20201004T203156Z" creationid="nivaca" creationdate="20201004T201921Z">
-        <seg>Ahora bien, si los montes se dan desde el oriente y el lugar está frente al occidente, el lugar será ---en cuanto a este accidente--- uno frío y húmedo, y tendrá una espesa e impura humedad.</seg>
+      <tuv lang="es" changeid="nivaca" changedate="20201211T225950Z" creationid="nivaca" creationdate="20201004T201921Z">
+        <seg>Pero si los montes se dan desde el oriente y el lugar está frente al occidente, el lugar será ---en cuanto a este accidente--- uno frío y húmedo, por tener una densa e impura humedad.</seg>
       </tuv>
     </tu>
     <tu>

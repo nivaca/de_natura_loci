@@ -4093,8 +4093,8 @@ Hacer notas!</note>
       <tuv lang="la">
         <seg>Si autem montes sunt ad Meridiem, et locus versus Aquilonem, et sunt alti montes et multi, locus erit frigidus vehementer, tam ex nivibus montium, quam etiam quia detectus est locus vento Aquilonari, et tectus et occultatus a vento Meridionali.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20201005T002306Z" creationid="nivaca" creationdate="20201004T175158Z">
-        <seg>Sin embargo, si los montes dan hacia el meridiano, y el lugar está frente al Aquilón/norte y [los montes] son muchos y altos, el lugar será vehementemente frío, tanto por las nieves de los montes, como también por el hecho de que el lugar está desprotegido del viento aquilonar/del norte, y está protegido y ocultado por el viento meridional.</seg>
+      <tuv lang="es" changeid="nivaca" changedate="20201211T225212Z" creationid="nivaca" creationdate="20201004T175158Z">
+        <seg>Sin embargo, si los montes dan hacia el meridiano, y el lugar está frente al Aquilón y son muchos y altos, el lugar será vehementemente frío, tanto por las nieves de los montes, como también por el hecho de que el lugar está desprotegido del viento aquilonar/del norte, y está protegido y ocultado por el viento meridional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7387,8 +7387,8 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       <tuv lang="la">
         <seg>quia tunc habebunt nives perpetuas, ex quibus aut temperantur, aut infrigidantur loca.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20201005T001956Z" creationid="nivaca" creationdate="20201004T175124Z">
-        <seg>porque entonces tendrían nieves perpetuas por las que los lugares o bien se atemperarían, o bien se enfriarían.</seg>
+      <tuv lang="es" changeid="nivaca" changedate="20201211T225358Z" creationid="nivaca" creationdate="20201004T175124Z">
+        <seg>porque entonces tendrían nieves perpetuas por las que o bien atemperarían o bien enfriarían el lugar.</seg>
       </tuv>
     </tu>
     <tu>

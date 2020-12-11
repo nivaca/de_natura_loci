@@ -2660,8 +2660,8 @@ Ahora bien, lo que está en el medio y en lo más abajo del espacio mismo no alc
       <tuv lang="la">
         <seg>Infrigidatur etiam locus post resolutionem nivium.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20201004T204141Z" creationid="nivaca" creationdate="20201004T204055Z">
-        <seg>El lugar también se enfría luego del deshielo de las nieves.</seg>
+      <tuv lang="es" changeid="nivaca" changedate="20201211T231644Z" creationid="nivaca" creationdate="20201004T204055Z">
+        <seg>El lugar también se enfría luego de que las nieves se derritan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5956,8 +5956,8 @@ por lo tanto, en medio del retroceso y de la aproximación aquellos lugares ser�
       <tuv lang="la">
         <seg>et ideo ventus Aquilonaris gelatus est iterum et flat praecipue ex resolutione nivium.</seg>
       </tuv>
-      <tuv lang="es" changeid="nivaca" changedate="20201211T230952Z" creationid="nivaca" creationdate="20201004T204010Z">
-        <seg>como, nuevamente, porque el gélido viento aquilonal sopla principalmente en virtud del deshielo de las nieves.</seg>
+      <tuv lang="es" changeid="nivaca" changedate="20201211T231404Z" creationid="nivaca" creationdate="20201004T204010Z">
+        <seg>como, nuevamente, porque el gélido viento aquilonal sopla principalmente en virtud de que las nieves se derriten.</seg>
       </tuv>
     </tu>
     <tu>
